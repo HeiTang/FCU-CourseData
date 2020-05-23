@@ -1,0 +1,27 @@
+{
+    "d": {
+        "message": "",
+        "total": 1,
+        "items": [
+            {
+                "scr_selcode": "3165",
+                "sub_id3": "MOT674",
+                "sub_name": "技術鑑價與移轉",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "智財技轉學程(碩士班)",
+                "scr_period": "(三)02-04 商527 顏上詠",
+                "scr_precnt": 20.0,
+                "scr_acptcnt": 7.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "PC76300",
+                "sub_id": "19755",
+                "scr_dup": "001"
+            }
+        ]
+    }
+}

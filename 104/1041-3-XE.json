@@ -1,0 +1,46 @@
+{
+    "d": {
+        "message": "",
+        "total": 2,
+        "items": [
+            {
+                "scr_selcode": "4194",
+                "sub_id3": "IMBA661",
+                "sub_name": "管理資訊系統",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "綜合班(碩博)",
+                "scr_period": "(二)07-09 忠203 黃禮林",
+                "scr_precnt": 10.0,
+                "scr_acptcnt": 11.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "XE01301",
+                "sub_id": "63250",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "4195",
+                "sub_id3": "IMBA662",
+                "sub_name": "行銷管理",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "綜合班(碩博)",
+                "scr_period": "(一)07-09 商808A 曾鼎翔",
+                "scr_precnt": 10.0,
+                "scr_acptcnt": 12.0,
+                "scr_remarks": " ",
+                "unt_ls": 8888,
+                "cls_id": "XE01301",
+                "sub_id": "14740",
+                "scr_dup": "001"
+            }
+        ]
+    }
+}

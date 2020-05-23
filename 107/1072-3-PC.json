@@ -1,0 +1,65 @@
+{
+    "d": {
+        "message": "",
+        "total": 3,
+        "items": [
+            {
+                "scr_selcode": "3039",
+                "sub_id3": "MOT674",
+                "sub_name": "技術鑑價與移轉",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "智財技轉學程(碩士班)",
+                "scr_period": "(四)07-09 商704 黃禮林",
+                "scr_precnt": 8.0,
+                "scr_acptcnt": 6.0,
+                "scr_remarks": "智慧財產權暨技術移轉碩士學分學程",
+                "unt_ls": 8888,
+                "cls_id": "PC76300",
+                "sub_id": "19755",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3044",
+                "sub_id3": "OWP602",
+                "sub_name": "風力電廠營運與維護",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "離岸風電學程(碩士)",
+                "scr_period": "(二)11-13 紀409 陳財富",
+                "scr_precnt": 40.0,
+                "scr_acptcnt": 7.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "PC82300",
+                "sub_id": "30502",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3045",
+                "sub_id3": "MPPM600",
+                "sub_name": "專案管理學",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "離岸風電學程(碩士)",
+                "scr_period": "(六)02-04 紀409 陳威良",
+                "scr_precnt": 40.0,
+                "scr_acptcnt": 9.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "PC82300",
+                "sub_id": "43047",
+                "scr_dup": "001"
+            }
+        ]
+    }
+}

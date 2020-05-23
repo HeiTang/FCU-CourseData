@@ -1,0 +1,65 @@
+{
+    "d": {
+        "message": "",
+        "total": 3,
+        "items": [
+            {
+                "scr_selcode": "3250",
+                "sub_id3": "MOT672",
+                "sub_name": "技術商品化與經營模式",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "智財技轉學程(碩士班)",
+                "scr_period": "(五)07-09 商503 佘日新",
+                "scr_precnt": 20.0,
+                "scr_acptcnt": 6.0,
+                "scr_remarks": "智慧財產權暨技術移轉碩士學分學程",
+                "unt_ls": 8888,
+                "cls_id": "PC76300",
+                "sub_id": "19767",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3255",
+                "sub_id3": "OWP601",
+                "sub_name": "離岸風力發電概論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "離岸風電學程(碩士)",
+                "scr_period": "(二)11-13 紀409 陳財富",
+                "scr_precnt": 20.0,
+                "scr_acptcnt": 5.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "PC82300",
+                "sub_id": "74912",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3256",
+                "sub_id3": "OWP603",
+                "sub_name": "風力電廠監控保護系統",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "離岸風電學程(碩士)",
+                "scr_period": "(四)11-13 紀209B 呂晃志",
+                "scr_precnt": 20.0,
+                "scr_acptcnt": 7.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "PC82300",
+                "sub_id": "30503",
+                "scr_dup": "001"
+            }
+        ]
+    }
+}
