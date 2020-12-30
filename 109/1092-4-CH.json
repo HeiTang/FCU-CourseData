@@ -1,7 +1,65 @@
 {
     "d": {
         "message": "",
-        "total": 0,
-        "items": []
+        "total": 3,
+        "items": [
+            {
+                "scr_selcode": "2593",
+                "sub_id3": "CHIN818",
+                "sub_name": "現當代文學家專題",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博一",
+                "scr_period": "(三)06-08 人901 鄭慧如",
+                "scr_precnt": 30.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04410",
+                "sub_id": "12148",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "2594",
+                "sub_id3": "CHIN833",
+                "sub_name": "道教文化專題",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博一",
+                "scr_period": "(三)11-13 人904 朱文光",
+                "scr_precnt": 30.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04410",
+                "sub_id": "39399",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "2595",
+                "sub_id3": "CHIN797",
+                "sub_name": "博士論文",
+                "scr_credit": 0.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博三",
+                "scr_period": " ",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04430",
+                "sub_id": "49380",
+                "scr_dup": "001"
+            }
+        ]
     }
 }
