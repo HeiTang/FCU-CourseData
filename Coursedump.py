@@ -57,7 +57,7 @@ def PostGetType1Result(path,year,sms,degree,deptId):
         fo.close() 
 
 if __name__ == '__main__': 
-    for year in range(109,110):  
+    for year in range(110,111):  
         path = os.getcwd() + '/' +str(year)
         if not os.path.exists(path):
             os.mkdir(path)
