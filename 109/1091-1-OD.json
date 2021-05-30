@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 3,
+        "total": 5,
         "items": [
             {
                 "scr_selcode": "3735",
@@ -58,6 +58,44 @@
                 "unt_ls": 3200,
                 "cls_id": "OD00100",
                 "sub_id": "57890",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "4379",
+                "sub_id3": "DSBD120",
+                "sub_name": "探索穿戴式裝置的專利地圖與佈局",
+                "scr_credit": 1.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "跨領域學院綜合班",
+                "scr_period": "(二)09     未排教室 林子楓,佘日新",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 15.0,
+                "scr_remarks": null,
+                "unt_ls": 3200,
+                "cls_id": "OD00100",
+                "sub_id": "60941",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "4380",
+                "sub_id3": "DSBD121",
+                "sub_name": "遊戲化與行為科學設計",
+                "scr_credit": 1.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "跨領域學院綜合班",
+                "scr_period": "(二)06     未排教室 佘日新",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 14.0,
+                "scr_remarks": null,
+                "unt_ls": 3200,
+                "cls_id": "OD00100",
+                "sub_id": "61314",
                 "scr_dup": "001"
             }
         ]
