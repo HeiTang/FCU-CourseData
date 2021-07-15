@@ -2,7 +2,7 @@ name: Python CI
 on:
   schedule:
     # 定時執行，At every 5th minute.
-    - cron:  '*/5 * * * *'
+    - cron:  '0 0 * * *'
     
 jobs:
   build:
