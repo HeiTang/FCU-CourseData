@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 15,
+        "total": 16,
         "items": [
             {
                 "scr_selcode": "1007",
@@ -165,7 +165,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "土水博一學位學程",
-                "scr_period": "(二)11-13 紀405A ,郝振宇,周天穎",
+                "scr_period": "(二)11-13 紀405A 郝振宇,尹孝元,周天穎",
                 "scr_precnt": 15.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -286,6 +286,25 @@
                 "unt_ls": 4609,
                 "cls_id": "CE14420",
                 "sub_id": "51961",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3633",
+                "sub_id3": "CHEP968",
+                "sub_name": "智慧城市永續發展專題論壇",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "土水博二學位學程",
+                "scr_period": "(五)06-08 未排教室 周天穎,李秉乾",
+                "scr_precnt": 20.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4609,
+                "cls_id": "CE14420",
+                "sub_id": "67869",
                 "scr_dup": "001"
             }
         ]

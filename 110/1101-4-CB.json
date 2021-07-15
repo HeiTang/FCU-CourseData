@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 7,
+        "total": 8,
         "items": [
             {
                 "scr_selcode": "0574",
@@ -96,6 +96,25 @@
                 "unt_ls": 4109,
                 "cls_id": "CB16420",
                 "sub_id": "44139",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3644",
+                "sub_id3": "BPHD731",
+                "sub_name": "品牌哲思與行銷想像",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "商學博二學位學程",
+                "scr_period": "(六)06-08 商704 簡士超,李元恕",
+                "scr_precnt": 30.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": "限商學博士學位學程學生修習",
+                "unt_ls": 4109,
+                "cls_id": "CB16420",
+                "sub_id": "30984",
                 "scr_dup": "001"
             },
             {

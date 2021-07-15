@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 26,
+        "total": 28,
         "items": [
             {
                 "scr_selcode": "2576",
@@ -251,6 +251,44 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3649",
+                "sub_id3": "COSH603",
+                "sub_name": "獨立研究(一)",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "歷史文物碩二",
+                "scr_period": "(一)00     未排教室",
+                "scr_precnt": 5.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4407,
+                "cls_id": "CH07320",
+                "sub_id": "10050",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3650",
+                "sub_id3": "GHHR747",
+                "sub_name": "文博單位實習",
+                "scr_credit": 1.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "歷史文物碩二",
+                "scr_period": "(二)00     未排教室",
+                "scr_precnt": 5.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4407,
+                "cls_id": "CH07320",
+                "sub_id": "11185",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1981",
                 "sub_id3": "GIPP697",
                 "sub_name": "碩士論文",
@@ -317,8 +355,8 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "文社碩一學位學程",
-                "scr_period": "(四)07-09 人802 萬尹亮",
-                "scr_precnt": 40.0,
+                "scr_period": "(四)07-09 人802 陳介英",
+                "scr_precnt": 15.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
                 "unt_ls": 4410,
