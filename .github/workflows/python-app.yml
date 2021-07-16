@@ -20,12 +20,14 @@ jobs:
     - name: Run Python
       run: python3 Coursedump.py
     - name: Commit
+      if: steps.format.outputs.has-changes == 'true'
       run: |
         git config --global user.email "tim881205@gmail.com"
         git config --global user.name "HeiTang"
         git add .
         git commit -m "Doc: Upgrade Course"
     - name: Push Changes
+      if: steps.format.outputs.has-changes == 'true'
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.MY_GIT_TOKEN }}
