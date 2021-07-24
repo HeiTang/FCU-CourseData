@@ -46,3 +46,25 @@
   - XE：綜合班 
   - XF：統籌科目 
   - XH：軍訓
+
+## 使用方法
+1. Install requirement.txt from the project.
+
+    ```
+    pip3 install -r requirements.txt 
+    ```
+
+2. Run Python3
+  - Single Year: 
+  
+    ```
+    python3 Coursedump.py 110
+    ```
+  
+  - Multi Year:
+
+    ```
+    python3 Coursedump.py 108,109,110
+    ```
+  > `108`、`109` 和 `110` 等皆為學年度的意思。
+  

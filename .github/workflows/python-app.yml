@@ -18,7 +18,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Run Python
-      run: python3 Coursedump.py
+      run: python3 Coursedump.py 110
     - name: Commit
       if: steps.format.outputs.has-changes == 'true'
       run: |
