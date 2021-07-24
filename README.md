@@ -55,16 +55,10 @@
     ```
 
 2. Run Python3
-  - Single Year: 
-  
-    ```
-    python3 Coursedump.py 110
-    ```
-  
-  - Multi Year:
 
-    ```
-    python3 Coursedump.py 108,109,110
-    ```
-  > `108`、`109` 和 `110` 等皆為學年度的意思。
+     ```
+     python3 Coursedump.py 110,109,...
+     ```
+
+     `108`, `109` and `110` are all meanings of the academic year. User can enter a single or multiple academic years.
   
