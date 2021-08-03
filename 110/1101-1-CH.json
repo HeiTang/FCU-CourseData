@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 114,
+        "total": 113,
         "items": [
             {
                 "scr_selcode": "1918",
@@ -552,25 +552,6 @@
                 "unt_ls": 4405,
                 "cls_id": "CS04130",
                 "sub_id": "40982",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "2569",
-                "sub_id3": "CHIN358",
-                "sub_name": "中古中國與域外文化",
-                "scr_credit": 2.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "中文三",
-                "scr_period": "(四)03-04 人407 林韻柔",
-                "scr_precnt": 76.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4405,
-                "cls_id": "CS04130",
-                "sub_id": "05721",
                 "scr_dup": "001"
             },
             {

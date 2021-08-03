@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 175,
+        "total": 174,
         "items": [
             {
                 "scr_selcode": "2907",
@@ -116,25 +116,6 @@
                 "cls_id": "XC01129",
                 "sub_id": "GH017",
                 "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "2913",
-                "sub_id3": "GHUP207",
-                "sub_name": "佛家思想",
-                "scr_credit": 2.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "通識－人文(H)",
-                "scr_period": "(一)08-09 忠208 楊得煜",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "是否列入畢業學分請至各系確認。",
-                "unt_ls": 8888,
-                "cls_id": "XC01129",
-                "sub_id": "GH017",
-                "scr_dup": "002"
             },
             {
                 "scr_selcode": "2914",
