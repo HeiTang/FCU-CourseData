@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 218,
+        "total": 220,
         "items": [
             {
                 "scr_selcode": "1866",
@@ -1343,7 +1343,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財金三甲",
-                "scr_period": "(二)02-04 人403 吳仰哲",
+                "scr_period": "(二)02-04 忠208 吳仰哲",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -1533,7 +1533,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財金三乙",
-                "scr_period": "(二)02-04 人403 吳仰哲",
+                "scr_period": "(二)02-04 忠208 吳仰哲",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -1723,7 +1723,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財金三丙",
-                "scr_period": "(二)02-04 人403 吳仰哲",
+                "scr_period": "(二)02-04 忠208 吳仰哲",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -2778,6 +2778,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3695",
+                "sub_id3": "ELAW1001",
+                "sub_name": "民法概要",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "風保二甲",
+                "scr_period": "(二)11-13 商401 賴煥升",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4802,
+                "cls_id": "CB04121",
+                "sub_id": "11100",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "0367",
                 "sub_id3": "UNIV902",
                 "sub_name": "班級活動",
@@ -2946,6 +2965,25 @@
                 "unt_ls": 4802,
                 "cls_id": "CB04122",
                 "sub_id": "43200",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3695",
+                "sub_id3": "ELAW1001",
+                "sub_name": "民法概要",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "風保二乙",
+                "scr_period": "(二)11-13 商401 賴煥升",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4802,
+                "cls_id": "CB04122",
+                "sub_id": "11100",
                 "scr_dup": "001"
             },
             {
@@ -3300,7 +3338,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "風保四甲",
-                "scr_period": "(三)06-08 商401 王健航",
+                "scr_period": "(三)06-08 商401 賴煥升",
                 "scr_precnt": 70.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
