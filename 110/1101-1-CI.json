@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 488,
+        "total": 486,
         "items": [
             {
                 "scr_selcode": "1999",
@@ -2873,25 +2873,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "1406",
-                "sub_id3": "IECS477",
-                "sub_name": "人工智慧與深度學習",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "資訊四丙",
-                "scr_period": "(二)08     資電B08 (三)09-10 商301(電腦實習室) 楊柏遠",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 23.0,
-                "scr_remarks": " ",
-                "unt_ls": 4501,
-                "cls_id": "CE07143",
-                "sub_id": "99887",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "1408",
                 "sub_id3": "IECS472",
                 "sub_name": "生物資訊概論",
@@ -3041,25 +3022,6 @@
                 "unt_ls": 4501,
                 "cls_id": "CE07143",
                 "sub_id": "00048",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "1406",
-                "sub_id3": "IECS477",
-                "sub_name": "人工智慧與深度學習",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "資訊四丁",
-                "scr_period": "(二)08     資電B08 (三)09-10 商301(電腦實習室) 楊柏遠",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 23.0,
-                "scr_remarks": " ",
-                "unt_ls": 4501,
-                "cls_id": "CE07144",
-                "sub_id": "99887",
                 "scr_dup": "001"
             },
             {
