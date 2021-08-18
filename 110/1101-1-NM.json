@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 77,
+        "total": 78,
         "items": [
             {
                 "scr_selcode": "2719",
@@ -469,7 +469,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "普渡電資二學位學程",
-                "scr_period": "(三)09     未排教室 辛紹志",
+                "scr_period": "(三)07     未排教室 辛紹志",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 15.0,
                 "scr_remarks": " ",
@@ -526,7 +526,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "普渡電資二學位學程",
-                "scr_period": "(三)10     商104 (四)07-08 商104 辛紹志",
+                "scr_period": "(三)09     商206 (四)07-08 商104 辛紹志",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 15.0,
                 "scr_remarks": " ",
@@ -925,7 +925,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "工程一學位學程",
-                "scr_period": "(五)04     人608 李英德",
+                "scr_period": "(五)04     人608",
                 "scr_precnt": 45.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
@@ -1312,6 +1312,25 @@
                 "unt_ls": 4906,
                 "cls_id": "NM07110",
                 "sub_id": "20788",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3714",
+                "sub_id3": "ISTM162",
+                "sub_name": "C結構化程式設計實習",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "資訊工程一學位學程",
+                "scr_period": "(四)03-04 資電B14(電腦實習室) 洪振偉",
+                "scr_precnt": 40.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4906,
+                "cls_id": "NM07110",
+                "sub_id": "04449",
                 "scr_dup": "001"
             },
             {
