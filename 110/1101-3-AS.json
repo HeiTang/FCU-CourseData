@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 11,
+        "total": 10,
         "items": [
             {
                 "scr_selcode": "1096",
@@ -134,25 +134,6 @@
                 "unt_ls": 5005,
                 "cls_id": "CE03320",
                 "sub_id": "61530",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "1103",
-                "sub_id3": "ARCH761",
-                "sub_name": "BIM建築生命週期管理與應用",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "建築碩二學位學程",
-                "scr_period": "(二)02-04 忠107(感知實驗室) 何平",
-                "scr_precnt": 30.0,
-                "scr_acptcnt": 3.0,
-                "scr_remarks": null,
-                "unt_ls": 5005,
-                "cls_id": "CE03320",
-                "sub_id": "05044",
                 "scr_dup": "001"
             },
             {

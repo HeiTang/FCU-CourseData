@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 47,
+        "total": 45,
         "items": [
             {
                 "scr_selcode": "3111",
@@ -129,31 +129,12 @@
                 "cls_name": "體育選修",
                 "scr_period": "(二)06-07 體館301(主球場) 王亭文",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 38.0,
+                "scr_acptcnt": 37.0,
                 "scr_remarks": "上課地點：體育館三樓主球場，謝絕旁聽生",
                 "unt_ls": 8888,
                 "cls_id": "XD01111",
                 "sub_id": "00149",
                 "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "3118",
-                "sub_id3": "ATHL367",
-                "sub_name": "體育－迷你網球",
-                "scr_credit": 1.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "體育選修",
-                "scr_period": "(四)01-02 體館301(主球場) 劉記帆",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 1.0,
-                "scr_remarks": "上課地點：體育館三樓主球場，謝絕旁聽生",
-                "unt_ls": 8888,
-                "cls_id": "XD01111",
-                "sub_id": "00149",
-                "scr_dup": "002"
             },
             {
                 "scr_selcode": "3119",
@@ -325,25 +306,6 @@
                 "cls_id": "XD01111",
                 "sub_id": "99018",
                 "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "3129",
-                "sub_id3": "ATHL309",
-                "sub_name": "體育－撞球",
-                "scr_credit": 1.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "體育選修",
-                "scr_period": "(四)03-04 未排教室 楊偉鈞",
-                "scr_precnt": 40.0,
-                "scr_acptcnt": 17.0,
-                "scr_remarks": "校外上課，需自費，謝絕旁聽生。",
-                "unt_ls": 8888,
-                "cls_id": "XD01111",
-                "sub_id": "99018",
-                "scr_dup": "002"
             },
             {
                 "scr_selcode": "3130",
