@@ -1,5 +1,7 @@
 {
-    "Message": "處理此要求時發生錯誤。",
-    "StackTrace": "",
-    "ExceptionType": ""
+    "d": {
+        "message": "",
+        "total": 0,
+        "items": []
+    }
 }
