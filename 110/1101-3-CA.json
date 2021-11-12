@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 122,
+        "total": 121,
         "items": [
             {
                 "scr_selcode": "0052",
@@ -704,25 +704,6 @@
                 "unt_ls": 4004,
                 "cls_id": "CE08320",
                 "sub_id": "39102",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "1496",
-                "sub_id3": "COE603",
-                "sub_name": "專題討論(三)",
-                "scr_credit": 1.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "化工碩二",
-                "scr_period": "(一)08-09 學219(第九國會廳) 曾琮瑋",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "任課老師：曾琮瑋;週一第8、9節;上課教室：學219（第九國際會議廳）",
-                "unt_ls": 4004,
-                "cls_id": "CE08320",
-                "sub_id": "43131",
                 "scr_dup": "001"
             },
             {
