@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 500,
+        "total": 503,
         "items": [
             {
                 "scr_selcode": "1877",
@@ -5229,6 +5229,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3493",
+                "sub_id3": "EEEN225",
+                "sub_name": "機率論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "電機二甲",
+                "scr_period": "(四)06-07 資電102 (五)04     資電511",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4503,
+                "cls_id": "CE11121",
+                "sub_id": "70500",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1516",
                 "sub_id3": "UNIV902",
                 "sub_name": "班級活動",
@@ -5419,6 +5438,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3493",
+                "sub_id3": "EEEN225",
+                "sub_name": "機率論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "電機二乙",
+                "scr_period": "(四)06-07 資電102 (五)04     資電511",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4503,
+                "cls_id": "CE11122",
+                "sub_id": "70500",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1525",
                 "sub_id3": "UNIV902",
                 "sub_name": "班級活動",
@@ -5606,6 +5644,25 @@
                 "unt_ls": 4503,
                 "cls_id": "CE11123",
                 "sub_id": "52816",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3493",
+                "sub_id3": "EEEN225",
+                "sub_name": "機率論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "電機二丙",
+                "scr_period": "(四)06-07 資電102 (五)04     資電511",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4503,
+                "cls_id": "CE11123",
+                "sub_id": "70500",
                 "scr_dup": "001"
             },
             {

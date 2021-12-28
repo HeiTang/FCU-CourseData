@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 69,
+        "total": 71,
         "items": [
             {
                 "scr_selcode": "1879",
@@ -742,6 +742,44 @@
                 "unt_ls": 4503,
                 "cls_id": "CE11320",
                 "sub_id": "13662",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3491",
+                "sub_id3": "EEEN667",
+                "sub_name": "電力系統故障分析",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "電機碩二",
+                "scr_period": "(三)11-13 未排教室",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4503,
+                "cls_id": "CE11320",
+                "sub_id": "55411",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3492",
+                "sub_id3": "EEEN646",
+                "sub_name": "電磁相容",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "電機碩二",
+                "scr_period": "(一)02-04 未排教室",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4503,
+                "cls_id": "CE11320",
+                "sub_id": "56175",
                 "scr_dup": "001"
             },
             {

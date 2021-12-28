@@ -1,27 +1,8 @@
 {
     "d": {
         "message": "",
-        "total": 24,
+        "total": 23,
         "items": [
-            {
-                "scr_selcode": "2442",
-                "sub_id3": "CHIN829",
-                "sub_name": "文藝美學與實踐",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "中文碩一",
-                "scr_period": "(二)02-04 人901 ,余美玲",
-                "scr_precnt": 30.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4405,
-                "cls_id": "CS04310",
-                "sub_id": "05489",
-                "scr_dup": "001"
-            },
             {
                 "scr_selcode": "2443",
                 "sub_id3": "CHIN688",
@@ -33,7 +14,7 @@
                 "scr_exambf": "否",
                 "cls_name": "中文碩一",
                 "scr_period": "(二)06-08 人901 廖崇斐",
-                "scr_precnt": 30.0,
+                "scr_precnt": 5.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
                 "unt_ls": 4405,
