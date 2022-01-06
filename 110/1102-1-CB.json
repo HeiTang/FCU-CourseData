@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 645,
+        "total": 647,
         "items": [
             {
                 "scr_selcode": "0058",
@@ -8969,6 +8969,44 @@
                 "unt_ls": 4105,
                 "cls_id": "CB07132",
                 "sub_id": "79240",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3496",
+                "sub_id3": "STAT461",
+                "sub_name": "企業實習",
+                "scr_credit": 9.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "統計四甲",
+                "scr_period": "(日)01-09 未排教室 劉峰旗",
+                "scr_precnt": 40.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4105,
+                "cls_id": "CB07141",
+                "sub_id": "16122",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3496",
+                "sub_id3": "STAT461",
+                "sub_name": "企業實習",
+                "scr_credit": 9.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "統計四乙",
+                "scr_period": "(日)01-09 未排教室 劉峰旗",
+                "scr_precnt": 40.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4105,
+                "cls_id": "CB07142",
+                "sub_id": "16122",
                 "scr_dup": "001"
             },
             {
