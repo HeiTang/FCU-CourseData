@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 96,
+        "total": 98,
         "items": [
             {
                 "scr_selcode": "1075",
@@ -403,6 +403,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3500",
+                "sub_id3": "INEN680",
+                "sub_name": "排程理論與應用",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業碩一",
+                "scr_period": "(五)06-08 未排教室",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06310",
+                "sub_id": "44711",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1206",
                 "sub_id3": "COE605",
                 "sub_name": "碩士論文",
@@ -438,6 +457,25 @@
                 "unt_ls": 4003,
                 "cls_id": "CE06320",
                 "sub_id": "32050",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3499",
+                "sub_id3": "INEN650",
+                "sub_name": "高等系統模擬學",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業碩二",
+                "scr_period": "(二)06-08 未排教室",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06320",
+                "sub_id": "31865",
                 "scr_dup": "001"
             },
             {

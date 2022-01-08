@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 717,
+        "total": 720,
         "items": [
             {
                 "scr_selcode": "0050",
@@ -1714,25 +1714,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "3473",
-                "sub_id3": "MCAE488",
-                "sub_name": "智能供應鏈管理",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "機電四甲",
-                "scr_period": "(五)02-04 語203",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4001,
-                "cls_id": "CE04141",
-                "sub_id": "48844",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "1067",
                 "sub_id3": "MCAE417",
                 "sub_name": "奈米材料與奈米元件概論",
@@ -1885,25 +1866,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "3473",
-                "sub_id3": "MCAE488",
-                "sub_name": "智能供應鏈管理",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "機電四乙",
-                "scr_period": "(五)02-04 語203",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4001,
-                "cls_id": "CE04142",
-                "sub_id": "48844",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "1067",
                 "sub_id3": "MCAE417",
                 "sub_name": "奈米材料與奈米元件概論",
@@ -2053,25 +2015,6 @@
                 "unt_ls": 4001,
                 "cls_id": "CE04143",
                 "sub_id": "67896",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "3473",
-                "sub_id3": "MCAE488",
-                "sub_name": "智能供應鏈管理",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "機電四丙",
-                "scr_period": "(五)02-04 語203",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4001,
-                "cls_id": "CE04143",
-                "sub_id": "48844",
                 "scr_dup": "001"
             },
             {
@@ -3595,6 +3538,25 @@
                 "scr_dup": "017"
             },
             {
+                "scr_selcode": "3501",
+                "sub_id3": "INEN1018",
+                "sub_name": "管理學",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業一甲",
+                "scr_period": "(五)06-08 語202 莊文傑",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06111",
+                "sub_id": "63000",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1167",
                 "sub_id3": "UNIV902",
                 "sub_name": "班級活動",
@@ -3726,6 +3688,25 @@
                 "cls_id": "CE06112",
                 "sub_id": "41661",
                 "scr_dup": "017"
+            },
+            {
+                "scr_selcode": "3501",
+                "sub_id3": "INEN1018",
+                "sub_name": "管理學",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業一乙",
+                "scr_period": "(五)06-08 語202 莊文傑",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06112",
+                "sub_id": "63000",
+                "scr_dup": "001"
             },
             {
                 "scr_selcode": "1173",
@@ -4203,6 +4184,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3498",
+                "sub_id3": "INEN425",
+                "sub_name": "生產排程",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業三甲",
+                "scr_period": "(三)02-04 工504",
+                "scr_precnt": 50.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06131",
+                "sub_id": "12210",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1193",
                 "sub_id3": "INEN346",
                 "sub_name": "作業研究(二)",
@@ -4317,6 +4317,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3498",
+                "sub_id3": "INEN425",
+                "sub_name": "生產排程",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業三乙",
+                "scr_period": "(三)02-04 工504",
+                "scr_precnt": 50.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06132",
+                "sub_id": "12210",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1199",
                 "sub_id3": "INEN329",
                 "sub_name": "產品發展管理",
@@ -4393,6 +4412,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3497",
+                "sub_id3": "INEN335",
+                "sub_name": "全球運籌管理",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業四甲",
+                "scr_period": "(三)02-04 忠310 莊文傑",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06141",
+                "sub_id": "13783",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1199",
                 "sub_id3": "INEN329",
                 "sub_name": "產品發展管理",
@@ -4466,6 +4504,25 @@
                 "unt_ls": 4003,
                 "cls_id": "CE06142",
                 "sub_id": "67896",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3497",
+                "sub_id3": "INEN335",
+                "sub_name": "全球運籌管理",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業四乙",
+                "scr_period": "(三)02-04 忠310 莊文傑",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4003,
+                "cls_id": "CE06142",
+                "sub_id": "13783",
                 "scr_dup": "001"
             },
             {
