@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 70,
+        "total": 72,
         "items": [
             {
                 "scr_selcode": "2564",
@@ -1199,6 +1199,44 @@
                 "cls_id": "NM07110",
                 "sub_id": "97860",
                 "scr_dup": "002"
+            },
+            {
+                "scr_selcode": "3504",
+                "sub_id3": "ISTM163",
+                "sub_name": "邏輯設計",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "資訊工程一學位學程",
+                "scr_period": "(一)02-04 人B116A 沈祖望",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4906,
+                "cls_id": "NM07110",
+                "sub_id": "75850",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3505",
+                "sub_id3": "ISTM164",
+                "sub_name": "人工智慧導論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "資訊工程一學位學程",
+                "scr_period": "(四)06-08 資電B14(電腦實習室) 許芳榮",
+                "scr_precnt": 43.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4906,
+                "cls_id": "NM07110",
+                "sub_id": "00028",
+                "scr_dup": "001"
             },
             {
                 "scr_selcode": "2624",

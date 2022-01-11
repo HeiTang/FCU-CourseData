@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 647,
+        "total": 648,
         "items": [
             {
                 "scr_selcode": "0058",
@@ -6005,6 +6005,25 @@
                 "unt_ls": 4103,
                 "cls_id": "CB02133",
                 "sub_id": "99871",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3503",
+                "sub_id3": "ITRA3095",
+                "sub_name": "雲端服務應用於數據分析",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "國貿三合",
+                "scr_period": "(三)11-13 行政二館104-電腦實習室 蔡國鼎",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4103,
+                "cls_id": "CB02139",
+                "sub_id": "39629",
                 "scr_dup": "001"
             },
             {
