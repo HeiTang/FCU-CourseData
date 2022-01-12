@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 71,
+        "total": 70,
         "items": [
             {
                 "scr_selcode": "1879",
@@ -20,25 +20,6 @@
                 "unt_ls": 4500,
                 "cls_id": "CI00300",
                 "sub_id": "38813",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "1880",
-                "sub_id3": "CIEE680",
-                "sub_name": "科技論文寫作",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "資電學院碩士綜合班",
-                "scr_period": "(四)06-08 資電533-1 朱嘯秋",
-                "scr_precnt": 25.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4500,
-                "cls_id": "CI00300",
-                "sub_id": "97436",
                 "scr_dup": "001"
             },
             {
@@ -925,7 +906,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "通訊碩一",
-                "scr_period": "(一)11-13 電通401",
+                "scr_period": "(一)11-13 電通401 林茂青",
                 "scr_precnt": 20.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
