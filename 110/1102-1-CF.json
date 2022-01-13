@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 215,
+        "total": 219,
         "items": [
             {
                 "scr_selcode": "1738",
@@ -153,6 +153,25 @@
                 "unt_ls": 4800,
                 "cls_id": "CF00100",
                 "sub_id": "69991",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3522",
+                "sub_id3": "FINA5503",
+                "sub_name": "金融創新與金融科技專題",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "金融學院綜合班",
+                "scr_period": "(四)08-09 商611 李宗儒,陳彥志,劉炳麟,洪偉峰,謝依婷,吳仰哲,劉智華",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4800,
+                "cls_id": "CF00100",
+                "sub_id": "22799",
                 "scr_dup": "001"
             },
             {
@@ -1391,6 +1410,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3531",
+                "sub_id3": "FINA3095",
+                "sub_name": "退休理財規劃",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "財金三甲",
+                "scr_period": "(五)06-08 商208 吳仰哲,張葆甄",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4801,
+                "cls_id": "CB03131",
+                "sub_id": "38771",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "0290",
                 "sub_id3": "LC061",
                 "sub_name": "大三英文",
@@ -1619,6 +1657,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3531",
+                "sub_id3": "FINA3095",
+                "sub_name": "退休理財規劃",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "財金三乙",
+                "scr_period": "(五)06-08 商208 吳仰哲,張葆甄",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4801,
+                "cls_id": "CB03132",
+                "sub_id": "38771",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "0295",
                 "sub_id3": "LC061",
                 "sub_name": "大三英文",
@@ -1844,6 +1901,25 @@
                 "unt_ls": 4801,
                 "cls_id": "CB03133",
                 "sub_id": "22996",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3531",
+                "sub_id3": "FINA3095",
+                "sub_name": "退休理財規劃",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "財金三丙",
+                "scr_period": "(五)06-08 商208 吳仰哲,張葆甄",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4801,
+                "cls_id": "CB03133",
+                "sub_id": "38771",
                 "scr_dup": "001"
             },
             {

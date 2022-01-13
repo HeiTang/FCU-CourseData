@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 134,
+        "total": 135,
         "items": [
             {
                 "scr_selcode": "1783",
@@ -20,6 +20,25 @@
                 "unt_ls": 4400,
                 "cls_id": "CH00101",
                 "sub_id": "57889",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3526",
+                "sub_id3": "HSS4001",
+                "sub_name": "文化多寶格",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "人社學院綜合班",
+                "scr_period": "(一)08-09 人401 劉怡君,陳玉苹,鄭如玉,廖崇斐",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4400,
+                "cls_id": "CH00101",
+                "sub_id": "11219",
                 "scr_dup": "001"
             },
             {

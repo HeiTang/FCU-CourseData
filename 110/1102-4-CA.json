@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 24,
+        "total": 25,
         "items": [
             {
                 "scr_selcode": "1155",
@@ -58,6 +58,25 @@
                 "unt_ls": 4002,
                 "cls_id": "CE05410",
                 "sub_id": "74440",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3524",
+                "sub_id3": "FCME725",
+                "sub_name": "高分子物理特論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "纖複博一",
+                "scr_period": "(六)02-04 未排教室 陳安邦",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4002,
+                "cls_id": "CE05410",
+                "sub_id": "33722",
                 "scr_dup": "001"
             },
             {
