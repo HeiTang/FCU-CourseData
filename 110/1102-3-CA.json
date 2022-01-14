@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 99,
+        "total": 102,
         "items": [
             {
                 "scr_selcode": "3525",
@@ -156,6 +156,25 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3534",
+                "sub_id3": "MCAE6012",
+                "sub_name": "品質穩健優化技術",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "機械碩一",
+                "scr_period": "(三)07-09 工204 周至宏",
+                "scr_precnt": 10.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4001,
+                "cls_id": "CE04310",
+                "sub_id": "30769",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "1082",
                 "sub_id3": "COE605",
                 "sub_name": "碩士論文",
@@ -172,6 +191,25 @@
                 "unt_ls": 4001,
                 "cls_id": "CE04320",
                 "sub_id": "61530",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3535",
+                "sub_id3": "MCAE6996",
+                "sub_name": "校外專業實習(四)",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "機械碩二",
+                "scr_period": "(六)00     未排教室 戴國政",
+                "scr_precnt": 10.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": "「限機電系碩士班學生加選，請至機電系辦理選課。」",
+                "unt_ls": 4001,
+                "cls_id": "CE04320",
+                "sub_id": "30639",
                 "scr_dup": "001"
             },
             {
@@ -571,6 +609,25 @@
                 "unt_ls": 4004,
                 "cls_id": "CE08310",
                 "sub_id": "78101",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3537",
+                "sub_id3": "CHE608",
+                "sub_name": "高分子化學特論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "化工碩一",
+                "scr_period": "(二)07-09 未排教室 朱侯憲",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4004,
+                "cls_id": "CE08310",
+                "sub_id": "33510",
                 "scr_dup": "001"
             },
             {
