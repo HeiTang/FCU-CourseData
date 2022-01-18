@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 102,
+        "total": 101,
         "items": [
             {
                 "scr_selcode": "3525",
@@ -666,25 +666,6 @@
                 "unt_ls": 4004,
                 "cls_id": "CE08320",
                 "sub_id": "10970",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "1381",
-                "sub_id3": "CHE6091",
-                "sub_name": "高科技產業的戰略與戰術",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "化工碩二",
-                "scr_period": "(三)06-08 學705 賴俊麟",
-                "scr_precnt": 28.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4004,
-                "cls_id": "CE08320",
-                "sub_id": "31177",
                 "scr_dup": "001"
             },
             {

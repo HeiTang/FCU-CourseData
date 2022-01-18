@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 135,
+        "total": 136,
         "items": [
             {
                 "scr_selcode": "1783",
@@ -241,7 +241,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "中文一",
-                "scr_period": "(一)06-07 圖116游翰堂",
+                "scr_period": "(一)06-07 圖116游翰堂 洪健豪,蕭世瓊",
                 "scr_precnt": 40.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -564,7 +564,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "中文三",
-                "scr_period": "(四)03-04 資電B03",
+                "scr_period": "(四)03-04 資電B03 何晉瑋,謝銘峯",
                 "scr_precnt": 70.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -628,6 +628,25 @@
                 "unt_ls": 4405,
                 "cls_id": "CS04130",
                 "sub_id": "58928",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3540",
+                "sub_id3": "CHIN3076",
+                "sub_name": "現代漢語詞彙與句法",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文三",
+                "scr_period": "(二)08-09 人505",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04130",
+                "sub_id": "43421",
                 "scr_dup": "001"
             },
             {

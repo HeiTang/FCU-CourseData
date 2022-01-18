@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 511,
+        "total": 509,
         "items": [
             {
                 "scr_selcode": "1877",
@@ -4260,25 +4260,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "1901",
-                "sub_id3": "ELEN327",
-                "sub_name": "射頻積體電路設計導論與實務",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "半導體電子學程電子三",
-                "scr_period": "(三)07-09 資電B08 張錦法",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4502,
-                "cls_id": "CI0083J",
-                "sub_id": "34668",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "1902",
                 "sub_id3": "ELEN313",
                 "sub_name": "電子電路學",
@@ -4428,25 +4409,6 @@
                 "unt_ls": 4502,
                 "cls_id": "CI0083K",
                 "sub_id": "06140",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "1901",
-                "sub_id3": "ELEN327",
-                "sub_name": "射頻積體電路設計導論與實務",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "IC設計學程電子三",
-                "scr_period": "(三)07-09 資電B08 張錦法",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4502,
-                "cls_id": "CI0083K",
-                "sub_id": "34668",
                 "scr_dup": "001"
             },
             {

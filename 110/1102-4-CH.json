@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 4,
+        "total": 8,
         "items": [
             {
                 "scr_selcode": "2445",
@@ -42,6 +42,44 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3541",
+                "sub_id3": "CHIN8050",
+                "sub_name": "古典戲劇專題",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博一",
+                "scr_period": "(三)06-07 人904",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04410",
+                "sub_id": "07167",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3542",
+                "sub_id3": "CHIN8051",
+                "sub_name": "抒情傳統專題",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博一",
+                "scr_period": "(四)11-13 人904",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04410",
+                "sub_id": "14950",
+                "scr_dup": "001"
+            },
+            {
                 "scr_selcode": "2447",
                 "sub_id3": "CHIN848",
                 "sub_name": "二十世紀中國現代散文專題",
@@ -58,6 +96,44 @@
                 "unt_ls": 4405,
                 "cls_id": "CS04420",
                 "sub_id": "00724",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3543",
+                "sub_id3": "CHIN8052",
+                "sub_name": "文學影響與傳播",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博二",
+                "scr_period": "(四)06-07 人904",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04420",
+                "sub_id": "09028",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3544",
+                "sub_id3": "CHIN8053",
+                "sub_name": "五術專題",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文博二",
+                "scr_period": "(三)11-12 人904",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04420",
+                "sub_id": "00860",
                 "scr_dup": "001"
             },
             {

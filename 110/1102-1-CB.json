@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 651,
+        "total": 648,
         "items": [
             {
                 "scr_selcode": "0058",
@@ -5343,25 +5343,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "0217",
-                "sub_id3": "ITRA324",
-                "sub_name": "跨境電商勞務交易法律",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "國貿三甲",
-                "scr_period": "(三)11-13 商302 李東穎",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4103,
-                "cls_id": "CB02131",
-                "sub_id": "57691",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "0218",
                 "sub_id3": "ITRA315",
                 "sub_name": "財報分析實務",
@@ -5644,25 +5625,6 @@
                 "unt_ls": 4103,
                 "cls_id": "CB02132",
                 "sub_id": "51682",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "0217",
-                "sub_id3": "ITRA324",
-                "sub_name": "跨境電商勞務交易法律",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "國貿三乙",
-                "scr_period": "(三)11-13 商302 李東穎",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4103,
-                "cls_id": "CB02132",
-                "sub_id": "57691",
                 "scr_dup": "001"
             },
             {
@@ -5967,25 +5929,6 @@
                 "unt_ls": 4103,
                 "cls_id": "CB02133",
                 "sub_id": "51682",
-                "scr_dup": "001"
-            },
-            {
-                "scr_selcode": "0217",
-                "sub_id3": "ITRA324",
-                "sub_name": "跨境電商勞務交易法律",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "國貿三丙",
-                "scr_period": "(三)11-13 商302 李東穎",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4103,
-                "cls_id": "CB02133",
-                "sub_id": "57691",
                 "scr_dup": "001"
             },
             {
