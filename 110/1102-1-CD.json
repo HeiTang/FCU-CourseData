@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 357,
+        "total": 356,
         "items": [
             {
                 "scr_selcode": "0770",
@@ -5153,25 +5153,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "1682",
-                "sub_id3": "UP452",
-                "sub_name": "住宅問題與政策",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "都資四都市計畫組",
-                "scr_period": "(三)08-10 建301 劉曜華",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "不開放預選，請向都資系辦(#3351)登記",
-                "unt_ls": 4607,
-                "cls_id": "CE23140",
-                "sub_id": "17200",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "1683",
                 "sub_id3": "UP458",
                 "sub_name": "計畫理論導論",
@@ -6644,7 +6625,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "土管四甲",
-                "scr_period": "(三)11-12 紀209A",
+                "scr_period": "(三)09-10 語207",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
@@ -6739,7 +6720,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "土管四乙",
-                "scr_period": "(三)11-12 紀209A",
+                "scr_period": "(三)09-10 語207",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",

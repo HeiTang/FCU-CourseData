@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 136,
+        "total": 137,
         "items": [
             {
                 "scr_selcode": "1783",
@@ -640,7 +640,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "中文三",
-                "scr_period": "(二)08-09 人505",
+                "scr_period": "(二)08-09 人505 李綉玲",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -2509,6 +2509,25 @@
                 "unt_ls": 4406,
                 "cls_id": "CH06142",
                 "sub_id": "51981",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3549",
+                "sub_id3": "FLL4878",
+                "sub_name": "寒期校外專業實習",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "外文四合",
+                "scr_period": "(五)00     未排教室 周玉楨",
+                "scr_precnt": 1.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4406,
+                "cls_id": "CH06149",
+                "sub_id": "44461",
                 "scr_dup": "001"
             },
             {
