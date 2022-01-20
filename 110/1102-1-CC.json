@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 19,
+        "total": 18,
         "items": [
             {
                 "scr_selcode": "0757",
@@ -13,7 +13,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "創能學院綜合班",
-                "scr_period": "(四)11-12 圖213_程式實作",
+                "scr_period": "(四)11-12 圖213_程式實作 莊家雋",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "專業應用課程介紹(https://reurl.cc/l9Lddl)",
@@ -80,25 +80,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "3482",
-                "sub_id3": "IINE1009",
-                "sub_name": "人工智慧導論",
-                "scr_credit": 2.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "創能學院綜合班",
-                "scr_period": "(五)11-12 圖213_程式實作",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "專業應用課程介紹(https://reurl.cc/l9Lddl)",
-                "unt_ls": 3800,
-                "cls_id": "CC00100",
-                "sub_id": "00028",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "3484",
                 "sub_id3": "IINE1009",
                 "sub_name": "人工智慧導論",
@@ -108,7 +89,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "創能學院綜合班",
-                "scr_period": "(二)09-10 紀207(電腦實習室)",
+                "scr_period": "(二)09-10 紀207(電腦實習室) 許恆修",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "專業應用課程介紹(https://reurl.cc/l9Lddl)",
@@ -127,7 +108,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "創能學院綜合班",
-                "scr_period": "(一)11-12 圖213_程式實作",
+                "scr_period": "(一)11-12 圖213_程式實作 陳俊龍",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "專業應用課程介紹(https://reurl.cc/l9Lddl)",

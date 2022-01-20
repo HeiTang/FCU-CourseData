@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 219,
+        "total": 220,
         "items": [
             {
                 "scr_selcode": "1738",
@@ -172,6 +172,25 @@
                 "unt_ls": 4800,
                 "cls_id": "CF00100",
                 "sub_id": "22799",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3552",
+                "sub_id3": "FINA5941",
+                "sub_name": "實習輔導與職涯發展",
+                "scr_credit": 1.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "金融學院綜合班",
+                "scr_period": "(一)00     未排教室",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4800,
+                "cls_id": "CF00100",
+                "sub_id": "67167",
                 "scr_dup": "001"
             },
             {
@@ -735,7 +754,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財金二甲",
-                "scr_period": "(四)11-13 商404 傅信豪",
+                "scr_period": "(四)11-13 商404 邱奇珍",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
@@ -944,7 +963,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財金二乙",
-                "scr_period": "(四)11-13 商404 傅信豪",
+                "scr_period": "(四)11-13 商404 邱奇珍",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
@@ -1134,7 +1153,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財金二丙",
-                "scr_period": "(四)11-13 商404 傅信豪",
+                "scr_period": "(四)11-13 商404 邱奇珍",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
