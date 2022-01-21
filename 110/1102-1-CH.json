@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 138,
+        "total": 139,
         "items": [
             {
                 "scr_selcode": "1783",
@@ -39,6 +39,25 @@
                 "unt_ls": 4400,
                 "cls_id": "CH00101",
                 "sub_id": "11219",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3556",
+                "sub_id3": "HSS4901",
+                "sub_name": "實習輔導與職涯發展",
+                "scr_credit": 1.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "人社學院綜合班",
+                "scr_period": "(一)00     未排教室",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4400,
+                "cls_id": "CH00101",
+                "sub_id": "67167",
                 "scr_dup": "001"
             },
             {
@@ -602,7 +621,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "中文三",
-                "scr_period": "(三)03-04 資電B02",
+                "scr_period": "(三)03-04 資電B02 黃敬欽",
                 "scr_precnt": 61.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -1913,7 +1932,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "外文三甲",
-                "scr_period": "(五)00     未排教室",
+                "scr_period": "(五)00     未排教室 鄭如玉",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -2141,7 +2160,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "外文三乙",
-                "scr_period": "(五)00     未排教室",
+                "scr_period": "(五)00     未排教室 鄭如玉",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
