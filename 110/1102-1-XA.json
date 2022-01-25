@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 100,
+        "total": 102,
         "items": [
             {
                 "scr_selcode": "2666",
@@ -1486,6 +1486,44 @@
                 "scr_dup": "001"
             },
             {
+                "scr_selcode": "3562",
+                "sub_id3": "LC115",
+                "sub_name": "德文(一)",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "應用外語選修",
+                "scr_period": "(五)03-04 語202 游曉嵐",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "XA01101",
+                "sub_id": "97700",
+                "scr_dup": "003"
+            },
+            {
+                "scr_selcode": "3565",
+                "sub_id3": "LC123",
+                "sub_name": "韓文(一)",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "應用外語選修",
+                "scr_period": "(二)06-07 語402 曲培求",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "XA01101",
+                "sub_id": "74231",
+                "scr_dup": "005"
+            },
+            {
                 "scr_selcode": "2744",
                 "sub_id3": "LC517",
                 "sub_name": "從電影看多元文化",
@@ -1875,7 +1913,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "應用英語選修",
-                "scr_period": "(三)06-07 資電B02",
+                "scr_period": "(三)06-07 資電B02 孫翎",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -1894,7 +1932,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "應用英語選修",
-                "scr_period": "(一)03-04 資電108",
+                "scr_period": "(一)03-04 資電108 Andrew Plumb",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,

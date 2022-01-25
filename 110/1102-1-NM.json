@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 72,
+        "total": 74,
         "items": [
             {
                 "scr_selcode": "2564",
@@ -134,6 +134,25 @@
                 "unt_ls": 4902,
                 "cls_id": "NM02110",
                 "sub_id": "22788",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3558",
+                "sub_id3": "ISTM165",
+                "sub_name": "視覺行銷設計",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "商學創新一學位學程",
+                "scr_period": "(五)06-08 人B117A Nicolas_Marechal",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4902,
+                "cls_id": "NM02110",
+                "sub_id": "51507",
                 "scr_dup": "001"
             },
             {
@@ -647,6 +666,25 @@
                 "unt_ls": 4904,
                 "cls_id": "NM04110",
                 "sub_id": "15079",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3558",
+                "sub_id3": "ISTM165",
+                "sub_name": "視覺行銷設計",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "數據分析一學位學程",
+                "scr_period": "(五)06-08 人B117A Nicolas_Marechal",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4904,
+                "cls_id": "NM04110",
+                "sub_id": "51507",
                 "scr_dup": "001"
             },
             {

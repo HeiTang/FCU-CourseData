@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 101,
+        "total": 102,
         "items": [
             {
                 "scr_selcode": "3525",
@@ -628,6 +628,25 @@
                 "unt_ls": 4004,
                 "cls_id": "CE08310",
                 "sub_id": "33510",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "3564",
+                "sub_id3": "CHE667",
+                "sub_name": "高分子物理特論",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "化工碩一",
+                "scr_period": "(四)02-04 學705 朱建威",
+                "scr_precnt": 28.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4004,
+                "cls_id": "CE08310",
+                "sub_id": "33722",
                 "scr_dup": "001"
             },
             {
