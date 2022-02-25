@@ -1,27 +1,8 @@
 {
     "d": {
         "message": "",
-        "total": 6,
+        "total": 5,
         "items": [
-            {
-                "scr_selcode": "0534",
-                "sub_id3": "COB701",
-                "sub_name": "博士論文",
-                "scr_credit": 0.0,
-                "scj_scr_mso": "必修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "應統博三",
-                "scr_period": "(六)00     未排教室",
-                "scr_precnt": 10.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4105,
-                "cls_id": "CB07430",
-                "sub_id": "49380",
-                "scr_dup": "001"
-            },
             {
                 "scr_selcode": "0626",
                 "sub_id3": "BPHD726",

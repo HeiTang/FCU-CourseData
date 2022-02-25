@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 25,
+        "total": 24,
         "items": [
             {
                 "scr_selcode": "1155",
@@ -118,25 +118,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "1160",
-                "sub_id3": "COE704",
-                "sub_name": "專題討論(四)",
-                "scr_credit": 1.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "纖複博二",
-                "scr_period": "(一)07     工223 林佳弘",
-                "scr_precnt": 15.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "與纖複博一專題討論(二)合班開課",
-                "unt_ls": 4002,
-                "cls_id": "CE05420",
-                "sub_id": "43132",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "1161",
                 "sub_id3": "FCME764",
                 "sub_name": "複合材料結構力學特論",
@@ -148,7 +129,7 @@
                 "cls_name": "纖複博二",
                 "scr_period": "(四)06-08 工410 黃逸仁",
                 "scr_precnt": 30.0,
-                "scr_acptcnt": 14.0,
+                "scr_acptcnt": 15.0,
                 "scr_remarks": null,
                 "unt_ls": 4002,
                 "cls_id": "CE05420",
@@ -338,7 +319,7 @@
                 "cls_name": "機航博二學位學程",
                 "scr_period": "(三)00     未排教室 戴國政",
                 "scr_precnt": 15.0,
-                "scr_acptcnt": 7.0,
+                "scr_acptcnt": 6.0,
                 "scr_remarks": " ",
                 "unt_ls": 4006,
                 "cls_id": "CE17420",
@@ -433,7 +414,7 @@
                 "cls_name": "材料博一",
                 "scr_period": "(五)02-04 學315 周佳滿,呂晃志,何主亮",
                 "scr_precnt": 10.0,
-                "scr_acptcnt": 2.0,
+                "scr_acptcnt": 4.0,
                 "scr_remarks": " ",
                 "unt_ls": 4015,
                 "cls_id": "CS03410",
@@ -452,7 +433,7 @@
                 "cls_name": "材料博一",
                 "scr_period": "(一)05     學409 林昆明",
                 "scr_precnt": 10.0,
-                "scr_acptcnt": 2.0,
+                "scr_acptcnt": 4.0,
                 "scr_remarks": " ",
                 "unt_ls": 4015,
                 "cls_id": "CS03410",
