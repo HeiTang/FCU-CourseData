@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 71,
+        "total": 70,
         "items": [
             {
                 "scr_selcode": "1879",
@@ -72,7 +72,7 @@
                 "cls_name": "資訊碩一",
                 "scr_period": "(二)06-07 未排教室 劉安之",
                 "scr_precnt": 20.0,
-                "scr_acptcnt": 20.0,
+                "scr_acptcnt": 19.0,
                 "scr_remarks": null,
                 "unt_ls": 4501,
                 "cls_id": "CE07310",
@@ -110,7 +110,7 @@
                 "cls_name": "資訊碩一",
                 "scr_period": "(二)08     資電222(第三國會廳) 竇其仁",
                 "scr_precnt": 0.0,
-                "scr_acptcnt": 54.0,
+                "scr_acptcnt": 53.0,
                 "scr_remarks": " ",
                 "unt_ls": 4501,
                 "cls_id": "CE07310",
@@ -414,7 +414,7 @@
                 "cls_name": "電子碩一",
                 "scr_period": "(二)07     忠202 林成利,郭柏儀",
                 "scr_precnt": 45.0,
-                "scr_acptcnt": 37.0,
+                "scr_acptcnt": 36.0,
                 "scr_remarks": " ",
                 "unt_ls": 4502,
                 "cls_id": "CE09310",
@@ -1296,25 +1296,6 @@
                 "scr_dup": "001"
             },
             {
-                "scr_selcode": "2021",
-                "sub_id3": "IEMP604",
-                "sub_name": "領導講座",
-                "scr_credit": 1.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "資訊電機碩專一學位學程",
-                "scr_period": "(五)12     資電515 王壘",
-                "scr_precnt": 30.0,
-                "scr_acptcnt": 11.0,
-                "scr_remarks": null,
-                "unt_ls": 4526,
-                "cls_id": "CI2331A",
-                "sub_id": "67784",
-                "scr_dup": "001"
-            },
-            {
                 "scr_selcode": "2022",
                 "sub_id3": "IECS678",
                 "sub_name": "資訊保密與安全",
@@ -1345,7 +1326,7 @@
                 "cls_name": "資訊電機碩專二學位學程",
                 "scr_period": "(六)00     未排教室 陳錫民,何子儀,林昱成,劉明機,林明言,王壘,林維崙,陳志強,陳立勝,林成利,陳志成,陳鏡崑,張興政,陳家豪,李榮三,謝振中,李企桓,林宸生,薛念林,洪三山,劉文豐",
                 "scr_precnt": 0.0,
-                "scr_acptcnt": 27.0,
+                "scr_acptcnt": 26.0,
                 "scr_remarks": " ",
                 "unt_ls": 4526,
                 "cls_id": "CI2332A",
