@@ -1113,7 +1113,7 @@
                 "scj_scr_mso": "必修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "財金二丙",
                 "scr_period": "(五)02-04 商303 陳珮瀅",
                 "scr_precnt": 80.0,
