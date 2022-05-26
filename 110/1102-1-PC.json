@@ -448,7 +448,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "智慧軌道運輸學程",
                 "scr_period": "(二)06-08 紀409 張相胤",
                 "scr_precnt": 60.0,
