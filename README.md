@@ -1,3 +1,5 @@
+[![Python CI](https://github.com/HeiTang/FCU-CourseData/actions/workflows/python-app.yml/badge.svg)](https://github.com/HeiTang/FCU-CourseData/actions/workflows/python-app.yml)
+
      _________                                   ________          __          
      \_   ___ \  ____  __ _________  ______ ____ \______ \ _____ _/  |______   
      /    \  \/ /  _ \|  |  \_  __ \/  ___// __ \ |    |  \\__  \\   __\__  \  
