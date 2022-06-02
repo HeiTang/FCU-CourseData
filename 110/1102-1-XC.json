@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 223,
+        "total": 224,
         "items": [
             {
                 "scr_selcode": "2764",
@@ -3872,7 +3872,7 @@
                 "cls_name": "通識－統合(M)",
                 "scr_period": "(日)11-12 未排教室 吳政庭",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
+                "scr_acptcnt": 22.0,
                 "scr_remarks": "此課程為自主課程，不開放選課。",
                 "unt_ls": 8888,
                 "cls_id": "XC01132",
@@ -4238,6 +4238,25 @@
                 "unt_ls": 8888,
                 "cls_id": "XC01132",
                 "sub_id": "GM607",
+                "scr_dup": "001"
+            },
+            {
+                "scr_selcode": "4016",
+                "sub_id3": "GEIG2363",
+                "sub_name": "篆刻書法進階",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "通識－統合(M)",
+                "scr_period": "(一)10-11 未排教室 洪健豪",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 7.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "XC01132",
+                "sub_id": "GM608",
                 "scr_dup": "001"
             }
         ]
