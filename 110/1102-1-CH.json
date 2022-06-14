@@ -163,7 +163,7 @@
                 "scj_scr_mso": "必修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "中文一",
                 "scr_period": "(三)03-04 語201 李綉玲",
                 "scr_precnt": 70.0,
