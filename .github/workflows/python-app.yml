@@ -1,7 +1,6 @@
 name: Python CI
 on:
   schedule:
-    # 定時執行，At every 5th minute.
     - cron:  '0 0 * * *'
     
 jobs:
@@ -25,7 +24,7 @@ jobs:
         git config --global user.email "heitang.me@gmail.com"
         git config --global user.name "HeiTang"
         git add .
-        git commit -m "Doc: Upgrade Course"
+        git commit -m "docs: Update course information."
     - name: Push Changes
       if: success()
       uses: ad-m/github-push-action@master
