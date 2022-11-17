@@ -20,7 +20,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC86300",
                 "sub_id": "04384",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2813",
@@ -39,7 +41,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC86300",
                 "sub_id": "48601",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             }
         ]
     }

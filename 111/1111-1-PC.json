@@ -20,7 +20,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC04100",
                 "sub_id": "30302",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2839",
@@ -39,7 +41,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC04100",
                 "sub_id": "36790",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2840",
@@ -53,12 +57,14 @@
                 "cls_name": "法律經濟學程",
                 "scr_period": "(三)11-12 商306 葉德輝",
                 "scr_precnt": 80.0,
-                "scr_acptcnt": 77.0,
+                "scr_acptcnt": 76.0,
                 "scr_remarks": null,
                 "unt_ls": 8888,
                 "cls_id": "PC04100",
                 "sub_id": "48851",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2841",
@@ -77,7 +83,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC22100",
                 "sub_id": "51555",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2843",
@@ -96,7 +104,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC28100",
                 "sub_id": "09295",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2844",
@@ -115,7 +125,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC29100",
                 "sub_id": "43553",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2845",
@@ -134,7 +146,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC29100",
                 "sub_id": "43651",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2846",
@@ -153,7 +167,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC29100",
                 "sub_id": "43655",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2847",
@@ -172,7 +188,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC29100",
                 "sub_id": "63722",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2848",
@@ -186,12 +204,14 @@
                 "cls_name": "計算科學學程",
                 "scr_period": "(三)02-04 理205 林英志",
                 "scr_precnt": 50.0,
-                "scr_acptcnt": 30.0,
+                "scr_acptcnt": 26.0,
                 "scr_remarks": null,
                 "unt_ls": 8888,
                 "cls_id": "PC30100",
                 "sub_id": "59660",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2849",
@@ -210,7 +230,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC38100",
                 "sub_id": "59525",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2850",
@@ -229,7 +251,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC44100",
                 "sub_id": "01150",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2851",
@@ -248,7 +272,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC44100",
                 "sub_id": "01761",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2852",
@@ -267,7 +293,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC50100",
                 "sub_id": "11945",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2853",
@@ -286,7 +314,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC50100",
                 "sub_id": "71980",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2854",
@@ -305,7 +335,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC50100",
                 "sub_id": "11964",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2855",
@@ -324,7 +356,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC52100",
                 "sub_id": "22412",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2856",
@@ -343,7 +377,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC63100",
                 "sub_id": "35313",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2857",
@@ -362,7 +398,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC68100",
                 "sub_id": "48336",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2858",
@@ -381,7 +419,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC68100",
                 "sub_id": "22938",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2859",
@@ -400,7 +440,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC69100",
                 "sub_id": "35563",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "2860",
@@ -414,12 +456,14 @@
                 "cls_name": "飛機製造學分學程",
                 "scr_period": "(五)02-04 忠210 邢有光",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 57.0,
+                "scr_acptcnt": 56.0,
                 "scr_remarks": null,
                 "unt_ls": 8888,
                 "cls_id": "PC69100",
                 "sub_id": "35564",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3694",
@@ -438,7 +482,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC88100",
                 "sub_id": "37342",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3695",
@@ -457,7 +503,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC88100",
                 "sub_id": "00007",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3696",
@@ -476,7 +524,9 @@
                 "unt_ls": 8888,
                 "cls_id": "PC88100",
                 "sub_id": "25672",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             }
         ]
     }

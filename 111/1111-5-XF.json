@@ -20,7 +20,9 @@
                 "unt_ls": 8888,
                 "cls_id": "XF01512",
                 "sub_id": "08310",
-                "scr_dup": "002"
+                "scr_dup": "002",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3435",
@@ -39,7 +41,9 @@
                 "unt_ls": 8888,
                 "cls_id": "XF01512",
                 "sub_id": "08310",
-                "scr_dup": "003"
+                "scr_dup": "003",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3436",
@@ -58,7 +62,9 @@
                 "unt_ls": 8888,
                 "cls_id": "XF01512",
                 "sub_id": "08310",
-                "scr_dup": "004"
+                "scr_dup": "004",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3437",
@@ -77,7 +83,9 @@
                 "unt_ls": 8888,
                 "cls_id": "XF01512",
                 "sub_id": "08310",
-                "scr_dup": "005"
+                "scr_dup": "005",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3438",
@@ -96,7 +104,9 @@
                 "unt_ls": 8888,
                 "cls_id": "XF01512",
                 "sub_id": "08311",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "3439",
@@ -110,12 +120,14 @@
                 "cls_name": "進修英班",
                 "scr_period": "(五)11-12 商207 連綺薇",
                 "scr_precnt": 45.0,
-                "scr_acptcnt": 21.0,
+                "scr_acptcnt": 20.0,
                 "scr_remarks": "重補修生請透過MyFCU中【大一英文重補修生線上選課】系統選課。",
                 "unt_ls": 8888,
                 "cls_id": "XF01512",
                 "sub_id": "08312",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             }
         ]
     }

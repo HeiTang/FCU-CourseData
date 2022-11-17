@@ -20,7 +20,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "00001",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0848",
@@ -39,7 +41,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "00082",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0849",
@@ -58,7 +62,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "05611",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0850",
@@ -77,7 +83,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "25520",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0851",
@@ -96,7 +104,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "40511",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0852",
@@ -115,7 +125,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "50936",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0853",
@@ -134,7 +146,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "64500",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0854",
@@ -153,7 +167,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "17512",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0855",
@@ -172,7 +188,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01510",
                 "sub_id": "36890",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0856",
@@ -191,7 +209,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "00001",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0857",
@@ -210,7 +230,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "00082",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "混成式學習",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0858",
@@ -229,7 +251,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "25550",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0859",
@@ -248,7 +272,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "40750",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0860",
@@ -267,7 +293,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "50936",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0861",
@@ -286,7 +314,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "57465",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0862",
@@ -305,7 +335,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "17260",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0863",
@@ -324,7 +356,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "49730",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0864",
@@ -343,7 +377,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01520",
                 "sub_id": "74175",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0865",
@@ -362,7 +398,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "25552",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0866",
@@ -381,7 +419,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "25556",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0867",
@@ -400,7 +440,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "36580",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0868",
@@ -419,7 +461,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "40753",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0869",
@@ -438,7 +482,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "00736",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0870",
@@ -457,7 +503,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "25543",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0871",
@@ -476,7 +524,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "46394",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0872",
@@ -495,7 +545,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "49790",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0873",
@@ -514,7 +566,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01530",
                 "sub_id": "83434",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0874",
@@ -533,7 +587,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "25544",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0875",
@@ -552,7 +608,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "25554",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0876",
@@ -571,7 +629,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "25557",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0877",
@@ -590,7 +650,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "25558",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0878",
@@ -609,7 +671,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "36403",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0879",
@@ -628,7 +692,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "05041",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             },
             {
                 "scr_selcode": "0880",
@@ -647,7 +713,9 @@
                 "unt_ls": 5007,
                 "cls_id": "CD01540",
                 "sub_id": "06445",
-                "scr_dup": "001"
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
             }
         ]
     }
