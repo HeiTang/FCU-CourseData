@@ -622,7 +622,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "會計二甲",
-                "scr_period": "(三)09-10 商202 林柏豪",
+                "scr_period": "(三)09     行203 (三)09     行201 (三)10     行203 (三)10     行201 ,林柏豪",
                 "scr_precnt": 70.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "須同班修習「中級會計學(二)」正課",
@@ -937,7 +937,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "會計二乙",
-                "scr_period": "(四)08-09 商309 林柏豪",
+                "scr_period": "(四)08     行203 (四)08     行201 (四)09     行203 (四)09     行201 ,林柏豪",
                 "scr_precnt": 70.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "須同班修習「中級會計學(二)」正課",
@@ -1252,7 +1252,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "會計二丙",
-                "scr_period": "(五)06-07 商302 林柏豪",
+                "scr_period": "(五)06     行203 (五)06     行201 (五)07     行203 (五)07     行201 ,林柏豪",
                 "scr_precnt": 70.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "須同班修習「中級會計學(二)」正課",
@@ -7015,7 +7015,7 @@
                 "sub_id": "57896",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
-                "scr_english": "N"
+                "scr_english": "Y"
             },
             {
                 "scr_selcode": "0703",
@@ -7036,7 +7036,7 @@
                 "sub_id": "41484",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
-                "scr_english": "N"
+                "scr_english": "Y"
             },
             {
                 "scr_selcode": "0704",
@@ -12445,7 +12445,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "行銷二甲",
-                "scr_period": "(二)02-04 商410",
+                "scr_period": "(二)02-04 商410 蘇維祺",
                 "scr_precnt": 25.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "本課程限行銷系同學選課；本課程採報名制。",
@@ -12676,7 +12676,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "行銷二乙",
-                "scr_period": "(二)02-04 商410",
+                "scr_period": "(二)02-04 商410 蘇維祺",
                 "scr_precnt": 25.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "本課程限行銷系同學選課；本課程採報名制。",
