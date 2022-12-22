@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 101,
+        "total": 102,
         "items": [
             {
                 "scr_selcode": "0055",
@@ -167,6 +167,27 @@
                 "unt_ls": 4001,
                 "cls_id": "CE04310",
                 "sub_id": "69474",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3526",
+                "sub_id3": "MCAE6014",
+                "sub_name": "加熱系統之設計原理及產業應用",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "機械碩一",
+                "scr_period": "(二)02-04 工209 ,詹彥信",
+                "scr_precnt": 10.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": "此門課為學碩合班上課，請至機電系辦理選課。",
+                "unt_ls": 4001,
+                "cls_id": "CE04310",
+                "sub_id": "08683",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"

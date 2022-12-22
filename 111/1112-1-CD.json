@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 361,
+        "total": 363,
         "items": [
             {
                 "scr_selcode": "0774",
@@ -655,6 +655,27 @@
                 "scr_english": "N"
             },
             {
+                "scr_selcode": "3523",
+                "sub_id3": "CE212",
+                "sub_name": "混凝土品質控制與檢驗",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "土木二甲",
+                "scr_period": "(一)11-12 理413",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4602,
+                "cls_id": "CE01121",
+                "sub_id": "44603",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
                 "scr_selcode": "0882",
                 "sub_id3": "GEID0010",
                 "sub_name": "班級活動",
@@ -860,6 +881,27 @@
                 "unt_ls": 4602,
                 "cls_id": "CE01122",
                 "sub_id": "30452",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3523",
+                "sub_id3": "CE212",
+                "sub_name": "混凝土品質控制與檢驗",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "土木二乙",
+                "scr_period": "(一)11-12 理413",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4602,
+                "cls_id": "CE01122",
+                "sub_id": "44603",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"

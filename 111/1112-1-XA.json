@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 102,
+        "total": 103,
         "items": [
             {
                 "scr_selcode": "2664",
@@ -2142,6 +2142,27 @@
                 "cls_id": "XA02101",
                 "sub_id": "98547",
                 "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3527",
+                "sub_id3": "ENGL3121",
+                "sub_name": "從電影中的文化反思看性別多元議題",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "應用英語選修",
+                "scr_period": "(二)06-07 語202 李欣怡",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "XA02101",
+                "sub_id": "51095",
+                "scr_dup": "002",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
             }
