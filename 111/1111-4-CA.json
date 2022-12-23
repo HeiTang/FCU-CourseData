@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 38,
+        "total": 40,
         "items": [
             {
                 "scr_selcode": "0053",
@@ -209,6 +209,27 @@
                 "unt_ls": 4003,
                 "cls_id": "CE06410",
                 "sub_id": "26220",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "1317",
+                "sub_id3": "GEID6022",
+                "sub_name": "學術研究倫理教育",
+                "scr_credit": 0.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "工業博一",
+                "scr_period": "(三)00     未排教室 王逸琦",
+                "scr_precnt": 0.0,
+                "scr_acptcnt": 26.0,
+                "scr_remarks": " ",
+                "unt_ls": 4003,
+                "cls_id": "CE06410",
+                "sub_id": "67952",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
@@ -734,6 +755,27 @@
                 "unt_ls": 4015,
                 "cls_id": "CS03410",
                 "sub_id": "26220",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "2571",
+                "sub_id3": "GEID6022",
+                "sub_name": "學術研究倫理教育",
+                "scr_credit": 0.0,
+                "scj_scr_mso": "必修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "材料博一",
+                "scr_period": "(三)00     未排教室 張育誠",
+                "scr_precnt": 0.0,
+                "scr_acptcnt": 35.0,
+                "scr_remarks": " ",
+                "unt_ls": 4015,
+                "cls_id": "CS03410",
+                "sub_id": "67952",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
