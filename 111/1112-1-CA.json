@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 692,
+        "total": 694,
         "items": [
             {
                 "scr_selcode": "0050",
@@ -328,7 +328,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "機電一甲",
-                "scr_period": "(四)11-13 忠309",
+                "scr_period": "(四)11-13 紀207(電腦實習室)",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -559,7 +559,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "機電一乙",
-                "scr_period": "(四)11-13 忠309",
+                "scr_period": "(四)11-13 紀207(電腦實習室)",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": null,
@@ -2898,7 +2898,7 @@
                 "cls_id": "CE05121",
                 "sub_id": "12851",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "混成式學習",
                 "scr_english": "N"
             },
             {
@@ -3108,7 +3108,7 @@
                 "cls_id": "CE05122",
                 "sub_id": "12851",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "混成式學習",
                 "scr_english": "N"
             },
             {
@@ -3360,7 +3360,7 @@
                 "cls_id": "CE05131",
                 "sub_id": "70301",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "混成式學習",
                 "scr_english": "N"
             },
             {
@@ -3612,7 +3612,7 @@
                 "cls_id": "CE05132",
                 "sub_id": "70301",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "混成式學習",
                 "scr_english": "N"
             },
             {
@@ -9832,6 +9832,27 @@
                 "scr_english": "N"
             },
             {
+                "scr_selcode": "3538",
+                "sub_id3": "MATH483",
+                "sub_name": "專業實習(三)",
+                "scr_credit": 9.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "應數四甲",
+                "scr_period": "(六)00     未排教室 陳裕益",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4013,
+                "cls_id": "CS01141",
+                "sub_id": "43039",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
                 "scr_selcode": "2264",
                 "sub_id3": "MATH469",
                 "sub_name": "多媒體進階應用",
@@ -9869,6 +9890,27 @@
                 "unt_ls": 4013,
                 "cls_id": "CS01142",
                 "sub_id": "62094",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3538",
+                "sub_id3": "MATH483",
+                "sub_name": "專業實習(三)",
+                "scr_credit": 9.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "應數四乙",
+                "scr_period": "(六)00     未排教室 陳裕益",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4013,
+                "cls_id": "CS01142",
+                "sub_id": "43039",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
