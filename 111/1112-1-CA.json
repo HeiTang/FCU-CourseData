@@ -10400,7 +10400,7 @@
             },
             {
                 "scr_selcode": "2283",
-                "sub_id3": "ESS208",
+                "sub_id3": "EES2008",
                 "sub_name": "水質分析",
                 "scr_credit": 3.0,
                 "scj_scr_mso": "必修",
@@ -10421,7 +10421,7 @@
             },
             {
                 "scr_selcode": "2284",
-                "sub_id3": "EES210",
+                "sub_id3": "EES2010",
                 "sub_name": "水質分析實驗",
                 "scr_credit": 1.0,
                 "scj_scr_mso": "必修",
@@ -10631,7 +10631,7 @@
             },
             {
                 "scr_selcode": "2290",
-                "sub_id3": "ESS208",
+                "sub_id3": "EES2008",
                 "sub_name": "水質分析",
                 "scr_credit": 3.0,
                 "scj_scr_mso": "必修",
@@ -10652,7 +10652,7 @@
             },
             {
                 "scr_selcode": "2291",
-                "sub_id3": "EES210",
+                "sub_id3": "EES2010",
                 "sub_name": "水質分析實驗",
                 "scr_credit": 1.0,
                 "scj_scr_mso": "必修",

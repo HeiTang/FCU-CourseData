@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 648,
+        "total": 646,
         "items": [
             {
                 "scr_selcode": "0064",
@@ -8266,7 +8266,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財稅三乙",
-                "scr_period": "(二)02-04 語202",
+                "scr_period": "(四)11-13 商402 黃彥樺",
                 "scr_precnt": 70.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "正課與實習課需同班修習",
@@ -8287,7 +8287,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "財稅三乙",
-                "scr_period": "(二)01     語202",
+                "scr_period": "(三)01     商201",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": " ",
@@ -9769,27 +9769,6 @@
                 "scr_english": "N"
             },
             {
-                "scr_selcode": "0521",
-                "sub_id3": "STAT419",
-                "sub_name": "機器學習",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "統計四甲",
-                "scr_period": "(一)11-13 商304",
-                "scr_precnt": 70.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4105,
-                "cls_id": "CB07141",
-                "sub_id": "69971",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
                 "scr_selcode": "0520",
                 "sub_id3": "STAT461",
                 "sub_name": "企業實習",
@@ -9806,27 +9785,6 @@
                 "unt_ls": 4105,
                 "cls_id": "CB07142",
                 "sub_id": "16122",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "0521",
-                "sub_id3": "STAT419",
-                "sub_name": "機器學習",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "統計四乙",
-                "scr_period": "(一)11-13 商304",
-                "scr_precnt": 70.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4105,
-                "cls_id": "CB07142",
-                "sub_id": "69971",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
