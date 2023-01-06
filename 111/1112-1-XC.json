@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 186,
+        "total": 187,
         "items": [
             {
                 "scr_selcode": "2766",
@@ -3709,7 +3709,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "通識－統合(M)",
-                "scr_period": "(五)03-04 行203 卓立庭",
+                "scr_period": "(五)03-04 忠202 卓立庭",
                 "scr_precnt": 40.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -3905,6 +3905,27 @@
                 "unt_ls": 8888,
                 "cls_id": "XC01132",
                 "sub_id": "GM637",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3590",
+                "sub_id3": "GEIG2230",
+                "sub_name": "滾動式社會設計",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "通識－統合(M)",
+                "scr_period": "(日)01-02 未排教室 陳淑慧",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": "國際體驗不開放選課",
+                "unt_ls": 8888,
+                "cls_id": "XC01132",
+                "sub_id": "GM398",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
