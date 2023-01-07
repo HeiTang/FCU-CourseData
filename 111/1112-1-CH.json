@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 127,
+        "total": 130,
         "items": [
             {
                 "scr_selcode": "1806",
@@ -529,6 +529,27 @@
                 "scr_english": "N"
             },
             {
+                "scr_selcode": "3591",
+                "sub_id3": "CHIN2082",
+                "sub_name": "全球文創產業",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文二",
+                "scr_period": "(一)03-04 人203 何晉瑋",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04120",
+                "sub_id": "13780",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
                 "scr_selcode": "2421",
                 "sub_id3": "ENGL1062",
                 "sub_name": "大三英文",
@@ -739,6 +760,27 @@
                 "scr_english": "N"
             },
             {
+                "scr_selcode": "3592",
+                "sub_id3": "CHIN3104",
+                "sub_name": "唐人小說",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文三",
+                "scr_period": "(四)03-04 語401 李寶玲",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04130",
+                "sub_id": "98913",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
                 "scr_selcode": "2432",
                 "sub_id3": "CHIN258",
                 "sub_name": "校外實習(五)",
@@ -818,6 +860,27 @@
                 "unt_ls": 4405,
                 "cls_id": "CS04140",
                 "sub_id": "35150",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3593",
+                "sub_id3": "CHIN4105",
+                "sub_name": "中西小說賞析",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "中文四",
+                "scr_period": "(五)03-04 語202 陳俊啟",
+                "scr_precnt": 40.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4405,
+                "cls_id": "CS04140",
+                "sub_id": "05643",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
