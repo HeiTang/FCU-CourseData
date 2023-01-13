@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 103,
+        "total": 101,
         "items": [
             {
                 "scr_selcode": "0068",
@@ -613,27 +613,6 @@
                 "scr_english": "N"
             },
             {
-                "scr_selcode": "0433",
-                "sub_id3": "PF6012",
-                "sub_name": "公共選擇",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "財稅碩一",
-                "scr_period": "(四)02-04 商1111 黃琝琇",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4104,
-                "cls_id": "CB05310",
-                "sub_id": "06401",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
                 "scr_selcode": "0434",
                 "sub_id3": "PF563",
                 "sub_name": "企業租稅策略",
@@ -1052,27 +1031,6 @@
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
-            },
-            {
-                "scr_selcode": "0469",
-                "sub_id3": "COOP7024",
-                "sub_name": "行銷趨勢專題",
-                "scr_credit": 2.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "合經碩一",
-                "scr_period": "(二)03-04 商907 江宜芳",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4107,
-                "cls_id": "CB06310",
-                "sub_id": "14688",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "Y"
             },
             {
                 "scr_selcode": "0470",
