@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 105,
+        "total": 106,
         "items": [
             {
                 "scr_selcode": "2664",
@@ -2029,7 +2029,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "應用英語選修",
-                "scr_period": "(三)01-02 紀111 施惠家",
+                "scr_period": "(三)01-02 紀111 徐惠萍",
                 "scr_precnt": 60.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
@@ -2134,7 +2134,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "應用英語選修",
-                "scr_period": "(一)08-09 紀108 施惠家",
+                "scr_period": "(一)08-09 紀108 黃千芬",
                 "scr_precnt": 45.0,
                 "scr_acptcnt": 0.0,
                 "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
@@ -2204,6 +2204,27 @@
                 "unt_ls": 8888,
                 "cls_id": "XA02101",
                 "sub_id": "53775",
+                "scr_dup": "002",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3631",
+                "sub_id3": "ENGL3105",
+                "sub_name": "多益聽力與閱讀:中級班",
+                "scr_credit": 2.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "應用英語選修",
+                "scr_period": "(二)03-04 資電515 李欣怡",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 8888,
+                "cls_id": "XA02101",
+                "sub_id": "81185",
                 "scr_dup": "002",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"

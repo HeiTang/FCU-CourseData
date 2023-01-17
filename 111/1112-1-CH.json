@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 130,
+        "total": 131,
         "items": [
             {
                 "scr_selcode": "1806",
@@ -20,6 +20,27 @@
                 "unt_ls": 4400,
                 "cls_id": "CH00101",
                 "sub_id": "67169",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3632",
+                "sub_id3": "HSS5001",
+                "sub_name": "跨領域畢業專題(一)",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "人社學院綜合班",
+                "scr_period": "(六)02-04 未排教室 余風,余美玲,林峰正",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4400,
+                "cls_id": "CH00101",
+                "sub_id": "57889",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"

@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 59,
+        "total": 60,
         "items": [
             {
                 "scr_selcode": "0921",
@@ -146,6 +146,27 @@
                 "unt_ls": 4602,
                 "cls_id": "CE01320",
                 "sub_id": "82675",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "3628",
+                "sub_id3": "CE7064",
+                "sub_name": "建築結構耐震評估與補強",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "土木碩二",
+                "scr_period": "(一)02-04 未排教室 鍾立來,李秉乾",
+                "scr_precnt": 20.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 4602,
+                "cls_id": "CE01320",
+                "sub_id": "23132",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
