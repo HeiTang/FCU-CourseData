@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 31,
+        "total": 30,
         "items": [
             {
                 "scr_selcode": "2631",
@@ -32,7 +32,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "法律經濟學程",
                 "scr_period": "(三)09-10 商205 楊廼軒",
                 "scr_precnt": 80.0,
@@ -393,7 +393,7 @@
                 "cls_name": "再生能源與永續社會學程",
                 "scr_period": "(一)11-13 忠205 徐兆稹,駱榮富,翁于晴,張棋榕,張振昌,簡儀欣,趙雲鵬,簡彰胤,吳石乙",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 15.0,
+                "scr_acptcnt": 20.0,
                 "scr_remarks": null,
                 "unt_ls": 8888,
                 "cls_id": "PC50100",
@@ -503,27 +503,6 @@
                 "unt_ls": 8888,
                 "cls_id": "PC68100",
                 "sub_id": "22939",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "2655",
-                "sub_id3": "TLOG3105",
-                "sub_name": "軌道營運與管理",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "智慧軌道運輸學程",
-                "scr_period": "(六)02-04 紀103 林宜靜",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 7.0,
-                "scr_remarks": null,
-                "unt_ls": 8888,
-                "cls_id": "PC68100",
-                "sub_id": "22955",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"

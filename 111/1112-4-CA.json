@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 26,
+        "total": 24,
         "items": [
             {
                 "scr_selcode": "1152",
@@ -41,27 +41,6 @@
                 "unt_ls": 4002,
                 "cls_id": "CE05410",
                 "sub_id": "43140",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "1154",
-                "sub_id3": "FCME8025",
-                "sub_name": "高分子物理特論",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "纖複博一",
-                "scr_period": "(六)02-04 忠202 陳安邦",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": " ",
-                "unt_ls": 4002,
-                "cls_id": "CE05410",
-                "sub_id": "33722",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
@@ -419,27 +398,6 @@
                 "unt_ls": 4006,
                 "cls_id": "CE17420",
                 "sub_id": "49380",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "2326",
-                "sub_id3": "EES7081",
-                "sub_name": "獨立研究(一)",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "必修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "環境博一",
-                "scr_period": "(一)11-13 未排教室",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 1.0,
-                "scr_remarks": " ",
-                "unt_ls": 4014,
-                "cls_id": "CS02410",
-                "sub_id": "10050",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"

@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 60,
+        "total": 59,
         "items": [
             {
                 "scr_selcode": "0921",
@@ -634,27 +634,6 @@
                 "scr_english": "N"
             },
             {
-                "scr_selcode": "2216",
-                "sub_id3": "LAND6004",
-                "sub_name": "不動產市場研究",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "土管碩一",
-                "scr_period": "(三)02-04 紀108 謝靜琪",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4608,
-                "cls_id": "CM03310",
-                "sub_id": "06310",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
                 "scr_selcode": "2217",
                 "sub_id3": "LAND6067",
                 "sub_name": "地產科技與區塊鏈應用",
@@ -939,7 +918,7 @@
                 "cls_name": "建設碩專二學位學程",
                 "scr_period": "(六)00     未排教室",
                 "scr_precnt": 0.0,
-                "scr_acptcnt": 60.0,
+                "scr_acptcnt": 59.0,
                 "scr_remarks": " ",
                 "unt_ls": 4634,
                 "cls_id": "CD1632A",
