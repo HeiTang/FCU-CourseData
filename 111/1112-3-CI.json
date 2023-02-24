@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 74,
+        "total": 72,
         "items": [
             {
                 "scr_selcode": "1896",
@@ -1070,48 +1070,6 @@
                 "unt_ls": 4505,
                 "cls_id": "CI02320",
                 "sub_id": "61530",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "1974",
-                "sub_id3": "COME7961",
-                "sub_name": "專業實習(一)",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "通訊碩二",
-                "scr_period": "(一)00     未排教室 彭嘉美",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "限通訊所學生修習",
-                "unt_ls": 4505,
-                "cls_id": "CI02320",
-                "sub_id": "43036",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "1975",
-                "sub_id3": "COME7962",
-                "sub_name": "專業實習(二)",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "通訊碩二",
-                "scr_period": "(二)00     未排教室 彭嘉美",
-                "scr_precnt": 60.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": "限通訊所學生修習",
-                "unt_ls": 4505,
-                "cls_id": "CI02320",
-                "sub_id": "43037",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
