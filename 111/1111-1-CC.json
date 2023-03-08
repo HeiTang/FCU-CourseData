@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 28,
+        "total": 27,
         "items": [
             {
                 "scr_selcode": "0843",
@@ -126,27 +126,6 @@
                 "cls_id": "CC00100",
                 "sub_id": "04397",
                 "scr_dup": "002",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "0849",
-                "sub_id3": "IINE1806",
-                "sub_name": "大數據分析入門",
-                "scr_credit": 2.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "創能學院綜合班",
-                "scr_period": "(五)06-07 圖213_程式實作",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 3800,
-                "cls_id": "CC00100",
-                "sub_id": "04397",
-                "scr_dup": "003",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
