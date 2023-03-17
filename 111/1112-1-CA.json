@@ -105,7 +105,7 @@
                 "cls_id": "CA00100",
                 "sub_id": "67169",
                 "scr_dup": "001",
-                "scr_ldl": "線上教學On-line",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -3234,7 +3234,7 @@
                 "cls_id": "CE05131",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -3486,7 +3486,7 @@
                 "cls_id": "CE05132",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -7197,7 +7197,7 @@
                 "cls_name": "航太二甲",
                 "scr_period": "(三)12-13 科航206 張元彰",
                 "scr_precnt": 75.0,
-                "scr_acptcnt": 75.0,
+                "scr_acptcnt": 73.0,
                 "scr_remarks": null,
                 "unt_ls": 4005,
                 "cls_id": "CE13121",
@@ -7407,7 +7407,7 @@
                 "cls_name": "航太二乙",
                 "scr_period": "(三)12-13 科航206 張元彰",
                 "scr_precnt": 75.0,
-                "scr_acptcnt": 75.0,
+                "scr_acptcnt": 73.0,
                 "scr_remarks": null,
                 "unt_ls": 4005,
                 "cls_id": "CE13122",
@@ -7665,7 +7665,7 @@
                 "cls_id": "CE13131",
                 "sub_id": "48897",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -7917,7 +7917,7 @@
                 "cls_id": "CE13132",
                 "sub_id": "48897",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -8568,7 +8568,7 @@
                 "cls_id": "CE26130",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -9681,7 +9681,7 @@
                 "cls_id": "CS01131",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -9870,7 +9870,7 @@
                 "cls_id": "CS01132",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -11985,7 +11985,7 @@
                 "cls_name": "材料一甲",
                 "scr_period": "(五)06-08 學104 林昆明",
                 "scr_precnt": 80.0,
-                "scr_acptcnt": 34.0,
+                "scr_acptcnt": 32.0,
                 "scr_remarks": null,
                 "unt_ls": 4015,
                 "cls_id": "CS03111",
@@ -12237,7 +12237,7 @@
                 "cls_name": "材料一乙",
                 "scr_period": "(五)06-08 學104 林昆明",
                 "scr_precnt": 80.0,
-                "scr_acptcnt": 34.0,
+                "scr_acptcnt": 32.0,
                 "scr_remarks": null,
                 "unt_ls": 4015,
                 "cls_id": "CS03112",
@@ -13224,7 +13224,7 @@
                 "cls_name": "材料四甲",
                 "scr_period": "(三)11-13 忠211 林孟泓",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 33.0,
+                "scr_acptcnt": 31.0,
                 "scr_remarks": null,
                 "unt_ls": 4015,
                 "cls_id": "CS03141",
@@ -13371,7 +13371,7 @@
                 "cls_name": "材料四乙",
                 "scr_period": "(三)11-13 忠211 林孟泓",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 33.0,
+                "scr_acptcnt": 31.0,
                 "scr_remarks": null,
                 "unt_ls": 4015,
                 "cls_id": "CS03142",
@@ -14022,7 +14022,7 @@
                 "cls_name": "光電二甲",
                 "scr_period": "(四)11-13 科航504 林昱志",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 52.0,
+                "scr_acptcnt": 51.0,
                 "scr_remarks": " ",
                 "unt_ls": 4016,
                 "cls_id": "CS06121",
@@ -14232,7 +14232,7 @@
                 "cls_name": "光電二乙",
                 "scr_period": "(四)11-13 科航504 林昱志",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 52.0,
+                "scr_acptcnt": 51.0,
                 "scr_remarks": " ",
                 "unt_ls": 4016,
                 "cls_id": "CS06122",
@@ -14301,7 +14301,7 @@
                 "cls_id": "CS06131",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -14511,7 +14511,7 @@
                 "cls_id": "CS06132",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {

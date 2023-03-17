@@ -5901,7 +5901,7 @@
                 "cls_id": "CB02131",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -6195,7 +6195,7 @@
                 "cls_id": "CB02132",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -6489,7 +6489,7 @@
                 "cls_id": "CB02133",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -6840,7 +6840,7 @@
                 "cls_name": "國貿四甲",
                 "scr_period": "(三)06-08 商405 黃秀英",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 32.0,
+                "scr_acptcnt": 30.0,
                 "scr_remarks": "本課程限大三及以上同學修課",
                 "unt_ls": 4103,
                 "cls_id": "CB02141",
@@ -6987,7 +6987,7 @@
                 "cls_name": "國貿四乙",
                 "scr_period": "(三)06-08 商405 黃秀英",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 32.0,
+                "scr_acptcnt": 30.0,
                 "scr_remarks": "本課程限大三及以上同學修課",
                 "unt_ls": 4103,
                 "cls_id": "CB02142",
@@ -7134,7 +7134,7 @@
                 "cls_name": "國貿四丙",
                 "scr_period": "(三)06-08 商405 黃秀英",
                 "scr_precnt": 60.0,
-                "scr_acptcnt": 32.0,
+                "scr_acptcnt": 30.0,
                 "scr_remarks": "本課程限大三及以上同學修課",
                 "unt_ls": 4103,
                 "cls_id": "CB02143",
@@ -8190,7 +8190,7 @@
                 "cls_id": "CB05131",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -8421,7 +8421,7 @@
                 "cls_id": "CB05132",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -10836,7 +10836,7 @@
                 "cls_id": "CB08131",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -11004,7 +11004,7 @@
                 "cls_id": "CB08132",
                 "sub_id": "04303",
                 "scr_dup": "001",
-                "scr_ldl": "實時線上",
+                "scr_ldl": "課堂教學",
                 "scr_english": "N"
             },
             {
@@ -11271,7 +11271,7 @@
                 "cls_name": "經濟四甲",
                 "scr_period": "(五)02-04 商402 胡逸斌",
                 "scr_precnt": 75.0,
-                "scr_acptcnt": 39.0,
+                "scr_acptcnt": 38.0,
                 "scr_remarks": null,
                 "unt_ls": 4106,
                 "cls_id": "CB08141",
@@ -11397,7 +11397,7 @@
                 "cls_name": "經濟四乙",
                 "scr_period": "(五)02-04 商402 胡逸斌",
                 "scr_precnt": 75.0,
-                "scr_acptcnt": 39.0,
+                "scr_acptcnt": 38.0,
                 "scr_remarks": null,
                 "unt_ls": 4106,
                 "cls_id": "CB08142",
@@ -11859,7 +11859,7 @@
                 "cls_name": "合經三",
                 "scr_period": "(五)02-04 商203 楊坤鋒",
                 "scr_precnt": 82.0,
-                "scr_acptcnt": 80.0,
+                "scr_acptcnt": 78.0,
                 "scr_remarks": " ",
                 "unt_ls": 4107,
                 "cls_id": "CB06130",
