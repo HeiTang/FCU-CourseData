@@ -74,7 +74,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "創能學院綜合班",
                 "scr_period": "(二)11-12 圖213_程式實作 莊家雋",
                 "scr_precnt": 60.0,
