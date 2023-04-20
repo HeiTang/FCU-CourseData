@@ -74,7 +74,7 @@
                 "scj_scr_mso": "必修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "綜合班",
                 "scr_period": "(一)11-12 電通B03 梁詩婷",
                 "scr_precnt": 60.0,
