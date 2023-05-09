@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 78,
+        "total": 79,
         "items": [
             {
                 "scr_selcode": "0001",
@@ -1196,6 +1196,27 @@
                 "unt_ls": 5002,
                 "cls_id": "CE03130",
                 "sub_id": "49851",
+                "scr_dup": "001",
+                "scr_ldl": "課堂教學",
+                "scr_english": "N"
+            },
+            {
+                "scr_selcode": "4209",
+                "sub_id3": "ARCH422",
+                "sub_name": "建築專題實務",
+                "scr_credit": 3.0,
+                "scj_scr_mso": "選修",
+                "scr_examid": "否",
+                "scr_examfn": "否",
+                "scr_exambf": "否",
+                "cls_name": "建築三學位學程",
+                "scr_period": "(六)00     未排教室 林葳,邱嫈蓮",
+                "scr_precnt": 60.0,
+                "scr_acptcnt": 0.0,
+                "scr_remarks": null,
+                "unt_ls": 5002,
+                "cls_id": "CE03130",
+                "sub_id": "23151",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
