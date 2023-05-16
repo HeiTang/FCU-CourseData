@@ -494,7 +494,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "智慧軌道運輸學程",
                 "scr_period": "(一)06-08 語202 許臨國",
                 "scr_precnt": 60.0,
