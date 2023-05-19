@@ -9482,7 +9482,7 @@
                 "scj_scr_mso": "必修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "通訊一甲",
                 "scr_period": "(二)08     資電402 (三)06-07 語103 陳立勝",
                 "scr_precnt": 72.0,
