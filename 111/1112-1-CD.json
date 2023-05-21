@@ -11,7 +11,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "建設學院綜合班",
                 "scr_period": "(三)11-13 紀303(電腦實習室) 徐金煌",
                 "scr_precnt": 30.0,
