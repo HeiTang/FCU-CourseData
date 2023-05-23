@@ -3707,7 +3707,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "通識－統合(M)",
                 "scr_period": "(一)08-09 忠202 郭廸賢",
                 "scr_precnt": 35.0,
