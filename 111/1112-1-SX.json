@@ -116,7 +116,7 @@
                 "scj_scr_mso": "選修",
                 "scr_examid": "否",
                 "scr_examfn": "否",
-                "scr_exambf": "否",
+                "scr_exambf": "是",
                 "cls_name": "社會創新學院綜合班",
                 "scr_period": "(五)06-09 科航206 賴奇厚,呂晃志,施孟芬",
                 "scr_precnt": 60.0,
