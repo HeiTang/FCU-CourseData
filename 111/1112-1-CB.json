@@ -1,7 +1,7 @@
 {
     "d": {
         "message": "",
-        "total": 656,
+        "total": 655,
         "items": [
             {
                 "scr_selcode": "0064",
@@ -12074,27 +12074,6 @@
                 "unt_ls": 4107,
                 "cls_id": "CB06140",
                 "sub_id": "20063",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "4129",
-                "sub_id3": "COOP4050",
-                "sub_name": "社會事業經營管理專業實習(三)",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "選修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "合經四",
-                "scr_period": "(五)00     未排教室 李桂秋",
-                "scr_precnt": 0.0,
-                "scr_acptcnt": 0.0,
-                "scr_remarks": null,
-                "unt_ls": 4107,
-                "cls_id": "CB06140",
-                "sub_id": "20064",
                 "scr_dup": "001",
                 "scr_ldl": "課堂教學",
                 "scr_english": "N"
