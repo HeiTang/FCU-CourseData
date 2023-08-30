@@ -55,7 +55,7 @@
                 "scr_examfn": "否",
                 "scr_exambf": "否",
                 "cls_name": "纖複博一",
-                "scr_period": "(三)00     未排教室 陳協志",
+                "scr_period": "(三)00     未排教室",
                 "scr_precnt": 0.0,
                 "scr_acptcnt": 25.0,
                 "scr_remarks": " ",
@@ -63,7 +63,7 @@
                 "cls_id": "CE05410",
                 "sub_id": "67952",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "線上教學On-line",
                 "scr_english": "N"
             },
             {
@@ -231,7 +231,7 @@
                 "cls_id": "CE06410",
                 "sub_id": "67952",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "線上教學On-line",
                 "scr_english": "N"
             },
             {
@@ -525,7 +525,7 @@
                 "cls_id": "CE17410",
                 "sub_id": "67952",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "線上教學On-line",
                 "scr_english": "N"
             },
             {
@@ -777,7 +777,7 @@
                 "cls_id": "CS03410",
                 "sub_id": "67952",
                 "scr_dup": "001",
-                "scr_ldl": "課堂教學",
+                "scr_ldl": "線上教學On-line",
                 "scr_english": "N"
             },
             {
