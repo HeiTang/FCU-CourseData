@@ -17,7 +17,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Run Python
-      run: python3 Coursedump.py 110,111
+      run: python3 Coursedump.py
     - name: Commit
       continue-on-error: true
       run: |
