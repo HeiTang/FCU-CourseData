@@ -50,17 +50,28 @@
   - XH：軍訓
 
 ## 使用方法
-1. Install requirement.txt from the project.
+1. 安裝 Python 套件
 
     ```
     pip3 install -r requirements.txt 
     ```
 
-2. Run Python3
+2. 執行程式
 
-     ```
-     python3 Coursedump.py 110,109,...
-     ```
+    ```
+    python3 Coursedump.py
+    ```
 
-     `108`, `109` and `110` are all meanings of the academic year. User can enter a single or multiple academic years.
-  
+    > 若需要特定學年度的課程資訊，可以使用 `-y` 或 `--year` 參數指定學年度。
+    > 預設為去年與當前學年度。
+
+    ```
+    
+    | 參數 | 說明 | 範例 |
+    | --- | --- | --- |
+    | -h, --help | 顯示幫助訊息 | |
+    | -y, --year | 學年度 | `python3 Coursedump.py -y 110` |
+
+
+
+
