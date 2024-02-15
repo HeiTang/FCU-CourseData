@@ -1,0 +1,50 @@
+{
+    "message": "",
+    "total": 2,
+    "items": [
+        {
+            "scr_selcode": "4184",
+            "sub_id3": "LEAD201",
+            "sub_name": "領導知能 (二)",
+            "scr_credit": 0.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "領導課程",
+            "scr_period": "(二)11-12 忠107(情境教室) 謝京華",
+            "scr_precnt": 25.0,
+            "scr_acptcnt": 20.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "XK01101",
+            "sub_id": "67786",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": null
+        },
+        {
+            "scr_selcode": "4185",
+            "sub_id3": "LEAD301",
+            "sub_name": "領導知能 (三)",
+            "scr_credit": 0.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "領導課程",
+            "scr_period": "(四)11-12 忠107(情境教室) 葉名山,賴炎卿",
+            "scr_precnt": 20.0,
+            "scr_acptcnt": 15.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "XK01101",
+            "sub_id": "67787",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": null
+        }
+    ]
+}

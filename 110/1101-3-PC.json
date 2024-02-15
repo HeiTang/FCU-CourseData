@@ -1,50 +1,50 @@
 {
-    "d": {
-        "message": "",
-        "total": 2,
-        "items": [
-            {
-                "scr_selcode": "2812",
-                "sub_id3": "ISCH603",
-                "sub_name": "大數據專題與案例分析",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "必修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "大數據分析與實務應用碩士學",
-                "scr_period": "(二)11-13 商306 李宗儒,林佩君,江庭輝,劉智華",
-                "scr_precnt": 40.0,
-                "scr_acptcnt": 23.0,
-                "scr_remarks": null,
-                "unt_ls": 8888,
-                "cls_id": "PC86300",
-                "sub_id": "04384",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            },
-            {
-                "scr_selcode": "2813",
-                "sub_id3": "ISCH604",
-                "sub_name": "程式設計與數據分析",
-                "scr_credit": 3.0,
-                "scj_scr_mso": "必修",
-                "scr_examid": "否",
-                "scr_examfn": "否",
-                "scr_exambf": "否",
-                "cls_name": "大數據分析與實務應用碩士學",
-                "scr_period": "(四)02-04 理203(數電腦室) 林英志,陳亭甫",
-                "scr_precnt": 30.0,
-                "scr_acptcnt": 25.0,
-                "scr_remarks": null,
-                "unt_ls": 8888,
-                "cls_id": "PC86300",
-                "sub_id": "48601",
-                "scr_dup": "001",
-                "scr_ldl": "課堂教學",
-                "scr_english": "N"
-            }
-        ]
-    }
+    "message": "",
+    "total": 2,
+    "items": [
+        {
+            "scr_selcode": "2812",
+            "sub_id3": "ISCH603",
+            "sub_name": "大數據專題與案例分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "大數據分析與實務應用碩士學",
+            "scr_period": "(二)11-13 商306 李宗儒,林佩君,江庭輝,劉智華",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 23.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "PC86300",
+            "sub_id": "04384",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "李宗儒,林佩君,江庭輝,劉智華"
+        },
+        {
+            "scr_selcode": "2813",
+            "sub_id3": "ISCH604",
+            "sub_name": "程式設計與數據分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "大數據分析與實務應用碩士學",
+            "scr_period": "(四)02-04 理203(數電腦室) 林英志,陳亭甫",
+            "scr_precnt": 30.0,
+            "scr_acptcnt": 25.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "PC86300",
+            "sub_id": "48601",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林英志,陳亭甫"
+        }
+    ]
 }
