@@ -100,7 +100,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融博三學位學程",
-            "scr_period": "(六)01-03 商611 張倉耀,陳盛通",
+            "scr_period": "(六)01-03 商611 高承恕,陳盛通,吳仰哲,許文彥,曾鹿鳴,陳森松,劉炳麟,張倉耀",
             "scr_precnt": 15.0,
             "scr_acptcnt": 11.0,
             "scr_remarks": "不開放外系學生修課",
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張倉耀,陳盛通"
+            "scr_teacher": "高承恕,陳盛通,吳仰哲,許文彥,曾鹿鳴,陳森松,劉炳麟,張倉耀"
         }
     ]
 }
