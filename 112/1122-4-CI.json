@@ -144,7 +144,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電通博一學位學程",
-            "scr_period": "(一)00     未排教室 (二)00     未排教室 田春林,邱創乾,劉文豐",
+            "scr_period": "(一)00      (二)00       田春林,邱創乾,劉益瑞,劉文豐",
             "scr_precnt": 10.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": " ",
@@ -154,7 +154,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "田春林,邱創乾,劉文豐"
+            "scr_teacher": "田春林,邱創乾,劉益瑞,劉文豐"
         },
         {
             "scr_selcode": "2108",
@@ -212,7 +212,7 @@
             "cls_name": "電通博一學位學程",
             "scr_period": "(三)02-04 資電235(電腦實習室) 顏貽祥,李俊宏",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 5.0,
+            "scr_acptcnt": 6.0,
             "scr_remarks": " ",
             "unt_ls": 4506,
             "cls_id": "CI03410",
