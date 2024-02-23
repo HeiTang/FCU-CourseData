@@ -12,7 +12,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築碩一學位學程",
-            "scr_period": "(二)06-08 忠106 黎淑婷,Nicolas_Marechal,盛郁庭",
+            "scr_period": "(二)06-08 忠106 黎淑婷,顏貽祥,Nicolas_Marechal,李元榮,盛郁庭",
             "scr_precnt": 40.0,
             "scr_acptcnt": 18.0,
             "scr_remarks": " ",
@@ -22,7 +22,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黎淑婷,Nicolas_Marechal,盛郁庭"
+            "scr_teacher": "黎淑婷,顏貽祥,Nicolas_Marechal,李元榮,盛郁庭"
         },
         {
             "scr_selcode": "1070",
@@ -36,7 +36,7 @@
             "cls_name": "建築碩一學位學程",
             "scr_period": "(三)02-04 行208(電腦實習室) 何平",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": " ",
             "unt_ls": 5005,
             "cls_id": "CE03310",
@@ -100,9 +100,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築碩一學位學程",
-            "scr_period": "(四)08-10 忠107 呂耀中,Lorena Alessio",
+            "scr_period": "(四)08-10 忠107 呂耀中,Lorena Alessio,賴俊呈",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": null,
             "unt_ls": 5005,
             "cls_id": "CE03310",
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂耀中,Lorena Alessio"
+            "scr_teacher": "呂耀中,Lorena Alessio,賴俊呈"
         },
         {
             "scr_selcode": "1074",
@@ -168,7 +168,7 @@
             "cls_name": "建築碩二學位學程",
             "scr_period": "(四)02-04 忠107 盛郁庭,顏貽祥",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": null,
             "unt_ls": 5005,
             "cls_id": "CE03320",
