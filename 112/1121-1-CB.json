@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 701,
+    "total": 699,
     "items": [
         {
             "scr_selcode": "0069",
@@ -2907,28 +2907,6 @@
             "scr_teacher": "賴淇汶"
         },
         {
-            "scr_selcode": "0172",
-            "sub_id3": "ACCT469",
-            "sub_name": "暑期校外專業實習(一)",
-            "scr_credit": 1.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "會計四甲",
-            "scr_period": "(五)00     未排教室 吳周燕",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
-            "scr_remarks": null,
-            "unt_ls": 4101,
-            "cls_id": "CB01141",
-            "sub_id": "44453",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "吳周燕"
-        },
-        {
             "scr_selcode": "0173",
             "sub_id3": "ACCT470",
             "sub_name": "暑期校外專業實習(二)",
@@ -3125,28 +3103,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "賴淇汶"
-        },
-        {
-            "scr_selcode": "0172",
-            "sub_id3": "ACCT469",
-            "sub_name": "暑期校外專業實習(一)",
-            "scr_credit": 1.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "會計四乙",
-            "scr_period": "(五)00     未排教室 吳周燕",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
-            "scr_remarks": null,
-            "unt_ls": 4101,
-            "cls_id": "CB01142",
-            "sub_id": "44453",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "吳周燕"
         },
         {
             "scr_selcode": "0173",
@@ -3347,28 +3303,6 @@
             "scr_teacher": "賴淇汶"
         },
         {
-            "scr_selcode": "0172",
-            "sub_id3": "ACCT469",
-            "sub_name": "暑期校外專業實習(一)",
-            "scr_credit": 1.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "會計四丙",
-            "scr_period": "(五)00     未排教室 吳周燕",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
-            "scr_remarks": null,
-            "unt_ls": 4101,
-            "cls_id": "CB01143",
-            "sub_id": "44453",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "吳周燕"
-        },
-        {
             "scr_selcode": "0173",
             "sub_id3": "ACCT470",
             "sub_name": "暑期校外專業實習(二)",
@@ -3433,6 +3367,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張國秋"
+        },
+        {
+            "scr_selcode": "0172",
+            "sub_id3": "ACCT469",
+            "sub_name": "暑期校外專業實習(一)",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "會計四合",
+            "scr_period": "(一)00       吳周燕",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 1.0,
+            "scr_remarks": null,
+            "unt_ls": 4101,
+            "cls_id": "CB01149",
+            "sub_id": "44453",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "吳周燕"
         },
         {
             "scr_selcode": "2268",
