@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 32,
+    "total": 28,
     "items": [
         {
             "scr_selcode": "2800",
@@ -311,28 +311,6 @@
             "scr_teacher": "趙鳳玫"
         },
         {
-            "scr_selcode": "2812",
-            "sub_id3": "IECS4052",
-            "sub_name": "資訊與網路安全",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資通安全學程",
-            "scr_period": "(四)00     資電306 (五)00     資電404",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 8888,
-            "cls_id": "PC38100",
-            "sub_id": "79968",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
-        },
-        {
             "scr_selcode": "2813",
             "sub_id3": "IECS4052",
             "sub_name": "資訊與網路安全",
@@ -443,28 +421,6 @@
             "scr_teacher": "張逢源"
         },
         {
-            "scr_selcode": "2818",
-            "sub_id3": "GEST6012",
-            "sub_name": "綠色能源創意實作",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "再生能源與永續社會學程",
-            "scr_period": "(四)06-08 忠204 施孟芬",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 3.0,
-            "scr_remarks": null,
-            "unt_ls": 8888,
-            "cls_id": "PC50100",
-            "sub_id": "71975",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "施孟芬"
-        },
-        {
             "scr_selcode": "2819",
             "sub_id3": "GEST4028",
             "sub_name": "產業綠色環境管理",
@@ -507,28 +463,6 @@
             "scr_ldl": "非同步",
             "scr_english": "N",
             "scr_teacher": "陳家豪"
-        },
-        {
-            "scr_selcode": "2821",
-            "sub_id3": "TLOG3104",
-            "sub_name": "軌道機電系統導論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "智慧軌道運輸學程",
-            "scr_period": "(二)06-08 語407 許臨國",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 7.0,
-            "scr_remarks": "為完整授課，應屆畢業生不提供提前考，選課前請深思。",
-            "unt_ls": 8888,
-            "cls_id": "PC68100",
-            "sub_id": "22939",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "許臨國"
         },
         {
             "scr_selcode": "2822",
@@ -617,28 +551,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "謝銘峯"
-        },
-        {
-            "scr_selcode": "2825",
-            "sub_id3": "TLOG3106",
-            "sub_name": "人工智慧技術於智慧運輸與物流之原理與應用",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "AI智慧城市與生活學分學程",
-            "scr_period": "(四)07-09 語103 洪百賢,陳俊良",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
-            "scr_remarks": null,
-            "unt_ls": 8888,
-            "cls_id": "PC90100",
-            "sub_id": "00223",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "洪百賢,陳俊良"
         },
         {
             "scr_selcode": "2826",

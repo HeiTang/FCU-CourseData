@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 24,
+    "total": 22,
     "items": [
         {
             "scr_selcode": "0355",
@@ -210,7 +210,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保碩一",
-            "scr_period": "(一)02-04 商512 許文彥",
+            "scr_period": "(一)02-04 商1009 許文彥",
             "scr_precnt": 25.0,
             "scr_acptcnt": 22.0,
             "scr_remarks": " ",
@@ -243,28 +243,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "呂瑞秋"
-        },
-        {
-            "scr_selcode": "0413",
-            "sub_id3": "INSU6010",
-            "sub_name": "財產保險專題研究",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "風保碩一",
-            "scr_period": "(三)07-09 商1009 陳森松",
-            "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4802,
-            "cls_id": "CB04310",
-            "sub_id": "38037",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳森松"
         },
         {
             "scr_selcode": "1879",
@@ -331,28 +309,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "許文彥,詹志清"
-        },
-        {
-            "scr_selcode": "0416",
-            "sub_id3": "INSU6048",
-            "sub_name": "保險產業專業實習",
-            "scr_credit": 6.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "風保碩二",
-            "scr_period": "(五)00       曾鹿鳴",
-            "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "此課程配合風保系「3+1實習計畫開設」，不開放線上加選此課程",
-            "unt_ls": 4802,
-            "cls_id": "CB04320",
-            "sub_id": "28553",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "曾鹿鳴"
         },
         {
             "scr_selcode": "0417",

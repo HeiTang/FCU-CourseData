@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 16,
+    "total": 15,
     "items": [
         {
             "scr_selcode": "0990",
@@ -155,28 +155,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "葉美伶,蔡明璋,陳美心,周天穎"
-        },
-        {
-            "scr_selcode": "1800",
-            "sub_id3": "IPE8001",
-            "sub_name": "都市交通管理特論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "建規博一學位學程",
-            "scr_period": "(四)02-04 紀406B 張建彥,林良泰",
-            "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4609,
-            "cls_id": "CE14410",
-            "sub_id": "47588",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "張建彥,林良泰"
         },
         {
             "scr_selcode": "1801",

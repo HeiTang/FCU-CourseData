@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 9,
+    "total": 7,
     "items": [
         {
             "scr_selcode": "1069",
@@ -67,28 +67,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林衍良"
-        },
-        {
-            "scr_selcode": "1072",
-            "sub_id3": "ARCH6461",
-            "sub_name": "設計全方位實境(XR)之新經驗",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "建築碩一學位學程",
-            "scr_period": "(四)02-04 忠106 Nicolas_Marechal",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 3.0,
-            "scr_remarks": null,
-            "unt_ls": 5005,
-            "cls_id": "CE03310",
-            "sub_id": "40717",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "Nicolas_Marechal"
         },
         {
             "scr_selcode": "1073",
@@ -177,28 +155,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "盛郁庭,顏貽祥"
-        },
-        {
-            "scr_selcode": "1077",
-            "sub_id3": "ARCH612",
-            "sub_name": "專業實習(二)",
-            "scr_credit": 6.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "建築碩二學位學程",
-            "scr_period": "(五)00       林衍良",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 5005,
-            "cls_id": "CE03320",
-            "sub_id": "43037",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林衍良"
         }
     ]
 }
