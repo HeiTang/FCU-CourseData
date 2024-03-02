@@ -322,7 +322,7 @@
             "cls_name": "商學院綜合班",
             "scr_period": "(四)06-08 商514 陳明宏",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "陳明宏老師授課",
             "unt_ls": 4100,
             "cls_id": "CB00101",
@@ -432,7 +432,7 @@
             "cls_name": "商學院綜合班",
             "scr_period": "(四)02-04 資電B06 陳睿昱,王芊惠,葉俐廷",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "修讀完成3門可取得商業創新微學程證書，且可列入「智慧應用學分學程」。",
             "unt_ls": 4100,
             "cls_id": "CB00101",
@@ -454,7 +454,7 @@
             "cls_name": "商學院綜合班",
             "scr_period": "(四)06-08 商103 衷曉煒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": " ",
             "unt_ls": 4100,
             "cls_id": "CB00101",
@@ -628,7 +628,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一甲",
-            "scr_period": "(五)01-02 資電104 胡士文",
+            "scr_period": "(五)01-02 資電104 黃于凌",
             "scr_precnt": 78.0,
             "scr_acptcnt": 78.0,
             "scr_remarks": "正課及實習課須同班修習",
@@ -638,7 +638,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "胡士文"
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "0118",
@@ -826,7 +826,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一乙",
-            "scr_period": "(五)03-04 資電411 彭德昭",
+            "scr_period": "(五)03-04 資電411 黃于凌",
             "scr_precnt": 65.0,
             "scr_acptcnt": 48.0,
             "scr_remarks": "正課及實習課須同班修習",
@@ -836,7 +836,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭德昭"
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "0118",
@@ -1136,7 +1136,7 @@
             "cls_name": "會計二甲",
             "scr_period": "(三)02-04 忠209 陳亭廷",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 63.0,
             "scr_remarks": " ",
             "unt_ls": 4101,
             "cls_id": "CB01121",
@@ -2214,7 +2214,7 @@
             "cls_name": "會計二合",
             "scr_period": "(四)11-12 商401 李慧慈",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 78.0,
+            "scr_acptcnt": 79.0,
             "scr_remarks": "1.此班為綜合班，供重補修學生修習\r\n2.須隨班修習「中級會計學(二)」正課",
             "unt_ls": 4101,
             "cls_id": "CB01129",
@@ -5490,7 +5490,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一乙",
-            "scr_period": "(四)03-04 語401 趙志鉅",
+            "scr_period": "(四)03-04 語401 黃于凌",
             "scr_precnt": 70.0,
             "scr_acptcnt": 67.0,
             "scr_remarks": "正課及實習課須同班修習",
@@ -5500,7 +5500,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "趙志鉅"
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "0210",
@@ -5666,7 +5666,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一丙",
-            "scr_period": "(一)06-07 資電B07 許鈺珮",
+            "scr_period": "(一)06-07 資電B07 黃于凌",
             "scr_precnt": 65.0,
             "scr_acptcnt": 65.0,
             "scr_remarks": "正課及實習課須同班修習",
@@ -5676,7 +5676,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許鈺珮"
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "0218",
@@ -8550,7 +8550,7 @@
             "cls_name": "財稅二甲",
             "scr_period": "(四)01-03 商204 洪國仁",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 65.0,
+            "scr_acptcnt": 64.0,
             "scr_remarks": " ",
             "unt_ls": 4104,
             "cls_id": "CB05121",
@@ -9166,7 +9166,7 @@
             "cls_name": "財稅三乙",
             "scr_period": "(五)02-04 商107 黃鈺婷",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 61.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": " ",
             "unt_ls": 4104,
             "cls_id": "CB05132",
@@ -9188,7 +9188,7 @@
             "cls_name": "財稅三乙",
             "scr_period": "(三)02     商204",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 61.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": " ",
             "unt_ls": 4104,
             "cls_id": "CB05132",
@@ -11056,7 +11056,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟一乙",
-            "scr_period": "(四)06-07 商203 紀沛妤",
+            "scr_period": "(四)06-07 商203 黃于凌",
             "scr_precnt": 80.0,
             "scr_acptcnt": 65.0,
             "scr_remarks": "正課及實習課須同班修習",
@@ -11066,7 +11066,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "紀沛妤"
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "0599",
@@ -14754,7 +14754,7 @@
             "cls_name": "國企三學位學程",
             "scr_period": "(四)06-08 商107 陳鴻麒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": null,
             "unt_ls": 4115,
             "cls_id": "CB25130",
