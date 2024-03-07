@@ -364,7 +364,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿碩一",
-            "scr_period": "(五)02-04 商702",
+            "scr_period": "(五)02-04 商702 黃鴻鈞",
             "scr_precnt": 40.0,
             "scr_acptcnt": 15.0,
             "scr_remarks": " ",
@@ -374,7 +374,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "黃鴻鈞"
         },
         {
             "scr_selcode": "0274",
@@ -474,7 +474,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿碩二",
-            "scr_period": "(五)00",
+            "scr_period": "(五)00     未排教室 林呈昱",
             "scr_precnt": 30.0,
             "scr_acptcnt": 31.0,
             "scr_remarks": " ",
@@ -484,7 +484,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林呈昱"
         },
         {
             "scr_selcode": "0280",
@@ -1202,7 +1202,7 @@
             "cls_name": "行銷碩一",
             "scr_period": "(四)06-08 商702 李宜靜",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 5.0,
+            "scr_acptcnt": 3.0,
             "scr_remarks": null,
             "unt_ls": 4108,
             "cls_id": "CB26310",
@@ -1728,7 +1728,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財法碩二法律學組",
-            "scr_period": "(一)00",
+            "scr_period": "(一)00     未排教室 林哲彥",
             "scr_precnt": 50.0,
             "scr_acptcnt": 11.0,
             "scr_remarks": " ",
@@ -1738,7 +1738,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林哲彥"
         },
         {
             "scr_selcode": "0668",
@@ -1882,7 +1882,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財法專碩二",
-            "scr_period": "(日)01",
+            "scr_period": "(日)01     未排教室 林哲彥",
             "scr_precnt": 50.0,
             "scr_acptcnt": 19.0,
             "scr_remarks": " ",
@@ -1892,7 +1892,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林哲彥"
         },
         {
             "scr_selcode": "0675",
@@ -2036,7 +2036,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財法碩三法律專業組",
-            "scr_period": "(一)00",
+            "scr_period": "(一)00     未排教室 林哲彥",
             "scr_precnt": 50.0,
             "scr_acptcnt": 17.0,
             "scr_remarks": null,
@@ -2046,7 +2046,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林哲彥"
         },
         {
             "scr_selcode": "0682",
@@ -2082,7 +2082,7 @@
             "cls_name": "商學專業碩專一學位學程",
             "scr_period": "(六)02-04 商804B 董正玫,王凱立",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
             "unt_ls": 4135,
             "cls_id": "CB3631A",
@@ -2104,7 +2104,7 @@
             "cls_name": "商學專業碩專一學位學程",
             "scr_period": "(六)06-08 商804B 林慶隆",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
             "unt_ls": 4135,
             "cls_id": "CB3631A",

@@ -210,7 +210,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩二",
-            "scr_period": "(一)00",
+            "scr_period": "(一)00     未排教室 戴國政",
             "scr_precnt": 0.0,
             "scr_acptcnt": 21.0,
             "scr_remarks": " ",
@@ -220,7 +220,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "戴國政"
         },
         {
             "scr_selcode": "1159",
@@ -386,7 +386,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複碩二",
-            "scr_period": "(一)00     未排教室",
+            "scr_period": "(一)00     未排教室 楊孝淳",
             "scr_precnt": 0.0,
             "scr_acptcnt": 16.0,
             "scr_remarks": " ",
@@ -396,7 +396,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊孝淳"
         },
         {
             "scr_selcode": "1214",
@@ -674,7 +674,7 @@
             "cls_name": "化工碩一",
             "scr_period": "(五)02-04 學705 張光偉",
             "scr_precnt": 28.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": null,
             "unt_ls": 4004,
             "cls_id": "CE08310",
@@ -848,7 +848,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太碩二",
-            "scr_period": "(五)00",
+            "scr_period": "(五)00     未排教室 黃振鴻",
             "scr_precnt": 0.0,
             "scr_acptcnt": 25.0,
             "scr_remarks": " ",
@@ -858,7 +858,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃振鴻"
         },
         {
             "scr_selcode": "1794",
@@ -1070,7 +1070,7 @@
             "cls_name": "綠色能源碩一學位學程",
             "scr_period": "(三)02-04 學711-1 張森河,賴奇厚,林秋裕",
             "scr_precnt": 35.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 32.0,
             "scr_remarks": null,
             "unt_ls": 4009,
             "cls_id": "CE24310",
@@ -1092,7 +1092,7 @@
             "cls_name": "綠色能源碩一學位學程",
             "scr_period": "(五)02-04 學711-1 呂晃志",
             "scr_precnt": 35.0,
-            "scr_acptcnt": 35.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": null,
             "unt_ls": 4009,
             "cls_id": "CE24310",
@@ -1288,7 +1288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智能工程碩專二學位學程",
-            "scr_period": "(六)00       駱榮富,陳啟川,田春林,戴國政,陳兆衡,王逸琦,方俊,莊文傑,周哲維,陳敬恒,徐瑞宏,羅明忠,羅致卿,王啟昌,魏立儒,王姿惠,呂晃志,賴奇厚,黃清輝,陳子夏,林孟儒,蕭堯仁,黃錦煌,李企桓,王坤卿,蔡鈺鼎,林暘桂,陳建羽",
+            "scr_period": "(六)00     未排教室 駱榮富,陳啟川,田春林,戴國政,陳兆衡,王逸琦,方俊,莊文傑,周哲維,陳敬恒,徐瑞宏,羅明忠,羅致卿,王啟昌,魏立儒,王姿惠,呂晃志,賴奇厚,黃清輝,陳子夏,林孟儒,蕭堯仁,黃錦煌,李企桓,王坤卿,蔡鈺鼎,林暘桂",
             "scr_precnt": 0.0,
             "scr_acptcnt": 42.0,
             "scr_remarks": " ",
@@ -1356,7 +1356,7 @@
             "cls_name": "環境碩一",
             "scr_period": "(四)06-08 理303 林俊德",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 12.0,
             "scr_remarks": null,
             "unt_ls": 4014,
             "cls_id": "CS02310",
@@ -1928,7 +1928,7 @@
             "cls_name": "數科碩一學位學程",
             "scr_period": "(三)08-09 理406 李詠玄",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": " ",
             "unt_ls": 4018,
             "cls_id": "CA02310",
