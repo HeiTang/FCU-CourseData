@@ -1202,7 +1202,7 @@
             "cls_name": "行銷碩一",
             "scr_period": "(四)06-08 商702 李宜靜",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": -1.0,
             "scr_remarks": null,
             "unt_ls": 4108,
             "cls_id": "CB26310",
