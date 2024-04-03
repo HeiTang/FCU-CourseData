@@ -232,9 +232,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文英語文碩二",
-            "scr_period": "(五)00       謝宏濱,闕帝丰,劉顯親,周玉楨,李麗秋,陳秋華",
+            "scr_period": "(五)00     未排教室 謝宏濱,闕帝丰,劉顯親,周玉楨,李麗秋,洪筱婷",
             "scr_precnt": 0.0,
-            "scr_acptcnt": 7.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": " ",
             "unt_ls": 4406,
             "cls_id": "CH06320",
@@ -242,7 +242,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝宏濱,闕帝丰,劉顯親,周玉楨,李麗秋,陳秋華"
+            "scr_teacher": "謝宏濱,闕帝丰,劉顯親,周玉楨,李麗秋,洪筱婷"
         },
         {
             "scr_selcode": "2001",
@@ -388,7 +388,7 @@
             "cls_name": "文社碩一學位學程",
             "scr_period": "(二)07-09 人802 黃智彥",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": null,
             "unt_ls": 4410,
             "cls_id": "CH19310",
