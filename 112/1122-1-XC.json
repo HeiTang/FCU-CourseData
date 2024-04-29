@@ -1,0 +1,28 @@
+{
+    "message": "",
+    "total": 1,
+    "items": [
+        {
+            "scr_selcode": "3874",
+            "sub_id3": "GENS1402",
+            "sub_name": "生物學概論",
+            "scr_credit": 4.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "通識－自然(N)",
+            "scr_period": "(一)13-14 待排 (二)13-14 待排 (三)13-14 待排 (四)13-14 待排 (五)13-14 待排 Edward Lawrence D'Antonio",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "HETU專案2024年_暑一期",
+            "unt_ls": 8888,
+            "cls_id": "XC01130",
+            "sub_id": "GNE07",
+            "scr_dup": "001",
+            "scr_ldl": "線上教學On-line",
+            "scr_english": "N",
+            "scr_teacher": "Edward Lawrence D'Antonio"
+        }
+    ]
+}
