@@ -6874,7 +6874,7 @@
             "scj_scr_mso": "必修",
             "scr_examid": "否",
             "scr_examfn": "否",
-            "scr_exambf": "否",
+            "scr_exambf": "是",
             "cls_name": "土管二甲",
             "scr_period": "(一)02-04 忠611(電腦實習室) 陳耀鐘,林嘉韋",
             "scr_precnt": 60.0,
