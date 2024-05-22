@@ -4388,7 +4388,7 @@
             "scj_scr_mso": "選修",
             "scr_examid": "否",
             "scr_examfn": "否",
-            "scr_exambf": "否",
+            "scr_exambf": "是",
             "cls_name": "財精二學位學程",
             "scr_period": "(二)06-08 商404 李衍煌,許文彥",
             "scr_precnt": 60.0,
