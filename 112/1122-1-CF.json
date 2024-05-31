@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 212,
+    "total": 209,
     "items": [
         {
             "scr_selcode": "1863",
@@ -2335,28 +2335,6 @@
             "scr_teacher": "張倉耀"
         },
         {
-            "scr_selcode": "0352",
-            "sub_id3": "FINA473",
-            "sub_name": "畢業論文(二)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "財金四甲",
-            "scr_period": "(四)00       蔡函芳,陳珮瀅,謝依婷,陳宗佑",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "此課程為專題式課程，僅限TDTU雙聯制學生加選。",
-            "unt_ls": 4801,
-            "cls_id": "CB03141",
-            "sub_id": "45342",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "蔡函芳,陳珮瀅,謝依婷,陳宗佑"
-        },
-        {
             "scr_selcode": "0353",
             "sub_id3": "FINA407",
             "sub_name": "銀行外匯業務",
@@ -2489,28 +2467,6 @@
             "scr_teacher": "張倉耀"
         },
         {
-            "scr_selcode": "0352",
-            "sub_id3": "FINA473",
-            "sub_name": "畢業論文(二)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "財金四乙",
-            "scr_period": "(四)00       蔡函芳,陳珮瀅,謝依婷,陳宗佑",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "此課程為專題式課程，僅限TDTU雙聯制學生加選。",
-            "unt_ls": 4801,
-            "cls_id": "CB03142",
-            "sub_id": "45342",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "蔡函芳,陳珮瀅,謝依婷,陳宗佑"
-        },
-        {
             "scr_selcode": "0353",
             "sub_id3": "FINA407",
             "sub_name": "銀行外匯業務",
@@ -2641,28 +2597,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張倉耀"
-        },
-        {
-            "scr_selcode": "0352",
-            "sub_id3": "FINA473",
-            "sub_name": "畢業論文(二)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "財金四丙",
-            "scr_period": "(四)00       蔡函芳,陳珮瀅,謝依婷,陳宗佑",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "此課程為專題式課程，僅限TDTU雙聯制學生加選。",
-            "unt_ls": 4801,
-            "cls_id": "CB03143",
-            "sub_id": "45342",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "蔡函芳,陳珮瀅,謝依婷,陳宗佑"
         },
         {
             "scr_selcode": "0353",
