@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 39,
+    "total": 38,
     "items": [
         {
             "scr_selcode": "1284",
@@ -195,28 +195,6 @@
             "unt_ls": 4003,
             "cls_id": "CE06410",
             "sub_id": "67952",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "王逸琦"
-        },
-        {
-            "scr_selcode": "1354",
-            "sub_id3": "ENGS7080",
-            "sub_name": "研究方法論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "工業博一",
-            "scr_period": "(五)00     待排 王逸琦",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4003,
-            "cls_id": "CE06410",
-            "sub_id": "26220",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",

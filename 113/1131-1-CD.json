@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 367,
+    "total": 363,
     "items": [
         {
             "scr_selcode": "0930",
@@ -12,7 +12,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設學院綜合班",
-            "scr_period": "(四)06-08 紀303(電腦實習室) 管志偉",
+            "scr_period": "(四)06-08 紀303(電腦實習室) 徐金煌,管志偉",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "修讀完成3門可取得智慧城市微學程證書，且可列入「智慧應用學分學程」。",
@@ -22,7 +22,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "管志偉"
+            "scr_teacher": "徐金煌,管志偉"
         },
         {
             "scr_selcode": "0931",
@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設學院綜合班",
-            "scr_period": "(一)08-10 紀303(電腦實習室) 管志偉",
+            "scr_period": "(一)08-10 紀303(電腦實習室) 徐金煌,管志偉",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "修讀完成3門可取得智慧城市微學程證書，且可列入「智慧應用學分學程」。",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "管志偉"
+            "scr_teacher": "徐金煌,管志偉"
         },
         {
             "scr_selcode": "0933",
@@ -1059,28 +1059,6 @@
             "scr_teacher": "張智元"
         },
         {
-            "scr_selcode": "1053",
-            "sub_id3": "CE2075",
-            "sub_name": "水文學",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土木三甲",
-            "scr_period": "(一)09-10 土402A 劉建榮",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4602,
-            "cls_id": "CE01131",
-            "sub_id": "09700",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "劉建榮"
-        },
-        {
             "scr_selcode": "1054",
             "sub_id3": "CE3083",
             "sub_name": "基礎工程(一)",
@@ -1233,28 +1211,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林建良"
-        },
-        {
-            "scr_selcode": "1056",
-            "sub_id3": "CE2075",
-            "sub_name": "水文學",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土木三乙",
-            "scr_period": "(二)03-04 土403 陳昶憲",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4602,
-            "cls_id": "CE01132",
-            "sub_id": "09700",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳昶憲"
         },
         {
             "scr_selcode": "1057",
@@ -4777,28 +4733,6 @@
             "scr_teacher": "王翊和"
         },
         {
-            "scr_selcode": "2392",
-            "sub_id3": "TLOG4084",
-            "sub_name": "運輸計畫評估",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "運輸物流四甲",
-            "scr_period": "(二)02-04 紀111 劉欣憲",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4606,
-            "cls_id": "CM02141",
-            "sub_id": "58901",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "劉欣憲"
-        },
-        {
             "scr_selcode": "2393",
             "sub_id3": "TLOG4001",
             "sub_name": "運輸企業實習",
@@ -4841,28 +4775,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王翊和"
-        },
-        {
-            "scr_selcode": "2392",
-            "sub_id3": "TLOG4084",
-            "sub_name": "運輸計畫評估",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "運輸物流四乙",
-            "scr_period": "(二)02-04 紀111 劉欣憲",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4606,
-            "cls_id": "CM02142",
-            "sub_id": "58901",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "劉欣憲"
         },
         {
             "scr_selcode": "2393",
