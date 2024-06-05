@@ -2014,7 +2014,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計二丙",
-            "scr_period": "(四)06-07 建306 黃彥菱",
+            "scr_period": "(四)06-07 建306 邱雁琳",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2024,7 +2024,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃彥菱"
+            "scr_teacher": "邱雁琳"
         },
         {
             "scr_selcode": "0166",
@@ -6480,7 +6480,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二丙",
-            "scr_period": "(二)09-10 商205 黃彥菱",
+            "scr_period": "(二)09-10 商205 劉峰旗",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6490,7 +6490,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃彥菱"
+            "scr_teacher": "劉峰旗"
         },
         {
             "scr_selcode": "0268",
@@ -8042,7 +8042,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅二甲",
-            "scr_period": "(二)06-07 商202 邱雁琳",
+            "scr_period": "(二)06-07 商202 陳舜華",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課與實習需同班修習",
@@ -8052,7 +8052,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱雁琳"
+            "scr_teacher": "陳舜華"
         },
         {
             "scr_selcode": "0502",
@@ -8306,7 +8306,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅二乙",
-            "scr_period": "(二)06-07 語403 黃彥菱",
+            "scr_period": "(二)06-07 語403 邱雁琳",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課與實習需同班修習",
@@ -8316,7 +8316,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃彥菱"
+            "scr_teacher": "邱雁琳"
         },
         {
             "scr_selcode": "0502",

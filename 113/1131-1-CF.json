@@ -1134,7 +1134,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金二甲",
-            "scr_period": "(五)03-04 商304",
+            "scr_period": "(五)03-04 商304 黃彥菱",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「統計學(一)」正課",
@@ -1144,7 +1144,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃彥菱"
         },
         {
             "scr_selcode": "0341",
@@ -1376,7 +1376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金二乙",
-            "scr_period": "(二)06-07 商401",
+            "scr_period": "(二)06-07 商401 黃彥菱",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「統計學(一)」正課",
@@ -1386,7 +1386,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃彥菱"
         },
         {
             "scr_selcode": "0349",
@@ -1618,7 +1618,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金二丙",
-            "scr_period": "(四)06-07 商309",
+            "scr_period": "(四)06-07 商309 楊茜文",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「統計學(一)」正課",
@@ -1628,7 +1628,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊茜文"
         },
         {
             "scr_selcode": "0357",
