@@ -1838,7 +1838,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(三)06-07 紀301智慧城市共享學習堂 葉昭憲,黃振家,林秉賢,陳柏蒼",
+            "scr_period": "(三)06-07 紀301智慧城市共享學習堂 葉昭憲,吳銘順,林秉賢,陳柏蒼",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1848,7 +1848,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲,黃振家,林秉賢,陳柏蒼"
+            "scr_teacher": "葉昭憲,吳銘順,林秉賢,陳柏蒼"
         },
         {
             "scr_selcode": "1086",
@@ -1882,7 +1882,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(四)01-02 土302(電腦實習室) 黃振家",
+            "scr_period": "(四)01-02 土302(電腦實習室) 蕭世婷,鍾侑達",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1892,7 +1892,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃振家"
+            "scr_teacher": "蕭世婷,鍾侑達"
         },
         {
             "scr_selcode": "1088",
@@ -2102,7 +2102,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(三)08-09 紀301智慧城市共享學習堂 葉昭憲,黃振家,林秉賢,陳柏蒼",
+            "scr_period": "(三)08-09 紀301智慧城市共享學習堂 葉昭憲,吳銘順,林秉賢,陳柏蒼",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2112,7 +2112,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲,黃振家,林秉賢,陳柏蒼"
+            "scr_teacher": "葉昭憲,吳銘順,林秉賢,陳柏蒼"
         },
         {
             "scr_selcode": "1096",
@@ -2146,7 +2146,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(四)03-04 土302(電腦實習室) 黃振家",
+            "scr_period": "(四)03-04 土302(電腦實習室) 蕭世婷,鍾侑達",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2156,7 +2156,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃振家"
+            "scr_teacher": "蕭世婷,鍾侑達"
         },
         {
             "scr_selcode": "1098",
@@ -2784,7 +2784,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三甲",
-            "scr_period": "(三)03-04 土309(流力實驗室) 許少華",
+            "scr_period": "(三)03-04 土309(流力實驗室) 黃振家",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2794,7 +2794,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許少華"
+            "scr_teacher": "黃振家"
         },
         {
             "scr_selcode": "1127",
@@ -2806,7 +2806,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三甲",
-            "scr_period": "(三)08-09 土309(流力實驗室) 許少華",
+            "scr_period": "(三)08-09 土309(流力實驗室) 黃振家",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2816,7 +2816,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許少華"
+            "scr_teacher": "黃振家"
         },
         {
             "scr_selcode": "1128",
@@ -3004,7 +3004,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三乙",
-            "scr_period": "(五)06-07 土309(流力實驗室) 許少華",
+            "scr_period": "(三)06-07 土309(流力實驗室) 黃振家",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3014,7 +3014,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許少華"
+            "scr_teacher": "黃振家"
         },
         {
             "scr_selcode": "1127",
@@ -3026,7 +3026,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三乙",
-            "scr_period": "(三)08-09 土309(流力實驗室) 許少華",
+            "scr_period": "(三)08-09 土309(流力實驗室) 黃振家",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3036,7 +3036,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許少華"
+            "scr_teacher": "黃振家"
         },
         {
             "scr_selcode": "1128",
@@ -6854,7 +6854,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二甲",
-            "scr_period": "(一)06-08 紀111",
+            "scr_period": "(一)06-08 紀111 蔡孟澤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6864,7 +6864,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡孟澤"
         },
         {
             "scr_selcode": "2427",
@@ -7052,7 +7052,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二甲",
-            "scr_period": "(一)03-04 紀409",
+            "scr_period": "(一)03-04 紀409 方怡仁",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7062,7 +7062,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "方怡仁"
         },
         {
             "scr_selcode": "3610",
@@ -7360,7 +7360,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(一)03-04 紀409",
+            "scr_period": "(一)03-04 紀409 方怡仁",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7370,7 +7370,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "方怡仁"
         },
         {
             "scr_selcode": "3610",
@@ -7558,7 +7558,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三甲",
-            "scr_period": "(一)08-10 行政二館307",
+            "scr_period": "(一)08-10 行政二館307 林登建",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7568,7 +7568,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林登建"
         },
         {
             "scr_selcode": "2456",
@@ -7646,7 +7646,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三乙",
-            "scr_period": "(一)02-04 紀209B",
+            "scr_period": "(一)02-04 紀209B 袁世芬",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7656,7 +7656,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "袁世芬"
         },
         {
             "scr_selcode": "2450",
@@ -7778,7 +7778,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三乙",
-            "scr_period": "(一)08-10 行政二館307",
+            "scr_period": "(一)08-10 行政二館307 林登建",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7788,7 +7788,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林登建"
         },
         {
             "scr_selcode": "2456",
