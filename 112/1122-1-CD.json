@@ -6172,7 +6172,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資四甲",
-            "scr_period": "(一)00     未排教室 徐逸祥",
+            "scr_period": "(一)00       雷祖強,徐逸祥,林映辰,許皓香,杜建宏",
             "scr_precnt": 60.0,
             "scr_acptcnt": 8.0,
             "scr_remarks": "教學場域：校外實習機構",
@@ -6182,7 +6182,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐逸祥"
+            "scr_teacher": "雷祖強,徐逸祥,林映辰,許皓香,杜建宏"
         },
         {
             "scr_selcode": "1578",
@@ -6260,7 +6260,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資四乙",
-            "scr_period": "(一)00     未排教室 徐逸祥",
+            "scr_period": "(一)00       雷祖強,徐逸祥,林映辰,許皓香,杜建宏",
             "scr_precnt": 60.0,
             "scr_acptcnt": 8.0,
             "scr_remarks": "教學場域：校外實習機構",
@@ -6270,7 +6270,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐逸祥"
+            "scr_teacher": "雷祖強,徐逸祥,林映辰,許皓香,杜建宏"
         },
         {
             "scr_selcode": "1578",
