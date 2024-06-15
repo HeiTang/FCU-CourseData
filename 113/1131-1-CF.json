@@ -408,7 +408,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金一甲",
-            "scr_period": "(四)03-04 人607 廖盈芳",
+            "scr_period": "(四)03-04 人607 賴家蓁",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -418,7 +418,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖盈芳"
+            "scr_teacher": "賴家蓁"
         },
         {
             "scr_selcode": "0313",
@@ -650,7 +650,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金一乙",
-            "scr_period": "(四)06-07 商401 賴家蓁",
+            "scr_period": "(四)06-07 商401 張珮禎",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -660,7 +660,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴家蓁"
+            "scr_teacher": "張珮禎"
         },
         {
             "scr_selcode": "0322",
@@ -3114,7 +3114,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保一甲",
-            "scr_period": "(二)03-04 人705 廖盈芳",
+            "scr_period": "(二)03-04 人705 張珮禎",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -3124,7 +3124,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖盈芳"
+            "scr_teacher": "張珮禎"
         },
         {
             "scr_selcode": "0411",
@@ -3334,7 +3334,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保一乙",
-            "scr_period": "(一)08-09 資電515 張珮禎",
+            "scr_period": "(一)08-09 資電515 廖盈芳",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -3344,7 +3344,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張珮禎"
+            "scr_teacher": "廖盈芳"
         },
         {
             "scr_selcode": "0420",
@@ -4676,7 +4676,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財精一學位學程",
-            "scr_period": "(一)03-04 資電B08 張珮禎",
+            "scr_period": "(一)03-04 資電B08 賴家蓁",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -4686,7 +4686,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張珮禎"
+            "scr_teacher": "賴家蓁"
         },
         {
             "scr_selcode": "1999",

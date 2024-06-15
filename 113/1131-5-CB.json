@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學進修一學位學程甲班",
-            "scr_period": "(二)14     商204 賴家蓁",
+            "scr_period": "(二)14     商204",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨原班會計學(一)修習",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴家蓁"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0849",
@@ -232,7 +232,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學進修一學位學程乙班",
-            "scr_period": "(四)14     商202 張珮禎",
+            "scr_period": "(四)14     商202 蔡函芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨原班會計學(一)修習",
@@ -242,7 +242,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張珮禎"
+            "scr_teacher": "蔡函芳"
         },
         {
             "scr_selcode": "0856",

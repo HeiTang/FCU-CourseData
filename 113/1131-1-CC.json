@@ -804,7 +804,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧四學位學程",
-            "scr_period": "(五)00",
+            "scr_period": "(五)00     未排教室 林子煒,王啟宏,周永振,梁辰睿",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -814,7 +814,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林子煒,王啟宏,周永振,梁辰睿"
         },
         {
             "scr_selcode": "0927",
@@ -826,7 +826,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧四學位學程",
-            "scr_period": "(二)00",
+            "scr_period": "(二)00     未排教室 林子煒,王啟宏,周永振,梁辰睿",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -836,7 +836,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林子煒,王啟宏,周永振,梁辰睿"
         },
         {
             "scr_selcode": "0928",
@@ -848,7 +848,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧四學位學程",
-            "scr_period": "(三)00",
+            "scr_period": "(三)00     未排教室 林子煒,王啟宏,周永振,梁辰睿",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -858,7 +858,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林子煒,王啟宏,周永振,梁辰睿"
         },
         {
             "scr_selcode": "0929",
@@ -870,7 +870,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧四學位學程",
-            "scr_period": "(四)00",
+            "scr_period": "(四)00     未排教室 林子煒,王啟宏,周永振,梁辰睿",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -880,7 +880,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林子煒,王啟宏,周永振,梁辰睿"
         }
     ]
 }
