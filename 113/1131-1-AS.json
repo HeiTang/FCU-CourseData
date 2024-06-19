@@ -760,7 +760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業二甲",
-            "scr_period": "(四)03-04 忠207 陳文亮,Lorena Alessio,林葳",
+            "scr_period": "(四)03-04 忠207 陳文亮,Lorena Alessio",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -770,7 +770,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳文亮,Lorena Alessio,林葳"
+            "scr_teacher": "陳文亮,Lorena Alessio"
         },
         {
             "scr_selcode": "0035",
@@ -980,7 +980,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業二乙",
-            "scr_period": "(四)03-04 忠207 陳文亮,Lorena Alessio,林葳",
+            "scr_period": "(四)03-04 忠207 陳文亮,Lorena Alessio",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -990,7 +990,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳文亮,Lorena Alessio,林葳"
+            "scr_teacher": "陳文亮,Lorena Alessio"
         },
         {
             "scr_selcode": "0035",

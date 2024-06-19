@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 365,
+    "total": 367,
     "items": [
         {
             "scr_selcode": "0930",
@@ -4368,17 +4368,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三甲",
-            "scr_period": "(二)07-09 紀103",
+            "scr_period": "(二)07-09 紀103 葉名山",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "葉明山老師",
+            "scr_remarks": " ",
             "unt_ls": 4606,
             "cls_id": "CM02131",
             "sub_id": "13019",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉名山"
         },
         {
             "scr_selcode": "2388",
@@ -4588,17 +4588,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三乙",
-            "scr_period": "(二)07-09 紀103",
+            "scr_period": "(二)07-09 紀103 葉名山",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "葉明山老師",
+            "scr_remarks": " ",
             "unt_ls": 4606,
             "cls_id": "CM02132",
             "sub_id": "13019",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉名山"
         },
         {
             "scr_selcode": "2388",
@@ -6546,7 +6546,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(四)09     紀209B 李長曄",
+            "scr_period": "(四)09     紀111 李長曄",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7615,6 +7615,28 @@
             "scr_teacher": "游政諭"
         },
         {
+            "scr_selcode": "3655",
+            "sub_id3": "LAND3032",
+            "sub_name": "環境與氣候變遷政策與法律",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土管三甲",
+            "scr_period": "(四)09-10 紀209B 辛年豐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4608,
+            "cls_id": "CM03131",
+            "sub_id": "73466",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "辛年豐"
+        },
+        {
             "scr_selcode": "2448",
             "sub_id3": "LAND2026",
             "sub_name": "土地法(一)",
@@ -7833,6 +7855,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "游政諭"
+        },
+        {
+            "scr_selcode": "3655",
+            "sub_id3": "LAND3032",
+            "sub_name": "環境與氣候變遷政策與法律",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土管三乙",
+            "scr_period": "(四)09-10 紀209B 辛年豐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4608,
+            "cls_id": "CM03132",
+            "sub_id": "73466",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "辛年豐"
         },
         {
             "scr_selcode": "2458",
