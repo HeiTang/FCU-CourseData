@@ -298,7 +298,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電一甲",
-            "scr_period": "(二)06-08 忠209",
+            "scr_period": "(二)06-08 忠209 林明賢",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -308,7 +308,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1186",
@@ -320,7 +320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電一乙",
-            "scr_period": "(四)09     資電B07",
+            "scr_period": "(四)09     資電B07 林明賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -330,7 +330,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1187",
@@ -496,7 +496,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電一乙",
-            "scr_period": "(四)08     資電222(第三國會廳)",
+            "scr_period": "(四)08     資電222(第三國會廳) 林明賢",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -506,7 +506,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1195",
@@ -1244,7 +1244,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(四)06-07 資電222(第三國會廳)",
+            "scr_period": "(四)06-07 資電222(第三國會廳) 林明賢",
             "scr_precnt": 65.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1254,7 +1254,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1220",
@@ -1310,7 +1310,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(三)06-08",
+            "scr_period": "(一)02-04 未排教室 林明賢",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1320,7 +1320,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1223",

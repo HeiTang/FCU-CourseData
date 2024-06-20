@@ -2652,7 +2652,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三甲",
-            "scr_period": "(四)02-04 資電402 蔡明翰",
+            "scr_period": "(四)02-04 忠B05 蔡明翰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2938,7 +2938,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三乙",
-            "scr_period": "(四)02-04 資電402 蔡明翰",
+            "scr_period": "(四)02-04 忠B05 蔡明翰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3224,7 +3224,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三丙",
-            "scr_period": "(四)02-04 資電402 蔡明翰",
+            "scr_period": "(四)02-04 忠B05 蔡明翰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3510,7 +3510,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三丁",
-            "scr_period": "(四)02-04 資電402 蔡明翰",
+            "scr_period": "(四)02-04 忠B05 蔡明翰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3818,7 +3818,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四甲",
-            "scr_period": "(一)00     待排 (二)00     待排 (三)00     待排",
+            "scr_period": "(一)00     未排教室 (二)00     未排教室 (三)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3828,7 +3828,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1454",
@@ -3840,7 +3840,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四甲",
-            "scr_period": "(一)01     待排 (四)00     待排 (五)00     待排",
+            "scr_period": "(一)01     未排教室 (四)00     未排教室 (五)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3850,7 +3850,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1455",
@@ -3862,7 +3862,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四甲",
-            "scr_period": "(一)05     待排 (四)05     待排 (五)05     待排",
+            "scr_period": "(一)05     未排教室 (四)05     未排教室 (五)05     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3872,7 +3872,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1442",
@@ -4060,7 +4060,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四乙",
-            "scr_period": "(一)00     待排 (二)00     待排 (三)00     待排",
+            "scr_period": "(一)00     未排教室 (二)00     未排教室 (三)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4070,7 +4070,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1454",
@@ -4082,7 +4082,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四乙",
-            "scr_period": "(一)01     待排 (四)00     待排 (五)00     待排",
+            "scr_period": "(一)01     未排教室 (四)00     未排教室 (五)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4092,7 +4092,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1455",
@@ -4104,7 +4104,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四乙",
-            "scr_period": "(一)05     待排 (四)05     待排 (五)05     待排",
+            "scr_period": "(一)05     未排教室 (四)05     未排教室 (五)05     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4114,7 +4114,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1443",
@@ -4302,7 +4302,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四丙",
-            "scr_period": "(一)00     待排 (二)00     待排 (三)00     待排",
+            "scr_period": "(一)00     未排教室 (二)00     未排教室 (三)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4312,7 +4312,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1454",
@@ -4324,7 +4324,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四丙",
-            "scr_period": "(一)01     待排 (四)00     待排 (五)00     待排",
+            "scr_period": "(一)01     未排教室 (四)00     未排教室 (五)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4334,7 +4334,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1455",
@@ -4346,7 +4346,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四丙",
-            "scr_period": "(一)05     待排 (四)05     待排 (五)05     待排",
+            "scr_period": "(一)05     未排教室 (四)05     未排教室 (五)05     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4356,7 +4356,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1444",
@@ -4544,7 +4544,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四丁",
-            "scr_period": "(一)00     待排 (二)00     待排 (三)00     待排",
+            "scr_period": "(一)00     未排教室 (二)00     未排教室 (三)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4554,7 +4554,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1454",
@@ -4566,7 +4566,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四丁",
-            "scr_period": "(一)01     待排 (四)00     待排 (五)00     待排",
+            "scr_period": "(一)01     未排教室 (四)00     未排教室 (五)00     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4576,7 +4576,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1455",
@@ -4588,7 +4588,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊四丁",
-            "scr_period": "(一)05     待排 (四)05     待排 (五)05     待排",
+            "scr_period": "(一)05     未排教室 (四)05     未排教室 (五)05     未排教室 蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4598,7 +4598,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡明翰,林哲維,蔡國裕,薛念林,郭崇韋"
         },
         {
             "scr_selcode": "1450",

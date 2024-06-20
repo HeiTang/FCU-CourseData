@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩一",
-            "scr_period": "(四)02-04 工209 劉庚朋,林玉堃",
+            "scr_period": "(四)02-04 工209 劉庚朋,林明賢,林玉堃",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉庚朋,林玉堃"
+            "scr_teacher": "劉庚朋,林明賢,林玉堃"
         },
         {
             "scr_selcode": "1246",
@@ -1354,7 +1354,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(一)11-13 學711-1",
+            "scr_period": "(一)11-13 學711-1 徐兆稹",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1364,7 +1364,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐兆稹"
         },
         {
             "scr_selcode": "1921",
