@@ -1376,7 +1376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(四)02-04 工506-7",
+            "scr_period": "(四)02-04 工506-7 陳晉照",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1386,7 +1386,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳晉照"
         },
         {
             "scr_selcode": "1922",
@@ -1464,7 +1464,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩二學位學程",
-            "scr_period": "(三)06-08 工506-7 簡彰胤",
+            "scr_period": "(五)02-04 學711-1 簡彰胤",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1728,7 +1728,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境碩一",
-            "scr_period": "(一)08     理B07 吳俊哲",
+            "scr_period": "(一)08     理B07 邱宜亭,吳俊哲",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1738,7 +1738,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳俊哲"
+            "scr_teacher": "邱宜亭,吳俊哲"
         },
         {
             "scr_selcode": "2574",
@@ -1860,7 +1860,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境碩二",
-            "scr_period": "(四)06-08 理303",
+            "scr_period": "(四)06-08 理303 邱宜亭",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1870,7 +1870,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "邱宜亭"
         },
         {
             "scr_selcode": "2637",
