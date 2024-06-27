@@ -3334,7 +3334,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保一乙",
-            "scr_period": "(一)08-09 資電515 廖盈芳",
+            "scr_period": "(一)08-09 商201 廖盈芳",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -4368,7 +4368,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保四甲",
-            "scr_period": "(四)11-13 商208",
+            "scr_period": "(四)11-13 商208 郭俊佑",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4378,7 +4378,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭俊佑"
         },
         {
             "scr_selcode": "0457",
@@ -4500,7 +4500,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保四乙",
-            "scr_period": "(四)11-13 商208",
+            "scr_period": "(四)11-13 商208 郭俊佑",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4510,7 +4510,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭俊佑"
         },
         {
             "scr_selcode": "0457",

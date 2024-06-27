@@ -1354,7 +1354,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "專案管理碩專班二學位學程",
-            "scr_period": "(六)09-11 紀302(電腦實習室) 林秋松",
+            "scr_period": "(六)09-11 紀302(電腦實習室) 陳國彰,林秋松",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "*限碩士在職專班修習",
@@ -1364,7 +1364,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林秋松"
+            "scr_teacher": "陳國彰,林秋松"
         },
         {
             "scr_selcode": "1005",
@@ -1486,7 +1486,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智慧城市碩一學位學程",
-            "scr_period": "(二)06-08 紀302(電腦實習室) 簡甫任",
+            "scr_period": "(二)06-08 紀302(電腦實習室) 簡甫任,邱俊銘",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室",
@@ -1496,7 +1496,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "簡甫任"
+            "scr_teacher": "簡甫任,邱俊銘"
         },
         {
             "scr_selcode": "1011",

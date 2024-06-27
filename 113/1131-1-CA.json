@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 633,
+    "total": 631,
     "items": [
         {
             "scr_selcode": "0053",
@@ -4104,7 +4104,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一甲",
-            "scr_period": "(一)06-07 學519 (二)06     工108 朱建威,張振昌",
+            "scr_period": "(一)06-07 學519 (二)06     工108 張振昌,簡彰胤",
             "scr_precnt": 8.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4114,7 +4114,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱建威,張振昌"
+            "scr_teacher": "張振昌,簡彰胤"
         },
         {
             "scr_selcode": "1481",
@@ -4346,7 +4346,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一乙",
-            "scr_period": "(三)08-10 學101 朱建威,張振昌",
+            "scr_period": "(三)08-10 學101 張振昌,簡彰胤",
             "scr_precnt": 8.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4356,7 +4356,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱建威,張振昌"
+            "scr_teacher": "張振昌,簡彰胤"
         },
         {
             "scr_selcode": "1492",
@@ -4390,7 +4390,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一乙",
-            "scr_period": "(一)06-07 學515 (三)01     學515 簡彰胤",
+            "scr_period": "(一)01-02 學515 (三)01     學515 簡彰胤",
             "scr_precnt": 8.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5041,28 +5041,6 @@
             "scr_teacher": "林永森"
         },
         {
-            "scr_selcode": "1525",
-            "sub_id3": "CHE4014",
-            "sub_name": "高分子物理概論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "化工三甲",
-            "scr_period": "(一)08-10 學104 朱建威",
-            "scr_precnt": 68.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4004,
-            "cls_id": "CE08131",
-            "sub_id": "33323",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "朱建威"
-        },
-        {
             "scr_selcode": "1526",
             "sub_id3": "CHE3041",
             "sub_name": "綠色能源",
@@ -5215,28 +5193,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林永森"
-        },
-        {
-            "scr_selcode": "1525",
-            "sub_id3": "CHE4014",
-            "sub_name": "高分子物理概論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "化工三乙",
-            "scr_period": "(一)08-10 學104 朱建威",
-            "scr_precnt": 68.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4004,
-            "cls_id": "CE08132",
-            "sub_id": "33323",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "朱建威"
         },
         {
             "scr_selcode": "1526",
@@ -9340,7 +9296,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(三)02-04 學103 李書安",
+            "scr_period": "(三)02-04 學103 李書安,邱宜亭",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9350,7 +9306,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李書安"
+            "scr_teacher": "李書安,邱宜亭"
         },
         {
             "scr_selcode": "2538",
