@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 716,
+    "total": 718,
     "items": [
         {
             "scr_selcode": "0090",
@@ -5622,7 +5622,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一甲",
-            "scr_period": "(五)02-04 忠B03 陳依依",
+            "scr_period": "(五)02-04 商206 陳依依",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -11848,7 +11848,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟二乙",
-            "scr_period": "(三)07-09 商406 林雅淇",
+            "scr_period": "(三)02-04 忠B03",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -11858,7 +11858,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林雅淇"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0679",
@@ -12046,7 +12046,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟三甲",
-            "scr_period": "(五)02-04 商206 林雅淇",
+            "scr_period": "(一)07-09 語204",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12056,7 +12056,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林雅淇"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0689",
@@ -12112,7 +12112,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟三甲",
-            "scr_period": "(三)07-09 忠B01 陳金發",
+            "scr_period": "(三)07-09 商406 陳金發",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12178,7 +12178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟三乙",
-            "scr_period": "(二)06-08 商301(電腦實習室) 林雅淇",
+            "scr_period": "(二)06-08 商301(電腦實習室)",
             "scr_precnt": 68.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -12188,7 +12188,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林雅淇"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0692",
@@ -12332,7 +12332,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟三乙",
-            "scr_period": "(三)07-09 忠B01 陳金發",
+            "scr_period": "(三)07-09 商406 陳金發",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12860,7 +12860,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "合經二",
-            "scr_period": "(五)06-07 商103 黃慧慈,陳秀雯",
+            "scr_period": "(五)03-04 人403 黃慧慈,陳秀雯",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13454,7 +13454,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷一甲",
-            "scr_period": "(一)09     語103 周進華",
+            "scr_period": "(一)09     商406 周進華",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -13696,7 +13696,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷一乙",
-            "scr_period": "(一)09     語105 林建安",
+            "scr_period": "(一)09     商402 林建安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -14963,6 +14963,28 @@
             "scr_teacher": "李宜靜"
         },
         {
+            "scr_selcode": "3683",
+            "sub_id3": "MKT3034",
+            "sub_name": "行銷分析與決策",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷四甲",
+            "scr_period": "(三)06-08 語404",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26141",
+            "sub_id": "14658",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
+        },
+        {
             "scr_selcode": "0828",
             "sub_id3": "MKT4011",
             "sub_name": "品牌關係經營實務專題",
@@ -15115,6 +15137,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李宜靜"
+        },
+        {
+            "scr_selcode": "3683",
+            "sub_id3": "MKT3034",
+            "sub_name": "行銷分析與決策",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷四乙",
+            "scr_period": "(三)06-08 語404",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26142",
+            "sub_id": "14658",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0757",
