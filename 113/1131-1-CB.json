@@ -540,7 +540,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一甲",
-            "scr_period": "(三)08-09 商201 賴家蓁",
+            "scr_period": "(三)08-09 商201 張珮禎",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -550,7 +550,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴家蓁"
+            "scr_teacher": "張珮禎"
         },
         {
             "scr_selcode": "0116",
@@ -848,7 +848,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一乙",
-            "scr_period": "(三)08-09 忠210 張珮禎",
+            "scr_period": "(三)08-09 忠210 賴家蓁",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(一)」正課",
@@ -858,7 +858,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張珮禎"
+            "scr_teacher": "賴家蓁"
         },
         {
             "scr_selcode": "0126",
@@ -6238,7 +6238,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二甲",
-            "scr_period": "(四)06-08 語103",
+            "scr_period": "(四)06-08 語103 龎雅文",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6248,7 +6248,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "龎雅文"
         },
         {
             "scr_selcode": "0250",

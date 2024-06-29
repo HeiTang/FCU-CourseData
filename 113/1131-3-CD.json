@@ -1266,7 +1266,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "專案管理碩專班一學位學程",
-            "scr_period": "(五)11-13 紀104",
+            "scr_period": "(五)11-13 紀104 徐光明",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "*限碩士在職專班修習",
@@ -1276,7 +1276,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐光明"
         },
         {
             "scr_selcode": "1001",
