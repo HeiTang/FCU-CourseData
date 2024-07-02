@@ -4720,7 +4720,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工二甲",
-            "scr_period": "(二)07-08 學515 (三)10     學519",
+            "scr_period": "(二)07-08 學515 (三)10     學519 朱侯憲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4730,7 +4730,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "朱侯憲"
         },
         {
             "scr_selcode": "1506",
@@ -4918,7 +4918,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工二乙",
-            "scr_period": "(二)07-08 學515 (三)10     學519",
+            "scr_period": "(二)07-08 學515 (三)10     學519 朱侯憲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4928,7 +4928,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "朱侯憲"
         },
         {
             "scr_selcode": "1515",
@@ -5050,7 +5050,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三甲",
-            "scr_period": "(四)11-12 學105",
+            "scr_period": "(四)11-12 學105 吳耿東",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5060,7 +5060,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳耿東"
         },
         {
             "scr_selcode": "1527",
@@ -5204,7 +5204,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三乙",
-            "scr_period": "(四)11-12 學105",
+            "scr_period": "(四)11-12 學105 吳耿東",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5214,7 +5214,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳耿東"
         },
         {
             "scr_selcode": "1527",

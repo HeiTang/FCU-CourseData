@@ -958,7 +958,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設碩專一學位學程",
-            "scr_period": "(六)06-08 紀110 陳建元",
+            "scr_period": "(六)06-08 紀110 陳建元,王靚琇",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限本在職學位學程學生修習",
@@ -968,7 +968,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建元"
+            "scr_teacher": "陳建元,王靚琇"
         },
         {
             "scr_selcode": "0987",
@@ -980,7 +980,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設碩專一學位學程",
-            "scr_period": "(三)11-13 紀110 楊賀雯,張育端",
+            "scr_period": "(三)11-13 紀110 林宏澔,楊賀雯,張育端",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限本在職學位學程學生修習",
@@ -990,7 +990,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊賀雯,張育端"
+            "scr_teacher": "林宏澔,楊賀雯,張育端"
         },
         {
             "scr_selcode": "0988",
@@ -1090,7 +1090,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設碩專二學位學程",
-            "scr_period": "(六)06-08 紀409 辛年豐",
+            "scr_period": "(六)06-08 紀409 張鈺光,辛年豐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限本碩士在職學位學程學生修習",
@@ -1100,7 +1100,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "辛年豐"
+            "scr_teacher": "張鈺光,辛年豐"
         },
         {
             "scr_selcode": "0993",
@@ -1112,7 +1112,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設碩專二學位學程",
-            "scr_period": "(六)02-04 紀302(電腦實習室) 葉美伶,管志偉,陳美心,周天穎",
+            "scr_period": "(六)02-04 紀302(電腦實習室) 徐金煌,葉美伶,管志偉,陳美心,周天穎",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限本碩士在職學位學程學生修習",
@@ -1122,7 +1122,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉美伶,管志偉,陳美心,周天穎"
+            "scr_teacher": "徐金煌,葉美伶,管志偉,陳美心,周天穎"
         },
         {
             "scr_selcode": "0994",
