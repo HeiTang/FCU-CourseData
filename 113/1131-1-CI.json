@@ -78,7 +78,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電學院綜合班",
-            "scr_period": "(一)08-09 資電107 (三)08     資電107",
+            "scr_period": "(一)08-09 資電107 (三)08     資電107 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊鎮安老師",
@@ -88,7 +88,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "2148",
@@ -100,7 +100,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電學院綜合班",
-            "scr_period": "(三)09     資電107 (四)09-10 資電104",
+            "scr_period": "(三)09     資電107 (四)09-10 資電104 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊鎮安老師",
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "2149",
@@ -122,7 +122,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電學院綜合班",
-            "scr_period": "(五)06-08 電通B03",
+            "scr_period": "(五)06-08 電通B03 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊鎮安老師",
@@ -132,7 +132,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "2150",
@@ -188,7 +188,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電學院綜合班",
-            "scr_period": "(三)10     資電103 (五)03-04 資電103",
+            "scr_period": "(三)10     資電103 (五)03-04 資電103 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -198,7 +198,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "2153",
@@ -6480,7 +6480,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四甲",
-            "scr_period": "(一)02-04 電通303",
+            "scr_period": "(一)02-04 電通303 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊鎮安老師授課",
@@ -6490,7 +6490,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "1610",
@@ -6656,7 +6656,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四乙",
-            "scr_period": "(一)02-04 電通303",
+            "scr_period": "(一)02-04 電通303 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊鎮安老師授課",
@@ -6666,7 +6666,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "1610",
@@ -6832,7 +6832,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四丙",
-            "scr_period": "(一)02-04 電通303",
+            "scr_period": "(一)02-04 電通303 楊鎮安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊鎮安老師授課",
@@ -6842,7 +6842,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊鎮安"
         },
         {
             "scr_selcode": "1610",

@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 367,
+    "total": 366,
     "items": [
         {
             "scr_selcode": "0930",
@@ -6515,28 +6515,6 @@
             "scr_teacher": " "
         },
         {
-            "scr_selcode": "2422",
-            "sub_id3": "LAND1002",
-            "sub_name": "環境生態學",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土管一甲",
-            "scr_period": "(四)06-07 紀209A",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4608,
-            "cls_id": "CM03111",
-            "sub_id": "73830",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
-        },
-        {
             "scr_selcode": "2412",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -6757,26 +6735,26 @@
             "scr_teacher": " "
         },
         {
-            "scr_selcode": "2422",
-            "sub_id3": "LAND1002",
-            "sub_name": "環境生態學",
+            "scr_selcode": "0000",
+            "sub_id3": "LAND1098",
+            "sub_name": "環境永續概論",
             "scr_credit": 2.0,
             "scj_scr_mso": "選修",
             "scr_examid": "否",
             "scr_examfn": "否",
             "scr_exambf": "否",
-            "cls_name": "土管一乙",
-            "scr_period": "(四)06-07 紀209A",
+            "cls_name": "土管一合",
+            "scr_period": "(四)06-07 紀209A 彭佳偉",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4608,
-            "cls_id": "CM03112",
-            "sub_id": "73830",
+            "cls_id": "CM03119",
+            "sub_id": "73534",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "彭佳偉"
         },
         {
             "scr_selcode": "2423",

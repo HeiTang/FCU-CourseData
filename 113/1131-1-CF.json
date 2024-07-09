@@ -3158,7 +3158,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保一甲",
-            "scr_period": "(四)06-07 商207",
+            "scr_period": "(四)06-07 商207 黃于凌",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -3168,7 +3168,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "3585",
@@ -4720,7 +4720,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財精一學位學程",
-            "scr_period": "(五)01-02 商402",
+            "scr_period": "(五)01-02 商402 黃于凌",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -4730,7 +4730,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃于凌"
         },
         {
             "scr_selcode": "2001",

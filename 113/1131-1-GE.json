@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 232,
+    "total": 233,
     "items": [
         {
             "scr_selcode": "2765",
@@ -881,6 +881,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "宋明弘"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "GEH1128",
+            "sub_name": "詩史互證：三曹詩中的歷史與社會",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "人文藝術與社會經典教育",
+            "scr_period": "(五)06-07 人406 許瑞哲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "是否列入畢業學分請至各系確認。",
+            "unt_ls": 8888,
+            "cls_id": "XC04111",
+            "sub_id": "GM840",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "許瑞哲"
         },
         {
             "scr_selcode": "3078",
@@ -2102,7 +2124,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(二)08-09 學102",
+            "scr_period": "(二)08-09 學102 楊儒晟",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -2112,7 +2134,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊儒晟"
         },
         {
             "scr_selcode": "3134",
@@ -3158,7 +3180,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(一)06-07 人602",
+            "scr_period": "(一)06-07 人602 賈儒怡",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.賈儒怡老師授課。2.是否列入畢業學分請至各系確認。",
@@ -3168,7 +3190,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賈儒怡"
         },
         {
             "scr_selcode": "3649",
@@ -3180,7 +3202,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(一)08-09 人602",
+            "scr_period": "(一)08-09 人602 賈儒怡",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.賈儒怡老師授課。2.全英課程。3.是否列入畢業學分請至各系確認。",
@@ -3190,7 +3212,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賈儒怡"
         },
         {
             "scr_selcode": "3650",
@@ -3202,7 +3224,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(四)03-04 語403",
+            "scr_period": "(四)03-04 語403 張倫琪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.張倫琪老師授課。2.是否列入畢業學分請至各系確認。",
@@ -3212,7 +3234,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張倫琪"
         },
         {
             "scr_selcode": "3651",
@@ -3642,7 +3664,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "世界格局與歷史地理視野",
-            "scr_period": "(四)09-10 商202 林展暉",
+            "scr_period": "(三)09-10 商202 林展暉",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -3862,7 +3884,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "世界格局與歷史地理視野",
-            "scr_period": "(二)06-07 學102",
+            "scr_period": "(二)06-07 學102 楊儒晟",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -3872,7 +3894,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊儒晟"
         },
         {
             "scr_selcode": "3207",
@@ -4324,7 +4346,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "世界格局與歷史地理視野",
-            "scr_period": "(四)01-02 人B119A",
+            "scr_period": "(四)01-02 人B119A 林敏容",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.林敏容老師授課。2.是否列入畢業學分請至各系確認。",
@@ -4334,7 +4356,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林敏容"
         },
         {
             "scr_selcode": "3654",
@@ -4346,7 +4368,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "世界格局與歷史地理視野",
-            "scr_period": "(四)03-04 人B119A",
+            "scr_period": "(四)03-04 人B119A 林敏容",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.林敏容老師授課。2.日文授課。3.是否列入畢業學分請至各系確認。",
@@ -4356,7 +4378,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林敏容"
         },
         {
             "scr_selcode": "3226",
