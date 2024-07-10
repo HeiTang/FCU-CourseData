@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 631,
+    "total": 633,
     "items": [
         {
             "scr_selcode": "0053",
@@ -2124,7 +2124,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複一",
-            "scr_period": "(三)01-02 行政二館205(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(三)01-02 行政二館205(視聽室) 歐陽德林,陳耀鐘",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2134,7 +2134,7 @@
             "scr_dup": "012",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "歐陽德林,陳耀鐘"
         },
         {
             "scr_selcode": "1256",
@@ -3906,7 +3906,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業四甲",
-            "scr_period": "(三)06-08 語405",
+            "scr_period": "(三)06-08 語405 陳幼蘭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳幼蘭老師授課",
@@ -3916,7 +3916,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳幼蘭"
         },
         {
             "scr_selcode": "1344",
@@ -4016,7 +4016,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業四乙",
-            "scr_period": "(三)06-08 語405",
+            "scr_period": "(三)06-08 語405 陳幼蘭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳幼蘭老師授課",
@@ -4026,7 +4026,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳幼蘭"
         },
         {
             "scr_selcode": "1477",
@@ -4931,6 +4931,28 @@
             "scr_teacher": "朱侯憲"
         },
         {
+            "scr_selcode": "0000",
+            "sub_id3": "CHE3021",
+            "sub_name": "化工分離工程",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "化工三甲",
+            "scr_period": "(一)07     學515 (二)06-07 學519",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4004,
+            "cls_id": "CE08131",
+            "sub_id": "07600",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
+        },
+        {
             "scr_selcode": "1515",
             "sub_id3": "CHE3005",
             "sub_name": "化工熱力學",
@@ -5083,6 +5105,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張振昌"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "CHE3021",
+            "sub_name": "化工分離工程",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "化工三乙",
+            "scr_period": "(一)07     學515 (二)06-07 學519",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4004,
+            "cls_id": "CE08132",
+            "sub_id": "07600",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "1519",
@@ -7184,7 +7228,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統一學位學程",
-            "scr_period": "(二)03-04 行政二館205(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(二)03-04 行政二館205(視聽室) 林憶穎",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7194,7 +7238,7 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "林憶穎"
         },
         {
             "scr_selcode": "1937",
@@ -9142,7 +9186,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(一)03-04 忠B08 葉展銘,王珮羽",
+            "scr_period": "(一)03-04 忠B08 許后宜,陳姿伶",
             "scr_precnt": 115.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9152,7 +9196,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "許后宜,陳姿伶"
         },
         {
             "scr_selcode": "2531",
@@ -9428,7 +9472,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(一)03-04 忠B08 葉展銘,王珮羽",
+            "scr_period": "(一)03-04 忠B08 許后宜,陳姿伶",
             "scr_precnt": 115.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9438,7 +9482,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "許后宜,陳姿伶"
         },
         {
             "scr_selcode": "2543",
@@ -12332,7 +12376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一甲",
-            "scr_period": "(三)01-02 資電B22(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(三)01-02 資電B22(視聽室) 王珮羽,王金輝",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12342,7 +12386,7 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "王珮羽,王金輝"
         },
         {
             "scr_selcode": "2710",
@@ -12552,7 +12596,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一乙",
-            "scr_period": "(三)01-02 資電B22(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(三)01-02 資電B22(視聽室) 王珮羽,王金輝",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12562,7 +12606,7 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "王珮羽,王金輝"
         },
         {
             "scr_selcode": "2719",

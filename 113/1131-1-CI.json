@@ -584,7 +584,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一甲",
-            "scr_period": "(二)08-09 行政二館205(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(二)08-09 行政二館205(視聽室) 葉展銘,古陳蜀東",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -594,7 +594,7 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "葉展銘,古陳蜀東"
         },
         {
             "scr_selcode": "1366",
@@ -804,7 +804,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一乙",
-            "scr_period": "(三)06-07 忠B08 王珮羽,葉展銘",
+            "scr_period": "(三)06-07 忠B08 周吳龍,陳姿伶",
             "scr_precnt": 115.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -814,7 +814,7 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "周吳龍,陳姿伶"
         },
         {
             "scr_selcode": "1375",
@@ -1024,7 +1024,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一丙",
-            "scr_period": "(二)08-09 行政二館205(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(二)08-09 行政二館205(視聽室) 葉展銘,古陳蜀東",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1034,7 +1034,7 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "葉展銘,古陳蜀東"
         },
         {
             "scr_selcode": "1384",
@@ -9274,7 +9274,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二甲",
-            "scr_period": "(二)06-08 資電410",
+            "scr_period": "(二)06-08 資電410 楊世忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9284,7 +9284,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊世忠"
         },
         {
             "scr_selcode": "1787",
@@ -9582,7 +9582,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二乙",
-            "scr_period": "(二)06-08 資電410",
+            "scr_period": "(二)06-08 資電410 楊世忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9592,7 +9592,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊世忠"
         },
         {
             "scr_selcode": "1787",
@@ -10242,7 +10242,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四甲",
-            "scr_period": "(三)07-09 資電410",
+            "scr_period": "(三)07-09 資電410 林志郎",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中臺科技大學林志郎教授親授，歡迎有興趣同學選課。",
@@ -10252,7 +10252,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林志郎"
         },
         {
             "scr_selcode": "1810",
@@ -10418,7 +10418,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四乙",
-            "scr_period": "(三)07-09 資電410",
+            "scr_period": "(三)07-09 資電410 林志郎",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中臺科技大學林志郎教授親授，歡迎有興趣同學選課。",
@@ -10428,7 +10428,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林志郎"
         },
         {
             "scr_selcode": "1810",
@@ -10770,7 +10770,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊一甲",
-            "scr_period": "(一)03-04 紀204(第一國會廳) 葉展銘,王珮羽",
+            "scr_period": "(一)03-04 紀204(第一國會廳) 陳謙貴,張永吉",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10780,7 +10780,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "陳謙貴,張永吉"
         },
         {
             "scr_selcode": "2172",
@@ -10990,7 +10990,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊一乙",
-            "scr_period": "(一)03-04 紀204(第一國會廳) 葉展銘,王珮羽",
+            "scr_period": "(一)03-04 紀204(第一國會廳) 陳謙貴,張永吉",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11000,7 +11000,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "陳謙貴,張永吉"
         },
         {
             "scr_selcode": "2181",

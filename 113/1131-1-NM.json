@@ -78,7 +78,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學創新一學位學程",
-            "scr_period": "(一)06-07 紀110 (二)06-07 紀110 吳紀瑩",
+            "scr_period": "(一)06-07 紀110 (二)06-07 紀110 吳紀瑩,Michael Paul Kidd",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -88,7 +88,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "吳紀瑩"
+            "scr_teacher": "吳紀瑩,Michael Paul Kidd"
         },
         {
             "scr_selcode": "2829",
@@ -232,7 +232,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學創新二學位學程",
-            "scr_period": "(二)02-04 人B117A (二)08     人B117A 簡士超",
+            "scr_period": "(二)02-04 人B117A (二)08     人B117A 張恩啟",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -242,7 +242,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "簡士超"
+            "scr_teacher": "張恩啟"
         },
         {
             "scr_selcode": "2836",
@@ -320,7 +320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學創新二學位學程",
-            "scr_period": "(一)09-10 科航504 (三)06-07 科航504",
+            "scr_period": "(一)09-10 科航504 (三)06-07 科航504 Michael Paul Kidd",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -330,7 +330,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "Michael Paul Kidd"
         },
         {
             "scr_selcode": "2840",
@@ -1750,7 +1750,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學雙學二學位學程",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(二)09     科航706 顏厚棟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1760,7 +1760,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "顏厚棟"
         },
         {
             "scr_selcode": "2896",

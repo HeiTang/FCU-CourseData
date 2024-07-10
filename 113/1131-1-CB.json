@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 718,
+    "total": 721,
     "items": [
         {
             "scr_selcode": "0090",
@@ -716,7 +716,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一甲",
-            "scr_period": "(二)03-04 忠B08 葉展銘,王珮羽",
+            "scr_period": "(二)03-04 忠B08 劉陶堃,張永吉",
             "scr_precnt": 115.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -726,7 +726,7 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "劉陶堃,張永吉"
         },
         {
             "scr_selcode": "0120",
@@ -1002,7 +1002,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一乙",
-            "scr_period": "(五)03-04 行政二館205(視聽室) 王珮羽,葉展銘",
+            "scr_period": "(五)03-04 行政二館205(視聽室) 袁翌祥,嚴明德",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1012,7 +1012,7 @@
             "scr_dup": "018",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "袁翌祥,嚴明德"
         },
         {
             "scr_selcode": "0130",
@@ -1288,7 +1288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計一丙",
-            "scr_period": "(五)03-04 行政二館205(視聽室) 王珮羽,葉展銘",
+            "scr_period": "(五)03-04 行政二館205(視聽室) 袁翌祥,嚴明德",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1298,7 +1298,7 @@
             "scr_dup": "018",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "袁翌祥,嚴明德"
         },
         {
             "scr_selcode": "0143",
@@ -3730,7 +3730,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管一甲",
-            "scr_period": "(一)03-04 科航B102 葉展銘,王珮羽",
+            "scr_period": "(一)03-04 科航B102 應維新,袁翌祥",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3740,7 +3740,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "應維新,袁翌祥"
         },
         {
             "scr_selcode": "2284",
@@ -3950,7 +3950,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管一乙",
-            "scr_period": "(一)03-04 科航B102 葉展銘,王珮羽",
+            "scr_period": "(一)03-04 科航B102 應維新,袁翌祥",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3960,7 +3960,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "應維新,袁翌祥"
         },
         {
             "scr_selcode": "2293",
@@ -5688,7 +5688,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一甲",
-            "scr_period": "(三)01-02 紀204(第一國會廳) 王珮羽,葉展銘",
+            "scr_period": "(三)01-02 紀204(第一國會廳) 白宏茂,呂文邦",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5698,7 +5698,7 @@
             "scr_dup": "010",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "白宏茂,呂文邦"
         },
         {
             "scr_selcode": "0228",
@@ -5908,7 +5908,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一乙",
-            "scr_period": "(二)01-02 行政二館205(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(二)01-02 行政二館205(視聽室) 余君青,陳怡君",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5918,7 +5918,7 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "余君青,陳怡君"
         },
         {
             "scr_selcode": "0235",
@@ -6128,7 +6128,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一丙",
-            "scr_period": "(二)01-02 行政二館205(視聽室) 葉展銘,王珮羽",
+            "scr_period": "(二)01-02 行政二館205(視聽室) 余君青,陳怡君",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6138,7 +6138,7 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,王珮羽"
+            "scr_teacher": "余君青,陳怡君"
         },
         {
             "scr_selcode": "0245",
@@ -13652,7 +13652,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷一甲",
-            "scr_period": "(三)06-07 行政二館205(視聽室) 王珮羽,葉展銘",
+            "scr_period": "(三)06-07 行政二館205(視聽室) 曾桔炫,王金輝",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -13662,7 +13662,7 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "曾桔炫,王金輝"
         },
         {
             "scr_selcode": "3680",
@@ -13894,7 +13894,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷一乙",
-            "scr_period": "(三)06-07 行政二館205(視聽室) 王珮羽,葉展銘",
+            "scr_period": "(三)06-07 行政二館205(視聽室) 曾桔炫,王金輝",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -13904,7 +13904,7 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "曾桔炫,王金輝"
         },
         {
             "scr_selcode": "3680",
@@ -15161,6 +15161,50 @@
             "scr_teacher": " "
         },
         {
+            "scr_selcode": "0000",
+            "sub_id3": "IBUS1009",
+            "sub_name": "商用英文(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國企一學位學程",
+            "scr_period": "(二)06-07 商512 鄭安倫",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "For BIBA students only.",
+            "unt_ls": 4115,
+            "cls_id": "CB25110",
+            "sub_id": "31357",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "Y",
+            "scr_teacher": "鄭安倫"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "IBUS1009",
+            "sub_name": "商用英文(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國企一學位學程",
+            "scr_period": "(二)06-07 待排",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "For BIBA students only.",
+            "unt_ls": 4115,
+            "cls_id": "CB25110",
+            "sub_id": "31357",
+            "scr_dup": "002",
+            "scr_ldl": "課堂教學",
+            "scr_english": "Y",
+            "scr_teacher": " "
+        },
+        {
             "scr_selcode": "0757",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -15267,7 +15311,7 @@
             "sub_id": "48602",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "黃鈺茗"
         },
         {
@@ -15283,7 +15327,7 @@
             "scr_period": "(四)02-04 商409 邱安安",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "1. For BIBA students only. 2. Must take \"RECITATION OF ACCOUNTING(2)\" with the class.",
+            "scr_remarks": "1. For BIBA students only. 2. Must take \"RECITATION OF ACCOUNTING(1)\" with the class.",
             "unt_ls": 4115,
             "cls_id": "CB25110",
             "sub_id": "51900",
@@ -15305,7 +15349,7 @@
             "scr_period": "(四)06-07 商107 陳舜華",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "1. For BIBA students only. 2. Must take \"ACCOUNTING(2)\" with the class.",
+            "scr_remarks": "1. For BIBA students only. 2. Must take \"ACCOUNTING(1)\" with the class.",
             "unt_ls": 4115,
             "cls_id": "CB25110",
             "sub_id": "51950",
@@ -15390,7 +15434,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國企一學位學程",
-            "scr_period": "(五)01-02 行政二館205(視聽室) 王珮羽,葉展銘",
+            "scr_period": "(五)01-02 行政二館205(視聽室) 李建勲,嚴明德",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -15400,7 +15444,29 @@
             "scr_dup": "017",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,葉展銘"
+            "scr_teacher": "李建勲,嚴明德"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "IBUS2018",
+            "sub_name": "簡報技巧與溝通",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國企二學位學程",
+            "scr_period": "(五)06-07 商409 林璇",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4115,
+            "cls_id": "CB25120",
+            "sub_id": "62945",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "Y",
+            "scr_teacher": "林璇"
         },
         {
             "scr_selcode": "0767",
@@ -15786,7 +15852,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國企四學位學程",
-            "scr_period": "(四)03-04 商103 黃瓊如",
+            "scr_period": "(二)03-04 商512",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "For BIBA Students only",
@@ -15795,8 +15861,8 @@
             "sub_id": "30636",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "黃瓊如"
+            "scr_english": "Y",
+            "scr_teacher": " "
         }
     ]
 }
