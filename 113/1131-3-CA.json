@@ -320,7 +320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩一",
-            "scr_period": "(五)02-04 工204",
+            "scr_period": "(五)02-04 工204 林英傑",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -330,7 +330,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林英傑"
         },
         {
             "scr_selcode": "3662",
@@ -351,7 +351,7 @@
             "sub_id": "25455",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "魏立儒"
         },
         {
@@ -2410,7 +2410,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電碩一",
-            "scr_period": "(四)06-08 理101",
+            "scr_period": "(四)06-08 理101 吳宗諭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2420,7 +2420,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳宗諭"
         },
         {
             "scr_selcode": "2761",
