@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 723,
+    "total": 728,
     "items": [
         {
             "scr_selcode": "0090",
@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學院綜合班",
-            "scr_period": "(一)02-04 商103",
+            "scr_period": "(一)02-04 商103 王文聖",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "王文聖"
         },
         {
             "scr_selcode": "0103",
@@ -1816,7 +1816,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計二乙",
-            "scr_period": "(二)02-04 人505",
+            "scr_period": "(二)02-04 人505 武垂玲",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1826,7 +1826,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "武垂玲"
         },
         {
             "scr_selcode": "0169",
@@ -4491,6 +4491,28 @@
             "scr_teacher": "顏上詠"
         },
         {
+            "scr_selcode": "0000",
+            "sub_id3": "MGT2094",
+            "sub_name": "資料科學商管應用",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "企管三甲",
+            "scr_period": "(三)02-04 資電519 武垂玲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4102,
+            "cls_id": "CM01131",
+            "sub_id": "59469",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "武垂玲"
+        },
+        {
             "scr_selcode": "2310",
             "sub_id3": "MGT4091",
             "sub_name": "企業管理專題研究(一)",
@@ -4645,6 +4667,28 @@
             "scr_teacher": "黃禮林"
         },
         {
+            "scr_selcode": "2323",
+            "sub_id3": "ACCT4040",
+            "sub_name": "財務報表分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "企管三甲",
+            "scr_period": "(一)02-04 商204 楊曉琳",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4102,
+            "cls_id": "CM01131",
+            "sub_id": "37910",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "楊曉琳"
+        },
+        {
             "scr_selcode": "2324",
             "sub_id3": "MGT2092",
             "sub_name": "雲端運算與服務",
@@ -4720,7 +4764,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管三甲",
-            "scr_period": "(三)11-13 商301(電腦實習室)",
+            "scr_period": "(三)11-13 商301(電腦實習室) 曾映慈",
             "scr_precnt": 68.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4730,7 +4774,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾映慈"
         },
         {
             "scr_selcode": "3606",
@@ -4775,6 +4819,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "吳如娟,莊玉成"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "MGT2094",
+            "sub_name": "資料科學商管應用",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "企管三乙",
+            "scr_period": "(三)02-04 資電519 武垂玲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4102,
+            "cls_id": "CM01132",
+            "sub_id": "59469",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "武垂玲"
         },
         {
             "scr_selcode": "2314",
@@ -4931,6 +4997,28 @@
             "scr_teacher": "黃禮林"
         },
         {
+            "scr_selcode": "2323",
+            "sub_id3": "ACCT4040",
+            "sub_name": "財務報表分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "企管三乙",
+            "scr_period": "(一)02-04 商204 楊曉琳",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4102,
+            "cls_id": "CM01132",
+            "sub_id": "37910",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "楊曉琳"
+        },
+        {
             "scr_selcode": "2324",
             "sub_id3": "MGT2092",
             "sub_name": "雲端運算與服務",
@@ -5006,7 +5094,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管三乙",
-            "scr_period": "(三)11-13 商301(電腦實習室)",
+            "scr_period": "(三)11-13 商301(電腦實習室) 曾映慈",
             "scr_precnt": 68.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5016,7 +5104,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾映慈"
         },
         {
             "scr_selcode": "3606",
@@ -5061,28 +5149,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "吳如娟,莊玉成"
-        },
-        {
-            "scr_selcode": "2323",
-            "sub_id3": "ACCT4040",
-            "sub_name": "財務報表分析",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "企管三合",
-            "scr_period": "(一)02-04 商204 楊曉琳",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4102,
-            "cls_id": "CM01139",
-            "sub_id": "37910",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "楊曉琳"
         },
         {
             "scr_selcode": "2328",
@@ -14853,6 +14919,28 @@
             "scr_teacher": "李宜靜"
         },
         {
+            "scr_selcode": "0000",
+            "sub_id3": "MKT4030",
+            "sub_name": "餐旅行銷管理",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷四甲",
+            "scr_period": "(四)06-08 待排 王郁彬",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26141",
+            "sub_id": "30961",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "王郁彬"
+        },
+        {
             "scr_selcode": "0827",
             "sub_id3": "MKT4011",
             "sub_name": "品牌關係經營實務專題",
@@ -15027,6 +15115,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林我崇"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "MKT4030",
+            "sub_name": "餐旅行銷管理",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷四乙",
+            "scr_period": "(四)06-08 待排 王郁彬",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26142",
+            "sub_id": "30961",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "王郁彬"
         },
         {
             "scr_selcode": "0828",
