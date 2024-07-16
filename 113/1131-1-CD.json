@@ -386,7 +386,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(二)03-04 人406 呂嘉穎",
+            "scr_period": "(二)03-04 人406 鍾俊彥",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -396,7 +396,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂嘉穎"
+            "scr_teacher": "鍾俊彥"
         },
         {
             "scr_selcode": "1025",
@@ -6458,7 +6458,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(二)09     紀302(電腦實習室) (二)09     紀303(電腦實習室) (二)10     紀302(電腦實習室) (二)10     紀303(電腦實習室)",
+            "scr_period": "(二)09     紀302(電腦實習室) (二)09     紀303(電腦實習室) (二)10     紀302(電腦實習室) (二)10     紀303(電腦實習室) 翁添雄",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6468,7 +6468,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "翁添雄"
         },
         {
             "scr_selcode": "2410",

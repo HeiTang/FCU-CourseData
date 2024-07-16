@@ -3730,7 +3730,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業三甲",
-            "scr_period": "(四)02-04 忠210",
+            "scr_period": "(四)02-04 忠210 羅潔伶",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3740,7 +3740,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "羅潔伶"
         },
         {
             "scr_selcode": "1340",
@@ -3862,7 +3862,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業三乙",
-            "scr_period": "(四)02-04 忠210",
+            "scr_period": "(四)02-04 忠210 羅潔伶",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3872,7 +3872,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "羅潔伶"
         },
         {
             "scr_selcode": "1340",
