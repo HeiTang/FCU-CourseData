@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 730,
+    "total": 728,
     "items": [
         {
             "scr_selcode": "0090",
@@ -2586,7 +2586,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三甲",
-            "scr_period": "(二)06-08 商302",
+            "scr_period": "(二)06-08 商302 石世賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2596,7 +2596,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "石世賢"
         },
         {
             "scr_selcode": "0182",
@@ -2784,7 +2784,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三乙",
-            "scr_period": "(二)06-08 商302",
+            "scr_period": "(二)06-08 商302 石世賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2794,7 +2794,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "石世賢"
         },
         {
             "scr_selcode": "0187",
@@ -2982,7 +2982,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(二)06-08 商302",
+            "scr_period": "(二)06-08 商302 石世賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2992,7 +2992,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "石世賢"
         },
         {
             "scr_selcode": "0192",
@@ -6370,7 +6370,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二甲",
-            "scr_period": "(三)08-09 人503",
+            "scr_period": "(三)08-09 人503 莫非",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6380,7 +6380,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "莫非"
         },
         {
             "scr_selcode": "0266",
@@ -6414,7 +6414,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二甲",
-            "scr_period": "(五)09-10 商304",
+            "scr_period": "(四)09-10 商803(第八國會廳) 莫非",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6424,7 +6424,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "莫非"
         },
         {
             "scr_selcode": "0268",
@@ -6722,7 +6722,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二乙",
-            "scr_period": "(三)08-09 人503",
+            "scr_period": "(三)08-09 人503 莫非",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6732,7 +6732,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "莫非"
         },
         {
             "scr_selcode": "0266",
@@ -6766,7 +6766,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二乙",
-            "scr_period": "(五)09-10 商304",
+            "scr_period": "(四)09-10 商803(第八國會廳) 莫非",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6776,7 +6776,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "莫非"
         },
         {
             "scr_selcode": "0268",
@@ -7052,7 +7052,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二丙",
-            "scr_period": "(三)08-09 人503",
+            "scr_period": "(三)08-09 人503 莫非",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7062,7 +7062,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "莫非"
         },
         {
             "scr_selcode": "0266",
@@ -7096,7 +7096,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二丙",
-            "scr_period": "(五)09-10 商304",
+            "scr_period": "(四)09-10 商803(第八國會廳) 莫非",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7106,7 +7106,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "莫非"
         },
         {
             "scr_selcode": "0268",
@@ -8183,7 +8183,7 @@
             "sub_id": "51950",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "Y",
+            "scr_english": "N",
             "scr_teacher": "賴家蓁"
         },
         {
@@ -8403,7 +8403,7 @@
             "sub_id": "51900",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "Y",
+            "scr_english": "N",
             "scr_teacher": "蔡秉玠"
         },
         {
@@ -8425,7 +8425,7 @@
             "sub_id": "51950",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "Y",
+            "scr_english": "N",
             "scr_teacher": "張珮禎"
         },
         {
@@ -8878,7 +8878,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅二乙",
-            "scr_period": "(二)09     商204 曾子耘",
+            "scr_period": "(二)09     商204 蔡秉玠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8888,7 +8888,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾子耘"
+            "scr_teacher": "蔡秉玠"
         },
         {
             "scr_selcode": "0493",
@@ -9428,7 +9428,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅三乙",
-            "scr_period": "(五)02-04 忠211",
+            "scr_period": "(五)02-04 忠211 黃彥樺",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課與實習需同班修習",
@@ -9438,7 +9438,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃彥樺"
         },
         {
             "scr_selcode": "0518",
@@ -9516,7 +9516,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅四甲",
-            "scr_period": "(三)11-13 商202",
+            "scr_period": "(三)11-13 商202 黃彥樺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9526,7 +9526,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃彥樺"
         },
         {
             "scr_selcode": "0520",
@@ -9604,7 +9604,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅四乙",
-            "scr_period": "(三)11-13 商202",
+            "scr_period": "(三)11-13 商202 黃彥樺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9614,7 +9614,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃彥樺"
         },
         {
             "scr_selcode": "0575",
@@ -10154,7 +10154,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計二甲",
-            "scr_period": "(二)02-04 商311 吳廣文",
+            "scr_period": "(二)02-04 商311 王郁彬",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10164,7 +10164,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳廣文"
+            "scr_teacher": "王郁彬"
         },
         {
             "scr_selcode": "0598",
@@ -11650,7 +11650,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟二甲",
-            "scr_period": "(三)09     商206 陳依依",
+            "scr_period": "(三)09     商206 周冰瑤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11660,7 +11660,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳依依"
+            "scr_teacher": "周冰瑤"
         },
         {
             "scr_selcode": "0667",
@@ -11760,7 +11760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟二甲",
-            "scr_period": "(一)02-04 商206",
+            "scr_period": "(一)02-04 商206 周冰瑤",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -11770,7 +11770,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周冰瑤"
         },
         {
             "scr_selcode": "0672",
@@ -12002,7 +12002,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟二乙",
-            "scr_period": "(三)02-04 忠B03",
+            "scr_period": "(三)02-04 忠B03 徐繼達",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -12012,7 +12012,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐繼達"
         },
         {
             "scr_selcode": "0679",
@@ -14963,28 +14963,6 @@
             "scr_teacher": "李宜靜"
         },
         {
-            "scr_selcode": "0000",
-            "sub_id3": "MKT4030",
-            "sub_name": "餐旅行銷管理",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "行銷四甲",
-            "scr_period": "(四)06-08 待排 王郁彬",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4108,
-            "cls_id": "CB26141",
-            "sub_id": "30961",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "王郁彬"
-        },
-        {
             "scr_selcode": "0827",
             "sub_id3": "MKT4011",
             "sub_name": "品牌關係經營實務專題",
@@ -15159,28 +15137,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林我崇"
-        },
-        {
-            "scr_selcode": "0000",
-            "sub_id3": "MKT4030",
-            "sub_name": "餐旅行銷管理",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "行銷四乙",
-            "scr_period": "(四)06-08 待排 王郁彬",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4108,
-            "cls_id": "CB26142",
-            "sub_id": "30961",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "王郁彬"
         },
         {
             "scr_selcode": "0828",

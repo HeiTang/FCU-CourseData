@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 637,
+    "total": 639,
     "items": [
         {
             "scr_selcode": "0053",
@@ -3589,6 +3589,28 @@
             "scr_teacher": "丘紀堇"
         },
         {
+            "scr_selcode": "0000",
+            "sub_id3": "INEN3063",
+            "sub_name": "決策分析與管理",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業三甲",
+            "scr_period": "(三)06-08 語304 周哲維",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06131",
+            "sub_id": "18863",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "周哲維"
+        },
+        {
             "scr_selcode": "1329",
             "sub_id3": "INEN3056",
             "sub_name": "人因工程與實驗設計",
@@ -3763,6 +3785,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "周育樂"
+        },
+        {
+            "scr_selcode": "0000",
+            "sub_id3": "INEN3063",
+            "sub_name": "決策分析與管理",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業三乙",
+            "scr_period": "(三)06-08 語304 周哲維",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06132",
+            "sub_id": "18863",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "周哲維"
         },
         {
             "scr_selcode": "1335",
@@ -5028,7 +5072,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三甲",
-            "scr_period": "(一)07     學515 (二)06-07 學519",
+            "scr_period": "(一)07     學515 (二)06-07 學519 張楷洋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5038,7 +5082,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張楷洋"
         },
         {
             "scr_selcode": "1515",
@@ -5204,7 +5248,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三乙",
-            "scr_period": "(一)07     學515 (二)06-07 學519",
+            "scr_period": "(一)07     學515 (二)06-07 學519 張楷洋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5214,7 +5258,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張楷洋"
         },
         {
             "scr_selcode": "1519",
@@ -13960,7 +14004,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "淨零智慧學士後專班二",
-            "scr_period": "(六)02-04 工319(電腦實習室) 彭信舒",
+            "scr_period": "(六)02-04 工319(電腦實習室) 陳兆衡",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室。",
@@ -13970,7 +14014,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭信舒"
+            "scr_teacher": "陳兆衡"
         },
         {
             "scr_selcode": "0088",
