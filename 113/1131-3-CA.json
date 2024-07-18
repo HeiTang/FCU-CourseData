@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 138,
+    "total": 139,
     "items": [
         {
             "scr_selcode": "0057",
@@ -12,7 +12,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工程與科學學院碩士綜合班",
-            "scr_period": "(六)01       邱聖貴",
+            "scr_period": "(六)01     未排教室 王啟昌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限通過台積電NTC課程的同學修習",
@@ -22,7 +22,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱聖貴"
+            "scr_teacher": "王啟昌"
         },
         {
             "scr_selcode": "0058",
@@ -34,7 +34,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工程與科學學院碩士綜合班",
-            "scr_period": "(六)02       邱聖貴",
+            "scr_period": "(六)02     未排教室 王啟昌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限通過台積電NTC課程的同學修習",
@@ -44,7 +44,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱聖貴"
+            "scr_teacher": "王啟昌"
         },
         {
             "scr_selcode": "0059",
@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工程與科學學院碩士綜合班",
-            "scr_period": "(六)03       邱聖貴",
+            "scr_period": "(六)03     未排教室 王啟昌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限通過台積電NTC課程的同學修習",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱聖貴"
+            "scr_teacher": "王啟昌"
         },
         {
             "scr_selcode": "0060",
@@ -78,7 +78,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工程與科學學院碩士綜合班",
-            "scr_period": "(六)04       邱聖貴",
+            "scr_period": "(六)04     未排教室 王啟昌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限通過台積電NTC課程的同學修習",
@@ -88,7 +88,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱聖貴"
+            "scr_teacher": "王啟昌"
         },
         {
             "scr_selcode": "0061",
@@ -773,6 +773,28 @@
             "scr_teacher": "郭修暐"
         },
         {
+            "scr_selcode": "0000",
+            "sub_id3": "CHE6083",
+            "sub_name": "高等流體力學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "化工碩一",
+            "scr_period": "(四)02-04 學705 張楷洋",
+            "scr_precnt": 28.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4004,
+            "cls_id": "CE08310",
+            "sub_id": "32000",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "張楷洋"
+        },
+        {
             "scr_selcode": "1534",
             "sub_id3": "ENGS6931",
             "sub_name": "專題討論(一)",
@@ -782,7 +804,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工碩一",
-            "scr_period": "(一)08-09 學219(第九國會廳)",
+            "scr_period": "(一)08-09 學219(第九國會廳) 張楷洋",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -792,7 +814,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張楷洋"
         },
         {
             "scr_selcode": "1535",

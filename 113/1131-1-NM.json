@@ -12,7 +12,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學創新一學位學程",
-            "scr_period": "(二)05     紀110",
+            "scr_period": "(二)05     紀110 張恩啟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -22,7 +22,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張恩啟"
         },
         {
             "scr_selcode": "2826",
@@ -210,7 +210,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學創新二學位學程",
-            "scr_period": "(二)05     人B117A",
+            "scr_period": "(二)05     人B117A 郭祐誠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -220,7 +220,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭祐誠"
         },
         {
             "scr_selcode": "2835",
@@ -276,8 +276,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學創新二學位學程",
-            "scr_period": "(四)06-09 科航504",
-            "scr_precnt": 60.0,
+            "scr_period": "(三)09-12 紀303(電腦實習室) 鍾崇義",
+            "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
             "unt_ls": 4902,
@@ -286,7 +286,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "鍾崇義"
         },
         {
             "scr_selcode": "2838",
@@ -716,7 +716,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "數據分析二學位學程",
-            "scr_period": "(三)06-08 科航706 何平",
+            "scr_period": "(三)06-08 科航706 張恩啟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -726,7 +726,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "何平"
+            "scr_teacher": "張恩啟"
         },
         {
             "scr_selcode": "2858",
