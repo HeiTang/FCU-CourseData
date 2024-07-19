@@ -1948,7 +1948,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(三)01-02 學101",
+            "scr_period": "(三)01-02 語305",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3334,7 +3334,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一甲",
-            "scr_period": "(三)06-07 人404 鍾俊彥",
+            "scr_period": "(三)06-07 紀204(第一國會廳) 鍾俊彥",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6735,7 +6735,7 @@
             "scr_teacher": " "
         },
         {
-            "scr_selcode": "0000",
+            "scr_selcode": "3699",
             "sub_id3": "LAND1098",
             "sub_name": "環境永續概論",
             "scr_credit": 2.0,

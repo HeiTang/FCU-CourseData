@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 89,
+    "total": 87,
     "items": [
         {
             "scr_selcode": "0001",
@@ -289,28 +289,6 @@
             "scr_teacher": "鄭圓圓(鄭月妹)"
         },
         {
-            "scr_selcode": "0019",
-            "sub_id3": "GEK2000",
-            "sub_name": "科學與人文的對話",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "建築專業一甲",
-            "scr_period": "(三)06-07 紀204(第一國會廳) 呂嘉穎",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 5001,
-            "cls_id": "AS01111",
-            "sub_id": "00086",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "呂嘉穎"
-        },
-        {
             "scr_selcode": "0020",
             "sub_id3": "ARCH1011",
             "sub_name": "建築圖學(一)",
@@ -408,7 +386,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業一甲",
-            "scr_period": "(三)06-07 人404 鍾俊彥",
+            "scr_period": "(三)06-07 紀204(第一國會廳) 鍾俊彥",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1477,28 +1455,6 @@
             "scr_teacher": "彭志峰,林喬偉"
         },
         {
-            "scr_selcode": "0019",
-            "sub_id3": "GEK2000",
-            "sub_name": "科學與人文的對話",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "室內設計一",
-            "scr_period": "(三)06-07 紀204(第一國會廳) 呂嘉穎",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 5004,
-            "cls_id": "AS03110",
-            "sub_id": "00086",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "呂嘉穎"
-        },
-        {
             "scr_selcode": "0020",
             "sub_id3": "ARCH1011",
             "sub_name": "建築圖學(一)",
@@ -1662,7 +1618,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計一",
-            "scr_period": "(三)06-07 人607 鄭宜玟",
+            "scr_period": "(三)06-07 忠B01 鄭宜玟",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",

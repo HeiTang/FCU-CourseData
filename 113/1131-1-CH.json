@@ -1178,7 +1178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一甲",
-            "scr_period": "(四)06-07 人503",
+            "scr_period": "(四)06-07 人503 劉川豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -1188,7 +1188,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "劉川豪"
         },
         {
             "scr_selcode": "2042",
@@ -1200,7 +1200,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一甲",
-            "scr_period": "(二)02-04 人502",
+            "scr_period": "(二)02-04 人502 陳萱芳",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -1210,7 +1210,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳萱芳"
         },
         {
             "scr_selcode": "2043",
@@ -1376,7 +1376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一甲",
-            "scr_period": "(五)03-04 待排",
+            "scr_period": "(五)03-04 待排 劉川豪",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -1386,7 +1386,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "劉川豪"
         },
         {
             "scr_selcode": "2063",
@@ -1442,7 +1442,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一甲",
-            "scr_period": "(四)01-02 人703",
+            "scr_period": "(四)01-02 人703 陳萱芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1452,7 +1452,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳萱芳"
         },
         {
             "scr_selcode": "3601",
@@ -1574,7 +1574,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一乙",
-            "scr_period": "(二)06-07 人607",
+            "scr_period": "(二)06-07 人607 劉川豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -1584,7 +1584,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "劉川豪"
         },
         {
             "scr_selcode": "2054",
@@ -1772,7 +1772,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一乙",
-            "scr_period": "(五)03-04 待排",
+            "scr_period": "(五)03-04 待排 劉川豪",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -1782,7 +1782,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "劉川豪"
         },
         {
             "scr_selcode": "2063",
@@ -1838,7 +1838,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一乙",
-            "scr_period": "(四)01-02 人703",
+            "scr_period": "(四)01-02 人703 陳萱芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1848,7 +1848,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳萱芳"
         },
         {
             "scr_selcode": "3599",
@@ -1904,7 +1904,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文二甲",
-            "scr_period": "(五)01-02 圖212_資訊素養 陳子皓",
+            "scr_period": "(五)01-02 圖212_資訊素養 陳子皓,劉川豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -1914,7 +1914,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳子皓"
+            "scr_teacher": "陳子皓,劉川豪"
         },
         {
             "scr_selcode": "2068",
@@ -2080,7 +2080,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文二甲",
-            "scr_period": "(三)01-02 人708",
+            "scr_period": "(三)01-02 人708 陳萱芳",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -2090,7 +2090,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳萱芳"
         },
         {
             "scr_selcode": "2085",
@@ -2322,7 +2322,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文二乙",
-            "scr_period": "(一)06-07 人603 陳子皓",
+            "scr_period": "(一)06-07 人603 陳子皓,陳萱芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -2332,7 +2332,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳子皓"
+            "scr_teacher": "陳子皓,陳萱芳"
         },
         {
             "scr_selcode": "2077",
@@ -2498,7 +2498,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文二乙",
-            "scr_period": "(三)01-02 人708",
+            "scr_period": "(三)01-02 人708 陳萱芳",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -2508,7 +2508,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳萱芳"
         },
         {
             "scr_selcode": "2085",
@@ -2960,7 +2960,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文三乙",
-            "scr_period": "(一)03-04 圖212_資訊素養 陳子皓",
+            "scr_period": "(一)03-04 圖212_資訊素養 陳子皓,陳萱芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限外文系學生。",
@@ -2970,7 +2970,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳子皓"
+            "scr_teacher": "陳子皓,陳萱芳"
         },
         {
             "scr_selcode": "2098",

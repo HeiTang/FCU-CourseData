@@ -672,7 +672,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "社創永續碩專二學位學程",
-            "scr_period": null,
+            "scr_period": "(五)00",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -682,7 +682,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "2140",
@@ -716,7 +716,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "社創永續碩專二學位學程",
-            "scr_period": "(六)06-08 人802 吳仰哲",
+            "scr_period": "(六)06-08 人802 吳仰哲,林浚騰",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -726,7 +726,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳仰哲"
+            "scr_teacher": "吳仰哲,林浚騰"
         },
         {
             "scr_selcode": "2142",
@@ -760,7 +760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "社創永續碩專二學位學程",
-            "scr_period": "(一)11-13 人802 徐偉傑",
+            "scr_period": "(一)11-13 人802 徐偉傑,曾智義",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -770,7 +770,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑"
+            "scr_teacher": "徐偉傑,曾智義"
         }
     ]
 }
