@@ -3312,7 +3312,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一甲",
-            "scr_period": "(一)09     忠308 翁祥凱",
+            "scr_period": "(一)09     紀209A 翁祥凱",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3400,7 +3400,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一甲",
-            "scr_period": "(一)06-08 忠308 楊宗璟",
+            "scr_period": "(一)06-08 紀209A 楊宗璟",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3488,7 +3488,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一甲",
-            "scr_period": "(一)10     忠308 吳佳真",
+            "scr_period": "(一)10     紀209A 吳佳真",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6370,7 +6370,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(二)02-04 紀105 張育端,李長曄,游政諭",
+            "scr_period": "(二)02     待排 (二)02     紀105 (二)03     待排 (二)03-04 紀105 王忠融,張育端,盧伯豪,李長曄,游政諭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6380,7 +6380,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張育端,李長曄,游政諭"
+            "scr_teacher": "王忠融,張育端,盧伯豪,李長曄,游政諭"
         },
         {
             "scr_selcode": "2406",
@@ -6480,7 +6480,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(四)02-04 紀105",
+            "scr_period": "(四)02-04 紀105 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6490,7 +6490,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "盧伯豪"
         },
         {
             "scr_selcode": "2411",
@@ -6502,7 +6502,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(四)01     紀105",
+            "scr_period": "(四)01     紀105 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6512,7 +6512,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "盧伯豪"
         },
         {
             "scr_selcode": "2412",
@@ -6590,7 +6590,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(二)02-04 紀103 游政諭,張育端,李長曄",
+            "scr_period": "(二)02     待排 (二)02     紀103 (二)03     待排 (二)03-04 紀103 王忠融,游政諭,盧伯豪,張育端,李長曄",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6600,7 +6600,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游政諭,張育端,李長曄"
+            "scr_teacher": "王忠融,游政諭,盧伯豪,張育端,李長曄"
         },
         {
             "scr_selcode": "2416",
@@ -6678,7 +6678,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(一)03-04 忠611(電腦實習室)",
+            "scr_period": "(一)03-04 忠611(電腦實習室) 王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6688,7 +6688,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王忠融"
         },
         {
             "scr_selcode": "2420",
@@ -6964,7 +6964,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二甲",
-            "scr_period": "(二)08-10 紀111 袁義昕",
+            "scr_period": "(二)08-10 科航205 袁義昕",
             "scr_precnt": 90.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7096,7 +7096,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(五)02-04 紀209B 陳建元",
+            "scr_period": "(五)02-04 紀209B 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7106,7 +7106,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建元"
+            "scr_teacher": "盧伯豪"
         },
         {
             "scr_selcode": "2433",
@@ -7118,7 +7118,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(五)01     紀209B 陳建元",
+            "scr_period": "(五)01     紀209B 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7128,7 +7128,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建元"
+            "scr_teacher": "盧伯豪"
         },
         {
             "scr_selcode": "2434",
@@ -7206,7 +7206,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(二)02-04 忠210 朱南玉",
+            "scr_period": "(三)02-04 紀301智慧城市共享學習堂 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7216,7 +7216,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱南玉"
+            "scr_teacher": "盧伯豪"
         },
         {
             "scr_selcode": "2438",
@@ -7228,7 +7228,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(二)01     忠210 朱南玉",
+            "scr_period": "(三)01     紀301智慧城市共享學習堂 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7238,7 +7238,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱南玉"
+            "scr_teacher": "盧伯豪"
         },
         {
             "scr_selcode": "2439",
@@ -7272,7 +7272,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(二)08-10 紀111 袁義昕",
+            "scr_period": "(二)08-10 科航205 袁義昕",
             "scr_precnt": 90.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7404,7 +7404,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三甲",
-            "scr_period": "(一)02-04 紀209A",
+            "scr_period": "(一)02-04 紀209A 王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7414,7 +7414,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王忠融"
         },
         {
             "scr_selcode": "2446",
@@ -7558,7 +7558,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三甲",
-            "scr_period": "(五)06-08 紀209B 李長曄,游政諭",
+            "scr_period": "(五)06-08 紀209B 李長曄,游政諭,王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7568,7 +7568,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李長曄,游政諭"
+            "scr_teacher": "李長曄,游政諭,王忠融"
         },
         {
             "scr_selcode": "2457",
@@ -7800,7 +7800,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三乙",
-            "scr_period": "(五)06-08 紀209B 李長曄,游政諭",
+            "scr_period": "(五)06-08 紀209B 李長曄,游政諭,王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7810,7 +7810,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李長曄,游政諭"
+            "scr_teacher": "李長曄,游政諭,王忠融"
         },
         {
             "scr_selcode": "2457",
