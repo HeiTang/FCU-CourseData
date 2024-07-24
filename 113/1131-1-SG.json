@@ -3,28 +3,6 @@
     "total": 5,
     "items": [
         {
-            "scr_selcode": "0000",
-            "sub_id3": "IDSS3009",
-            "sub_name": "社會影響力實作",
-            "scr_credit": 1.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "社會創新學院綜合班",
-            "scr_period": "(三)04     文301 汪浩",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 3702,
-            "cls_id": "SX02100",
-            "sub_id": "19188",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "汪浩"
-        },
-        {
             "scr_selcode": "2943",
             "sub_id3": "IDSS3010",
             "sub_name": "企業責任與全球永續",
@@ -111,6 +89,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "吳周燕"
+        },
+        {
+            "scr_selcode": "3703",
+            "sub_id3": "IDSS3009",
+            "sub_name": "社會影響力實作",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "社會創新學院綜合班",
+            "scr_period": "(三)04     文301 汪浩",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 3702,
+            "cls_id": "SX02100",
+            "sub_id": "19188",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "汪浩"
         }
     ]
 }

@@ -3576,7 +3576,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一乙",
-            "scr_period": "(一)09     紀409",
+            "scr_period": "(一)09     紀409 吳佳真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3586,7 +3586,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳佳真"
         },
         {
             "scr_selcode": "2355",
@@ -5469,7 +5469,7 @@
             "scr_exambf": "否",
             "cls_name": "都資二乙",
             "scr_period": "(三)08-10 忠204 劉曜華",
-            "scr_precnt": 70.0,
+            "scr_precnt": 62.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
             "unt_ls": 4607,
@@ -7404,7 +7404,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三甲",
-            "scr_period": "(一)02-04 紀209A 王忠融",
+            "scr_period": "(二)08-10 紀111 王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
