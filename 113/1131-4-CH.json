@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 8,
+    "total": 7,
     "items": [
         {
             "scr_selcode": "2693",
@@ -45,28 +45,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "鄭慧如"
-        },
-        {
-            "scr_selcode": "2699",
-            "sub_id3": "CHIN8040",
-            "sub_name": "臺灣古典文學專題",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "中文博一",
-            "scr_period": "(一)02-04 人901 余美玲",
-            "scr_precnt": 3.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4405,
-            "cls_id": "CS04410",
-            "sub_id": "11909",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "余美玲"
         },
         {
             "scr_selcode": "3638",

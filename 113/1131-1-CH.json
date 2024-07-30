@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 163,
+    "total": 165,
     "items": [
         {
             "scr_selcode": "2029",
@@ -639,6 +639,50 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "程代勒"
+        },
+        {
+            "scr_selcode": "3704",
+            "sub_id3": "CHIN2068",
+            "sub_name": "口語表達",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "中文二",
+            "scr_period": "(二)03-04 人202 李綉玲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4405,
+            "cls_id": "CS04120",
+            "sub_id": "97501",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "李綉玲"
+        },
+        {
+            "scr_selcode": "3705",
+            "sub_id3": "CHIN2075",
+            "sub_name": "古文字與出土文獻選讀",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "中文二",
+            "scr_period": "(一)06-07 資電107 李綉玲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4405,
+            "cls_id": "CS04120",
+            "sub_id": "07265",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "李綉玲"
         },
         {
             "scr_selcode": "2674",
@@ -2286,7 +2330,7 @@
             "cls_id": "CH06121",
             "sub_id": "A3131",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "實時線上",
             "scr_english": "N",
             "scr_teacher": "李麗秋"
         },
@@ -2704,7 +2748,7 @@
             "cls_id": "CH06122",
             "sub_id": "A3131",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "實時線上",
             "scr_english": "N",
             "scr_teacher": "李麗秋"
         },
