@@ -1407,7 +1407,7 @@
             "sub_id": "44755",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "王婉禎"
         },
         {
@@ -2564,7 +2564,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)02-04 商704 黃誠甫,黃瓊如",
+            "scr_period": "(六)02-04 商704 黃誠甫,吳廣文",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2574,7 +2574,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃誠甫,黃瓊如"
+            "scr_teacher": "黃誠甫,吳廣文"
         },
         {
             "scr_selcode": "0889",
