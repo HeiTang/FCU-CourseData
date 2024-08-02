@@ -452,7 +452,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商英B班",
-            "scr_period": "(一)03-04 行213",
+            "scr_period": "(一)03-04 行213 鄭皓元",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【大一英文重補修生線上選課】系統選課。",
@@ -462,7 +462,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭皓元"
         },
         {
             "scr_selcode": "3331",
@@ -1530,7 +1530,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "理英班",
-            "scr_period": "(二)08-09 行213",
+            "scr_period": "(二)08-09 行213 鄭皓元",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【大一英文重補修生線上選課】系統選課。",
@@ -1540,7 +1540,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭皓元"
         },
         {
             "scr_selcode": "3380",
@@ -2058,7 +2058,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電英B班",
-            "scr_period": "(四)06-07 人606",
+            "scr_period": "(四)06-07 人606 鄭皓元",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【大一英文重補修生線上選課】系統選課。",
@@ -2068,7 +2068,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭皓元"
         },
         {
             "scr_selcode": "3404",
@@ -2212,7 +2212,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商英C班",
-            "scr_period": "(一)01-02 人401 Janelle Hite",
+            "scr_period": "(一)01-02 人401 陳玲瑛",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【大一英文重補修生線上選課】系統選課。",
@@ -2222,7 +2222,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "Janelle Hite"
+            "scr_teacher": "陳玲瑛"
         },
         {
             "scr_selcode": "3411",
@@ -2234,7 +2234,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商英C班",
-            "scr_period": "(一)01-02 行213",
+            "scr_period": "(一)01-02 行213 鄭皓元",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【大一英文重補修生線上選課】系統選課。",
@@ -2244,7 +2244,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭皓元"
         },
         {
             "scr_selcode": "3412",
@@ -3400,7 +3400,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(四)09-10 人603 林芷瑩",
+            "scr_period": "(四)09-10 人603 鄭皓元",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3410,7 +3410,7 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林芷瑩"
+            "scr_teacher": "鄭皓元"
         },
         {
             "scr_selcode": "3465",
@@ -3510,7 +3510,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)01-02 人507",
+            "scr_period": "(五)01-02 人507 鄭皓元",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3520,7 +3520,7 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭皓元"
         },
         {
             "scr_selcode": "3471",
