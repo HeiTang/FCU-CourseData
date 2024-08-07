@@ -4654,7 +4654,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一合",
-            "scr_period": "(五)02     工303 (五)03-04 工202(化學實驗室)",
+            "scr_period": "(五)02     工303 (五)03-04 工202(化學實驗室) 李亦宸",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4664,7 +4664,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李亦宸"
         },
         {
             "scr_selcode": "1500",
@@ -14004,8 +14004,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "淨零智慧學士後專班二",
-            "scr_period": "(六)02-04 工319(電腦實習室) 陳兆衡",
-            "scr_precnt": 40.0,
+            "scr_period": "(六)02-04 紀303(電腦實習室) 陳兆衡",
+            "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室。",
             "unt_ls": 4020,
