@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 140,
+    "total": 138,
     "items": [
         {
             "scr_selcode": "0057",
@@ -487,28 +487,6 @@
             "scr_teacher": " "
         },
         {
-            "scr_selcode": "1286",
-            "sub_id3": "FCME6012",
-            "sub_name": "高分子結構與物性",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "纖複碩一",
-            "scr_period": "(四)07-09 工410 林子楓",
-            "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4002,
-            "cls_id": "CE05310",
-            "sub_id": "32780",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "Y",
-            "scr_teacher": "林子楓"
-        },
-        {
             "scr_selcode": "1287",
             "sub_id3": "FCME6053",
             "sub_name": "高等紡紗工程學",
@@ -529,28 +507,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳安邦"
-        },
-        {
-            "scr_selcode": "1288",
-            "sub_id3": "FCME6013",
-            "sub_name": "高等染料化學",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "纖複碩一",
-            "scr_period": "(三)07-09 工410 莊瑀珺",
-            "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4002,
-            "cls_id": "CE05310",
-            "sub_id": "33280",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "莊瑀珺"
         },
         {
             "scr_selcode": "3708",

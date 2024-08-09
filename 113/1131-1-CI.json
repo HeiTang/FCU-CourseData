@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 585,
+    "total": 582,
     "items": [
         {
             "scr_selcode": "2144",
@@ -4706,7 +4706,7 @@
             "cls_id": "CE09111",
             "sub_id": "27410",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "劉堂傑"
         },
@@ -5789,28 +5789,6 @@
             "scr_teacher": "王通温"
         },
         {
-            "scr_selcode": "1595",
-            "sub_id3": "ELEN4024",
-            "sub_name": "人工智慧視覺加速器設計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子三甲",
-            "scr_period": "(四)02-04 電通303 陳冠宏",
-            "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4502,
-            "cls_id": "CE09131",
-            "sub_id": "00029",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳冠宏"
-        },
-        {
             "scr_selcode": "1597",
             "sub_id3": "ELEN3020",
             "sub_name": "計算機結構學",
@@ -5987,28 +5965,6 @@
             "scr_teacher": "王通温"
         },
         {
-            "scr_selcode": "1595",
-            "sub_id3": "ELEN4024",
-            "sub_name": "人工智慧視覺加速器設計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子三乙",
-            "scr_period": "(四)02-04 電通303 陳冠宏",
-            "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4502,
-            "cls_id": "CE09132",
-            "sub_id": "00029",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳冠宏"
-        },
-        {
             "scr_selcode": "1597",
             "sub_id3": "ELEN3020",
             "sub_name": "計算機結構學",
@@ -6183,28 +6139,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張一楠"
-        },
-        {
-            "scr_selcode": "1595",
-            "sub_id3": "ELEN4024",
-            "sub_name": "人工智慧視覺加速器設計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子三丙",
-            "scr_period": "(四)02-04 電通303 陳冠宏",
-            "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4502,
-            "cls_id": "CE09133",
-            "sub_id": "00029",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳冠宏"
         },
         {
             "scr_selcode": "1597",
