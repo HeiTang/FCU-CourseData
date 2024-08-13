@@ -2102,7 +2102,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複一",
-            "scr_period": "(五)02-04 理203(數電腦室) 楊孝淳",
+            "scr_period": "(五)02-04 理203(數電腦室) 李維平",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室。",
@@ -2112,7 +2112,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "楊孝淳"
+            "scr_teacher": "李維平"
         },
         {
             "scr_selcode": "1252",
@@ -2432,7 +2432,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複二",
-            "scr_period": "(一)06-07 忠302 林子楓",
+            "scr_period": "(一)06-07 忠302 莊瑀珺",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2442,7 +2442,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林子楓"
+            "scr_teacher": "莊瑀珺"
         },
         {
             "scr_selcode": "1265",
@@ -2542,7 +2542,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複三",
-            "scr_period": "(四)03-04 語203 莊瑀珺",
+            "scr_period": "(四)03-04 語203 邱長塤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2552,7 +2552,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊瑀珺"
+            "scr_teacher": "邱長塤"
         },
         {
             "scr_selcode": "1270",
@@ -4346,7 +4346,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一甲",
-            "scr_period": "(一)03-04 學105 楊嘉會",
+            "scr_period": "(三)03-04 忠303 胡水上",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4356,7 +4356,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊嘉會"
+            "scr_teacher": "胡水上"
         },
         {
             "scr_selcode": "1485",
@@ -5798,7 +5798,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一甲",
-            "scr_period": "(二)06-07 語301 (四)02     語301 黃同瑤",
+            "scr_period": "(二)06-07 語301 (四)02     語103 黃同瑤",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8680,7 +8680,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數三甲",
-            "scr_period": "(一)02     理407 (四)03-04 語301 黃同瑤",
+            "scr_period": "(一)02     理407 (四)03-04 理407 黃同瑤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",

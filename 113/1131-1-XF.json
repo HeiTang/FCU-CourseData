@@ -3818,7 +3818,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)01-02 人402 陳俐君",
+            "scr_period": "(一)01-02 人402",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "E 專班不開放選課",
@@ -3828,7 +3828,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳俐君"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "3490",
@@ -3972,7 +3972,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)01-02 人603",
+            "scr_period": "(一)01-02 人603 洪英雪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3982,7 +3982,7 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "洪英雪"
         },
         {
             "scr_selcode": "3497",
@@ -4302,7 +4302,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)01-02 人504 黃慈慧",
+            "scr_period": "(二)01-02 人504 洪然升",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4312,7 +4312,7 @@
             "scr_dup": "034",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃慈慧"
+            "scr_teacher": "洪然升"
         },
         {
             "scr_selcode": "3512",
@@ -4390,7 +4390,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)03-04 人604",
+            "scr_period": "(二)03-04 人604 徐培晃",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4400,7 +4400,7 @@
             "scr_dup": "049",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐培晃"
         },
         {
             "scr_selcode": "3516",
@@ -4588,7 +4588,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(三)01-02 人603",
+            "scr_period": "(三)01-02 人603 徐培晃",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4598,7 +4598,7 @@
             "scr_dup": "063",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐培晃"
         },
         {
             "scr_selcode": "3525",
@@ -4610,7 +4610,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(三)01-02 人707",
+            "scr_period": "(三)01-02 人707 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4620,7 +4620,7 @@
             "scr_dup": "064",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3526",
@@ -4786,7 +4786,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(三)08-09 人604",
+            "scr_period": "(三)08-09 人604 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4796,7 +4796,7 @@
             "scr_dup": "076",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3534",
@@ -4918,7 +4918,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(四)01-02 人505 黃慈慧",
+            "scr_period": "(四)01-02 人505 顏銘俊",
             "scr_precnt": 1.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4928,7 +4928,7 @@
             "scr_dup": "083",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃慈慧"
+            "scr_teacher": "顏銘俊"
         },
         {
             "scr_selcode": "3540",
@@ -5028,7 +5028,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(四)08-09 人601",
+            "scr_period": "(四)08-09 人601 陳耔伶",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5038,7 +5038,7 @@
             "scr_dup": "089",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳耔伶"
         },
         {
             "scr_selcode": "3545",
@@ -5160,7 +5160,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(五)01-02 人504",
+            "scr_period": "(五)01-02 人504 洪英雪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5170,7 +5170,7 @@
             "scr_dup": "095",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "洪英雪"
         },
         {
             "scr_selcode": "3551",
@@ -5182,7 +5182,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(五)01-02 人403",
+            "scr_period": "(五)01-02 人403 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5192,7 +5192,7 @@
             "scr_dup": "096",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3552",
@@ -5358,7 +5358,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)03-04 資電515",
+            "scr_period": "(一)03-04 資電515 談佳琪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5368,7 +5368,7 @@
             "scr_dup": "111",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "談佳琪"
         },
         {
             "scr_selcode": "3560",
@@ -5380,7 +5380,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(三)08-09 人705",
+            "scr_period": "(三)08-09 人705 周盈秀",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "0",
@@ -5390,7 +5390,7 @@
             "scr_dup": "112",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3561",
@@ -5402,7 +5402,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(四)01-02 人404 陳立安",
+            "scr_period": "(四)01-02 人404 陳柏全",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5412,7 +5412,7 @@
             "scr_dup": "113",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳立安"
+            "scr_teacher": "陳柏全"
         },
         {
             "scr_selcode": "3562",
@@ -5446,7 +5446,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)06-07 人605",
+            "scr_period": "(一)06-07 人605 蘇哲儀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5456,7 +5456,7 @@
             "scr_dup": "116",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蘇哲儀"
         },
         {
             "scr_selcode": "3564",
@@ -5468,7 +5468,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(五)06-07 人407",
+            "scr_period": "(五)06-07 人407 洪英雪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "S 專班不開放選課",
@@ -5478,7 +5478,7 @@
             "scr_dup": "117",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "洪英雪"
         },
         {
             "scr_selcode": "3565",
@@ -5512,7 +5512,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)06-07 人704",
+            "scr_period": "(一)06-07 人704 陳俐君",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5522,7 +5522,7 @@
             "scr_dup": "120",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳俐君"
         },
         {
             "scr_selcode": "3567",
@@ -5534,7 +5534,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(四)01-02 人704",
+            "scr_period": "(四)01-02 人704 張鳳玲",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5544,7 +5544,7 @@
             "scr_dup": "123",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張鳳玲"
         },
         {
             "scr_selcode": "3568",
@@ -5556,7 +5556,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(四)01-02 人605",
+            "scr_period": "(四)01-02 人605 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5566,7 +5566,7 @@
             "scr_dup": "124",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3569",
@@ -5600,7 +5600,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)01-02 人505",
+            "scr_period": "(一)01-02 人505 陳俐君",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5610,7 +5610,7 @@
             "scr_dup": "126",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳俐君"
         },
         {
             "scr_selcode": "3571",
@@ -5644,7 +5644,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(五)06-07 人704",
+            "scr_period": "(五)06-07 人704 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "S 專班不開放選課",
@@ -5654,7 +5654,7 @@
             "scr_dup": "128",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3573",
@@ -5666,7 +5666,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)06-07 人401",
+            "scr_period": "(一)06-07 人401 卓素絹",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5676,7 +5676,7 @@
             "scr_dup": "129",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "卓素絹"
         },
         {
             "scr_selcode": "3574",
@@ -5710,7 +5710,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)01-02 人404",
+            "scr_period": "(二)01-02 人404 洪英雪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5720,7 +5720,7 @@
             "scr_dup": "131",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "洪英雪"
         },
         {
             "scr_selcode": "3576",
@@ -5754,7 +5754,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)06-07 語403",
+            "scr_period": "(二)06-07 人408 洪英雪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5764,7 +5764,7 @@
             "scr_dup": "133",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "洪英雪"
         },
         {
             "scr_selcode": "3578",
@@ -5776,7 +5776,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)06-07 忠303",
+            "scr_period": "(二)06-07 忠303 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5786,7 +5786,7 @@
             "scr_dup": "134",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3579",
@@ -5798,7 +5798,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(五)03-04 人407",
+            "scr_period": "(五)03-04 人407 周盈秀",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5808,7 +5808,7 @@
             "scr_dup": "135",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "周盈秀"
         },
         {
             "scr_selcode": "3580",

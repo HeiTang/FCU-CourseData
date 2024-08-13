@@ -11144,7 +11144,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊二甲",
-            "scr_period": "(四)02     資電125(電腦實習室) (五)03-04 行政二館104-電腦實習室 蔡淵裕",
+            "scr_period": "(四)02     資電125(電腦實習室) (五)03-04 行政二館105-電腦實習室 蔡淵裕",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -11364,7 +11364,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊二乙",
-            "scr_period": "(四)02     資電125(電腦實習室) (五)03-04 行政二館104-電腦實習室 蔡淵裕",
+            "scr_period": "(四)02     資電125(電腦實習室) (五)03-04 行政二館105-電腦實習室 蔡淵裕",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12442,7 +12442,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電一甲",
-            "scr_period": "(二)01-02 科航801(IoT工作坊) 林維崙",
+            "scr_period": "(二)01-02 科航801(IoT工作坊) 梁詩婷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12452,7 +12452,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林維崙"
+            "scr_teacher": "梁詩婷"
         },
         {
             "scr_selcode": "2248",
@@ -12662,7 +12662,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電一乙",
-            "scr_period": "(二)01-02 科航801(IoT工作坊) 林維崙",
+            "scr_period": "(二)01-02 科航801(IoT工作坊) 梁詩婷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12672,7 +12672,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林維崙"
+            "scr_teacher": "梁詩婷"
         },
         {
             "scr_selcode": "2244",
