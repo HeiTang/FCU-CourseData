@@ -122,7 +122,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修一",
-            "scr_period": "(四)13-14 忠516(建製圖室)",
+            "scr_period": "(四)13-14 忠516(建製圖室) 黃俊賓",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -132,7 +132,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃俊賓"
         },
         {
             "scr_selcode": "0941",
@@ -166,7 +166,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修一",
-            "scr_period": "(四)11-12 忠703(建素描室)",
+            "scr_period": "(四)11-12 忠703(建素描室) 鄭志揚",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -176,7 +176,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭志揚"
         },
         {
             "scr_selcode": "0943",
@@ -298,7 +298,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修二",
-            "scr_period": "(三)13-14 忠208",
+            "scr_period": "(三)13-14 忠208 歐雙磐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -308,7 +308,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "歐雙磐"
         },
         {
             "scr_selcode": "0949",
@@ -452,7 +452,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修三",
-            "scr_period": "(一)13-14 忠210",
+            "scr_period": "(一)13-14 忠210 黃善群",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -462,7 +462,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃善群"
         },
         {
             "scr_selcode": "0956",
@@ -540,7 +540,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修四",
-            "scr_period": "(一)11-12 忠211",
+            "scr_period": "(一)11-12 忠211 黃善群",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -550,7 +550,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃善群"
         }
     ]
 }
