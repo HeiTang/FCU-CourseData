@@ -232,7 +232,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電一甲",
-            "scr_period": "(五)01-02 語305",
+            "scr_period": "(五)01-02 語305 陳珮綺",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -242,7 +242,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳珮綺"
         },
         {
             "scr_selcode": "1183",
@@ -474,7 +474,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電一乙",
-            "scr_period": "(五)01-02 語306",
+            "scr_period": "(五)01-02 語306 賴信銓",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -484,7 +484,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴信銓"
         },
         {
             "scr_selcode": "1193",
@@ -4368,7 +4368,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一甲",
-            "scr_period": "(五)02-04 待排 唐謙仁",
+            "scr_period": "(五)02-04 科航103(物實驗室三) 唐謙仁",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -4390,7 +4390,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一甲",
-            "scr_period": "(三)08-09 語302",
+            "scr_period": "(三)08-09 語302 陳珮綺",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4400,7 +4400,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳珮綺"
         },
         {
             "scr_selcode": "1487",
@@ -4544,7 +4544,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一乙",
-            "scr_period": "(一)01-02 學515 (三)01     學515 簡彰胤",
+            "scr_period": "(二)08-10 語207 簡彰胤",
             "scr_precnt": 8.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4610,7 +4610,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一乙",
-            "scr_period": "(三)02-04 待排 方淳民",
+            "scr_period": "(三)02-04 科航103(物實驗室三) 方淳民",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -4632,7 +4632,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一乙",
-            "scr_period": "(五)03-04 學105",
+            "scr_period": "(五)03-04 學105 陳珮綺",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4642,7 +4642,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳珮綺"
         },
         {
             "scr_selcode": "1498",
@@ -5644,7 +5644,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一甲",
-            "scr_period": "(一)09     科航206 劉楊倫",
+            "scr_period": "(一)09     科航202 劉楊倫",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5776,7 +5776,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一甲",
-            "scr_period": "(三)06-07 忠203",
+            "scr_period": "(三)06-07 忠203 李承璋",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5786,7 +5786,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李承璋"
         },
         {
             "scr_selcode": "1832",
@@ -5952,7 +5952,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一乙",
-            "scr_period": "(一)06-07 語301",
+            "scr_period": "(一)06-07 語301 張志偉",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5962,7 +5962,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張志偉"
         },
         {
             "scr_selcode": "1840",
@@ -6172,7 +6172,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太二甲",
-            "scr_period": "(一)06-08 科航201 李育佐",
+            "scr_period": "(一)06-08 科航203 李育佐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6370,7 +6370,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太二乙",
-            "scr_period": "(一)06-08 科航201 李育佐",
+            "scr_period": "(一)06-08 科航203 李育佐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6612,7 +6612,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太三乙",
-            "scr_period": "(一)06-08 科航203 陳啟川",
+            "scr_period": "(一)06-08 科航201 陳啟川",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7250,7 +7250,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統一學位學程",
-            "scr_period": "(二)08-10 忠210 張文澤",
+            "scr_period": "(二)08-10 科航102(物實驗室二) 張文澤",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -7294,7 +7294,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統一學位學程",
-            "scr_period": "(四)01-02 語301",
+            "scr_period": "(四)01-02 語301 李承璋",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7304,7 +7304,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李承璋"
         },
         {
             "scr_selcode": "1934",
@@ -7954,7 +7954,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數一甲",
-            "scr_period": "(三)06-07 語202",
+            "scr_period": "(三)06-07 語202 陳珮綺",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7964,7 +7964,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳珮綺"
         },
         {
             "scr_selcode": "2482",
@@ -8196,7 +8196,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數一乙",
-            "scr_period": "(三)06-07 理401",
+            "scr_period": "(三)06-07 理401 賴信銓",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8206,7 +8206,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴信銓"
         },
         {
             "scr_selcode": "2492",
@@ -8372,7 +8372,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數二甲",
-            "scr_period": "(三)08-09 理407",
+            "scr_period": "(三)08-09 理407 李承璋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8382,7 +8382,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李承璋"
         },
         {
             "scr_selcode": "2500",
@@ -8570,7 +8570,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數二乙",
-            "scr_period": "(三)08-09 理401",
+            "scr_period": "(三)08-09 理401 張志偉",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8580,7 +8580,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張志偉"
         },
         {
             "scr_selcode": "2507",
@@ -9120,7 +9120,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(三)02-04 學101 陳建隆",
+            "scr_period": "(三)02-04 學101 陳建隆,周奮興",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "課程後2/3在電腦教室上課，課程時段會異動",
@@ -9130,7 +9130,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆"
+            "scr_teacher": "陳建隆,周奮興"
         },
         {
             "scr_selcode": "2525",
@@ -9230,7 +9230,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(四)03-04 理401",
+            "scr_period": "(四)03-04 理401 張志偉",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9240,7 +9240,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張志偉"
         },
         {
             "scr_selcode": "2530",
@@ -9406,7 +9406,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(四)02-04 理109 陳建隆",
+            "scr_period": "(四)02-04 理109 陳建隆,周奮興",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "課程後2/3在電腦教室上課，配合電腦教室使用，時段會異動",
@@ -9416,7 +9416,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆"
+            "scr_teacher": "陳建隆,周奮興"
         },
         {
             "scr_selcode": "2534",
@@ -9758,7 +9758,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境二甲",
-            "scr_period": "(五)06-08 忠305",
+            "scr_period": "(五)06-08 忠305 張坤森",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9768,7 +9768,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張坤森"
         },
         {
             "scr_selcode": "2554",
@@ -9934,7 +9934,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境二乙",
-            "scr_period": "(五)06-08 忠305",
+            "scr_period": "(五)06-08 忠305 張坤森",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9944,7 +9944,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張坤森"
         },
         {
             "scr_selcode": "2554",
@@ -10308,7 +10308,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四甲",
-            "scr_period": "(五)03-04 理109 陳建隆,劉政樺",
+            "scr_period": "(五)03-04 理109 陳建隆,周奮興,劉政樺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10318,7 +10318,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆,劉政樺"
+            "scr_teacher": "陳建隆,周奮興,劉政樺"
         },
         {
             "scr_selcode": "2568",
@@ -10396,7 +10396,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四甲",
-            "scr_period": "(一)06-09 忠B08 馮秋霞,劉政樺",
+            "scr_period": "(一)06-09 忠B08 馮秋霞,郭修宇,劉政樺",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程採隔週上課，限環科系四年級修習，外系不得修習",
@@ -10406,7 +10406,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "馮秋霞,劉政樺"
+            "scr_teacher": "馮秋霞,郭修宇,劉政樺"
         },
         {
             "scr_selcode": "2572",
@@ -10440,7 +10440,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四乙",
-            "scr_period": "(五)03-04 理109 陳建隆,劉政樺",
+            "scr_period": "(五)03-04 理109 陳建隆,周奮興,劉政樺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10450,7 +10450,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆,劉政樺"
+            "scr_teacher": "陳建隆,周奮興,劉政樺"
         },
         {
             "scr_selcode": "2568",
@@ -10528,7 +10528,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四乙",
-            "scr_period": "(一)06-09 忠B08 馮秋霞,劉政樺",
+            "scr_period": "(一)06-09 忠B08 馮秋霞,郭修宇,劉政樺",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程採隔週上課，限環科系四年級修習，外系不得修習",
@@ -10538,7 +10538,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "馮秋霞,劉政樺"
+            "scr_teacher": "馮秋霞,郭修宇,劉政樺"
         },
         {
             "scr_selcode": "2572",
@@ -10726,7 +10726,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料一甲",
-            "scr_period": "(一)08-10 待排 歐陽嶽",
+            "scr_period": "(一)08-10 科航102(物實驗室二) 歐陽嶽",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -10748,7 +10748,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料一甲",
-            "scr_period": "(三)06-07 學104",
+            "scr_period": "(三)06-07 學104 張志偉",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10758,7 +10758,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張志偉"
         },
         {
             "scr_selcode": "2591",
@@ -10968,7 +10968,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料一乙",
-            "scr_period": "(二)02-04 待排 羅道正",
+            "scr_period": "(二)02-04 科航103(物實驗室三) 羅道正",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -10990,7 +10990,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料一乙",
-            "scr_period": "(五)01-02 忠204",
+            "scr_period": "(五)01-02 忠204 李承璋",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11000,7 +11000,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李承璋"
         },
         {
             "scr_selcode": "2601",
@@ -12398,7 +12398,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一甲",
-            "scr_period": "(一)02-04 待排 賴俊峰",
+            "scr_period": "(一)02-04 科航103(物實驗室三) 賴俊峰",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -12420,7 +12420,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一甲",
-            "scr_period": "(三)03-04 語305",
+            "scr_period": "(三)03-04 語305 賴信銓",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12430,7 +12430,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴信銓"
         },
         {
             "scr_selcode": "2709",
@@ -12618,7 +12618,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一乙",
-            "scr_period": "(五)02-04 待排 莊智皓",
+            "scr_period": "(五)02-04 科航101(物實驗室一) 莊智皓",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12640,7 +12640,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一乙",
-            "scr_period": "(三)03-04 語407",
+            "scr_period": "(三)03-04 語407 張志偉",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12650,7 +12650,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張志偉"
         },
         {
             "scr_selcode": "2717",

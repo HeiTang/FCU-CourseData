@@ -276,7 +276,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(五)02-04 待排 楊嘉會",
+            "scr_period": "(五)02-04 科航102(物實驗室二) 楊嘉會",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -298,7 +298,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(一)01-02 學103",
+            "scr_period": "(一)01-02 學103 李承璋",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -308,7 +308,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李承璋"
         },
         {
             "scr_selcode": "1021",
@@ -518,7 +518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(二)08-10 待排 陳敬恒",
+            "scr_period": "(二)08-10 科航103(物實驗室三) 陳敬恒",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -540,7 +540,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(二)06-07 學103",
+            "scr_period": "(二)06-07 學103 李承璋",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -550,7 +550,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李承璋"
         },
         {
             "scr_selcode": "1032",
@@ -1926,7 +1926,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(五)06-08 待排 楊嘉會",
+            "scr_period": "(五)06-08 科航102(物實驗室二) 楊嘉會",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -1948,7 +1948,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(三)01-02 語305",
+            "scr_period": "(三)01-02 語305 賴信銓",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1958,7 +1958,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴信銓"
         },
         {
             "scr_selcode": "1091",
@@ -2190,7 +2190,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(一)02-04 待排 歐陽嶽",
+            "scr_period": "(一)02-04 科航102(物實驗室二) 歐陽嶽",
             "scr_precnt": 7.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -2212,7 +2212,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(一)06-07 理109",
+            "scr_period": "(一)06-07 理109 賴信銓",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2222,7 +2222,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴信銓"
         },
         {
             "scr_selcode": "1101",

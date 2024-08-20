@@ -1398,7 +1398,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智慧城市碩一學位學程",
-            "scr_period": "(四)07-09 紀405 方耀民,葉美伶,陳美心,穆青雲,曾梓峰",
+            "scr_period": "(四)07-09 紀405 方耀民,葉美伶,穆青雲,曾梓峰",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1408,7 +1408,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "方耀民,葉美伶,陳美心,穆青雲,曾梓峰"
+            "scr_teacher": "方耀民,葉美伶,穆青雲,曾梓峰"
         },
         {
             "scr_selcode": "1006",
@@ -1442,7 +1442,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智慧城市碩一學位學程",
-            "scr_period": "(三)00     待排 葉昭憲",
+            "scr_period": "(三)00     未排教室 陳建元",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1452,7 +1452,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲"
+            "scr_teacher": "陳建元"
         },
         {
             "scr_selcode": "1008",
@@ -1552,7 +1552,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智慧城市碩二學位學程",
-            "scr_period": "(五)00     待排 葉昭憲",
+            "scr_period": "(五)00     未排教室 陳建元",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1562,7 +1562,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲"
+            "scr_teacher": "陳建元"
         },
         {
             "scr_selcode": "2471",

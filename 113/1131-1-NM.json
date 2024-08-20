@@ -782,7 +782,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "數據分析二學位學程",
-            "scr_period": "(二)04     科航203 (五)03-04 科航203 (五)06-07 待排 林中一",
+            "scr_period": "(二)04     科航203 (五)03-04 科航203 (五)06-07 科航104(物實驗室四) 林中一",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "(五)6-7節須至普物實驗室進行實驗操作，上課地點將於開學前公告。",
@@ -1244,7 +1244,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊工程一學位學程",
-            "scr_period": "(一)09     科航202",
+            "scr_period": "(一)09     科航203",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1684,7 +1684,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學雙學一學位學程",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(四)06-08 科航706 劉恩廷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1694,7 +1694,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "劉恩廷"
         },
         {
             "scr_selcode": "2893",
@@ -1772,7 +1772,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學雙學二學位學程",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(二)02-04 人702 簡士超",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1782,7 +1782,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "簡士超"
         },
         {
             "scr_selcode": "2897",
@@ -1895,6 +1895,28 @@
             "scr_teacher": "張恩啟"
         },
         {
+            "scr_selcode": "2879",
+            "sub_id3": "ISTM142",
+            "sub_name": "創新專題(1)",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "資訊工程雙學一學位學程",
+            "scr_period": "(一)06-08 科航706 梁辰睿",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": " ",
+            "unt_ls": 4910,
+            "cls_id": "NM10110",
+            "sub_id": "50211",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "Y",
+            "scr_teacher": "梁辰睿"
+        },
+        {
             "scr_selcode": "2883",
             "sub_id3": "ISTM256",
             "sub_name": "計算機科學之離散數學",
@@ -2003,28 +2025,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "林維崙"
-        },
-        {
-            "scr_selcode": "2905",
-            "sub_id3": "ISTM142",
-            "sub_name": "創新專題(1)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊工程雙學一學位學程",
-            "scr_period": "(一)00     待排",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4910,
-            "cls_id": "NM10110",
-            "sub_id": "50211",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "Y",
-            "scr_teacher": " "
         },
         {
             "scr_selcode": "2906",
