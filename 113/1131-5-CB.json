@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 44,
+    "total": 46,
     "items": [
         {
             "scr_selcode": "0846",
@@ -839,6 +839,28 @@
             "scr_teacher": "張久大"
         },
         {
+            "scr_selcode": "3712",
+            "sub_id3": "BUS5110",
+            "sub_name": "專業實習(一)",
+            "scr_credit": 9.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "商學進修四學位學程甲班",
+            "scr_period": "(日)00       鄭妃君,陳亭廷",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4134,
+            "cls_id": "CB35541",
+            "sub_id": "43036",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鄭妃君,陳亭廷"
+        },
+        {
             "scr_selcode": "0878",
             "sub_id3": "BUS5992",
             "sub_name": "商學專題研究",
@@ -881,6 +903,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張久大"
+        },
+        {
+            "scr_selcode": "3712",
+            "sub_id3": "BUS5110",
+            "sub_name": "專業實習(一)",
+            "scr_credit": 9.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "商學進修四學位學程乙班",
+            "scr_period": "(日)00       鄭妃君,陳亭廷",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4134,
+            "cls_id": "CB35542",
+            "sub_id": "43036",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鄭妃君,陳亭廷"
         },
         {
             "scr_selcode": "0879",

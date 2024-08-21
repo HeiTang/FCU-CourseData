@@ -320,7 +320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩一",
-            "scr_period": "(五)02-04 忠201 林英傑",
+            "scr_period": "(五)02-04 行205 林英傑",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1376,7 +1376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(一)08     學711-1 駱榮富,林俊德,張森河,葉丞豪,翁于晴,張振昌,張育誠,呂晃志,林秋裕,趙雲鵬,吳石乙",
+            "scr_period": "(一)08     學711-1 駱榮富,林俊德,張森河,葉丞豪,翁于晴,張育誠,呂晃志,林秋裕,趙雲鵬,吳石乙",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1386,7 +1386,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "駱榮富,林俊德,張森河,葉丞豪,翁于晴,張振昌,張育誠,呂晃志,林秋裕,趙雲鵬,吳石乙"
+            "scr_teacher": "駱榮富,林俊德,張森河,葉丞豪,翁于晴,張育誠,呂晃志,林秋裕,趙雲鵬,吳石乙"
         },
         {
             "scr_selcode": "1918",
@@ -1420,7 +1420,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(二)02-04 工506-7",
+            "scr_period": "(二)02-04 學711-1",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1464,7 +1464,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(四)02-04 工506-7 陳晉照",
+            "scr_period": "(四)02-04 學711-1 陳晉照",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1495,7 +1495,7 @@
             "sub_id": "61482",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "呂晃志,賴奇厚"
         },
         {
@@ -1530,7 +1530,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩二學位學程",
-            "scr_period": "(一)09     學711-1 陳啟川,葉俊良,方俊,羅仕守,林永森,張棋榕,呂晃志,葉俊亨,陳志成,張淵仁",
+            "scr_period": "(一)09     學711-1 陳啟川,葉俊良,方俊,羅仕守,林永森,張棋榕,張振昌,呂晃志,葉俊亨,陳志成,張淵仁",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1540,7 +1540,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳啟川,葉俊良,方俊,羅仕守,林永森,張棋榕,呂晃志,葉俊亨,陳志成,張淵仁"
+            "scr_teacher": "陳啟川,葉俊良,方俊,羅仕守,林永森,張棋榕,張振昌,呂晃志,葉俊亨,陳志成,張淵仁"
         },
         {
             "scr_selcode": "1925",
