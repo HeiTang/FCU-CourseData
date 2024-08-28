@@ -188,7 +188,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文英語文碩一",
-            "scr_period": "(三)00",
+            "scr_period": "(三)00     未排教室 闕帝丰",
             "scr_precnt": 0.0,
             "scr_acptcnt": 11.0,
             "scr_remarks": " ",
@@ -198,7 +198,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "闕帝丰"
         },
         {
             "scr_selcode": "2118",
@@ -298,7 +298,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文英語文碩二",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     未排教室 謝宏濱,闕帝丰,李麗秋",
             "scr_precnt": 0.0,
             "scr_acptcnt": 6.0,
             "scr_remarks": " ",
@@ -308,7 +308,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "謝宏濱,闕帝丰,李麗秋"
         },
         {
             "scr_selcode": "2123",
@@ -344,7 +344,7 @@
             "cls_name": "文社碩一學位學程",
             "scr_period": "(三)00     待排",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 12.0,
             "scr_remarks": " ",
             "unt_ls": 4410,
             "cls_id": "CH19310",
@@ -410,7 +410,7 @@
             "cls_name": "文社碩二學位學程",
             "scr_period": "(一)00-02 待排 李建緯",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "該課程為實作課程,繳交實作日誌予論文指導教授",
             "unt_ls": 4410,
             "cls_id": "CH19320",
@@ -718,7 +718,7 @@
             "cls_name": "社創永續碩專二學位學程",
             "scr_period": "(六)06-08 人802 吳仰哲,林浚騰",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4411,
             "cls_id": "CH2032A",
@@ -740,7 +740,7 @@
             "cls_name": "社創永續碩專二學位學程",
             "scr_period": "(六)02-04 人802 陳介英,葉守禮,劉世慶",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4411,
             "cls_id": "CH2032A",
