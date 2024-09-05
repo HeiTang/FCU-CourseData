@@ -540,7 +540,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機航博一學位學程",
-            "scr_period": "(二)02-04 學711-1",
+            "scr_period": "(二)02-04 學711-1 陳金發",
             "scr_precnt": 25.0,
             "scr_acptcnt": 19.0,
             "scr_remarks": null,
@@ -550,7 +550,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳金發"
         },
         {
             "scr_selcode": "1904",
@@ -768,7 +768,7 @@
             "cls_id": "CS03410",
             "sub_id": "67952",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": " "
         },
