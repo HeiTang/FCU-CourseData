@@ -408,7 +408,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "文社碩二學位學程",
-            "scr_period": "(一)00-02 待排 李建緯",
+            "scr_period": "(一)00-02 未排教室 徐偉傑,李建緯,陳玉苹,王志宇",
             "scr_precnt": 20.0,
             "scr_acptcnt": 13.0,
             "scr_remarks": "該課程為實作課程,繳交實作日誌予論文指導教授",
@@ -418,7 +418,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建緯"
+            "scr_teacher": "徐偉傑,李建緯,陳玉苹,王志宇"
         },
         {
             "scr_selcode": "2128",
@@ -476,7 +476,7 @@
             "cls_name": "文社碩二學位學程",
             "scr_period": "(三)07-09 人910 李建緯,張志相",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 5.0,
+            "scr_acptcnt": 6.0,
             "scr_remarks": null,
             "unt_ls": 4410,
             "cls_id": "CH19320",
