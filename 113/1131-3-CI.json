@@ -672,7 +672,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子碩二",
-            "scr_period": "(一)02-04 忠202 蕭敏學",
+            "scr_period": "(一)02-04 忠202 蕭敏學,劉堂傑",
             "scr_precnt": 40.0,
             "scr_acptcnt": 15.0,
             "scr_remarks": null,
@@ -682,7 +682,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭敏學"
+            "scr_teacher": "蕭敏學,劉堂傑"
         },
         {
             "scr_selcode": "1745",
@@ -1312,7 +1312,7 @@
             "cls_name": "通訊碩一",
             "scr_period": "(五)02-04 電通503 趙啟時",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": null,
             "unt_ls": 4505,
             "cls_id": "CI02310",
