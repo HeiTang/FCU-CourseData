@@ -316,7 +316,7 @@
             "sub_name": "微積分(一)",
             "scr_credit": 3.0,
             "scj_scr_mso": "必修",
-            "scr_examid": "否",
+            "scr_examid": "是",
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
@@ -558,7 +558,7 @@
             "sub_name": "微積分(一)",
             "scr_credit": 3.0,
             "scj_scr_mso": "必修",
-            "scr_examid": "否",
+            "scr_examid": "是",
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
@@ -1508,7 +1508,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四甲",
-            "scr_period": "(一)00     待排 林喻峰",
+            "scr_period": "(一)00     未排教室 林慶昌,林威延,林喻峰,李秉乾,曾韋禎,林保宏,林正紋,紀昭銘,劉至軒,賴哲儇,莊財福",
             "scr_precnt": 60.0,
             "scr_acptcnt": 55.0,
             "scr_remarks": null,
@@ -1518,7 +1518,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林喻峰"
+            "scr_teacher": "林慶昌,林威延,林喻峰,李秉乾,曾韋禎,林保宏,林正紋,紀昭銘,劉至軒,賴哲儇,莊財福"
         },
         {
             "scr_selcode": "1065",
@@ -1706,7 +1706,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四乙",
-            "scr_period": "(一)00     待排 林喻峰",
+            "scr_period": "(一)00     未排教室 林慶昌,林威延,林喻峰,李秉乾,曾韋禎,林保宏,林正紋,紀昭銘,劉至軒,賴哲儇,莊財福",
             "scr_precnt": 60.0,
             "scr_acptcnt": 65.0,
             "scr_remarks": null,
@@ -1716,7 +1716,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林喻峰"
+            "scr_teacher": "林慶昌,林威延,林喻峰,李秉乾,曾韋禎,林保宏,林正紋,紀昭銘,劉至軒,賴哲儇,莊財福"
         },
         {
             "scr_selcode": "1082",
@@ -1922,7 +1922,7 @@
             "sub_name": "微積分(一)",
             "scr_credit": 3.0,
             "scj_scr_mso": "必修",
-            "scr_examid": "否",
+            "scr_examid": "是",
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
@@ -2186,7 +2186,7 @@
             "sub_name": "微積分(一)",
             "scr_credit": 3.0,
             "scj_scr_mso": "必修",
-            "scr_examid": "否",
+            "scr_examid": "是",
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",

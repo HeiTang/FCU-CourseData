@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 381,
+    "total": 379,
     "items": [
         {
             "scr_selcode": "0906",
@@ -6361,28 +6361,6 @@
             "scr_teacher": "杜建宏"
         },
         {
-            "scr_selcode": "1675",
-            "sub_id3": "UPSI305",
-            "sub_name": "專業實習(一)",
-            "scr_credit": 9.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "都資四甲",
-            "scr_period": "(五)00     未排教室 徐逸祥",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4607,
-            "cls_id": "CE10141",
-            "sub_id": "43036",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "徐逸祥"
-        },
-        {
             "scr_selcode": "1676",
             "sub_id3": "UPSI411",
             "sub_name": "專業實務職場體驗實習",
@@ -6469,28 +6447,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "杜建宏"
-        },
-        {
-            "scr_selcode": "1675",
-            "sub_id3": "UPSI305",
-            "sub_name": "專業實習(一)",
-            "scr_credit": 9.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "都資四乙",
-            "scr_period": "(五)00     未排教室 徐逸祥",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4607,
-            "cls_id": "CE10142",
-            "sub_id": "43036",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "徐逸祥"
         },
         {
             "scr_selcode": "1676",
