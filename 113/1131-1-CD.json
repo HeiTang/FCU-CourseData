@@ -3292,7 +3292,7 @@
             "cls_name": "運輸物流一甲",
             "scr_period": "(三)06-07 紀204(第一國會廳) 鍾俊彥",
             "scr_precnt": 123.0,
-            "scr_acptcnt": 121.0,
+            "scr_acptcnt": 120.0,
             "scr_remarks": " ",
             "unt_ls": 4606,
             "cls_id": "CM02111",
@@ -4654,7 +4654,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流四甲",
-            "scr_period": "(五)00     未排教室 洪百賢,吳沛儒",
+            "scr_period": "(五)00     未排教室 翁祥凱,蘇昭銘,洪百賢,吳沛儒,林良泰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 10.0,
             "scr_remarks": null,
@@ -4664,7 +4664,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪百賢,吳沛儒"
+            "scr_teacher": "翁祥凱,蘇昭銘,洪百賢,吳沛儒,林良泰"
         },
         {
             "scr_selcode": "3619",
@@ -4720,7 +4720,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流四乙",
-            "scr_period": "(五)00     未排教室 洪百賢,吳沛儒",
+            "scr_period": "(五)00     未排教室 翁祥凱,蘇昭銘,洪百賢,吳沛儒,林良泰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 10.0,
             "scr_remarks": null,
@@ -4730,7 +4730,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪百賢,吳沛儒"
+            "scr_teacher": "翁祥凱,蘇昭銘,洪百賢,吳沛儒,林良泰"
         },
         {
             "scr_selcode": "3619",
