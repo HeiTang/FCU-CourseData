@@ -1,0 +1,28 @@
+{
+    "message": "",
+    "total": 1,
+    "items": [
+        {
+            "scr_selcode": "4015",
+            "sub_id3": "GEHS1402",
+            "sub_name": "藝術史：從文藝復興到現代藝術",
+            "scr_credit": 4.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "通識－人文(H)",
+            "scr_period": "(一)07-08 待排 (二)07-08 待排 (三)07-08 待排 (四)07-08 待排 (五)07-08 待排 Dana Badger Simpson",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "HETU專案2024_冬季課程",
+            "unt_ls": 8888,
+            "cls_id": "XC01129",
+            "sub_id": "GH260",
+            "scr_dup": "001",
+            "scr_ldl": "線上教學On-line",
+            "scr_english": "N",
+            "scr_teacher": "Dana Badger Simpson"
+        }
+    ]
+}
