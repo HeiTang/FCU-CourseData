@@ -2388,7 +2388,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金四甲",
-            "scr_period": "(二)02-04 語304 洪偉峰",
+            "scr_period": "(二)02-04 忠B03 洪偉峰",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2564,7 +2564,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金四乙",
-            "scr_period": "(二)02-04 語304 洪偉峰",
+            "scr_period": "(二)02-04 忠B03 洪偉峰",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2740,7 +2740,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金四丙",
-            "scr_period": "(二)02-04 語304 洪偉峰",
+            "scr_period": "(二)02-04 忠B03 洪偉峰",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3202,7 +3202,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保二甲",
-            "scr_period": "(三)03-04 資電515 黃彥菱",
+            "scr_period": "(三)03-04 未排教室 陳舜華,黃彥菱",
             "scr_precnt": 61.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「統計學(一)」正課",
@@ -3212,7 +3212,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃彥菱"
+            "scr_teacher": "陳舜華,黃彥菱"
         },
         {
             "scr_selcode": "0376",
@@ -3400,7 +3400,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保二乙",
-            "scr_period": "(四)03-04 商304 邱雁琳",
+            "scr_period": "(四)03-04 未排教室 陳舜華,邱雁琳",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「統計學(一)」正課",
@@ -3410,7 +3410,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱雁琳"
+            "scr_teacher": "陳舜華,邱雁琳"
         },
         {
             "scr_selcode": "0376",
