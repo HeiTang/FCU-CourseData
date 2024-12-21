@@ -4500,7 +4500,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財精二學位學程",
-            "scr_period": "(二)06-08 忠301",
+            "scr_period": "(二)06-08 忠301 李衍煌",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4510,7 +4510,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李衍煌"
         },
         {
             "scr_selcode": "1878",
@@ -4632,7 +4632,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財精三學位學程",
-            "scr_period": "(五)02-04 忠204",
+            "scr_period": "(五)02-04 忠204 王价輝",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4642,7 +4642,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王价輝"
         },
         {
             "scr_selcode": "1884",
@@ -4720,7 +4720,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財精四學位學程",
-            "scr_period": "(一)02-04 商408",
+            "scr_period": "(一)02-04 商408 王有毅",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4730,7 +4730,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王有毅"
         },
         {
             "scr_selcode": "1888",
