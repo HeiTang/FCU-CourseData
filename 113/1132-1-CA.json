@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 659,
+    "total": 660,
     "items": [
         {
             "scr_selcode": "0053",
@@ -2762,7 +2762,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複三",
-            "scr_period": "(二)03-04 忠202 莊瑀珺",
+            "scr_period": "(一)07-08 忠202 林佳弘",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2772,7 +2772,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊瑀珺"
+            "scr_teacher": "林佳弘"
         },
         {
             "scr_selcode": "1157",
@@ -2949,6 +2949,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "莊瑀珺"
+        },
+        {
+            "scr_selcode": "3494",
+            "sub_id3": "FCME3097",
+            "sub_name": "智慧紡織品",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "纖複三",
+            "scr_period": "(五)07-08 工303",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4002,
+            "cls_id": "CE05130",
+            "sub_id": "48342",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "1165",
@@ -5424,7 +5446,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三乙",
-            "scr_period": "(五)02-04 工502 簡彰胤",
+            "scr_period": "(四)06-08 工502 簡彰胤",
             "scr_precnt": 68.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",

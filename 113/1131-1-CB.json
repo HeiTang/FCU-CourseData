@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 717,
+    "total": 719,
     "items": [
         {
             "scr_selcode": "0090",
@@ -6471,6 +6471,28 @@
             "scr_teacher": "張格明"
         },
         {
+            "scr_selcode": "0274",
+            "sub_id3": "ECON2011",
+            "sub_name": "個體經濟學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國貿二甲",
+            "scr_period": "(一)06-08 商308 許鈺珮",
+            "scr_precnt": 75.0,
+            "scr_acptcnt": 43.0,
+            "scr_remarks": null,
+            "unt_ls": 4103,
+            "cls_id": "CB02121",
+            "sub_id": "38550",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "許鈺珮"
+        },
+        {
             "scr_selcode": "3664",
             "sub_id3": "ITRA2093",
             "sub_name": "策略決策與數據分析",
@@ -6845,6 +6867,28 @@
             "scr_teacher": "張格明"
         },
         {
+            "scr_selcode": "0274",
+            "sub_id3": "ECON2011",
+            "sub_name": "個體經濟學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國貿二乙",
+            "scr_period": "(一)06-08 商308 許鈺珮",
+            "scr_precnt": 75.0,
+            "scr_acptcnt": 43.0,
+            "scr_remarks": null,
+            "unt_ls": 4103,
+            "cls_id": "CB02122",
+            "sub_id": "38550",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "許鈺珮"
+        },
+        {
             "scr_selcode": "3664",
             "sub_id3": "ITRA2093",
             "sub_name": "策略決策與數據分析",
@@ -7197,6 +7241,28 @@
             "scr_teacher": "張格明"
         },
         {
+            "scr_selcode": "0274",
+            "sub_id3": "ECON2011",
+            "sub_name": "個體經濟學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國貿二丙",
+            "scr_period": "(一)06-08 商308 許鈺珮",
+            "scr_precnt": 75.0,
+            "scr_acptcnt": 43.0,
+            "scr_remarks": null,
+            "unt_ls": 4103,
+            "cls_id": "CB02123",
+            "sub_id": "38550",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "許鈺珮"
+        },
+        {
             "scr_selcode": "3664",
             "sub_id3": "ITRA2093",
             "sub_name": "策略決策與數據分析",
@@ -7239,28 +7305,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳世良"
-        },
-        {
-            "scr_selcode": "0274",
-            "sub_id3": "ECON2011",
-            "sub_name": "個體經濟學",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "國貿二合",
-            "scr_period": "(一)06-08 商308 許鈺珮",
-            "scr_precnt": 75.0,
-            "scr_acptcnt": 43.0,
-            "scr_remarks": null,
-            "unt_ls": 4103,
-            "cls_id": "CB02129",
-            "sub_id": "38550",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "許鈺珮"
         },
         {
             "scr_selcode": "0275",
