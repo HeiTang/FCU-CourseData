@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 89,
+    "total": 88,
     "items": [
         {
             "scr_selcode": "2016",
@@ -914,7 +914,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機碩一",
-            "scr_period": "(三)11-13 資電312",
+            "scr_period": "(三)11-13 資電312 傅明宇",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -924,7 +924,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "傅明宇"
         },
         {
             "scr_selcode": "1635",
@@ -958,7 +958,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機碩一",
-            "scr_period": "(四)11-13 資電312",
+            "scr_period": "(四)11-13 資電312 賴瓊惠",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -968,7 +968,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴瓊惠"
         },
         {
             "scr_selcode": "1637",
@@ -1046,7 +1046,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機碩一",
-            "scr_period": "(一)11-13 資電312",
+            "scr_period": "(一)11-13 資電312 莊岑豐",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1056,7 +1056,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "莊岑豐"
         },
         {
             "scr_selcode": "1641",
@@ -1761,28 +1761,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "吳上玄"
-        },
-        {
-            "scr_selcode": "2131",
-            "sub_id3": "IEE6103",
-            "sub_name": "手機應用軟體開發",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊電機碩專一學位學程",
-            "scr_period": "(二)11-13 電通B03 林維崙",
-            "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4526,
-            "cls_id": "CI2331A",
-            "sub_id": "05936",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林維崙"
         },
         {
             "scr_selcode": "2132",
