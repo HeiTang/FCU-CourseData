@@ -100,7 +100,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩一",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(三)11-13 工209 林英傑,陳子夏",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林英傑,陳子夏"
         },
         {
             "scr_selcode": "1126",
@@ -870,7 +870,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太碩一",
-            "scr_period": "(二)02-04 科航505 楊瑞彬",
+            "scr_period": "(二)06-08 科航405 楊瑞彬",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
