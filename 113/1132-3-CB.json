@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 102,
+    "total": 103,
     "items": [
         {
             "scr_selcode": "0093",
@@ -506,6 +506,28 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
+            "scr_teacher": "林呈昱"
+        },
+        {
+            "scr_selcode": "3505",
+            "sub_id3": "ITRA7051",
+            "sub_name": "國際貿易經營管理田野研究",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國貿碩二",
+            "scr_period": "(三)00     待排 林呈昱",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "限報名參與移地教學同學選修, 不開放選課",
+            "unt_ls": 4103,
+            "cls_id": "CB02320",
+            "sub_id": "41408",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
             "scr_teacher": "林呈昱"
         },
         {

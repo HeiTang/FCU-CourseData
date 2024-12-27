@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 620,
+    "total": 622,
     "items": [
         {
             "scr_selcode": "2002",
@@ -10660,7 +10660,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三甲",
-            "scr_period": "(三)11-13 資電402 林錫麟",
+            "scr_period": "(三)11-13 資電402 林宗岳,林錫麟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中興大學＆證照業師林錫麟和林宗岳2位老師親自授課",
@@ -10670,7 +10670,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林錫麟"
+            "scr_teacher": "林宗岳,林錫麟"
         },
         {
             "scr_selcode": "1694",
@@ -10682,7 +10682,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三甲",
-            "scr_period": "(二)11-13 資電502",
+            "scr_period": "(二)11-13 資電502 李進賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "業師李進賢老師親自授課\r\n",
@@ -10692,7 +10692,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李進賢"
         },
         {
             "scr_selcode": "1695",
@@ -10781,6 +10781,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉士偉"
+        },
+        {
+            "scr_selcode": "3504",
+            "sub_id3": "AUTO2032",
+            "sub_name": "電磁學(二)",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "自控三甲",
+            "scr_period": "(三)11-13 資電410",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "敏實科技大學溫榮弘副教授親自授課",
+            "unt_ls": 4504,
+            "cls_id": "CE12131",
+            "sub_id": "56830",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "1686",
@@ -10946,7 +10968,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三乙",
-            "scr_period": "(三)11-13 資電402 林錫麟",
+            "scr_period": "(三)11-13 資電402 林宗岳,林錫麟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中興大學＆證照業師林錫麟和林宗岳2位老師親自授課",
@@ -10956,7 +10978,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林錫麟"
+            "scr_teacher": "林宗岳,林錫麟"
         },
         {
             "scr_selcode": "1694",
@@ -10968,7 +10990,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三乙",
-            "scr_period": "(二)11-13 資電502",
+            "scr_period": "(二)11-13 資電502 李進賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "業師李進賢老師親自授課\r\n",
@@ -10978,7 +11000,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李進賢"
         },
         {
             "scr_selcode": "1695",
@@ -11069,6 +11091,28 @@
             "scr_teacher": "劉士偉"
         },
         {
+            "scr_selcode": "3504",
+            "sub_id3": "AUTO2032",
+            "sub_name": "電磁學(二)",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "自控三乙",
+            "scr_period": "(三)11-13 資電410",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "敏實科技大學溫榮弘副教授親自授課",
+            "unt_ls": 4504,
+            "cls_id": "CE12132",
+            "sub_id": "56830",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
+        },
+        {
             "scr_selcode": "1699",
             "sub_id3": "AUTO4071",
             "sub_name": "生醫工程專論",
@@ -11078,7 +11122,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四甲",
-            "scr_period": "(五)03-05 資電418 林賢龍",
+            "scr_period": "(五)03-05 資電418 葉守正,林賢龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "澄清醫院葉守正醫師 & 林賢龍老師共同授課",
@@ -11088,7 +11132,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林賢龍"
+            "scr_teacher": "葉守正,林賢龍"
         },
         {
             "scr_selcode": "1700",
@@ -11144,7 +11188,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四甲",
-            "scr_period": "(四)00     待排 林昱成",
+            "scr_period": "(四)00       林昱成,謝男凱,廖本義,鄒慶福,陳鏡崑,洪三山",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -11154,7 +11198,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林昱成"
+            "scr_teacher": "林昱成,謝男凱,廖本義,鄒慶福,陳鏡崑,洪三山"
         },
         {
             "scr_selcode": "1703",
@@ -11188,7 +11232,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四甲",
-            "scr_period": "(二)11-13 資電410",
+            "scr_period": "(二)11-13 資電410 詹佳穎",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "高雄榮總詹佳穎醫師親自授課",
@@ -11198,7 +11242,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "詹佳穎"
         },
         {
             "scr_selcode": "1699",
@@ -11210,7 +11254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四乙",
-            "scr_period": "(五)03-05 資電418 林賢龍",
+            "scr_period": "(五)03-05 資電418 葉守正,林賢龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "澄清醫院葉守正醫師 & 林賢龍老師共同授課",
@@ -11220,7 +11264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林賢龍"
+            "scr_teacher": "葉守正,林賢龍"
         },
         {
             "scr_selcode": "1700",
@@ -11276,7 +11320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四乙",
-            "scr_period": "(四)00     待排 林昱成",
+            "scr_period": "(四)00       林昱成,謝男凱,廖本義,鄒慶福,陳鏡崑,洪三山",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -11286,7 +11330,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林昱成"
+            "scr_teacher": "林昱成,謝男凱,廖本義,鄒慶福,陳鏡崑,洪三山"
         },
         {
             "scr_selcode": "1703",
@@ -11320,7 +11364,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四乙",
-            "scr_period": "(二)11-13 資電410",
+            "scr_period": "(二)11-13 資電410 詹佳穎",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "高雄榮總詹佳穎醫師親自授課",
@@ -11330,7 +11374,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "詹佳穎"
         },
         {
             "scr_selcode": "2027",

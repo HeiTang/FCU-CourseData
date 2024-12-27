@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 88,
+    "total": 89,
     "items": [
         {
             "scr_selcode": "2016",
@@ -1235,6 +1235,28 @@
             "scr_teacher": "劉益瑞"
         },
         {
+            "scr_selcode": "3503",
+            "sub_id3": "AUTO6005",
+            "sub_name": "自動化機電系統整合",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "自控碩一",
+            "scr_period": "(三)07-09 資電418",
+            "scr_precnt": 10.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "敏實科技大學溫榮弘副教授親自授課",
+            "unt_ls": 4504,
+            "cls_id": "CE12310",
+            "sub_id": "15121",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
+        },
+        {
             "scr_selcode": "1709",
             "sub_id3": "AUTO7990",
             "sub_name": "碩士論文",
@@ -1706,7 +1728,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "生醫資工碩二學位學程",
-            "scr_period": "(三)00     待排 鄭經華,沈祖望,邱創乾,梁詩婷,廖本義,林育德,陳志成,尤正祺,陳鏡崑,陳家豪,劉益瑞,劉堂傑,王通温,林賢龍",
+            "scr_period": "(三)00     未排教室 鄭經華,游景盛,林維崙,沈祖望,邱創乾,梁詩婷,廖本義,林育德,陳志成,尤正祺,陳家豪,劉益瑞,劉堂傑,王通温,林賢龍",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1716,7 +1738,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭經華,沈祖望,邱創乾,梁詩婷,廖本義,林育德,陳志成,尤正祺,陳鏡崑,陳家豪,劉益瑞,劉堂傑,王通温,林賢龍"
+            "scr_teacher": "鄭經華,游景盛,林維崙,沈祖望,邱創乾,梁詩婷,廖本義,林育德,陳志成,尤正祺,陳家豪,劉益瑞,劉堂傑,王通温,林賢龍"
         },
         {
             "scr_selcode": "2129",
