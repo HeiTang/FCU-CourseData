@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學院綜合班",
-            "scr_period": "(四)06-08 商308 王芊惠,陳睿昱,葉俐廷",
+            "scr_period": "(四)06-08 商308 王芊惠,商瓈丹,葉俐廷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "修讀完成3門可取得商業創新微學程證書，且可列入「智慧應用學分學程」。",
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王芊惠,陳睿昱,葉俐廷"
+            "scr_teacher": "王芊惠,商瓈丹,葉俐廷"
         },
         {
             "scr_selcode": "3451",
@@ -13916,7 +13916,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷二甲",
-            "scr_period": "(四)02-04 紀105",
+            "scr_period": "(四)02-04 紀105 劉郁佐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限行銷系學生選課。",
@@ -13926,7 +13926,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "劉郁佐"
         },
         {
             "scr_selcode": "0724",
@@ -13960,7 +13960,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷二甲",
-            "scr_period": "(四)06-08 商302",
+            "scr_period": "(四)06-08 商302 王東明",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13970,7 +13970,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王東明"
         },
         {
             "scr_selcode": "0726",
@@ -14202,7 +14202,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷二乙",
-            "scr_period": "(四)02-04 紀105",
+            "scr_period": "(四)02-04 紀105 劉郁佐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限行銷系學生選課。",
@@ -14212,7 +14212,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "劉郁佐"
         },
         {
             "scr_selcode": "0724",
@@ -14246,7 +14246,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷二乙",
-            "scr_period": "(四)06-08 商302",
+            "scr_period": "(四)06-08 商302 王東明",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -14256,7 +14256,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王東明"
         },
         {
             "scr_selcode": "0726",
@@ -15104,7 +15104,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國企二學位學程",
-            "scr_period": "(一)06-08 商409 陳睿昱",
+            "scr_period": "(一)06-08 商409 陳兆衡",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "For BIBA students only.",
@@ -15114,7 +15114,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "陳睿昱"
+            "scr_teacher": "陳兆衡"
         },
         {
             "scr_selcode": "0680",
@@ -15337,28 +15337,6 @@
             "scr_teacher": "陳鴻麒"
         },
         {
-            "scr_selcode": "0690",
-            "sub_id3": "IBUS3011",
-            "sub_name": "跨域英文專題",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "國企三學位學程",
-            "scr_period": "(三)07-08 資電108 莫西大衛",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4115,
-            "cls_id": "CB25130",
-            "sub_id": "57896",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "Y",
-            "scr_teacher": "莫西大衛"
-        },
-        {
             "scr_selcode": "3453",
             "sub_id3": "IBUS4007",
             "sub_name": "校外實習導論",
@@ -15401,6 +15379,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": " "
+        },
+        {
+            "scr_selcode": "3509",
+            "sub_id3": "IBUS3035",
+            "sub_name": "商業倫理與決策",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國企三學位學程",
+            "scr_period": "(三)06-08 商804A 莫西大衛",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4115,
+            "cls_id": "CB25130",
+            "sub_id": "31368",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "Y",
+            "scr_teacher": "莫西大衛"
         },
         {
             "scr_selcode": "0692",

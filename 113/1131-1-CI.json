@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 585,
+    "total": 586,
     "items": [
         {
             "scr_selcode": "2144",
@@ -375,6 +375,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王馭熊,謝男凱,袁長安,詹彥信,梁詩婷,林成利,王姿惠,鄒慶福,王通温"
+        },
+        {
+            "scr_selcode": "4167",
+            "sub_id3": "COME2100",
+            "sub_name": "5G發展與應用概論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "資電學院綜合班",
+            "scr_period": "(三)00     待排 (四)00     待排 (五)00     待排 高誌鴻",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 1.0,
+            "scr_remarks": "微學分課程",
+            "unt_ls": 4500,
+            "cls_id": "CI00101",
+            "sub_id": "01134",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "高誌鴻"
         },
         {
             "scr_selcode": "1357",
