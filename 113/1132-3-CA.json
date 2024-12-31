@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 105,
+    "total": 108,
     "items": [
         {
             "scr_selcode": "0056",
@@ -443,6 +443,28 @@
             "scr_teacher": "周光輝"
         },
         {
+            "scr_selcode": "3511",
+            "sub_id3": "FCME7072",
+            "sub_name": "石墨烯製備、量測與應用",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "纖複碩二",
+            "scr_period": "(三)02-04 工410 黃建霖",
+            "scr_precnt": 20.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4002,
+            "cls_id": "CE05320",
+            "sub_id": "12841",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "黃建霖"
+        },
+        {
             "scr_selcode": "1229",
             "sub_id3": "ENGS6932",
             "sub_name": "專題討論(二)",
@@ -771,6 +793,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳志賢"
+        },
+        {
+            "scr_selcode": "3527",
+            "sub_id3": "CHE6093",
+            "sub_name": "工程統計與應用",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "化工碩一",
+            "scr_period": "(三)07-09 學705",
+            "scr_precnt": 28.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "張厚謙老師講授",
+            "unt_ls": 4004,
+            "cls_id": "CE08310",
+            "sub_id": "03064",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "1425",
@@ -1959,6 +2003,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "吳宗諭"
+        },
+        {
+            "scr_selcode": "3517",
+            "sub_id3": "OPT7007",
+            "sub_name": "數位全像術",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "光電碩二",
+            "scr_period": "(三)02-04 理101 劉榮平",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4016,
+            "cls_id": "CS06320",
+            "sub_id": "62083",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "劉榮平"
         },
         {
             "scr_selcode": "0057",
