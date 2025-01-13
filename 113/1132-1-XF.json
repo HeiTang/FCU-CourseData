@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 256,
+    "total": 255,
     "items": [
         {
             "scr_selcode": "3155",
@@ -672,8 +672,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工英班",
-            "scr_period": "(四)03-04 人706 陳秋華",
-            "scr_precnt": 45.0,
+            "scr_period": "(四)03-04 人708 陳秋華",
+            "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【英文重補修生線上選課】系統選課。",
             "unt_ls": 8888,
@@ -826,8 +826,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工英班",
-            "scr_period": "(四)03-04 人708 董綺安",
-            "scr_precnt": 40.0,
+            "scr_period": "(四)03-04 人706 董綺安",
+            "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "重補修生請透過MyFCU中【英文重補修生線上選課】系統選課。",
             "unt_ls": 8888,
@@ -5523,28 +5523,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "郭怡君"
-        },
-        {
-            "scr_selcode": "3415",
-            "sub_id3": "CHIN1066",
-            "sub_name": "中文思辨與表達(二)",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "國文綜合班",
-            "scr_period": "(四)01-02 人703 余美玲",
-            "scr_precnt": 50.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 8888,
-            "cls_id": "XF02110",
-            "sub_id": "05612",
-            "scr_dup": "138",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "余美玲"
         },
         {
             "scr_selcode": "3416",

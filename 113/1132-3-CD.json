@@ -78,7 +78,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木碩一",
-            "scr_period": "(四)02-04 土501 楊晏瑜",
+            "scr_period": "(五)08-10 土501 楊晏瑜",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -276,7 +276,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保碩一",
-            "scr_period": "(三)02     行213 (三)03-04 紀303(電腦實習室) 葉昭憲,許少華,張嘉玲",
+            "scr_period": "(三)02-04 土514 陳弘恩",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "有6周使用電腦教室電腦軟體上課",
@@ -286,7 +286,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲,許少華,張嘉玲"
+            "scr_teacher": "陳弘恩"
         },
         {
             "scr_selcode": "1018",
@@ -342,7 +342,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保碩一",
-            "scr_period": "(四)07-09 土514 林秉賢,許少華",
+            "scr_period": "(一)02-04 土514 林秉賢,張嘉玲",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "修課學生需參與海外移地教學活動",
@@ -352,7 +352,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林秉賢,許少華"
+            "scr_teacher": "林秉賢,張嘉玲"
         },
         {
             "scr_selcode": "1021",

@@ -14884,7 +14884,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷四甲",
-            "scr_period": "(五)00",
+            "scr_period": "(五)00       簡士超,王郁彬,丁美靜,葉俊亨",
             "scr_precnt": 60.0,
             "scr_acptcnt": 4.0,
             "scr_remarks": "此門課成為專業實習，僅限本系學生選課，且需簽妥實習三方合約。選修此門課程前應先完成校外實習導論課程。",
@@ -14894,7 +14894,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "簡士超,王郁彬,丁美靜,葉俊亨"
         },
         {
             "scr_selcode": "0835",
@@ -15038,7 +15038,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷四乙",
-            "scr_period": "(五)00",
+            "scr_period": "(五)00       簡士超,王郁彬,丁美靜,葉俊亨",
             "scr_precnt": 60.0,
             "scr_acptcnt": 4.0,
             "scr_remarks": "此門課成為專業實習，僅限本系學生選課，且需簽妥實習三方合約。選修此門課程前應先完成校外實習導論課程。",
@@ -15048,7 +15048,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "簡士超,王郁彬,丁美靜,葉俊亨"
         },
         {
             "scr_selcode": "0835",

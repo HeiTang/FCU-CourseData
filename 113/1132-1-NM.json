@@ -100,7 +100,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創一(RMIT)",
-            "scr_period": "(一)03-04 資電B08 (五)06-07 人608 林敬傑",
+            "scr_period": "(三)06-07 人604 (五)06-07 人608 翁慈青,林敬傑",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "林敬傑"
+            "scr_teacher": "翁慈青,林敬傑"
         },
         {
             "scr_selcode": "2691",
@@ -430,7 +430,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電資二(Purdue)",
-            "scr_period": "(一)06-07 商311 (五)03-04 人202 許佳璵",
+            "scr_period": "(一)06-07 學105 (三)03-04 學102 林維崙",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -440,7 +440,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "許佳璵"
+            "scr_teacher": "林維崙"
         },
         {
             "scr_selcode": "2706",
@@ -804,7 +804,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一(SJSU)",
-            "scr_period": "(二)02-04 人602 (四)02-04 科航102(物實驗室二) 李英德",
+            "scr_period": "(一)06-08 人708 (二)02-04 科航102(物實驗室二) 李英德",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -936,7 +936,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機二(SJSU)",
-            "scr_period": "(一)06-07 商311 (五)03-04 人202 許佳璵",
+            "scr_period": "(一)06-07 學105 (三)03-04 學102 林維崙",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -946,7 +946,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "許佳璵"
+            "scr_teacher": "林維崙"
         },
         {
             "scr_selcode": "2706",
@@ -1486,7 +1486,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學一(UQ)",
-            "scr_period": "(二)10     紀104 (三)02-04 資電B02 丁美靜",
+            "scr_period": "(二)10     紀104 (三)02-04 人608 丁美靜",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1640,7 +1640,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學二(UQ)",
-            "scr_period": "(四)00       顏厚棟",
+            "scr_period": "(一)10     商103 顏厚棟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",

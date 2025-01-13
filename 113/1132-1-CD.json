@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 364,
+    "total": 360,
     "items": [
         {
             "scr_selcode": "0825",
@@ -122,7 +122,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(二)09     語203 紀昭銘",
+            "scr_period": "(四)09     語206 紀昭銘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -199,28 +199,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳仲翰"
-        },
-        {
-            "scr_selcode": "0909",
-            "sub_id3": "CE1080",
-            "sub_name": "地理資訊系統概論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土木一甲",
-            "scr_period": "(四)02-04 土302(電腦實習室) 賴正偉",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4602,
-            "cls_id": "CE01111",
-            "sub_id": "17677",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "賴正偉"
         },
         {
             "scr_selcode": "0910",
@@ -320,7 +298,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(二)06-07 行政二館205(視聽室) 林憶穎",
+            "scr_period": "(二)06-07 行政二館205(視聽室) 林憶穎,王金輝",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -330,7 +308,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "林憶穎,王金輝"
         },
         {
             "scr_selcode": "3532",
@@ -342,10 +320,10 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(四)02-04 待排 賴正偉",
+            "scr_period": "(四)02-04 土302(電腦實習室) 賴正偉",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "土302",
+            "scr_remarks": " ",
             "unt_ls": 4602,
             "cls_id": "CE01111",
             "sub_id": "17689",
@@ -353,28 +331,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "賴正偉"
-        },
-        {
-            "scr_selcode": "0000",
-            "sub_id3": "CE1083",
-            "sub_name": "地理資訊系統",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土木一乙",
-            "scr_period": "(三)01     待排",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4602,
-            "cls_id": "CE01112",
-            "sub_id": "17689",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
         },
         {
             "scr_selcode": "0914",
@@ -465,28 +421,6 @@
             "scr_teacher": "陳仲翰"
         },
         {
-            "scr_selcode": "0918",
-            "sub_id3": "CE1080",
-            "sub_name": "地理資訊系統概論",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土木一乙",
-            "scr_period": "(五)06-08 行政二館105-電腦實習室 楊晏瑜,賴正偉",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4602,
-            "cls_id": "CE01112",
-            "sub_id": "17677",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "楊晏瑜,賴正偉"
-        },
-        {
             "scr_selcode": "0919",
             "sub_id3": "CE1078",
             "sub_name": "計算機程式語言",
@@ -562,7 +496,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(一)02-04 理413",
+            "scr_period": "(一)02-04 學104",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -584,7 +518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(二)06-07 行政二館205(視聽室) 林憶穎",
+            "scr_period": "(二)06-07 行政二館205(視聽室) 林憶穎,王金輝",
             "scr_precnt": 140.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -594,7 +528,29 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "林憶穎,王金輝"
+        },
+        {
+            "scr_selcode": "3533",
+            "sub_id3": "CE1083",
+            "sub_name": "地理資訊系統",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土木一乙",
+            "scr_period": "(五)06-08 行政二館105-電腦實習室 楊晏瑜,賴正偉",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4602,
+            "cls_id": "CE01112",
+            "sub_id": "17689",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "楊晏瑜,賴正偉"
         },
         {
             "scr_selcode": "0923",
@@ -694,7 +650,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木二甲",
-            "scr_period": "(三)06-08 土403 林喻峰",
+            "scr_period": "(三)07-09 土403 林喻峰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -716,7 +672,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木二甲",
-            "scr_period": "(三)09     土403 林喻峰",
+            "scr_period": "(三)06     土403 林喻峰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -914,7 +870,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木二乙",
-            "scr_period": "(三)09     學101 楊晏瑜",
+            "scr_period": "(四)09     學103 楊晏瑜",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1970,7 +1926,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(四)09     語201 張嘉玲",
+            "scr_period": "(四)09     語205 張嘉玲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2036,7 +1992,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(一)08-09 語105 黃馨慧",
+            "scr_period": "(一)08-09 人403 黃馨慧",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2190,7 +2146,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(五)01-02 忠B01 林憶穎",
+            "scr_period": "(五)01-02 忠B01 葉展銘,陳謙貴",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2200,7 +2156,7 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "葉展銘,陳謙貴"
         },
         {
             "scr_selcode": "0975",
@@ -2432,7 +2388,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(五)01-02 忠B01 林憶穎",
+            "scr_period": "(五)01-02 忠B01 葉展銘,陳謙貴",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2442,7 +2398,7 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "葉展銘,陳謙貴"
         },
         {
             "scr_selcode": "0985",
@@ -2938,7 +2894,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三甲",
-            "scr_period": "(一)01     紀302(電腦實習室) (一)01     紀303(電腦實習室) (一)02-04 土509 劉益誠,吳俊鋐,連惠邦",
+            "scr_period": "(一)01     紀302(電腦實習室) (一)01     紀303(電腦實習室) (一)02-04 土509 劉益誠,吳俊鋐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2948,7 +2904,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉益誠,吳俊鋐,連惠邦"
+            "scr_teacher": "劉益誠,吳俊鋐"
         },
         {
             "scr_selcode": "1003",
@@ -3004,7 +2960,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三甲",
-            "scr_period": "(一)07-09 紀301智慧城市共享學習堂 葉昭憲,陳弘恩",
+            "scr_period": "(一)07-09 紀301智慧城市共享學習堂 葉昭憲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3014,7 +2970,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲,陳弘恩"
+            "scr_teacher": "葉昭憲"
         },
         {
             "scr_selcode": "1008",
@@ -3114,7 +3070,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三乙",
-            "scr_period": "(一)02     紀302(電腦實習室) (一)02     紀303(電腦實習室) (二)02-04 土509 劉益誠,吳俊鋐,連惠邦",
+            "scr_period": "(一)02     紀302(電腦實習室) (一)02     紀303(電腦實習室) (二)02-04 土509 劉益誠,連惠邦",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3124,7 +3080,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉益誠,吳俊鋐,連惠邦"
+            "scr_teacher": "劉益誠,連惠邦"
         },
         {
             "scr_selcode": "1005",
@@ -3180,7 +3136,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三乙",
-            "scr_period": "(一)07-09 紀301智慧城市共享學習堂 葉昭憲,陳弘恩",
+            "scr_period": "(一)07-09 紀301智慧城市共享學習堂 葉昭憲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3190,7 +3146,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭憲,陳弘恩"
+            "scr_teacher": "葉昭憲"
         },
         {
             "scr_selcode": "1008",
@@ -3325,28 +3281,6 @@
             "scr_teacher": "賴奇厚,林秋裕"
         },
         {
-            "scr_selcode": "1014",
-            "sub_id3": "HY4044",
-            "sub_name": "地下水與模式應用",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "水利資保四甲",
-            "scr_period": "(三)06-08 忠611(電腦實習室) 韋正,許少華",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4603,
-            "cls_id": "CE02141",
-            "sub_id": "17932",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "韋正,許少華"
-        },
-        {
             "scr_selcode": "1015",
             "sub_id3": "HY4036",
             "sub_name": "無人機飛行操作",
@@ -3411,28 +3345,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "賴奇厚,林秋裕"
-        },
-        {
-            "scr_selcode": "1014",
-            "sub_id3": "HY4044",
-            "sub_name": "地下水與模式應用",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "水利資保四乙",
-            "scr_period": "(三)06-08 忠611(電腦實習室) 韋正,許少華",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4603,
-            "cls_id": "CE02142",
-            "sub_id": "17932",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "韋正,許少華"
         },
         {
             "scr_selcode": "1015",
@@ -3510,7 +3422,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一甲",
-            "scr_period": "(三)06-07 語201 蕭育和",
+            "scr_period": "(三)06-07 人605 蕭育和",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3699,6 +3611,28 @@
             "scr_teacher": "劉英標"
         },
         {
+            "scr_selcode": "2029",
+            "sub_id3": "GEG2000",
+            "sub_name": "現代公民與社會實踐",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "運輸物流一乙",
+            "scr_period": "(五)06-07 忠305 王謙",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": " ",
+            "unt_ls": 4606,
+            "cls_id": "CM02112",
+            "sub_id": "06857",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "王謙"
+        },
+        {
             "scr_selcode": "2227",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -3741,28 +3675,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "趙宸紳"
-        },
-        {
-            "scr_selcode": "2229",
-            "sub_id3": "GEG2000",
-            "sub_name": "現代公民與社會實踐",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "運輸物流一乙",
-            "scr_period": "(五)06-07 人504 陳慶德",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4606,
-            "cls_id": "CM02112",
-            "sub_id": "06857",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳慶德"
         },
         {
             "scr_selcode": "2230",
@@ -3972,7 +3884,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二甲",
-            "scr_period": "(四)06     紀302(電腦實習室) (四)06     紀303(電腦實習室) (四)07     紀302(電腦實習室) (四)07     紀303(電腦實習室) (四)08     紀302(電腦實習室) (四)08     紀303(電腦實習室) 吳淵展",
+            "scr_period": "(四)06     紀302(電腦實習室) (四)06     紀303(電腦實習室) (四)07     紀302(電腦實習室) (四)07     紀303(電腦實習室) (四)08     紀302(電腦實習室) (四)08     紀303(電腦實習室) 黃彥斐,吳淵展",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3982,7 +3894,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳淵展"
+            "scr_teacher": "黃彥斐,吳淵展"
         },
         {
             "scr_selcode": "2240",
@@ -4060,7 +3972,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二甲",
-            "scr_period": "(二)07-08 紀301智慧城市共享學習堂 (五)03-04 紀209A 王翊和",
+            "scr_period": "(二)07-08 紀301智慧城市共享學習堂 (五)03-04 紀209A 黃彥斐,王翊和",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4070,7 +3982,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王翊和"
+            "scr_teacher": "黃彥斐,王翊和"
         },
         {
             "scr_selcode": "2244",
@@ -4082,7 +3994,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二甲",
-            "scr_period": "(二)06     紀301智慧城市共享學習堂 王翊和",
+            "scr_period": "(二)06     紀301智慧城市共享學習堂 黃彥斐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4092,7 +4004,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王翊和"
+            "scr_teacher": "黃彥斐"
         },
         {
             "scr_selcode": "2245",
@@ -4104,7 +4016,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二甲",
-            "scr_period": "(三)06-08 紀409 宋鴻康",
+            "scr_period": "(三)06-08 紀409 黃彥斐,宋鴻康",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4114,7 +4026,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋鴻康"
+            "scr_teacher": "黃彥斐,宋鴻康"
         },
         {
             "scr_selcode": "2246",
@@ -4236,7 +4148,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二乙",
-            "scr_period": "(四)09     紀302(電腦實習室) (四)09     紀303(電腦實習室) (四)10     紀302(電腦實習室) (四)10     紀303(電腦實習室) (四)11     紀302(電腦實習室) (四)11     紀303(電腦實習室) 吳淵展",
+            "scr_period": "(四)09     紀302(電腦實習室) (四)09     紀303(電腦實習室) (四)10     紀302(電腦實習室) (四)10     紀303(電腦實習室) (四)11     紀302(電腦實習室) (四)11     紀303(電腦實習室) 黃彥斐,吳淵展",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4246,7 +4158,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳淵展"
+            "scr_teacher": "黃彥斐,吳淵展"
         },
         {
             "scr_selcode": "2249",
@@ -4324,7 +4236,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二乙",
-            "scr_period": "(一)03-04 紀301智慧城市共享學習堂 (五)06-07 紀209A 王翊和",
+            "scr_period": "(一)03-04 紀301智慧城市共享學習堂 (五)06-07 紀209A 黃彥斐,王翊和",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4334,7 +4246,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王翊和"
+            "scr_teacher": "黃彥斐,王翊和"
         },
         {
             "scr_selcode": "2253",
@@ -4346,7 +4258,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二乙",
-            "scr_period": "(一)02     紀301智慧城市共享學習堂 王翊和",
+            "scr_period": "(一)02     紀301智慧城市共享學習堂 黃彥斐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4356,7 +4268,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王翊和"
+            "scr_teacher": "黃彥斐"
         },
         {
             "scr_selcode": "2254",
@@ -4368,7 +4280,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流二乙",
-            "scr_period": "(三)02-04 紀209A 宋鴻康",
+            "scr_period": "(三)02-04 紀209A 黃彥斐,宋鴻康",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4378,7 +4290,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋鴻康"
+            "scr_teacher": "黃彥斐,宋鴻康"
         },
         {
             "scr_selcode": "2255",
@@ -5050,7 +4962,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資一甲",
-            "scr_period": "(四)06-07 行政二館205(視聽室) 倪婉萍",
+            "scr_period": "(四)06-07 啟垣廳 倪婉萍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5138,7 +5050,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資一甲",
-            "scr_period": "(三)07-09 忠307 杜建宏",
+            "scr_period": "(三)07-09 忠207 杜建宏",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5182,7 +5094,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資一甲",
-            "scr_period": "(五)01-02 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(五)01-02 紀204(第一國會廳) 李建勲,王獻芬",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5192,7 +5104,7 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "李建勲,王獻芬"
         },
         {
             "scr_selcode": "1515",
@@ -5204,7 +5116,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資一乙",
-            "scr_period": "(四)06-07 行政二館205(視聽室) 倪婉萍",
+            "scr_period": "(四)06-07 啟垣廳 倪婉萍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5380,7 +5292,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資一乙",
-            "scr_period": "(五)01-02 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(五)01-02 紀204(第一國會廳) 李建勲,王獻芬",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5390,7 +5302,7 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "李建勲,王獻芬"
         },
         {
             "scr_selcode": "1527",
@@ -5402,7 +5314,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資二甲",
-            "scr_period": "(三)09     忠304 楊松岳",
+            "scr_period": "(三)09     忠309 楊松岳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5446,7 +5358,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資二甲",
-            "scr_period": "(三)02     忠302 (三)03-04 忠611(電腦實習室) 莊永忠",
+            "scr_period": "(三)02     忠302 (三)03-04 忠611(電腦實習室) 徐逸祥",
             "scr_precnt": 65.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5454,9 +5366,9 @@
             "cls_id": "CE10121",
             "sub_id": "21091",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "莊永忠"
+            "scr_teacher": "徐逸祥"
         },
         {
             "scr_selcode": "1530",
@@ -5622,7 +5534,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資二乙",
-            "scr_period": "(二)06     紀302(電腦實習室) (二)06     紀303(電腦實習室) (二)07     紀302(電腦實習室) (二)07     紀303(電腦實習室) (二)08     紀302(電腦實習室) (二)08     紀303(電腦實習室) 徐逸祥",
+            "scr_period": "(二)06     紀302(電腦實習室) (二)06     紀303(電腦實習室) (二)07     紀302(電腦實習室) (二)07     紀303(電腦實習室) (二)08     紀302(電腦實習室) (二)08     紀303(電腦實習室) 莊永忠",
             "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5630,9 +5542,9 @@
             "cls_id": "CE10122",
             "sub_id": "21091",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "徐逸祥"
+            "scr_teacher": "莊永忠"
         },
         {
             "scr_selcode": "1536",
@@ -6304,7 +6216,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(二)01-02 忠611(電腦實習室) 陳耀鐘",
+            "scr_period": "(三)09-10 行政二館104-電腦實習室 謝東昇",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程為1學分，單週甲班上課，雙週乙\r\n班上課。",
@@ -6314,7 +6226,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耀鐘"
+            "scr_teacher": "謝東昇"
         },
         {
             "scr_selcode": "2285",
@@ -6436,7 +6348,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(三)01-02 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(三)01-02 紀204(第一國會廳) 張永吉,葉展銘",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6446,7 +6358,7 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "張永吉,葉展銘"
         },
         {
             "scr_selcode": "2288",
@@ -6568,7 +6480,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(二)01-02 忠611(電腦實習室) 陳耀鐘",
+            "scr_period": "(三)09-10 行政二館104-電腦實習室 謝東昇",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程為1學分，單週甲班上課，雙週乙\r\n班上課。",
@@ -6578,7 +6490,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耀鐘"
+            "scr_teacher": "謝東昇"
         },
         {
             "scr_selcode": "2294",
@@ -6590,7 +6502,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(三)07-09 紀209B 盧伯豪",
+            "scr_period": "(三)06-08 紀209B 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6612,7 +6524,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(三)06     紀209B 盧伯豪",
+            "scr_period": "(四)09     紀409 盧伯豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6700,7 +6612,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(三)01-02 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(三)01-02 紀204(第一國會廳) 張永吉,葉展銘",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6710,7 +6622,7 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "張永吉,葉展銘"
         },
         {
             "scr_selcode": "2298",
@@ -7448,7 +7360,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三甲",
-            "scr_period": "(四)08-10 紀110 張梅英,楊祥銘",
+            "scr_period": "(四)08-10 紀204(第一國會廳) 張梅英,楊祥銘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7668,7 +7580,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三乙",
-            "scr_period": "(四)08-10 紀111 楊祥銘,張梅英",
+            "scr_period": "(四)08-10 紀204(第一國會廳) 楊祥銘,張梅英",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",

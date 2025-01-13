@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 50,
+    "total": 51,
     "items": [
         {
             "scr_selcode": "3102",
@@ -1101,6 +1101,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "黃素珍"
+        },
+        {
+            "scr_selcode": "3559",
+            "sub_id3": "ATHL3073",
+            "sub_name": "體育—芭蕾入門",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "體育選修",
+            "scr_period": "(三)08-09 體館202(第二舞蹈室)",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "修課學生需自備\"芭蕾「軟鞋」\"，謝絕旁聽生。",
+            "unt_ls": 8888,
+            "cls_id": "XD01111",
+            "sub_id": "99342",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": " "
         }
     ]
 }
