@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 90,
+    "total": 91,
     "items": [
         {
             "scr_selcode": "2016",
@@ -738,7 +738,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子碩一",
-            "scr_period": "(四)11-13 電通306",
+            "scr_period": "(四)11-13 電通306 楊晉州",
             "scr_precnt": 17.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊晉州老師講授",
@@ -748,7 +748,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊晉州"
         },
         {
             "scr_selcode": "3580",
@@ -914,7 +914,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子碩二",
-            "scr_period": "(四)07-09 電通306",
+            "scr_period": "(四)07-09 電通306 陳煥緒",
             "scr_precnt": 17.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳煥緒助理教授講授",
@@ -924,7 +924,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳煥緒"
         },
         {
             "scr_selcode": "1633",
@@ -1805,6 +1805,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "吳上玄"
+        },
+        {
+            "scr_selcode": "2131",
+            "sub_id3": "IEE6103",
+            "sub_name": "手機應用軟體開發",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "資訊電機碩專一學位學程",
+            "scr_period": "(二)11-13 資電B03 林維崙",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4526,
+            "cls_id": "CI2331A",
+            "sub_id": "05936",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林維崙"
         },
         {
             "scr_selcode": "2132",

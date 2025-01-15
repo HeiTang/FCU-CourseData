@@ -1486,7 +1486,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四甲",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     待排 林喻峰,劉至軒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": null,
@@ -1496,7 +1496,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林喻峰,劉至軒"
         },
         {
             "scr_selcode": "3759",
@@ -1684,7 +1684,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四乙",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     待排 林喻峰,劉至軒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": null,
@@ -1694,7 +1694,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林喻峰,劉至軒"
         },
         {
             "scr_selcode": "3760",

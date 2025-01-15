@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管碩一",
-            "scr_period": "(四)02-04 商702 吳如娟",
+            "scr_period": "(四)02-04 商702 劉冠良,吳如娟",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳如娟"
+            "scr_teacher": "劉冠良,吳如娟"
         },
         {
             "scr_selcode": "2213",
@@ -1354,7 +1354,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷碩二",
-            "scr_period": "(三)02-04 商702 林豐智",
+            "scr_period": "(三)02-04 商702 賴志峰,林豐智",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本系預研生請於現場選課時至系辦選課。",
@@ -1364,7 +1364,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林豐智"
+            "scr_teacher": "賴志峰,林豐智"
         },
         {
             "scr_selcode": "0625",

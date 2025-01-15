@@ -364,7 +364,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複碩一",
-            "scr_period": "(四)11-13 忠202",
+            "scr_period": "(四)11-13 忠202 柯錦和",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -374,7 +374,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "柯錦和"
         },
         {
             "scr_selcode": "1173",
@@ -804,7 +804,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工碩一",
-            "scr_period": "(三)07-09 學705",
+            "scr_period": "(三)07-09 學705 張厚謙",
             "scr_precnt": 28.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "張厚謙老師講授",
@@ -814,7 +814,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張厚謙"
         },
         {
             "scr_selcode": "1425",
@@ -1222,7 +1222,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(二)07-09 學711-1 朱正永",
+            "scr_period": "(二)07-09 學711-1 陳宗賢,朱正永",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1232,7 +1232,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱正永"
+            "scr_teacher": "陳宗賢,朱正永"
         },
         {
             "scr_selcode": "1804",

@@ -5468,7 +5468,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子二甲",
-            "scr_period": "(四)02-04 忠307",
+            "scr_period": "(四)02-04 忠307 許騰仁",
             "scr_precnt": 110.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5478,7 +5478,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "許騰仁"
         },
         {
             "scr_selcode": "1453",
@@ -6084,7 +6084,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子二丙",
-            "scr_period": "(三)08-10 資電B04",
+            "scr_period": "(三)08-10 資電B04 許騰仁",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6094,7 +6094,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "許騰仁"
         },
         {
             "scr_selcode": "1470",
@@ -6370,7 +6370,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子三甲",
-            "scr_period": "(五)06-08 資電411",
+            "scr_period": "(五)06-08 資電411 曾崑福",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "曾崑福老師授課",
@@ -6380,7 +6380,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾崑福"
         },
         {
             "scr_selcode": "1488",
@@ -6568,7 +6568,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子三乙",
-            "scr_period": "(五)06-08 資電411",
+            "scr_period": "(五)06-08 資電411 曾崑福",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "曾崑福老師授課",
@@ -6578,7 +6578,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾崑福"
         },
         {
             "scr_selcode": "1488",
@@ -6788,7 +6788,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子三丙",
-            "scr_period": "(五)06-08 資電411",
+            "scr_period": "(五)06-08 資電411 曾崑福",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "曾崑福老師授課",
@@ -6798,7 +6798,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾崑福"
         },
         {
             "scr_selcode": "1488",
@@ -6942,7 +6942,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四甲",
-            "scr_period": "(三)07-09 資電411",
+            "scr_period": "(三)07-09 資電411 路建華",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "路建華老師授課",
@@ -6952,7 +6952,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "路建華"
         },
         {
             "scr_selcode": "1495",
@@ -6964,7 +6964,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四甲",
-            "scr_period": "(三)11-13 資電103",
+            "scr_period": "(三)11-13 資電103 陳志榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳志榮老師授課",
@@ -6974,7 +6974,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳志榮"
         },
         {
             "scr_selcode": "1496",
@@ -7096,7 +7096,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四乙",
-            "scr_period": "(三)07-09 資電411",
+            "scr_period": "(三)07-09 資電411 路建華",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "路建華老師授課",
@@ -7106,7 +7106,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "路建華"
         },
         {
             "scr_selcode": "1495",
@@ -7118,7 +7118,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四乙",
-            "scr_period": "(三)11-13 資電103",
+            "scr_period": "(三)11-13 資電103 陳志榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳志榮老師授課",
@@ -7128,7 +7128,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳志榮"
         },
         {
             "scr_selcode": "1496",
@@ -7250,7 +7250,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四丙",
-            "scr_period": "(三)07-09 資電411",
+            "scr_period": "(三)07-09 資電411 路建華",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "路建華老師授課",
@@ -7260,7 +7260,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "路建華"
         },
         {
             "scr_selcode": "1495",
@@ -7272,7 +7272,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子四丙",
-            "scr_period": "(三)11-13 資電103",
+            "scr_period": "(三)11-13 資電103 陳志榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳志榮老師授課",
@@ -7282,7 +7282,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳志榮"
         },
         {
             "scr_selcode": "1496",
@@ -7734,10 +7734,10 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一乙",
-            "scr_period": "(一)08-10 未排教室",
+            "scr_period": "(一)08-10 待排",
             "scr_precnt": 65.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "授課教師：林文凱。本課程須至普物實驗室進行實驗，上課地點將於開學前公告。",
+            "scr_remarks": "本課程須至普物實驗室進行實驗，上課地點將於開學前公告。",
             "unt_ls": 4503,
             "cls_id": "CE11112",
             "sub_id": "48352",
@@ -11631,7 +11631,7 @@
             "scr_period": "(一)02-04   方淳民",
             "scr_precnt": 65.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "授課教師：蔣平志。本課程須至普物實驗室進行實驗，上課地點將於開學前公告。",
+            "scr_remarks": "本課程須至普物實驗室進行實驗，上課地點將於開學前公告。",
             "unt_ls": 4505,
             "cls_id": "CI02111",
             "sub_id": "48352",
@@ -12596,17 +12596,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊三甲",
-            "scr_period": "(五)06-08 待排",
+            "scr_period": "(五)06-08 待排 鄒耀東",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "鄒耀東老師",
+            "scr_remarks": " ",
             "unt_ls": 4505,
             "cls_id": "CI02131",
             "sub_id": "51262",
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄒耀東"
         },
         {
             "scr_selcode": "3507",
@@ -12860,17 +12860,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊三乙",
-            "scr_period": "(五)06-08 待排",
+            "scr_period": "(五)06-08 待排 鄒耀東",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "鄒耀東老師",
+            "scr_remarks": " ",
             "unt_ls": 4505,
             "cls_id": "CI02132",
             "sub_id": "51262",
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄒耀東"
         },
         {
             "scr_selcode": "3507",
@@ -13014,7 +13014,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊四甲",
-            "scr_period": "(二)11-13 待排",
+            "scr_period": "(二)11-13 待排 陳立勝",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳立勝",
@@ -13024,7 +13024,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳立勝"
         },
         {
             "scr_selcode": "2077",
@@ -13146,7 +13146,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊四乙",
-            "scr_period": "(二)11-13 待排",
+            "scr_period": "(二)11-13 待排 陳立勝",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "陳立勝",
@@ -13156,7 +13156,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳立勝"
         },
         {
             "scr_selcode": "2103",
