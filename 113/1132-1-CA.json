@@ -2454,7 +2454,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複一",
-            "scr_period": "(三)06     工416 (三)07-08 工202(化學實驗室)",
+            "scr_period": "(三)06     工416 (三)07-08 工202(化學實驗室) 林志韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "第6節請排工學館多媒體教室，以利第7節能快速進到工學館工202普化實驗室進行實驗。",
@@ -2464,7 +2464,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林志韋"
         },
         {
             "scr_selcode": "1140",
@@ -5006,7 +5006,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工一合",
-            "scr_period": "(五)06     工302 (五)07-08 工202(化學實驗室)",
+            "scr_period": "(五)06     工302 (五)07-08 工202(化學實驗室) 林志韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "第6節請排工學館多媒體教室，以利第7節能快速進到工學館工202普化實驗室進行實驗。",
@@ -5016,7 +5016,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林志韋"
         },
         {
             "scr_selcode": "1385",
@@ -6128,7 +6128,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一甲",
-            "scr_period": "(一)03-04 語305",
+            "scr_period": "(一)03-04 語305 蔡英品",
             "scr_precnt": 65.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6138,7 +6138,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡英品"
         },
         {
             "scr_selcode": "1715",
@@ -8042,7 +8042,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統一學位學程",
-            "scr_period": "(一)02-04 忠203 劉育成",
+            "scr_period": "(一)02-04 忠203 陳晉照",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8052,7 +8052,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉育成"
+            "scr_teacher": "陳晉照"
         },
         {
             "scr_selcode": "1816",
@@ -11276,7 +11276,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料一甲",
-            "scr_period": "(二)02     工302 (二)03-04 工202(化學實驗室)",
+            "scr_period": "(二)02     工302 (二)03-04 工202(化學實驗室) 林志韋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11286,7 +11286,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林志韋"
         },
         {
             "scr_selcode": "2453",
@@ -13388,7 +13388,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一甲",
-            "scr_period": "(三)08-10 未排教室",
+            "scr_period": "(三)08-10 未排教室 林文凱",
             "scr_precnt": 65.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程須至普物實驗室進行實驗，上課地點將於開學前公告。",
@@ -13398,7 +13398,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林文凱"
         },
         {
             "scr_selcode": "2583",
@@ -14378,7 +14378,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電三甲",
-            "scr_period": "(二)02-04 理211",
+            "scr_period": "(二)02-04 理211 林文凱",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -14388,7 +14388,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林文凱"
         },
         {
             "scr_selcode": "2615",
@@ -14620,7 +14620,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電三乙",
-            "scr_period": "(二)02-04 理211",
+            "scr_period": "(二)02-04 理211 林文凱",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -14630,7 +14630,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林文凱"
         },
         {
             "scr_selcode": "2626",
@@ -14708,7 +14708,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電四甲",
-            "scr_period": "(四)06-08 語206",
+            "scr_period": "(四)06-08 語206 杜鴻國",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -14718,7 +14718,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "杜鴻國"
         },
         {
             "scr_selcode": "3516",
@@ -14818,7 +14818,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電四乙",
-            "scr_period": "(四)06-08 語206",
+            "scr_period": "(四)06-08 語206 杜鴻國",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -14828,7 +14828,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "杜鴻國"
         },
         {
             "scr_selcode": "3516",

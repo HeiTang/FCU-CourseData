@@ -1948,7 +1948,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電碩二",
-            "scr_period": "(一)07     理101",
+            "scr_period": "(一)07     理101 林文凱",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "系外學生修習本課程，須經授課教師簽名同意。",
@@ -1958,7 +1958,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林文凱"
         },
         {
             "scr_selcode": "2636",

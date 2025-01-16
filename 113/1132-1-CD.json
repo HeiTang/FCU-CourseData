@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 360,
+    "total": 361,
     "items": [
         {
             "scr_selcode": "0825",
@@ -496,7 +496,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(一)02-04 學104",
+            "scr_period": "(一)02-04 學104 張庭維",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -506,7 +506,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張庭維"
         },
         {
             "scr_selcode": "3427",
@@ -1002,7 +1002,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木三甲",
-            "scr_period": "(三)02-04 語202",
+            "scr_period": "(三)02-04 語202 張庭維",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1012,7 +1012,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張庭維"
         },
         {
             "scr_selcode": "0941",
@@ -1618,7 +1618,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四甲",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     未排教室 楊晏瑜,劉至軒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1628,7 +1628,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊晏瑜,劉至軒"
         },
         {
             "scr_selcode": "0956",
@@ -1662,7 +1662,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四甲",
-            "scr_period": "(一)02-04 忠204",
+            "scr_period": "(一)02-04 忠204 楊詩蔚",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊詩蔚老師授課",
@@ -1672,7 +1672,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊詩蔚"
         },
         {
             "scr_selcode": "3462",
@@ -1772,7 +1772,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四乙",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     未排教室 楊晏瑜,劉至軒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1782,7 +1782,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊晏瑜,劉至軒"
         },
         {
             "scr_selcode": "0956",
@@ -1816,7 +1816,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木四乙",
-            "scr_period": "(一)02-04 忠204",
+            "scr_period": "(一)02-04 忠204 楊詩蔚",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊詩蔚老師授課",
@@ -1826,7 +1826,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊詩蔚"
         },
         {
             "scr_selcode": "3462",
@@ -7835,6 +7835,28 @@
             "scr_teacher": "張梅英,楊龍士"
         },
         {
+            "scr_selcode": "2343",
+            "sub_id3": "LAND4016",
+            "sub_name": "強制執行法",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土管四甲",
+            "scr_period": "(三)09-10 紀104 顏世傑",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4608,
+            "cls_id": "CM03141",
+            "sub_id": "35031",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "顏世傑"
+        },
+        {
             "scr_selcode": "2344",
             "sub_id3": "LAND4015",
             "sub_name": "專業實習",
@@ -7879,6 +7901,28 @@
             "scr_teacher": "張梅英,楊龍士"
         },
         {
+            "scr_selcode": "2343",
+            "sub_id3": "LAND4016",
+            "sub_name": "強制執行法",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土管四乙",
+            "scr_period": "(三)09-10 紀104 顏世傑",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4608,
+            "cls_id": "CM03142",
+            "sub_id": "35031",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "顏世傑"
+        },
+        {
             "scr_selcode": "2344",
             "sub_id3": "LAND4015",
             "sub_name": "專業實習",
@@ -7899,28 +7943,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "朱南玉"
-        },
-        {
-            "scr_selcode": "2343",
-            "sub_id3": "LAND4016",
-            "sub_name": "強制執行法",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "土管四合",
-            "scr_period": "(三)09-10 紀104 顏世傑",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4608,
-            "cls_id": "CM03149",
-            "sub_id": "35031",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "顏世傑"
         }
     ]
 }
