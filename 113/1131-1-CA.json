@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 631,
+    "total": 629,
     "items": [
         {
             "scr_selcode": "0053",
@@ -11883,28 +11883,6 @@
             "scr_teacher": "簡儀欣"
         },
         {
-            "scr_selcode": "2633",
-            "sub_id3": "MSE4062",
-            "sub_name": "專業實習(一)",
-            "scr_credit": 9.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "材料四甲",
-            "scr_period": "(二)00",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4015,
-            "cls_id": "CS03141",
-            "sub_id": "43036",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
-        },
-        {
             "scr_selcode": "2635",
             "sub_id3": "MSE4025",
             "sub_name": "磁性材料學",
@@ -12057,28 +12035,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "簡儀欣"
-        },
-        {
-            "scr_selcode": "2633",
-            "sub_id3": "MSE4062",
-            "sub_name": "專業實習(一)",
-            "scr_credit": 9.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "材料四乙",
-            "scr_period": "(二)00",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4015,
-            "cls_id": "CS03142",
-            "sub_id": "43036",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
         },
         {
             "scr_selcode": "2635",

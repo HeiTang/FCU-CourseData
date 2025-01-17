@@ -14,7 +14,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(二)14     學102 曾韋禎",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 52.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -34,9 +34,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修一",
-            "scr_period": "(三)11-12 土302(電腦實習室)",
+            "scr_period": "(三)11-12 土302(電腦實習室) 陳協良",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 58.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -44,7 +44,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳協良"
         },
         {
             "scr_selcode": "0858",
@@ -58,7 +58,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(四)11-12 忠204 隋利儀",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 53.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -80,7 +80,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(一)13-14 忠305 劉皓仁",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 98.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -102,7 +102,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(三)13-14 土402 林建良",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 54.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -124,7 +124,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(四)13-14 忠611(電腦實習室) 林威延",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -144,9 +144,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修一",
-            "scr_period": "(二)11-13 學102",
+            "scr_period": "(二)11-13 學102 詹智捷",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -154,7 +154,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "詹智捷"
         },
         {
             "scr_selcode": "0863",
@@ -166,9 +166,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修一",
-            "scr_period": "(一)11-12 學102",
+            "scr_period": "(一)11-12 學102 林若琪",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -176,7 +176,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林若琪"
         },
         {
             "scr_selcode": "0864",
@@ -190,7 +190,7 @@
             "cls_name": "營管進修二",
             "scr_period": "(二)14     學103 劉至軒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -212,7 +212,7 @@
             "cls_name": "營管進修二",
             "scr_period": "(二)13     學103 劉至軒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 47.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -234,7 +234,7 @@
             "cls_name": "營管進修二",
             "scr_period": "(二)11-12 學103 劉至軒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -254,9 +254,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修二",
-            "scr_period": "(四)11-12 學103",
+            "scr_period": "(四)11-12 學103 李銘智",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 49.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李銘智"
         },
         {
             "scr_selcode": "0868",
@@ -278,7 +278,7 @@
             "cls_name": "營管進修二",
             "scr_period": "(五)11-13 學101 楊晏瑜",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 51.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -300,7 +300,7 @@
             "cls_name": "營管進修二",
             "scr_period": "(三)13-14 學103 謝一郎",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -322,7 +322,7 @@
             "cls_name": "營管進修二",
             "scr_period": "(一)13-14 土402 林建良",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -342,9 +342,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修二",
-            "scr_period": "(三)11-12 忠203",
+            "scr_period": "(三)11-12 忠203 詹智捷",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 32.0,
             "scr_remarks": "詹智捷老師授課",
             "unt_ls": 4616,
             "cls_id": "CD06520",
@@ -352,7 +352,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "詹智捷"
         },
         {
             "scr_selcode": "0871",
@@ -366,7 +366,7 @@
             "cls_name": "營管進修三",
             "scr_period": "(一)11-12 土402 劉至軒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -386,9 +386,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修三",
-            "scr_period": "(三)11-12 土402",
+            "scr_period": "(三)11-12 土402 羅慶瑞",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 42.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -396,7 +396,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "羅慶瑞"
         },
         {
             "scr_selcode": "0873",
@@ -408,9 +408,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修三",
-            "scr_period": "(四)11-12 學101",
+            "scr_period": "(四)11-12 學101 康裕明",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -418,7 +418,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "康裕明"
         },
         {
             "scr_selcode": "0874",
@@ -432,7 +432,7 @@
             "cls_name": "營管進修三",
             "scr_period": "(四)13-14 學101 鄭永發",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 46.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -454,7 +454,7 @@
             "cls_name": "營管進修三",
             "scr_period": "(五)11-13 忠611(電腦實習室) 黃隆茂",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -474,9 +474,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修三",
-            "scr_period": "(二)11-13 學101",
+            "scr_period": "(二)11-13 學101 許聖富",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -484,7 +484,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "許聖富"
         },
         {
             "scr_selcode": "3465",
@@ -496,9 +496,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修三",
-            "scr_period": "(三)13-14 忠203",
+            "scr_period": "(三)13-14 忠203 胡盟宗",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": "胡盟宗老師授課",
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -506,7 +506,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "胡盟宗"
         },
         {
             "scr_selcode": "0877",
@@ -518,9 +518,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修四",
-            "scr_period": "(三)13-14 學101",
+            "scr_period": "(三)13-14 學101 羅慶瑞",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -528,7 +528,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "羅慶瑞"
         },
         {
             "scr_selcode": "0878",
@@ -542,7 +542,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(三)11-12 學101 李秉乾,方耀民",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 21.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -562,9 +562,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修四",
-            "scr_period": "(一)13-14 學101",
+            "scr_period": "(一)13-14 學101 張忠興",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -572,7 +572,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張忠興"
         },
         {
             "scr_selcode": "0880",
@@ -584,9 +584,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修四",
-            "scr_period": "(二)11-13 土302(電腦實習室)",
+            "scr_period": "(二)11-13 土302(電腦實習室) 賴威昇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 12.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -594,7 +594,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴威昇"
         },
         {
             "scr_selcode": "0881",
@@ -606,9 +606,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修四",
-            "scr_period": "(五)11-13 土302(電腦實習室)",
+            "scr_period": "(五)11-13 土302(電腦實習室) 吳崇弘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -616,7 +616,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳崇弘"
         },
         {
             "scr_selcode": "0882",
@@ -628,9 +628,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "營管進修四",
-            "scr_period": "(一)11-12 學101",
+            "scr_period": "(一)11-12 學101 卓政懋",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -638,7 +638,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "卓政懋"
         }
     ]
 }
