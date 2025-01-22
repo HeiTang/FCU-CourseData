@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建規博一學位學程",
-            "scr_period": "(三)02-04 紀412 吳沛儒",
+            "scr_period": "(三)02-04 紀412 鄒伯衡,吳沛儒",
             "scr_precnt": 30.0,
             "scr_acptcnt": 1.0,
             "scr_remarks": " ",
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳沛儒"
+            "scr_teacher": "鄒伯衡,吳沛儒"
         },
         {
             "scr_selcode": "1560",
@@ -344,7 +344,7 @@
             "cls_name": "建規博二學位學程",
             "scr_period": "(三)02-04 紀401 朱南玉",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": null,
             "unt_ls": 4609,
             "cls_id": "CE14420",

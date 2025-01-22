@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 104,
+    "total": 105,
     "items": [
         {
             "scr_selcode": "0093",
@@ -122,7 +122,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計碩二",
-            "scr_period": "(五)00     待排 陳品如",
+            "scr_period": "(五)00     未排教室 李慧慈",
             "scr_precnt": 30.0,
             "scr_acptcnt": 13.0,
             "scr_remarks": " ",
@@ -132,7 +132,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳品如"
+            "scr_teacher": "李慧慈"
         },
         {
             "scr_selcode": "0190",
@@ -333,6 +333,28 @@
             "scr_teacher": "王智弘"
         },
         {
+            "scr_selcode": "3591",
+            "sub_id3": "STAT6028",
+            "sub_name": "數量方法",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "企管碩一",
+            "scr_period": "(三)06-08 待排 陳建文",
+            "scr_precnt": 30.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4102,
+            "cls_id": "CM01310",
+            "sub_id": "62550",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "陳建文"
+        },
+        {
             "scr_selcode": "2216",
             "sub_id3": "MGT7990",
             "sub_name": "碩士論文",
@@ -344,7 +366,7 @@
             "cls_name": "企管碩二",
             "scr_period": "(三)00     待排 蔡汶君,陳建文,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育,張寶蓉",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 20.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": " ",
             "unt_ls": 4102,
             "cls_id": "CM01320",
@@ -762,7 +784,7 @@
             "cls_name": "統精碩一",
             "scr_period": "(一)07-09 商1011 李燊銘",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": null,
             "unt_ls": 4105,
             "cls_id": "CB07310",
@@ -1024,17 +1046,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟碩二",
-            "scr_period": "(三)07-09 商911",
+            "scr_period": "(三)07-09 商911 許志義",
             "scr_precnt": 30.0,
             "scr_acptcnt": 4.0,
-            "scr_remarks": "許志義老師講授",
+            "scr_remarks": " ",
             "unt_ls": 4106,
             "cls_id": "CB08320",
             "sub_id": "74010",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "許志義"
         },
         {
             "scr_selcode": "0502",
@@ -2104,7 +2126,7 @@
             "cls_name": "財法專碩二",
             "scr_period": "(六)09-10 商105(實習法庭) 張升星",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 9.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": null,
             "unt_ls": 4111,
             "cls_id": "CB1532A",
