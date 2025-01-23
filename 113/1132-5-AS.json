@@ -36,7 +36,7 @@
             "cls_name": "室設進修一",
             "scr_period": "(三)11-12 忠210 顏銘俊",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 35.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -56,9 +56,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修一",
-            "scr_period": "(三)13-14 忠611(電腦實習室)",
+            "scr_period": "(三)13-14 忠611(電腦實習室) 李哲維",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 40.0,
+            "scr_acptcnt": 42.0,
             "scr_remarks": "李哲維老師講授",
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李哲維"
         },
         {
             "scr_selcode": "0833",
@@ -80,7 +80,7 @@
             "cls_name": "室設進修一",
             "scr_period": "(六)06-09 忠502 凃昭伃,莊澤均,楊淨伍,葉建甫",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 33.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": " ",
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -102,7 +102,7 @@
             "cls_name": "室設進修一",
             "scr_period": "(二)12-14 忠210 凃昭伃",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": " ",
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -124,7 +124,7 @@
             "cls_name": "室設進修一",
             "scr_period": "(一)11-12 忠210 陳文亮,林葳",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 20.0,
+            "scr_acptcnt": 21.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -210,7 +210,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修二",
-            "scr_period": "(五)11-12 忠209",
+            "scr_period": "(五)11-12 忠209 柯智偉",
             "scr_precnt": 60.0,
             "scr_acptcnt": 39.0,
             "scr_remarks": "柯智偉老師講授",
@@ -220,7 +220,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "柯智偉"
         },
         {
             "scr_selcode": "0841",
@@ -254,9 +254,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修二",
-            "scr_period": "(三)11-12 忠611(電腦實習室)",
+            "scr_period": "(三)11-12 忠611(電腦實習室) 楊斯閔",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": "楊斯閔老師講授",
             "unt_ls": 5007,
             "cls_id": "CD01520",
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊斯閔"
         },
         {
             "scr_selcode": "0843",
@@ -278,7 +278,7 @@
             "cls_name": "室設進修二",
             "scr_period": "(五)13-14 忠209 歐雙磐",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01520",
@@ -300,7 +300,7 @@
             "cls_name": "室設進修二",
             "scr_period": "(二)11-12 忠209 張莉欣",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01520",
@@ -366,7 +366,7 @@
             "cls_name": "室設進修三",
             "scr_period": "(六)06-09 忠612A 邱嫈蓮,蕭俊碩",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": " ",
             "unt_ls": 5007,
             "cls_id": "CD01530",
@@ -386,7 +386,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修三",
-            "scr_period": "(五)11-12 忠208",
+            "scr_period": "(五)11-12 忠208 許瑞銘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 21.0,
             "scr_remarks": "許瑞銘老師講授",
@@ -396,7 +396,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "許瑞銘"
         },
         {
             "scr_selcode": "0848",
@@ -432,7 +432,7 @@
             "cls_name": "室設進修三",
             "scr_period": "(四)11-12 忠208 蔣永輝",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01530",
@@ -454,7 +454,7 @@
             "cls_name": "室設進修三",
             "scr_period": "(一)11-12 忠209 張莉欣",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 12.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01530",
@@ -474,9 +474,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修三",
-            "scr_period": "(二)11-12 忠611(電腦實習室)",
+            "scr_period": "(二)11-12 忠611(電腦實習室) 王寅武",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "王寅武老師講授",
             "unt_ls": 5007,
             "cls_id": "CD01530",
@@ -484,7 +484,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王寅武"
         },
         {
             "scr_selcode": "0852",
@@ -498,7 +498,7 @@
             "cls_name": "室設進修四",
             "scr_period": "(六)01-04 忠703(建素描室) (六)06-09 忠703(建素描室) 杜方中,李元榮,徐光華,徐子軒,張創霖",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": " ",
             "unt_ls": 5007,
             "cls_id": "CD01540",
@@ -562,9 +562,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修四",
-            "scr_period": "(一)11-12 忠208",
+            "scr_period": "(一)11-12 忠208 林麗菁",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "林麗菁老師講授",
             "unt_ls": 5007,
             "cls_id": "CD01540",
@@ -572,7 +572,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林麗菁"
         }
     ]
 }
