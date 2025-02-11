@@ -34,7 +34,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "體育選項適應體育班",
-            "scr_period": "(二)10-11 體館102(武術場)",
+            "scr_period": "(二)10-11 體館102(武術場) 蔡安侖",
             "scr_precnt": 60.0,
             "scr_acptcnt": 7.0,
             "scr_remarks": "修習適應體育班者,應以身體障礙不適參加劇烈運動者為限,並應檢附(半年內)區域或同等級以上醫院證明。",
@@ -44,7 +44,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡安侖"
         },
         {
             "scr_selcode": "3104",
@@ -760,7 +760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "體育選修",
-            "scr_period": "(二)08-09 體館503(桌球室)",
+            "scr_period": "(二)08-09 體館503(桌球室) 蔡安侖",
             "scr_precnt": 50.0,
             "scr_acptcnt": 50.0,
             "scr_remarks": "謝絕旁聽生",
@@ -770,7 +770,7 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "蔡安侖"
         },
         {
             "scr_selcode": "3137",
@@ -1112,7 +1112,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "體育選修",
-            "scr_period": "(三)08-09 體館202(第二舞蹈室)",
+            "scr_period": "(三)08-09 體館202(第二舞蹈室) 何宇平",
             "scr_precnt": 40.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": "修課學生需自備\"芭蕾「軟鞋」\"，謝絕旁聽生。",
@@ -1122,7 +1122,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "何宇平"
         }
     ]
 }
