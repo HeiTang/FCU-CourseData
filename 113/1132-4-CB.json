@@ -34,7 +34,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學博一學位學程",
-            "scr_period": "(六)06-08 商706 林豐智,邱世寬,吳廣文",
+            "scr_period": "(六)06-08 商706 吳廣文,邱世寬,林豐智",
             "scr_precnt": 30.0,
             "scr_acptcnt": 17.0,
             "scr_remarks": "限商學博士學位學程學生修習",
@@ -44,7 +44,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林豐智,邱世寬,吳廣文"
+            "scr_teacher": "吳廣文,邱世寬,林豐智"
         },
         {
             "scr_selcode": "0663",
@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學博二學位學程",
-            "scr_period": "(六)06-08 商808A 吳廣文",
+            "scr_period": "(六)07-09 商808A 吳廣文",
             "scr_precnt": 30.0,
             "scr_acptcnt": 16.0,
             "scr_remarks": "限商學博士學位學程學生修習",
@@ -100,7 +100,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學博三學位學程",
-            "scr_period": "(五)06-09 待排 李元恕,江向才,翁慈青,丁美靜,林哲彥,林豐智,高承恕,許士軍",
+            "scr_period": "(五)06-09 待排 李元恕,江向才,丁美靜,林哲彥,翁慈青,林豐智,高承恕,許士軍",
             "scr_precnt": 30.0,
             "scr_acptcnt": 19.0,
             "scr_remarks": "限商學博士學位學程學生修習",
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李元恕,江向才,翁慈青,丁美靜,林哲彥,林豐智,高承恕,許士軍"
+            "scr_teacher": "李元恕,江向才,丁美靜,林哲彥,翁慈青,林豐智,高承恕,許士軍"
         }
     ]
 }
