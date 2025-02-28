@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 57,
+    "total": 58,
     "items": [
         {
             "scr_selcode": "0957",
@@ -243,6 +243,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉建榮,鍾侑達"
+        },
+        {
+            "scr_selcode": "1017",
+            "sub_id3": "HY6014",
+            "sub_name": "水利工程與水土保育專論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "水利資保碩一",
+            "scr_period": "(三)02-04 土514 陳弘恩",
+            "scr_precnt": 20.0,
+            "scr_acptcnt": 8.0,
+            "scr_remarks": "有6周使用電腦教室電腦軟體上課",
+            "unt_ls": 4603,
+            "cls_id": "CE02310",
+            "sub_id": "09313",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "陳弘恩"
         },
         {
             "scr_selcode": "1018",
