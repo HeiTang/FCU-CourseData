@@ -542,7 +542,7 @@
             "cls_name": "資訊碩二",
             "scr_period": "(四)02-04 資電235(電腦實習室) 劉怡芬",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 15.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": null,
             "unt_ls": 4501,
             "cls_id": "CE07320",
@@ -1398,7 +1398,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊碩一",
-            "scr_period": "(一)06-08 電通401 彭嘉美",
+            "scr_period": "(一)06-08 電通401 彭嘉美,陳一鋒",
             "scr_precnt": 20.0,
             "scr_acptcnt": 20.0,
             "scr_remarks": "預選階段限通訊系學生選課",
@@ -1408,7 +1408,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭嘉美"
+            "scr_teacher": "彭嘉美,陳一鋒"
         },
         {
             "scr_selcode": "2088",
