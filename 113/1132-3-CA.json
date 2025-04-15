@@ -410,7 +410,7 @@
             "cls_name": "纖複碩二",
             "scr_period": "(三)02-04 工410 黃建霖",
             "scr_precnt": 18.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": null,
             "unt_ls": 4002,
             "cls_id": "CE05320",
@@ -1604,7 +1604,7 @@
             "cls_id": "CS03310",
             "sub_id": "28350",
             "scr_dup": "001",
-            "scr_ldl": "實時線上",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "謝秉諺"
         },
