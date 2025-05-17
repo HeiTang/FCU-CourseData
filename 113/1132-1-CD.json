@@ -7360,7 +7360,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管三乙",
-            "scr_period": "(三)01-02 科航203 吳存金",
+            "scr_period": "(三)01-02 科航203 吳存金,李宏志",
             "scr_precnt": 60.0,
             "scr_acptcnt": 42.0,
             "scr_remarks": " ",
@@ -7370,7 +7370,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳存金"
+            "scr_teacher": "吳存金,李宏志"
         },
         {
             "scr_selcode": "2332",
