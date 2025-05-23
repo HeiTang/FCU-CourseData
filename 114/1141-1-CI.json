@@ -9054,7 +9054,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四甲",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     未排教室 陳坤煌,田春林,何子儀,徐士賢,沈昭元,鄭進興,王壘,洪聖均,黃俊瑋,曹嶸,林瑞欽,謝振中,李企桓,黃思倫,劉文豐,黃定彝,王丁勇,梁寶芝",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9064,7 +9064,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳坤煌,田春林,何子儀,徐士賢,沈昭元,鄭進興,王壘,洪聖均,黃俊瑋,曹嶸,林瑞欽,謝振中,李企桓,黃思倫,劉文豐,黃定彝,王丁勇,梁寶芝"
         },
         {
             "scr_selcode": "1705",
@@ -9076,7 +9076,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四甲",
-            "scr_period": "(四)02-04 語405",
+            "scr_period": "(四)02-04 語405 林獻堂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9086,7 +9086,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林獻堂"
         },
         {
             "scr_selcode": "1706",
@@ -9098,7 +9098,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四甲",
-            "scr_period": "(三)11-13 資電410",
+            "scr_period": "(三)11-13 資電410 陳志榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9108,7 +9108,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳志榮"
         },
         {
             "scr_selcode": "1707",
@@ -9164,7 +9164,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四甲",
-            "scr_period": "(二)06-08 資電410",
+            "scr_period": "(二)06-08 資電410 黃宇中",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9174,7 +9174,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃宇中"
         },
         {
             "scr_selcode": "1710",
@@ -9186,7 +9186,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四甲",
-            "scr_period": "(二)11-13 資電410",
+            "scr_period": "(二)11-13 資電410 何忠憲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9196,7 +9196,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "何忠憲"
         },
         {
             "scr_selcode": "1711",
@@ -9252,7 +9252,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四乙",
-            "scr_period": "(四)02-04 語405",
+            "scr_period": "(四)02-04 語405 林獻堂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9262,7 +9262,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林獻堂"
         },
         {
             "scr_selcode": "1706",
@@ -9274,7 +9274,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四乙",
-            "scr_period": "(三)11-13 資電410",
+            "scr_period": "(三)11-13 資電410 陳志榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9284,7 +9284,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳志榮"
         },
         {
             "scr_selcode": "1707",
@@ -9340,7 +9340,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四乙",
-            "scr_period": "(二)06-08 資電410",
+            "scr_period": "(二)06-08 資電410 黃宇中",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9350,7 +9350,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃宇中"
         },
         {
             "scr_selcode": "1710",
@@ -9362,7 +9362,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機四乙",
-            "scr_period": "(二)11-13 資電410",
+            "scr_period": "(二)11-13 資電410 何忠憲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9372,7 +9372,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "何忠憲"
         },
         {
             "scr_selcode": "1711",
