@@ -3312,7 +3312,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管一甲",
-            "scr_period": "(四)02-04 語207 謝依珊",
+            "scr_period": "(四)02-04 語202 謝依珊",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -12209,7 +12209,7 @@
             "sub_id": "98997",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "黃慧慈"
         },
         {

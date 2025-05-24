@@ -4148,7 +4148,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三甲",
-            "scr_period": "(二)03-04 紀209A (五)01     紀302(電腦實習室) (五)01     紀303(電腦實習室) (五)02     紀302(電腦實習室) (五)02     紀303(電腦實習室) 葉昭甫,林良泰,李宗益",
+            "scr_period": "(二)03-04 紀209A (五)01     紀302(電腦實習室) (五)01     紀303(電腦實習室) (五)02     紀302(電腦實習室) (五)02     紀303(電腦實習室) 葉昭甫,李宗益,林良泰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4158,7 +4158,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭甫,林良泰,李宗益"
+            "scr_teacher": "葉昭甫,李宗益,林良泰"
         },
         {
             "scr_selcode": "2335",
@@ -4170,7 +4170,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三甲",
-            "scr_period": "(五)06-07 紀209A 葉昭甫,林良泰",
+            "scr_period": "(五)06-07 紀209A 葉昭甫,李宗益,林良泰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4180,7 +4180,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭甫,林良泰"
+            "scr_teacher": "葉昭甫,李宗益,林良泰"
         },
         {
             "scr_selcode": "2336",
@@ -4214,7 +4214,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三甲",
-            "scr_period": "(四)02-04 紀105",
+            "scr_period": "(四)02-04 紀105 葉名山,曾建民",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4224,7 +4224,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉名山,曾建民"
         },
         {
             "scr_selcode": "2342",
@@ -4302,7 +4302,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三乙",
-            "scr_period": "(二)01-02 紀409 (五)03     紀302(電腦實習室) (五)03     紀303(電腦實習室) (五)04     紀302(電腦實習室) (五)04     紀303(電腦實習室) 葉昭甫,林良泰,李宗益",
+            "scr_period": "(二)01-02 紀409 (五)03     紀302(電腦實習室) (五)03     紀303(電腦實習室) (五)04     紀302(電腦實習室) (五)04     紀303(電腦實習室) 葉昭甫,李宗益,林良泰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4312,7 +4312,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉昭甫,林良泰,李宗益"
+            "scr_teacher": "葉昭甫,李宗益,林良泰"
         },
         {
             "scr_selcode": "2339",
@@ -4368,7 +4368,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三乙",
-            "scr_period": "(四)02-04 紀105",
+            "scr_period": "(四)02-04 紀105 葉名山,曾建民",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4378,7 +4378,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉名山,曾建民"
         },
         {
             "scr_selcode": "2342",
