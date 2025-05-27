@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩一學位學程高階管理組",
-            "scr_period": "(六)09-11 V103 (共善樓) 李元恕",
+            "scr_period": "(六)09-11 V103教室(共善樓) 吳成豐,李元恕",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA高階管理組學生修習",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李元恕"
+            "scr_teacher": "吳成豐,李元恕"
         },
         {
             "scr_selcode": "2742",
@@ -320,7 +320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩一學位學程經管組甲班",
-            "scr_period": "(六)02-04 V007 (共善樓) 葉俊亨",
+            "scr_period": "(六)02-04 V007教室(共善樓) 葉俊亨,黃焜煌",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經營管理組甲班學生修習",
@@ -330,7 +330,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉俊亨"
+            "scr_teacher": "葉俊亨,黃焜煌"
         },
         {
             "scr_selcode": "2740",
@@ -430,7 +430,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩一學位學程經管組乙班",
-            "scr_period": "(六)06-08 V006 (共善樓) 葉俊亨",
+            "scr_period": "(六)06-08 V006教室(共善樓) 葉俊亨,黃焜煌",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經營管理組乙班學生修習",
@@ -440,7 +440,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉俊亨"
+            "scr_teacher": "葉俊亨,黃焜煌"
         },
         {
             "scr_selcode": "2740",
@@ -606,7 +606,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩一學位學程建築管理組",
-            "scr_period": "(六)02-04 V020 (共善樓) 汪浩",
+            "scr_period": "(六)02-04 V020教室(共善樓) 吳成豐,汪浩",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA建築產業管理組學生修習",
@@ -616,7 +616,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪浩"
+            "scr_teacher": "吳成豐,汪浩"
         },
         {
             "scr_selcode": "2757",
@@ -628,7 +628,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩一學位學程建築管理組",
-            "scr_period": "(六)06-08 V020 (共善樓) 高敬賢",
+            "scr_period": "(六)06-08 V020教室(共善樓) 翁毓羚,高敬賢",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA建築產業管理組學生修習",
@@ -638,7 +638,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高敬賢"
+            "scr_teacher": "翁毓羚,高敬賢"
         },
         {
             "scr_selcode": "2758",
@@ -760,7 +760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程數創管理組",
-            "scr_period": "(六)06-08 V016 (共善樓) 汪浩",
+            "scr_period": "(六)06-08 V016教室(共善樓) 汪浩,史習安",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA數位創新管理組學生修習",
@@ -770,7 +770,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪浩"
+            "scr_teacher": "汪浩,史習安"
         },
         {
             "scr_selcode": "2764",
@@ -892,7 +892,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程數創管理組",
-            "scr_period": "(六)09-11 V009 (共善樓)",
+            "scr_period": "(六)09-11 V009教室(共善樓) 袁鶴齡",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經管組、數創組、文創組、建築組學生修習",
@@ -902,7 +902,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "袁鶴齡"
         },
         {
             "scr_selcode": "2766",
@@ -980,7 +980,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程經管組甲班",
-            "scr_period": "(六)09-11 V009 (共善樓)",
+            "scr_period": "(六)09-11 V009教室(共善樓) 袁鶴齡",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經管組、數創組、文創組、建築組學生修習",
@@ -990,7 +990,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "袁鶴齡"
         },
         {
             "scr_selcode": "2770",
@@ -1134,7 +1134,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程經管組乙班",
-            "scr_period": "(六)09-11 V009 (共善樓)",
+            "scr_period": "(六)09-11 V009教室(共善樓) 袁鶴齡",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經管組、數創組、文創組、建築組學生修習",
@@ -1144,7 +1144,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "袁鶴齡"
         },
         {
             "scr_selcode": "2773",
@@ -1178,7 +1178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程經管組乙班",
-            "scr_period": "(六)02-04 V008 (共善樓) 林豐智",
+            "scr_period": "(六)02-04 V008教室(共善樓) 史習安,林豐智",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經營管理組乙班學生修習",
@@ -1188,7 +1188,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林豐智"
+            "scr_teacher": "史習安,林豐智"
         },
         {
             "scr_selcode": "2775",
@@ -1288,7 +1288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程文創管理組",
-            "scr_period": "(六)09-11 V009 (共善樓)",
+            "scr_period": "(六)09-11 V009教室(共善樓) 袁鶴齡",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經管組、數創組、文創組、建築組學生修習",
@@ -1298,7 +1298,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "袁鶴齡"
         },
         {
             "scr_selcode": "2776",
@@ -1310,7 +1310,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程文創管理組",
-            "scr_period": "(六)06-08 V015 (共善樓) 彭志峰",
+            "scr_period": "(六)06-08 V015教室(共善樓) 彭志峰,楊宜昌",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA文化創意產業管理組學生修習",
@@ -1320,7 +1320,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭志峰"
+            "scr_teacher": "彭志峰,楊宜昌"
         },
         {
             "scr_selcode": "2777",
@@ -1442,7 +1442,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程建築管理組",
-            "scr_period": "(六)09-11 V009 (共善樓)",
+            "scr_period": "(六)09-11 V009教室(共善樓) 袁鶴齡",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA經管組、數創組、文創組、建築組學生修習",
@@ -1452,7 +1452,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "袁鶴齡"
         },
         {
             "scr_selcode": "2779",
@@ -1464,7 +1464,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經專碩二學位學程建築管理組",
-            "scr_period": "(六)06-08 V019 (共善樓) 劉曜華",
+            "scr_period": "(六)06-08 V019教室(共善樓) 曾梓峰",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限EMBA建築產業管理組學生修習",
@@ -1474,7 +1474,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉曜華"
+            "scr_teacher": "曾梓峰"
         },
         {
             "scr_selcode": "2780",
