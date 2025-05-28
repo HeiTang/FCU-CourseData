@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 246,
+    "total": 249,
     "items": [
         {
             "scr_selcode": "1932",
@@ -1873,6 +1873,28 @@
             "scr_teacher": "張倉耀,武氏紅芳"
         },
         {
+            "scr_selcode": "4651",
+            "sub_id3": "FINA3081",
+            "sub_name": "大陸金融與經濟分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "財金三甲",
+            "scr_period": "(五)08-10 商306 張倉耀",
+            "scr_precnt": 80.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4801,
+            "cls_id": "CB03131",
+            "sub_id": "04232",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "張倉耀"
+        },
+        {
             "scr_selcode": "0329",
             "sub_id3": "MKT1019",
             "sub_name": "行銷管理",
@@ -2093,6 +2115,28 @@
             "scr_teacher": "張倉耀,武氏紅芳"
         },
         {
+            "scr_selcode": "4651",
+            "sub_id3": "FINA3081",
+            "sub_name": "大陸金融與經濟分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "財金三乙",
+            "scr_period": "(五)08-10 商306 張倉耀",
+            "scr_precnt": 80.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4801,
+            "cls_id": "CB03132",
+            "sub_id": "04232",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "張倉耀"
+        },
+        {
             "scr_selcode": "0333",
             "sub_id3": "MKT1019",
             "sub_name": "行銷管理",
@@ -2311,6 +2355,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張倉耀,武氏紅芳"
+        },
+        {
+            "scr_selcode": "4651",
+            "sub_id3": "FINA3081",
+            "sub_name": "大陸金融與經濟分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "財金三丙",
+            "scr_period": "(五)08-10 商306 張倉耀",
+            "scr_precnt": 80.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4801,
+            "cls_id": "CB03133",
+            "sub_id": "04232",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "張倉耀"
         },
         {
             "scr_selcode": "0343",
