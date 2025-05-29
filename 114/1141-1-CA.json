@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 626,
+    "total": 628,
     "items": [
         {
             "scr_selcode": "0039",
@@ -9714,8 +9714,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境三甲",
-            "scr_period": "(一)02-04 理109 梁志銘",
-            "scr_precnt": 60.0,
+            "scr_period": "(一)02-04 語304 梁志銘",
+            "scr_precnt": 80.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
             "unt_ls": 4014,
@@ -10079,6 +10079,28 @@
             "scr_teacher": "王唯匡,李書安"
         },
         {
+            "scr_selcode": "4652",
+            "sub_id3": "EES4027",
+            "sub_name": "環境微生物",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "環境四甲",
+            "scr_period": "(四)02-04 忠302 梁志銘",
+            "scr_precnt": 45.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4014,
+            "cls_id": "CS02141",
+            "sub_id": "73810",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "梁志銘"
+        },
+        {
             "scr_selcode": "2515",
             "sub_id3": "EES4043",
             "sub_name": "土壤與地下水污染整治技術",
@@ -10187,6 +10209,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王唯匡,李書安"
+        },
+        {
+            "scr_selcode": "4652",
+            "sub_id3": "EES4027",
+            "sub_name": "環境微生物",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "環境四乙",
+            "scr_period": "(四)02-04 忠302 梁志銘",
+            "scr_precnt": 45.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4014,
+            "cls_id": "CS02142",
+            "sub_id": "73810",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "梁志銘"
         },
         {
             "scr_selcode": "2529",
