@@ -474,7 +474,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大數據二(SJSU)",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(三)05     商201 季廷恩",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -484,7 +484,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "季廷恩"
         },
         {
             "scr_selcode": "2804",
@@ -1178,7 +1178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工一(SFSU)",
-            "scr_period": "(四)09-11 工316(電腦實習室) 林維崙",
+            "scr_period": "(三)08-10 資電330(電腦實習室) 林維崙",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1860,7 +1860,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工一(Monash)",
-            "scr_period": "(四)09-11 工316(電腦實習室) 林維崙",
+            "scr_period": "(三)08-10 資電330(電腦實習室) 林維崙",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",

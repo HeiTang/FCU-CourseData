@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 623,
+    "total": 619,
     "items": [
         {
             "scr_selcode": "2106",
@@ -2489,28 +2489,6 @@
             "scr_teacher": "李俊宏"
         },
         {
-            "scr_selcode": "1398",
-            "sub_id3": "IECS3049",
-            "sub_name": "資料科學實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊三甲",
-            "scr_period": "(二)06-08 資電330 林峰正",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4501,
-            "cls_id": "CE07131",
-            "sub_id": "59472",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林峰正"
-        },
-        {
             "scr_selcode": "1399",
             "sub_id3": "IECS3049",
             "sub_name": "資料科學實務",
@@ -2817,28 +2795,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李俊宏"
-        },
-        {
-            "scr_selcode": "1398",
-            "sub_id3": "IECS3049",
-            "sub_name": "資料科學實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊三乙",
-            "scr_period": "(二)06-08 資電330 林峰正",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4501,
-            "cls_id": "CE07132",
-            "sub_id": "59472",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林峰正"
         },
         {
             "scr_selcode": "1399",
@@ -3149,28 +3105,6 @@
             "scr_teacher": "李俊宏"
         },
         {
-            "scr_selcode": "1398",
-            "sub_id3": "IECS3049",
-            "sub_name": "資料科學實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊三丙",
-            "scr_period": "(二)06-08 資電330 林峰正",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4501,
-            "cls_id": "CE07133",
-            "sub_id": "59472",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林峰正"
-        },
-        {
             "scr_selcode": "1399",
             "sub_id3": "IECS3049",
             "sub_name": "資料科學實務",
@@ -3477,28 +3411,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李俊宏"
-        },
-        {
-            "scr_selcode": "1398",
-            "sub_id3": "IECS3049",
-            "sub_name": "資料科學實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊三丁",
-            "scr_period": "(二)06-08 資電330 林峰正",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4501,
-            "cls_id": "CE07134",
-            "sub_id": "59472",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林峰正"
         },
         {
             "scr_selcode": "1399",
