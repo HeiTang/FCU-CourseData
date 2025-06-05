@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 134,
+    "total": 135,
     "items": [
         {
             "scr_selcode": "0045",
@@ -663,6 +663,28 @@
             "scr_teacher": "林棋瑋"
         },
         {
+            "scr_selcode": "4653",
+            "sub_id3": "INEN6081",
+            "sub_name": "專業實習(一)",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業碩二",
+            "scr_period": "(五)00       陳兆衡",
+            "scr_precnt": 20.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06320",
+            "sub_id": "43036",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "陳兆衡"
+        },
+        {
             "scr_selcode": "1499",
             "sub_id3": "ENGS6931",
             "sub_name": "專題討論(一)",
@@ -1200,7 +1222,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電聲碩二學位學程",
-            "scr_period": "(五)02-04 中科303",
+            "scr_period": "(五)02-04 中科303 徐森煌",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1210,7 +1232,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐森煌"
         },
         {
             "scr_selcode": "1880",
@@ -1310,7 +1332,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電聲碩二學位學程",
-            "scr_period": "(一)06-07 行205",
+            "scr_period": "(一)06-07 行205 何鴻鈞",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1320,7 +1342,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "何鴻鈞"
         },
         {
             "scr_selcode": "1885",

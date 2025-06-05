@@ -13542,7 +13542,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "合經四",
-            "scr_period": "(五)00     待排",
+            "scr_period": "(五)00     待排 江宜芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 2.0,
             "scr_remarks": "此門課程為專業實習，僅限合經系學生選課，且需簽妥實習三方合約。",
@@ -13552,7 +13552,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "江宜芳"
         },
         {
             "scr_selcode": "0500",
@@ -13564,7 +13564,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "合經四",
-            "scr_period": "(四)00     待排",
+            "scr_period": "(四)00     待排 江宜芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 2.0,
             "scr_remarks": "此門課程為專業實習，僅限合經系學生選課，且需簽妥實習三方合約。",
@@ -13574,7 +13574,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "江宜芳"
         },
         {
             "scr_selcode": "0501",
@@ -13586,7 +13586,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "合經四",
-            "scr_period": "(三)00     待排",
+            "scr_period": "(三)00     待排 江宜芳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 1.0,
             "scr_remarks": "此門課程為專業實習，僅限合經系學生選課，且需簽妥實習三方合約。",
@@ -13596,7 +13596,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "江宜芳"
         },
         {
             "scr_selcode": "3618",
