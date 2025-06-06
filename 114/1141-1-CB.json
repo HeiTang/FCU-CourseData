@@ -328,7 +328,7 @@
             "cls_id": "CB01111",
             "sub_id": "51900",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李慧慈"
         },
@@ -14884,7 +14884,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國企三學位學程",
-            "scr_period": "(二)09     商409 Fliegel Michal",
+            "scr_period": "(二)09     商409 Giorgio L. Risso",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "For BIBA students only",
@@ -14894,7 +14894,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "Fliegel Michal"
+            "scr_teacher": "Giorgio L. Risso"
         },
         {
             "scr_selcode": "0741",
