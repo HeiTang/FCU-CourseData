@@ -5138,7 +5138,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一乙",
-            "scr_period": "(二)06-07 行政二館205(視聽室) 鄧天強",
+            "scr_period": "(二)06-07 行政二館205(視聽室) 吳廣文,鄧天強",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5148,7 +5148,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄧天強"
+            "scr_teacher": "吳廣文,鄧天強"
         },
         {
             "scr_selcode": "0200",
@@ -12399,9 +12399,9 @@
             "scr_exambf": "否",
             "cls_name": "合經三",
             "scr_period": "(四)06-08 商402 黃慧慈",
-            "scr_precnt": 70.0,
+            "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": null,
+            "scr_remarks": "本課程停開，將以［循環經濟與地方實踐］另行開課，請同學屆時辦理改選。",
             "unt_ls": 4107,
             "cls_id": "CB06130",
             "sub_id": "57341",
