@@ -606,8 +606,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大數據二(SJSU)",
-            "scr_period": "(二)08-09 科航203 (三)02     科航201 (三)03-04 科航101(物實驗室一) 李英德",
-            "scr_precnt": 60.0,
+            "scr_period": "(三)02     科航201 (三)03-04 科航101(物實驗室一) (四)06-07 行213 李英德",
+            "scr_precnt": 46.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
             "unt_ls": 4904,
@@ -1420,7 +1420,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學一(UQ)",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)06     商408 吳廣文",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1430,7 +1430,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "吳廣文"
         },
         {
             "scr_selcode": "2840",
