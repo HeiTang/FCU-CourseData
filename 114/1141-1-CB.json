@@ -13476,7 +13476,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷二甲",
-            "scr_period": "(五)06-07 商203 周進華,陳秀雯",
+            "scr_period": "(五)06-07 商203 陳秀雯",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13486,7 +13486,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "周進華,陳秀雯"
+            "scr_teacher": "陳秀雯"
         },
         {
             "scr_selcode": "0759",
@@ -13718,7 +13718,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷二乙",
-            "scr_period": "(五)06-07 商204 陳秀雯,周進華",
+            "scr_period": "(五)06-07 商204 董綺安",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13728,7 +13728,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "陳秀雯,周進華"
+            "scr_teacher": "董綺安"
         },
         {
             "scr_selcode": "0766",
