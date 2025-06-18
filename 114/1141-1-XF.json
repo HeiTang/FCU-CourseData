@@ -3422,7 +3422,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)01-02 人403 董綺安",
+            "scr_period": "(五)01-02 商204 宋思煌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3432,7 +3432,7 @@
             "scr_dup": "017",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "董綺安"
+            "scr_teacher": "宋思煌"
         },
         {
             "scr_selcode": "3439",
@@ -3532,7 +3532,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)06-07 人601",
+            "scr_period": "(五)06-07 人601 李心馨",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3542,7 +3542,7 @@
             "scr_dup": "025",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李心馨"
         },
         {
             "scr_selcode": "3444",
@@ -3554,7 +3554,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)08-09 人601 林璇",
+            "scr_period": "(五)08-09 人607 林璇",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3576,7 +3576,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)08-09 人406",
+            "scr_period": "(五)08-09 人601 李心馨",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3586,7 +3586,7 @@
             "scr_dup": "027",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李心馨"
         },
         {
             "scr_selcode": "3446",
@@ -3598,7 +3598,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(一)01-02 人501",
+            "scr_period": "(一)01-02 人501 鄭安倫",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3608,7 +3608,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鄭安倫"
         },
         {
             "scr_selcode": "3447",
