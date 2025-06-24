@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 12,
+    "total": 13,
     "items": [
         {
             "scr_selcode": "1136",
@@ -155,6 +155,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "謝銘峯,林幸長"
+        },
+        {
+            "scr_selcode": "4683",
+            "sub_id3": "ARCH6111",
+            "sub_name": "高齡宜居環境營造",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "建築碩一學位學程",
+            "scr_period": "(三)02-04 行213 許宜珮",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 5005,
+            "cls_id": "CE03310",
+            "sub_id": "31109",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "許宜珮"
         },
         {
             "scr_selcode": "1143",
