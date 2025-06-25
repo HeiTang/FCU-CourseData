@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 344,
+    "total": 348,
     "items": [
         {
             "scr_selcode": "0891",
@@ -1543,6 +1543,28 @@
             "scr_teacher": "張志超"
         },
         {
+            "scr_selcode": "4686",
+            "sub_id3": "CE4084",
+            "sub_name": "結構動力學與耐震設計導論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土木四甲",
+            "scr_period": "(五)06-08 學103 莊財福",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4602,
+            "cls_id": "CE01141",
+            "sub_id": "47749",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "莊財福"
+        },
+        {
             "scr_selcode": "1026",
             "sub_id3": "CE4062",
             "sub_name": "畢業設計(二)",
@@ -1695,6 +1717,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張志超"
+        },
+        {
+            "scr_selcode": "4686",
+            "sub_id3": "CE4084",
+            "sub_name": "結構動力學與耐震設計導論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土木四乙",
+            "scr_period": "(五)06-08 學103 莊財福",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4602,
+            "cls_id": "CE01142",
+            "sub_id": "47749",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "莊財福"
         },
         {
             "scr_selcode": "1043",
@@ -7131,6 +7175,28 @@
             "scr_teacher": "辛年豐"
         },
         {
+            "scr_selcode": "4684",
+            "sub_id3": "LAND4047P",
+            "sub_name": "不動產信託實習",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土管三甲",
+            "scr_period": "(二)04     人608 王珍玲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4608,
+            "cls_id": "CM03131",
+            "sub_id": "06331",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "王珍玲"
+        },
+        {
             "scr_selcode": "2399",
             "sub_id3": "LAND2026",
             "sub_name": "土地法(一)",
@@ -7371,6 +7437,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "辛年豐"
+        },
+        {
+            "scr_selcode": "4684",
+            "sub_id3": "LAND4047P",
+            "sub_name": "不動產信託實習",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土管三乙",
+            "scr_period": "(二)04     人608 王珍玲",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4608,
+            "cls_id": "CM03132",
+            "sub_id": "06331",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "王珍玲"
         },
         {
             "scr_selcode": "2409",

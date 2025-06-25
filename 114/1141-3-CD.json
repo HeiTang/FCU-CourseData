@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 69,
+    "total": 70,
     "items": [
         {
             "scr_selcode": "1033",
@@ -155,6 +155,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "紀昭銘"
+        },
+        {
+            "scr_selcode": "4687",
+            "sub_id3": "CE6093",
+            "sub_name": "高等結構學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土木碩一",
+            "scr_period": "(二)07-09 土501 楊晏瑜",
+            "scr_precnt": 20.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4602,
+            "cls_id": "CE01310",
+            "sub_id": "32400",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "楊晏瑜"
         },
         {
             "scr_selcode": "1040",
