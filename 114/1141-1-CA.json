@@ -6788,7 +6788,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統一學位學程",
-            "scr_period": "(一)09     忠208 康有評",
+            "scr_period": "(一)09     忠203 康有評",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7184,8 +7184,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統二學位學程",
-            "scr_period": "(一)06-08 忠208 康有評",
-            "scr_precnt": 60.0,
+            "scr_period": "(一)06-08 忠201 康有評",
+            "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4010,
@@ -11782,7 +11782,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料四甲",
-            "scr_period": "(三)00     待排",
+            "scr_period": "(三)00     待排 張育誠,何主亮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -11792,7 +11792,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張育誠,何主亮"
         },
         {
             "scr_selcode": "2582",
@@ -11804,7 +11804,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料四甲",
-            "scr_period": "(四)00     待排",
+            "scr_period": "(四)00     待排 葉丞豪,張育誠,陳瑛鴻,何主亮,謝秉諺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -11814,7 +11814,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉丞豪,張育誠,陳瑛鴻,何主亮,謝秉諺"
         },
         {
             "scr_selcode": "2583",
@@ -12002,7 +12002,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料四乙",
-            "scr_period": "(三)00     待排",
+            "scr_period": "(三)00     待排 張育誠,何主亮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12012,7 +12012,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張育誠,何主亮"
         },
         {
             "scr_selcode": "2582",
@@ -12024,7 +12024,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料四乙",
-            "scr_period": "(四)00     待排",
+            "scr_period": "(四)00     待排 葉丞豪,張育誠,陳瑛鴻,何主亮,謝秉諺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12034,7 +12034,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉丞豪,張育誠,陳瑛鴻,何主亮,謝秉諺"
         },
         {
             "scr_selcode": "2583",
