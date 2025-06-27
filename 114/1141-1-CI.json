@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 617,
+    "total": 619,
     "items": [
         {
             "scr_selcode": "2106",
@@ -12178,7 +12178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊三甲",
-            "scr_period": "(二)02-04 資電512",
+            "scr_period": "(二)02-04 資電512 范榮權",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12188,7 +12188,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "范榮權"
         },
         {
             "scr_selcode": "2166",
@@ -12508,7 +12508,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊三乙",
-            "scr_period": "(二)02-04 資電512",
+            "scr_period": "(二)02-04 資電512 范榮權",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12518,7 +12518,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "范榮權"
         },
         {
             "scr_selcode": "2166",
@@ -12904,7 +12904,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊四甲",
-            "scr_period": "(二)06-08 資電B13(電腦實習室)",
+            "scr_period": "(二)06-08 資電B13(電腦實習室) 胡大湘",
             "scr_precnt": 43.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12914,7 +12914,29 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "胡大湘"
+        },
+        {
+            "scr_selcode": "4696",
+            "sub_id3": "COME3015",
+            "sub_name": "隨機信號分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "通訊四甲",
+            "scr_period": "(五)06-08 資電107 鍾素麗",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4505,
+            "cls_id": "CI02141",
+            "sub_id": "72060",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鍾素麗"
         },
         {
             "scr_selcode": "2178",
@@ -13058,7 +13080,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊四乙",
-            "scr_period": "(二)06-08 資電B13(電腦實習室)",
+            "scr_period": "(二)06-08 資電B13(電腦實習室) 胡大湘",
             "scr_precnt": 43.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -13068,7 +13090,29 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "胡大湘"
+        },
+        {
+            "scr_selcode": "4696",
+            "sub_id3": "COME3015",
+            "sub_name": "隨機信號分析",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "通訊四乙",
+            "scr_period": "(五)06-08 資電107 鍾素麗",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4505,
+            "cls_id": "CI02142",
+            "sub_id": "72060",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鍾素麗"
         },
         {
             "scr_selcode": "2200",

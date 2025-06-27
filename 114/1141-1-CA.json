@@ -1354,7 +1354,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三甲",
-            "scr_period": "(三)11-13 忠206",
+            "scr_period": "(三)11-13 忠206 方宏聲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1364,7 +1364,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "方宏聲"
         },
         {
             "scr_selcode": "1189",
@@ -1706,7 +1706,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(三)11-13 忠206",
+            "scr_period": "(三)11-13 忠206 方宏聲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1716,7 +1716,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "方宏聲"
         },
         {
             "scr_selcode": "1205",
@@ -1794,7 +1794,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電四甲",
-            "scr_period": "(三)11-13 工416",
+            "scr_period": "(三)11-13 工416 馬淮龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1804,7 +1804,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "馬淮龍"
         },
         {
             "scr_selcode": "1209",
@@ -1948,7 +1948,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電四乙",
-            "scr_period": "(三)11-13 工416",
+            "scr_period": "(三)11-13 工416 馬淮龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1958,7 +1958,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "馬淮龍"
         },
         {
             "scr_selcode": "1209",
@@ -4676,7 +4676,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工二甲",
-            "scr_period": "(二)07-08 學319 (三)10     學519",
+            "scr_period": "(二)07-08 學319 (三)10     學519 朱侯憲",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4686,7 +4686,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "朱侯憲"
         },
         {
             "scr_selcode": "1473",
@@ -4852,7 +4852,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工二乙",
-            "scr_period": "(二)07-08 學319 (三)10     學519",
+            "scr_period": "(二)07-08 學319 (三)10     學519 朱侯憲",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4862,7 +4862,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "朱侯憲"
         },
         {
             "scr_selcode": "1481",
@@ -4984,7 +4984,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三甲",
-            "scr_period": "(四)11-12 學104",
+            "scr_period": "(四)11-12 學104 吳耿東",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4994,7 +4994,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳耿東"
         },
         {
             "scr_selcode": "1492",
@@ -5138,7 +5138,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三乙",
-            "scr_period": "(四)11-12 學104",
+            "scr_period": "(四)11-12 學104 吳耿東",
             "scr_precnt": 75.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5148,7 +5148,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳耿東"
         },
         {
             "scr_selcode": "1492",

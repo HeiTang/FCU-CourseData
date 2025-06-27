@@ -1354,7 +1354,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷碩一",
-            "scr_period": "(二)06-08 商701",
+            "scr_period": "(二)06-08 商701 楊志堅",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1364,7 +1364,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊志堅"
         },
         {
             "scr_selcode": "0799",
@@ -1442,7 +1442,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "行銷碩二",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     未排教室 王婉禎",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1452,7 +1452,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "王婉禎"
         },
         {
             "scr_selcode": "0803",
@@ -1684,7 +1684,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財法碩一法律學組",
-            "scr_period": "(一)03-04 商703",
+            "scr_period": "(一)03-04 商703 吳志正",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1694,7 +1694,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳志正"
         },
         {
             "scr_selcode": "0672",
@@ -1992,7 +1992,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財法專碩一",
-            "scr_period": "(六)07-08 商613(財法所會議室)",
+            "scr_period": "(六)07-08 商613(財法所會議室) 林洲富",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2002,7 +2002,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林洲富"
         },
         {
             "scr_selcode": "0688",
@@ -2476,7 +2476,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財法碩三法律專業組",
-            "scr_period": "(二)11-12 商105(實習法庭)",
+            "scr_period": "(二)11-12 商105(實習法庭) 顏世傑",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2486,7 +2486,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "顏世傑"
         },
         {
             "scr_selcode": "4645",
@@ -2520,7 +2520,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)02-04 商804B 吳清池,黃瓊如,吳廣文,翁慈青",
+            "scr_period": "(六)02-04 商804B 黃瓊如,吳廣文,翁慈青",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2530,7 +2530,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳清池,黃瓊如,吳廣文,翁慈青"
+            "scr_teacher": "黃瓊如,吳廣文,翁慈青"
         },
         {
             "scr_selcode": "0848",
@@ -2542,7 +2542,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)06-08 商804B 林呈昱",
+            "scr_period": "(六)06-08 商804B 林呈昱,許茂新",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2552,7 +2552,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林呈昱"
+            "scr_teacher": "林呈昱,許茂新"
         },
         {
             "scr_selcode": "0849",
@@ -2586,7 +2586,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)09-11 商804B 吳朝欽",
+            "scr_period": "(六)09-11 商804B 沈政安,吳朝欽",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2596,7 +2596,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳朝欽"
+            "scr_teacher": "沈政安,吳朝欽"
         },
         {
             "scr_selcode": "0851",
@@ -2608,7 +2608,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)02-04 商804A 沈祖望,劉世慶,佘日新",
+            "scr_period": "(六)02-04 商804A 吳清池,劉世慶,佘日新",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2618,7 +2618,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "沈祖望,劉世慶,佘日新"
+            "scr_teacher": "吳清池,劉世慶,佘日新"
         },
         {
             "scr_selcode": "0852",
