@@ -1002,7 +1002,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟碩一",
-            "scr_period": "(四)02-04 商911 吳紀瑩",
+            "scr_period": "(四)02-04 商911 周冰瑤",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1012,7 +1012,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳紀瑩"
+            "scr_teacher": "周冰瑤"
         },
         {
             "scr_selcode": "0664",
@@ -2520,7 +2520,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)02-04 商804B 黃瓊如,吳廣文,翁慈青",
+            "scr_period": "(六)02-04 商804B 吳廣文,黃瓊如,翁慈青",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2530,7 +2530,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃瓊如,吳廣文,翁慈青"
+            "scr_teacher": "吳廣文,黃瓊如,翁慈青"
         },
         {
             "scr_selcode": "0848",

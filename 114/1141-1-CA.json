@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 628,
+    "total": 634,
     "items": [
         {
             "scr_selcode": "0039",
@@ -311,28 +311,6 @@
             "scr_teacher": "魏立儒"
         },
         {
-            "scr_selcode": "1156",
-            "sub_id3": "ENGS1008",
-            "sub_name": "應用力學(一)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "機電一甲",
-            "scr_period": "(二)06-08 忠206 林明賢",
-            "scr_precnt": 5.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4001,
-            "cls_id": "CE04111",
-            "sub_id": "72751",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林明賢"
-        },
-        {
             "scr_selcode": "1166",
             "sub_id3": "MCAE3090",
             "sub_name": "機械元件原理",
@@ -375,6 +353,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "張珮慈"
+        },
+        {
+            "scr_selcode": "4704",
+            "sub_id3": "ENGS1007",
+            "sub_name": "應用力學(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機電一甲",
+            "scr_period": "(二)07-08 忠206 林明賢",
+            "scr_precnt": 5.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04111",
+            "sub_id": "72751",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1157",
@@ -553,28 +553,6 @@
             "scr_teacher": "陳子夏"
         },
         {
-            "scr_selcode": "1165",
-            "sub_id3": "ENGS1008",
-            "sub_name": "應用力學(一)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "機電一乙",
-            "scr_period": "(三)08-10 忠206 郭武彰",
-            "scr_precnt": 5.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4001,
-            "cls_id": "CE04112",
-            "sub_id": "72751",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "郭武彰"
-        },
-        {
             "scr_selcode": "1166",
             "sub_id3": "MCAE3090",
             "sub_name": "機械元件原理",
@@ -617,6 +595,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "況正吉"
+        },
+        {
+            "scr_selcode": "4705",
+            "sub_id3": "ENGS1007",
+            "sub_name": "應用力學(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機電一乙",
+            "scr_period": "(三)08-09 忠206 郭武彰",
+            "scr_precnt": 5.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04112",
+            "sub_id": "72751",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "郭武彰"
         },
         {
             "scr_selcode": "1167",
@@ -817,6 +817,28 @@
             "scr_teacher": "魏立儒"
         },
         {
+            "scr_selcode": "4703",
+            "sub_id3": "MCAE2024",
+            "sub_name": "電腦輔助立體繪圖",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機電二甲",
+            "scr_period": "(一)09-10 工209 方俊",
+            "scr_precnt": 24.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04121",
+            "sub_id": "57462",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "方俊"
+        },
+        {
             "scr_selcode": "1174",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -1015,6 +1037,28 @@
             "scr_teacher": "魏立儒"
         },
         {
+            "scr_selcode": "4703",
+            "sub_id3": "MCAE2024",
+            "sub_name": "電腦輔助立體繪圖",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機電二乙",
+            "scr_period": "(一)09-10 工209 方俊",
+            "scr_precnt": 24.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04122",
+            "sub_id": "57462",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "方俊"
+        },
+        {
             "scr_selcode": "1183",
             "sub_id3": "ENGS2005",
             "sub_name": "流體力學",
@@ -1156,7 +1200,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三甲",
-            "scr_period": "(四)08-09 建301 陳伯佳",
+            "scr_period": "(四)08-09 工302 陳伯佳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1310,7 +1354,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三甲",
-            "scr_period": "(四)08-10 建305 黃立倫",
+            "scr_period": "(四)08-10 忠303 黃立倫",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1365,6 +1409,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "方宏聲"
+        },
+        {
+            "scr_selcode": "4706",
+            "sub_id3": "MCAE3053",
+            "sub_name": "新製造技術",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機電三甲",
+            "scr_period": "(二)06-07 學105 謝鶴年",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04131",
+            "sub_id": "45130",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "謝鶴年"
         },
         {
             "scr_selcode": "1189",
@@ -1508,7 +1574,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(四)08-09 建301 陳伯佳",
+            "scr_period": "(四)08-09 工302 陳伯佳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1662,7 +1728,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(四)08-10 建305 黃立倫",
+            "scr_period": "(四)08-10 忠303 黃立倫",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1717,6 +1783,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "方宏聲"
+        },
+        {
+            "scr_selcode": "4706",
+            "sub_id3": "MCAE3053",
+            "sub_name": "新製造技術",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機電三乙",
+            "scr_period": "(二)06-07 學105 謝鶴年",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04132",
+            "sub_id": "45130",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "謝鶴年"
         },
         {
             "scr_selcode": "1205",
@@ -2278,7 +2366,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複一",
-            "scr_period": "(三)01-02 行政二館205(視聽室) 林憶穎",
+            "scr_period": "(三)01-02 行政二館205(視聽室) 賴昆厚,陳謙貴",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2288,7 +2376,7 @@
             "scr_dup": "012",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "賴昆厚,陳謙貴"
         },
         {
             "scr_selcode": "1232",
@@ -2850,7 +2938,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業一甲",
-            "scr_period": "(一)06-08 工303 王姿惠,鍾健平",
+            "scr_period": "(一)06-08 工303 林棋瑋,王姿惠,鍾健平",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2860,7 +2948,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王姿惠,鍾健平"
+            "scr_teacher": "林棋瑋,王姿惠,鍾健平"
         },
         {
             "scr_selcode": "1273",
@@ -2894,7 +2982,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業一甲",
-            "scr_period": "(四)06-08 工316(電腦實習室)",
+            "scr_period": "(四)06-08 工316(電腦實習室) 謝逢祐",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2904,7 +2992,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "謝逢祐"
         },
         {
             "scr_selcode": "1275",
@@ -3026,7 +3114,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業一乙",
-            "scr_period": "(二)06-08 工303 王姿惠,鍾健平",
+            "scr_period": "(二)06-08 工303 林棋瑋,王姿惠,鍾健平",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3036,7 +3124,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王姿惠,鍾健平"
+            "scr_teacher": "林棋瑋,王姿惠,鍾健平"
         },
         {
             "scr_selcode": "1280",
@@ -3048,7 +3136,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業一乙",
-            "scr_period": "(一)09-11 土302(電腦實習室)",
+            "scr_period": "(一)09-11 土302(電腦實習室) 謝逢祐",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室(Microsoft Excel)。",
@@ -3058,7 +3146,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "謝逢祐"
         },
         {
             "scr_selcode": "1281",
@@ -3268,7 +3356,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業二甲",
-            "scr_period": "(四)02-04 工303 鍾健平",
+            "scr_period": "(四)02-04 工303 王議弘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3278,7 +3366,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾健平"
+            "scr_teacher": "王議弘"
         },
         {
             "scr_selcode": "1295",
@@ -3466,7 +3554,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業二乙",
-            "scr_period": "(四)02-04 工303 鍾健平",
+            "scr_period": "(四)02-04 工303 王議弘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3476,7 +3564,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾健平"
+            "scr_teacher": "王議弘"
         },
         {
             "scr_selcode": "1295",
@@ -3699,6 +3787,28 @@
             "scr_teacher": "藍春琪"
         },
         {
+            "scr_selcode": "4708",
+            "sub_id3": "INEN3066",
+            "sub_name": "系統動力學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業三甲",
+            "scr_period": "(二)02-04 工509 鍾健平",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06131",
+            "sub_id": "18553",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鍾健平"
+        },
+        {
             "scr_selcode": "1303",
             "sub_id3": "INEN3053",
             "sub_name": "生產與供應鏈管理",
@@ -3831,6 +3941,28 @@
             "scr_teacher": "藍春琪"
         },
         {
+            "scr_selcode": "4708",
+            "sub_id3": "INEN3066",
+            "sub_name": "系統動力學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業三乙",
+            "scr_period": "(二)02-04 工509 鍾健平",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06132",
+            "sub_id": "18553",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鍾健平"
+        },
+        {
             "scr_selcode": "1309",
             "sub_id3": "INEN4002P",
             "sub_name": "畢業專題實習",
@@ -3906,7 +4038,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業四甲",
-            "scr_period": "(三)06-08 忠210",
+            "scr_period": "(三)06-08 忠210 陳幼蘭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3916,7 +4048,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳幼蘭"
         },
         {
             "scr_selcode": "1312",
@@ -3994,7 +4126,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業四乙",
-            "scr_period": "(三)06-08 忠210",
+            "scr_period": "(三)06-08 忠210 陳幼蘭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4004,7 +4136,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳幼蘭"
         },
         {
             "scr_selcode": "1446",
@@ -5644,7 +5776,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一乙",
-            "scr_period": "(二)06-08 資電102 李育佐",
+            "scr_period": "(二)06-08 忠205 李育佐",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8944,7 +9076,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(一)03-04 忠B08 許后宜",
+            "scr_period": "(一)03-04 忠B08 許后宜,王珮羽",
             "scr_precnt": 115.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8954,7 +9086,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許后宜"
+            "scr_teacher": "許后宜,王珮羽"
         },
         {
             "scr_selcode": "2478",
@@ -9208,7 +9340,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(一)03-04 忠B08 許后宜",
+            "scr_period": "(一)03-04 忠B08 許后宜,王珮羽",
             "scr_precnt": 115.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9218,7 +9350,7 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許后宜"
+            "scr_teacher": "許后宜,王珮羽"
         },
         {
             "scr_selcode": "2488",
@@ -12266,7 +12398,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一甲",
-            "scr_period": "(一)07-08 行政二館205(視聽室) 王珮羽",
+            "scr_period": "(一)07-08 行政二館205(視聽室) 王珮羽,許后宜",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12276,7 +12408,7 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽"
+            "scr_teacher": "王珮羽,許后宜"
         },
         {
             "scr_selcode": "2668",
@@ -12464,7 +12596,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電一乙",
-            "scr_period": "(一)07-08 行政二館205(視聽室) 王珮羽",
+            "scr_period": "(一)07-08 行政二館205(視聽室) 王珮羽,許后宜",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -12474,7 +12606,7 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽"
+            "scr_teacher": "王珮羽,許后宜"
         },
         {
             "scr_selcode": "2675",

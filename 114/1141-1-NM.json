@@ -12,7 +12,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創一(RMIT)",
-            "scr_period": "(四)05     紀105",
+            "scr_period": "(三)05     科航203 鍾冬川",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -22,7 +22,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "鍾冬川"
         },
         {
             "scr_selcode": "2783",
@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創一(RMIT)",
-            "scr_period": "(三)08-09 人B117A (四)08-09 人B117A 秦國軒",
+            "scr_period": "(三)08-09 科航204 (四)08-09 人B117A 秦國軒",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -188,7 +188,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創二(RMIT)",
-            "scr_period": "(四)05     紀104 張恩啟",
+            "scr_period": "(四)05     紀104 陳兆衡",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -198,7 +198,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張恩啟"
+            "scr_teacher": "陳兆衡"
         },
         {
             "scr_selcode": "2791",
@@ -232,7 +232,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創二(RMIT)",
-            "scr_period": "(三)02-04 人B117A 闕帝丰",
+            "scr_period": "(五)02-04 人204 王淑真",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -242,7 +242,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "闕帝丰"
+            "scr_teacher": "王淑真"
         },
         {
             "scr_selcode": "2793",
@@ -298,7 +298,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創二(RMIT)",
-            "scr_period": "(一)06-09 科航504 (三)08-11 科航504",
+            "scr_period": "(一)06-09 人B117A (三)08-09 人404 (三)10-11 科航504 Michael Paul Kidd",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -308,7 +308,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "Michael Paul Kidd"
         },
         {
             "scr_selcode": "2796",
@@ -1574,7 +1574,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學一(UQ)",
-            "scr_period": "(二)02-04 人602",
+            "scr_period": "(二)02-04 人602 邱安安",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1584,7 +1584,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "邱安安"
         },
         {
             "scr_selcode": "2846",
@@ -2168,7 +2168,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一(UQ)",
-            "scr_period": "(一)02-03 商108 (一)07-09 科航102(物實驗室二) (五)04     商108 林中一",
+            "scr_period": "(一)02-03 商108 (三)05-07 科航104(物實驗室四) (五)04     商108 林中一",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,

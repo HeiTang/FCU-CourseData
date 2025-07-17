@@ -408,7 +408,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業一甲",
-            "scr_period": "(三)08-09 行政二館205(視聽室) 林憶穎",
+            "scr_period": "(三)08-09 行政二館205(視聽室) 古陳蜀東,周吳龍",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -418,7 +418,7 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "古陳蜀東,周吳龍"
         },
         {
             "scr_selcode": "0012",
@@ -606,7 +606,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業一乙",
-            "scr_period": "(三)08-09 行政二館205(視聽室) 林憶穎",
+            "scr_period": "(三)08-09 行政二館205(視聽室) 古陳蜀東,周吳龍",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -616,7 +616,7 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "古陳蜀東,周吳龍"
         },
         {
             "scr_selcode": "0029",
@@ -1280,7 +1280,7 @@
         },
         {
             "scr_selcode": "1132",
-            "sub_id3": "ARCH405",
+            "sub_id3": "ARCH4005",
             "sub_name": "數位環境分析與理論閱讀",
             "scr_credit": 2.0,
             "scj_scr_mso": "選修",
@@ -1574,7 +1574,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計一",
-            "scr_period": "(二)03-04 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(二)03-04 紀204(第一國會廳) 洪靜茹,劉陶堃",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1584,7 +1584,7 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "洪靜茹,劉陶堃"
         },
         {
             "scr_selcode": "0023",

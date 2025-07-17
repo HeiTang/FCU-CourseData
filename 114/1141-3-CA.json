@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 137,
+    "total": 138,
     "items": [
         {
             "scr_selcode": "0045",
@@ -188,7 +188,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩一",
-            "scr_period": "(五)02-04 工204 林孟儒",
+            "scr_period": "(二)02-04 工204 林孟儒",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -245,26 +245,26 @@
             "scr_teacher": "戴國政"
         },
         {
-            "scr_selcode": "1219",
-            "sub_id3": "MCAE6019",
-            "sub_name": "智慧綠色工具機設計與實務",
+            "scr_selcode": "4707",
+            "sub_id3": "MCAE6024",
+            "sub_name": "精微製造與淨零碳排",
             "scr_credit": 3.0,
             "scj_scr_mso": "選修",
             "scr_examid": "否",
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機械碩一",
-            "scr_period": "(二)02-04 工209 劉庚朋,林明賢,林玉堃",
+            "scr_period": "(五)02-04 工204 林英傑",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
+            "scr_remarks": null,
             "unt_ls": 4001,
             "cls_id": "CE04310",
-            "sub_id": "48380",
+            "sub_id": "65428",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉庚朋,林明賢,林玉堃"
+            "scr_teacher": "林英傑"
         },
         {
             "scr_selcode": "1220",
@@ -1318,7 +1318,7 @@
             "cls_id": "CE19320",
             "sub_id": "54021",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "蔡鈺鼎"
         },
@@ -1420,7 +1420,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(五)11-13 學711-1 徐兆稹,呂晃志",
+            "scr_period": "(五)11-13 學711-1 呂晃志,徐兆稹",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1430,7 +1430,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐兆稹,呂晃志"
+            "scr_teacher": "呂晃志,徐兆稹"
         },
         {
             "scr_selcode": "1889",
@@ -2487,6 +2487,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "蔡雅芝"
+        },
+        {
+            "scr_selcode": "4702",
+            "sub_id3": "OPT6015",
+            "sub_name": "矽光子元件設計",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "光電碩一",
+            "scr_period": "(五)02-04 工209 蔡英品",
+            "scr_precnt": 36.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4016,
+            "cls_id": "CS06310",
+            "sub_id": "22182",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "蔡英品"
         },
         {
             "scr_selcode": "2719",

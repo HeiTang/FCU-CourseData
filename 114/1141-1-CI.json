@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 619,
+    "total": 622,
     "items": [
         {
             "scr_selcode": "2106",
@@ -540,7 +540,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一甲",
-            "scr_period": "(二)08-09 行政二館205(視聽室) 王獻芬",
+            "scr_period": "(二)08-09 行政二館205(視聽室) 曾桔炫,王獻芬",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -550,7 +550,7 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王獻芬"
+            "scr_teacher": "曾桔炫,王獻芬"
         },
         {
             "scr_selcode": "1332",
@@ -760,7 +760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一乙",
-            "scr_period": "(三)06-07 行政二館205(視聽室) 林憶穎",
+            "scr_period": "(三)06-07 行政二館205(視聽室) 王獻芬,陳怡君",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -770,7 +770,7 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "王獻芬,陳怡君"
         },
         {
             "scr_selcode": "1340",
@@ -980,7 +980,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一丙",
-            "scr_period": "(二)08-09 行政二館205(視聽室) 王獻芬",
+            "scr_period": "(二)08-09 行政二館205(視聽室) 曾桔炫,王獻芬",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -990,7 +990,7 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王獻芬"
+            "scr_teacher": "曾桔炫,王獻芬"
         },
         {
             "scr_selcode": "1348",
@@ -1772,7 +1772,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二丙",
-            "scr_period": "(四)06-08 資電330 劉怡芬",
+            "scr_period": "(四)06-08 資電330(電腦實習室) 劉怡芬",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6141,6 +6141,28 @@
             "scr_teacher": "王馭熊"
         },
         {
+            "scr_selcode": "4701",
+            "sub_id3": "ELEN3031",
+            "sub_name": "EDA電子設計自動化導論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "電子三甲",
+            "scr_period": "(三)08-10 人506 林世昌",
+            "scr_precnt": 65.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4502,
+            "cls_id": "CE09131",
+            "sub_id": "52798",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林世昌"
+        },
+        {
             "scr_selcode": "1556",
             "sub_id3": "ELEN3012",
             "sub_name": "半導體物理",
@@ -6405,6 +6427,28 @@
             "scr_teacher": "王馭熊"
         },
         {
+            "scr_selcode": "4701",
+            "sub_id3": "ELEN3031",
+            "sub_name": "EDA電子設計自動化導論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "電子三乙",
+            "scr_period": "(三)08-10 人506 林世昌",
+            "scr_precnt": 65.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4502,
+            "cls_id": "CE09132",
+            "sub_id": "52798",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林世昌"
+        },
+        {
             "scr_selcode": "1559",
             "sub_id3": "ELEN3012",
             "sub_name": "半導體物理",
@@ -6667,6 +6711,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王馭熊"
+        },
+        {
+            "scr_selcode": "4701",
+            "sub_id3": "ELEN3031",
+            "sub_name": "EDA電子設計自動化導論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "電子三丙",
+            "scr_period": "(三)08-10 人506 林世昌",
+            "scr_precnt": 65.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4502,
+            "cls_id": "CE09133",
+            "sub_id": "52798",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林世昌"
         },
         {
             "scr_selcode": "1571",
@@ -8439,7 +8505,7 @@
             "scr_exambf": "否",
             "cls_name": "電機三甲",
             "scr_period": "(四)08     資電306 (五)03-04 資電504 黃定彝",
-            "scr_precnt": 60.0,
+            "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4503,
@@ -8659,7 +8725,7 @@
             "scr_exambf": "否",
             "cls_name": "電機三乙",
             "scr_period": "(四)08     資電306 (五)03-04 資電504 黃定彝",
-            "scr_precnt": 60.0,
+            "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4503,
@@ -8879,7 +8945,7 @@
             "scr_exambf": "否",
             "cls_name": "電機三丙",
             "scr_period": "(四)08     資電306 (五)03-04 資電504 黃定彝",
-            "scr_precnt": 60.0,
+            "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4503,
@@ -9077,7 +9143,7 @@
             "scr_exambf": "否",
             "cls_name": "電機四甲",
             "scr_period": "(二)06-08 資電410 黃宇中",
-            "scr_precnt": 60.0,
+            "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4503,
@@ -9253,7 +9319,7 @@
             "scr_exambf": "否",
             "cls_name": "電機四乙",
             "scr_period": "(二)06-08 資電410 黃宇中",
-            "scr_precnt": 60.0,
+            "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4503,
@@ -10000,7 +10066,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二甲",
-            "scr_period": "(三)06-07 資電404 (五)01     資電404 林南州",
+            "scr_period": "(三)06-07 資電504 (五)01     資電504 林南州",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10308,7 +10374,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二乙",
-            "scr_period": "(三)06-07 資電404 (五)01     資電404 林南州",
+            "scr_period": "(三)06-07 資電504 (五)01     資電504 林南州",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11430,7 +11496,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊一甲",
-            "scr_period": "(一)03-04 紀204(第一國會廳) 陳謙貴",
+            "scr_period": "(一)03-04 紀204(第一國會廳) 陳謙貴,賴昆厚",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11440,7 +11506,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳謙貴"
+            "scr_teacher": "陳謙貴,賴昆厚"
         },
         {
             "scr_selcode": "2133",
@@ -11452,7 +11518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊一乙",
-            "scr_period": "(三)09     資電403 陳家豪",
+            "scr_period": "(四)09     資電B03 陳家豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11650,7 +11716,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊一乙",
-            "scr_period": "(一)03-04 紀204(第一國會廳) 陳謙貴",
+            "scr_period": "(一)03-04 紀204(第一國會廳) 陳謙貴,賴昆厚",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11660,7 +11726,7 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳謙貴"
+            "scr_teacher": "陳謙貴,賴昆厚"
         },
         {
             "scr_selcode": "2141",

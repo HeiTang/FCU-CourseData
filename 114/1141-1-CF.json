@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 249,
+    "total": 248,
     "items": [
         {
             "scr_selcode": "1932",
@@ -34,7 +34,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融學院綜合班",
-            "scr_period": "(一)06-08 商611 李宗儒,陳麗君",
+            "scr_period": "(一)06-08 商611 李宗儒",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "金融科技輔修(系核心選修)",
@@ -44,7 +44,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李宗儒,陳麗君"
+            "scr_teacher": "李宗儒"
         },
         {
             "scr_selcode": "1934",
@@ -452,7 +452,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金一甲",
-            "scr_period": "(三)06-07 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(三)06-07 紀204(第一國會廳) 陳姿伶,廖志明",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -462,7 +462,7 @@
             "scr_dup": "013",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "陳姿伶,廖志明"
         },
         {
             "scr_selcode": "0281",
@@ -716,7 +716,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金一乙",
-            "scr_period": "(三)06-07 紀204(第一國會廳) 林憶穎",
+            "scr_period": "(三)06-07 紀204(第一國會廳) 陳姿伶,廖志明",
             "scr_precnt": 125.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -726,7 +726,7 @@
             "scr_dup": "013",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "陳姿伶,廖志明"
         },
         {
             "scr_selcode": "0289",
@@ -980,7 +980,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財金一丙",
-            "scr_period": "(三)01-02 忠307 林憶穎",
+            "scr_period": "(三)01-02 資電B22(視聽室) 陳怡君,余君青",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -990,7 +990,7 @@
             "scr_dup": "010",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "陳怡君,余君青"
         },
         {
             "scr_selcode": "0299",
@@ -3400,7 +3400,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保一乙",
-            "scr_period": "(四)02-04 資電B03 周冰瑤",
+            "scr_period": "(四)02-04 資電B03 徐繼達",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -3410,7 +3410,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周冰瑤"
+            "scr_teacher": "徐繼達"
         },
         {
             "scr_selcode": "0381",
@@ -5413,28 +5413,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "謝依婷"
-        },
-        {
-            "scr_selcode": "1988",
-            "sub_id3": "FINA1083",
-            "sub_name": "讀新聞學金融",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "金融學士一",
-            "scr_period": "(二)09-10 行209",
-            "scr_precnt": 15.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4805,
-            "cls_id": "CF04110",
-            "sub_id": "70181",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
         },
         {
             "scr_selcode": "3578",
