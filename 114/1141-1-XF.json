@@ -2652,7 +2652,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(四)09-10 人504 黃千芬",
+            "scr_period": "(四)09-10 人504 周振權",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2662,7 +2662,7 @@
             "scr_dup": "010",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃千芬"
+            "scr_teacher": "周振權"
         },
         {
             "scr_selcode": "3404",
@@ -2894,7 +2894,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)03-04 人603 廖珮珈",
+            "scr_period": "(五)03-04 人603 孫翎",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2904,7 +2904,7 @@
             "scr_dup": "023",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖珮珈"
+            "scr_teacher": "孫翎"
         },
         {
             "scr_selcode": "3415",
@@ -3004,7 +3004,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "大二英文綜合班",
-            "scr_period": "(五)06-07 人406 宋思煌",
+            "scr_period": "(五)06-07 人406 吳舜華",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3014,7 +3014,7 @@
             "scr_dup": "032",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋思煌"
+            "scr_teacher": "吳舜華"
         },
         {
             "scr_selcode": "3420",
