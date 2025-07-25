@@ -1200,7 +1200,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計二甲",
-            "scr_period": "(五)06     忠201 (五)06     忠202 (五)07     忠201 (五)07     忠202 林柏豪",
+            "scr_period": "(五)06-07 商402 林柏豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「中級會計學(一)」正課",
@@ -1574,7 +1574,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計二乙",
-            "scr_period": "(一)01-02 商406 王鈺琪,王文聖",
+            "scr_period": "(一)01-02 商406 王文聖",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1584,7 +1584,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "王鈺琪,王文聖"
+            "scr_teacher": "王文聖"
         },
         {
             "scr_selcode": "0130",
@@ -2168,7 +2168,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三甲",
-            "scr_period": "(四)02     建305 林柏豪",
+            "scr_period": "(四)02     建305 高惠松",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「財務會計專題研究」正課",
@@ -2178,7 +2178,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林柏豪"
+            "scr_teacher": "高惠松"
         },
         {
             "scr_selcode": "0152",
@@ -2344,7 +2344,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三乙",
-            "scr_period": "(五)02     商208 林柏豪",
+            "scr_period": "(一)09     商409 林書賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「財務會計專題研究」正課",
@@ -2354,7 +2354,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林柏豪"
+            "scr_teacher": "林書賢"
         },
         {
             "scr_selcode": "0157",
@@ -2520,7 +2520,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(三)02     資電B06 林柏豪",
+            "scr_period": "(三)02     資電B06 翁慈青",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「財務會計專題研究」正課",
@@ -2530,7 +2530,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林柏豪"
+            "scr_teacher": "翁慈青"
         },
         {
             "scr_selcode": "0162",
@@ -2652,7 +2652,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三合",
-            "scr_period": "(二)02-04 忠302 朱雅菁",
+            "scr_period": "(二)02-04 人507 朱雅菁",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.此班為綜合班，供重補修學生修習 2.須隨班修習「高等會計學(一)實習」課",
