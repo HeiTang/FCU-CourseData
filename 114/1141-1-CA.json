@@ -1288,7 +1288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三甲",
-            "scr_period": "(三)02-04 建301 林源堂",
+            "scr_period": "(三)02-04 語205 林源堂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1376,7 +1376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三甲",
-            "scr_period": "(三)03-04 建305 羅致卿",
+            "scr_period": "(三)03-04 語303 羅致卿",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1662,7 +1662,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(三)02-04 建301 林源堂",
+            "scr_period": "(三)02-04 語205 林源堂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1750,7 +1750,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三乙",
-            "scr_period": "(三)03-04 建305 羅致卿",
+            "scr_period": "(三)03-04 語303 羅致卿",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3774,7 +3774,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業三甲",
-            "scr_period": "(四)02-04 建306 藍春琪",
+            "scr_period": "(四)02-04 語401 藍春琪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3928,7 +3928,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業三乙",
-            "scr_period": "(四)02-04 建306 藍春琪",
+            "scr_period": "(四)02-04 語401 藍春琪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5534,7 +5534,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一甲",
-            "scr_period": "(一)01-02 待排",
+            "scr_period": "(一)01-02   賴慶霖",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "第一週上課請至體育館1F門口集合",
@@ -5544,7 +5544,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴慶霖"
         },
         {
             "scr_selcode": "1800",
@@ -8856,7 +8856,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(三)08-09 待排",
+            "scr_period": "(三)08-09   賴慶霖",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "第一週上課請至體育館1F門口集合",
@@ -8866,7 +8866,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴慶霖"
         },
         {
             "scr_selcode": "2472",
@@ -9120,7 +9120,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(四)08-09 待排",
+            "scr_period": "(四)08-09   賴慶霖",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "第一週上課請至體育館1F門口集合",
@@ -9130,7 +9130,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴慶霖"
         },
         {
             "scr_selcode": "2480",
