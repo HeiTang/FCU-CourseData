@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 700,
+    "total": 704,
     "items": [
         {
             "scr_selcode": "0075",
@@ -13687,6 +13687,28 @@
             "scr_teacher": "李宜靜"
         },
         {
+            "scr_selcode": "4712",
+            "sub_id3": "MKT2003",
+            "sub_name": "視覺策略與影像實務",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷二甲",
+            "scr_period": "(二)02-04 商514 劉郁佐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26121",
+            "sub_id": "51561",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "劉郁佐"
+        },
+        {
             "scr_selcode": "0764",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -13929,6 +13951,28 @@
             "scr_teacher": "李宜靜"
         },
         {
+            "scr_selcode": "4712",
+            "sub_id3": "MKT2003",
+            "sub_name": "視覺策略與影像實務",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷二乙",
+            "scr_period": "(二)02-04 商514 劉郁佐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26122",
+            "sub_id": "51561",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "劉郁佐"
+        },
+        {
             "scr_selcode": "0775",
             "sub_id3": "FINA2034P",
             "sub_name": "財務管理實習",
@@ -14127,6 +14171,28 @@
             "scr_teacher": "李悅端"
         },
         {
+            "scr_selcode": "4713",
+            "sub_id3": "MKT3054",
+            "sub_name": "短影音與廣告創作",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷三甲",
+            "scr_period": "(三)06-08 商514 劉郁佐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26131",
+            "sub_id": "04459",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "劉郁佐"
+        },
+        {
             "scr_selcode": "0778",
             "sub_id3": "FINA2034P",
             "sub_name": "財務管理實習",
@@ -14323,6 +14389,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李悅端"
+        },
+        {
+            "scr_selcode": "4713",
+            "sub_id3": "MKT3054",
+            "sub_name": "短影音與廣告創作",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "行銷三乙",
+            "scr_period": "(三)06-08 商514 劉郁佐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4108,
+            "cls_id": "CB26132",
+            "sub_id": "04459",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "劉郁佐"
         },
         {
             "scr_selcode": "0787",
