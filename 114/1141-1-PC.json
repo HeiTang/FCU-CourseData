@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資通安全學程",
-            "scr_period": "(一)10     資電504 (三)09-10 資電504",
+            "scr_period": "(一)10     資電504 (三)09-10 資電504 郭士煒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "2887",
@@ -364,7 +364,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "再生能源與永續社會學程",
-            "scr_period": "(二)06-08 行205 施孟芬",
+            "scr_period": "(二)06-08 行209 施孟芬",
             "scr_precnt": 46.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,

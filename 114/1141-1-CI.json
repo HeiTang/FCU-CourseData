@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 622,
+    "total": 616,
     "items": [
         {
             "scr_selcode": "2106",
@@ -342,7 +342,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一甲",
-            "scr_period": "(一)09     語303",
+            "scr_period": "(一)09     語303 郭士煒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -352,7 +352,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "1325",
@@ -386,7 +386,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一甲",
-            "scr_period": "(一)06-07 資電330(電腦實習室)",
+            "scr_period": "(一)06-07 資電330(電腦實習室) 郭士煒",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -396,7 +396,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "1327",
@@ -782,7 +782,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊一丙",
-            "scr_period": "(一)09     資電B03",
+            "scr_period": "(一)09     資電B03 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -792,7 +792,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1341",
@@ -1376,7 +1376,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二甲",
-            "scr_period": "(一)08     資電102 (二)03-04 資電104",
+            "scr_period": "(一)08     資電102 (二)03-04 資電104 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1386,7 +1386,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1381",
@@ -1684,7 +1684,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二乙",
-            "scr_period": "(一)08     資電102 (二)03-04 資電104",
+            "scr_period": "(一)08     資電102 (二)03-04 資電104 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1694,7 +1694,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1381",
@@ -1728,7 +1728,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二丙",
-            "scr_period": "(二)09     資電410 張哲誠",
+            "scr_period": "(二)09     資電515 張哲誠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1992,7 +1992,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二丙",
-            "scr_period": "(一)08     資電102 (二)03-04 資電104",
+            "scr_period": "(一)08     資電102 (二)03-04 資電104 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2002,7 +2002,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1381",
@@ -2036,7 +2036,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二丁",
-            "scr_period": "(二)09     資電512 張志宏",
+            "scr_period": "(二)09     資電402 張志宏",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2124,7 +2124,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二丁",
-            "scr_period": "(二)08     資電512 (四)06-07 資電512 林佩君",
+            "scr_period": "(二)08     資電402 (四)06-07 資電103 林佩君",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2300,7 +2300,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊二丁",
-            "scr_period": "(一)08     資電102 (二)03-04 資電104",
+            "scr_period": "(一)08     資電102 (二)03-04 資電104 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2310,7 +2310,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1381",
@@ -2498,7 +2498,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三甲",
-            "scr_period": "(四)02-04 資電234(電腦實習室)",
+            "scr_period": "(四)02-04 資電234(電腦實習室) 郭士煒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2508,7 +2508,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "1400",
@@ -2630,7 +2630,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三甲",
-            "scr_period": "(一)07     資電104 (四)03-04 資電107",
+            "scr_period": "(一)07     資電104 (四)03-04 資電107 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2640,7 +2640,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1385",
@@ -2806,7 +2806,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三乙",
-            "scr_period": "(四)02-04 資電234(電腦實習室)",
+            "scr_period": "(四)02-04 資電234(電腦實習室) 郭士煒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2816,7 +2816,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "1400",
@@ -2938,7 +2938,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三乙",
-            "scr_period": "(一)07     資電104 (四)03-04 資電107",
+            "scr_period": "(一)07     資電104 (四)03-04 資電107 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2948,7 +2948,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1388",
@@ -3114,7 +3114,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三丙",
-            "scr_period": "(四)02-04 資電234(電腦實習室)",
+            "scr_period": "(四)02-04 資電234(電腦實習室) 郭士煒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3124,7 +3124,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "1400",
@@ -3246,7 +3246,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三丙",
-            "scr_period": "(一)07     資電104 (四)03-04 資電107",
+            "scr_period": "(一)07     資電104 (四)03-04 資電107 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3256,7 +3256,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1391",
@@ -3422,7 +3422,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三丁",
-            "scr_period": "(四)02-04 資電234(電腦實習室)",
+            "scr_period": "(四)02-04 資電234(電腦實習室) 郭士煒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3432,7 +3432,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "郭士煒"
         },
         {
             "scr_selcode": "1400",
@@ -3554,7 +3554,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三丁",
-            "scr_period": "(一)07     資電104 (四)03-04 資電107",
+            "scr_period": "(一)07     資電104 (四)03-04 資電107 李金鳳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3564,7 +3564,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李金鳳"
         },
         {
             "scr_selcode": "1406",
@@ -3631,28 +3631,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "游景盛"
-        },
-        {
-            "scr_selcode": "1412",
-            "sub_id3": "IECS3063",
-            "sub_name": "自然語言處理實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊四甲",
-            "scr_period": "(四)06-08 工319(電腦實習室) 林哲維",
-            "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4501,
-            "cls_id": "CE07141",
-            "sub_id": "15086",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林哲維"
         },
         {
             "scr_selcode": "1413",
@@ -3919,28 +3897,6 @@
             "scr_teacher": "游景盛"
         },
         {
-            "scr_selcode": "1412",
-            "sub_id3": "IECS3063",
-            "sub_name": "自然語言處理實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊四乙",
-            "scr_period": "(四)06-08 工319(電腦實習室) 林哲維",
-            "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4501,
-            "cls_id": "CE07142",
-            "sub_id": "15086",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林哲維"
-        },
-        {
             "scr_selcode": "1413",
             "sub_id3": "IEE6005",
             "sub_name": "深度學習",
@@ -4205,28 +4161,6 @@
             "scr_teacher": "游景盛"
         },
         {
-            "scr_selcode": "1412",
-            "sub_id3": "IECS3063",
-            "sub_name": "自然語言處理實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊四丙",
-            "scr_period": "(四)06-08 工319(電腦實習室) 林哲維",
-            "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4501,
-            "cls_id": "CE07143",
-            "sub_id": "15086",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林哲維"
-        },
-        {
             "scr_selcode": "1413",
             "sub_id3": "IEE6005",
             "sub_name": "深度學習",
@@ -4489,28 +4423,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "游景盛"
-        },
-        {
-            "scr_selcode": "1412",
-            "sub_id3": "IECS3063",
-            "sub_name": "自然語言處理實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "資訊四丁",
-            "scr_period": "(四)06-08 工319(電腦實習室) 林哲維",
-            "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4501,
-            "cls_id": "CE07144",
-            "sub_id": "15086",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "林哲維"
         },
         {
             "scr_selcode": "1413",
@@ -7778,7 +7690,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一乙",
-            "scr_period": "(二)08-09 資電402 (三)03-04 資電512 洪耀正",
+            "scr_period": "(二)08-09 資電512 (三)03-04 資電512 洪耀正",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8394,7 +8306,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機三甲",
-            "scr_period": "(二)03-04 資電B07 (四)06     資電402 劉文豐",
+            "scr_period": "(二)03-04 資電B07 (四)06     資電403 劉文豐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9133,28 +9045,6 @@
             "scr_teacher": "黃俊瑋"
         },
         {
-            "scr_selcode": "1709",
-            "sub_id3": "EEEN4028",
-            "sub_name": "超大型積體電路設計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電機四甲",
-            "scr_period": "(二)06-08 資電410 黃宇中",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4503,
-            "cls_id": "CE11141",
-            "sub_id": "45630",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "黃宇中"
-        },
-        {
             "scr_selcode": "1710",
             "sub_id3": "EEEN4004",
             "sub_name": "智慧能源科技導論",
@@ -9307,28 +9197,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "黃俊瑋"
-        },
-        {
-            "scr_selcode": "1709",
-            "sub_id3": "EEEN4028",
-            "sub_name": "超大型積體電路設計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電機四乙",
-            "scr_period": "(二)06-08 資電410 黃宇中",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4503,
-            "cls_id": "CE11142",
-            "sub_id": "45630",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "黃宇中"
         },
         {
             "scr_selcode": "1710",
@@ -9780,7 +9648,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二甲",
-            "scr_period": "(二)09     資電102 秦群立",
+            "scr_period": "(二)09     資電404 秦群立",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9934,7 +9802,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二甲",
-            "scr_period": "(二)06-08 資電102",
+            "scr_period": "(二)06-08 資電410",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10088,7 +9956,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二乙",
-            "scr_period": "(二)09     資電404 黃清輝",
+            "scr_period": "(二)09     資電410 黃清輝",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10242,7 +10110,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二乙",
-            "scr_period": "(二)06-08 資電102",
+            "scr_period": "(二)06-08 資電410",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
