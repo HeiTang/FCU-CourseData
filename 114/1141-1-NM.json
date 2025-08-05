@@ -34,7 +34,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創一(RMIT)",
-            "scr_period": "(二)01-04 人B117A (五)06-07 科航504 (五)08-09 人B117A",
+            "scr_period": "(二)01-04 人B117A (五)06-07 科航504 (五)08-09 人B117A Michael Paul Kidd",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -44,7 +44,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "Michael Paul Kidd"
         },
         {
             "scr_selcode": "2784",
@@ -2146,7 +2146,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一(UQ)",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 林賢龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2156,7 +2156,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林賢龍"
         },
         {
             "scr_selcode": "2865",
@@ -2168,7 +2168,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一(UQ)",
-            "scr_period": "(一)02-03 商108 (三)05-07 科航104(物實驗室四) (五)04     商108 林中一",
+            "scr_period": "(一)02-03 商108 (三)06-08 科航104(物實驗室四) (五)04     商108 林中一",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2190,7 +2190,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機一(UQ)",
-            "scr_period": "(三)06-07 科航204 (四)08-09 科航201 辛紹志",
+            "scr_period": "(二)09-10 紀110 (四)08-09 科航201 辛紹志",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2212,7 +2212,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "設計一(UNSW)",
-            "scr_period": "(三)05     人402 劉恩廷",
+            "scr_period": "(三)05     人402 Simon Richards",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2222,7 +2222,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "劉恩廷"
+            "scr_teacher": "Simon Richards"
         },
         {
             "scr_selcode": "2868",
@@ -2278,7 +2278,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "設計一(UNSW)",
-            "scr_period": "(三)06-08 人402",
+            "scr_period": "(三)06-08 人402 Simon Richards",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2288,7 +2288,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "Simon Richards"
         },
         {
             "scr_selcode": "2871",
@@ -2322,7 +2322,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "設計一(UNSW)",
-            "scr_period": "(二)02-04 人408",
+            "scr_period": "(二)02-04 人408 Simon Richards",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2332,7 +2332,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "Simon Richards"
         },
         {
             "scr_selcode": "2873",
@@ -2344,7 +2344,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "設計一(UNSW)",
-            "scr_period": "(二)07-09 資電B08",
+            "scr_period": "(二)07-09 資電B08 Simon Richards",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2354,7 +2354,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " "
+            "scr_teacher": "Simon Richards"
         }
     ]
 }

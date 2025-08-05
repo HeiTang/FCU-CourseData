@@ -320,7 +320,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機航博一學位學程",
-            "scr_period": "(一)06-08 理205 林彩玉",
+            "scr_period": "(一)06-08 理205 許銘修",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -330,7 +330,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林彩玉"
+            "scr_teacher": "許銘修"
         },
         {
             "scr_selcode": "0055",

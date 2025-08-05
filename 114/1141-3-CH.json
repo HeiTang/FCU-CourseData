@@ -738,7 +738,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "社創永續碩專二學位學程",
-            "scr_period": "(一)11-13 人801 徐偉傑",
+            "scr_period": "(一)11-13 人801 徐偉傑,林攸信",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -748,7 +748,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑"
+            "scr_teacher": "徐偉傑,林攸信"
         }
     ]
 }

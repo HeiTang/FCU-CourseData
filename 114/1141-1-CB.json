@@ -2542,7 +2542,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(一)02-04 商308 翁慈青",
+            "scr_period": "(四)06-08 資電B07",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「財務會計專題研究實習」課",
@@ -2552,7 +2552,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翁慈青"
+            "scr_teacher": " "
         },
         {
             "scr_selcode": "0163",
@@ -10220,7 +10220,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計三甲",
-            "scr_period": "(三)02-04 忠304 林建同",
+            "scr_period": "(三)02-04 忠304 賴暐婷",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10230,7 +10230,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林建同"
+            "scr_teacher": "賴暐婷"
         },
         {
             "scr_selcode": "0579",
@@ -10374,7 +10374,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計三乙",
-            "scr_period": "(二)02-04 科航B102 林建同",
+            "scr_period": "(二)02-04 科航B102 賴暐婷",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10384,7 +10384,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林建同"
+            "scr_teacher": "賴暐婷"
         },
         {
             "scr_selcode": "0584",

@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 138,
+    "total": 139,
     "items": [
         {
             "scr_selcode": "0045",
@@ -265,6 +265,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林英傑"
+        },
+        {
+            "scr_selcode": "4721",
+            "sub_id3": "MCAE6023",
+            "sub_name": "振動力學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "機械碩一",
+            "scr_period": "(三)02-04 工204 林明賢",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4001,
+            "cls_id": "CE04310",
+            "sub_id": "36500",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林明賢"
         },
         {
             "scr_selcode": "1220",
@@ -2586,7 +2608,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "數科碩一學位學程",
-            "scr_period": "(三)08-09 理406 (五)00     待排 李詠玄,李仁佑,吳榮彬,劉炳麟",
+            "scr_period": "(三)08-09 理406 (五)00     未排教室 許銘修,李仁佑,吳榮彬,劉炳麟",
             "scr_precnt": 18.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2596,7 +2618,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李詠玄,李仁佑,吳榮彬,劉炳麟"
+            "scr_teacher": "許銘修,李仁佑,吳榮彬,劉炳麟"
         },
         {
             "scr_selcode": "0050",
@@ -2696,7 +2718,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "數科碩一學位學程",
-            "scr_period": "(一)06-08 理205 林彩玉",
+            "scr_period": "(一)06-08 理205 許銘修",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2706,7 +2728,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林彩玉"
+            "scr_teacher": "許銘修"
         },
         {
             "scr_selcode": "0055",
