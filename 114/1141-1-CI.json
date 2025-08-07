@@ -12846,7 +12846,7 @@
             "cls_id": "CI02141",
             "sub_id": "71710",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "胡大湘"
         },
@@ -13022,7 +13022,7 @@
             "cls_id": "CI02142",
             "sub_id": "71710",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "胡大湘"
         },
@@ -13498,7 +13498,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊工程學士後專班二",
-            "scr_period": "(二)06-08 行204(電腦實習室)",
+            "scr_period": "(二)06-08 行204(電腦實習室) 吳卓強",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -13508,7 +13508,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "吳卓強"
         },
         {
             "scr_selcode": "2233",

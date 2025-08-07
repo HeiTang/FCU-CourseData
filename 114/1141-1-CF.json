@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 248,
+    "total": 250,
     "items": [
         {
             "scr_selcode": "1932",
@@ -4073,6 +4073,28 @@
             "scr_teacher": "郭長榮"
         },
         {
+            "scr_selcode": "4722",
+            "sub_id3": "INSU3005",
+            "sub_name": "財產保險(二)",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "風保三甲",
+            "scr_period": "(五)02-04 忠B08 彭盛昌",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4802,
+            "cls_id": "CB04131",
+            "sub_id": "38032",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "彭盛昌"
+        },
+        {
             "scr_selcode": "0399",
             "sub_id3": "INSU4021",
             "sub_name": "人身保險經營與管理",
@@ -4291,6 +4313,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "郭長榮"
+        },
+        {
+            "scr_selcode": "4722",
+            "sub_id3": "INSU3005",
+            "sub_name": "財產保險(二)",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "風保三乙",
+            "scr_period": "(五)02-04 忠B08 彭盛昌",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4802,
+            "cls_id": "CB04132",
+            "sub_id": "38032",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "彭盛昌"
         },
         {
             "scr_selcode": "0409",
