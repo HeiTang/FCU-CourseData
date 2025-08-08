@@ -2388,7 +2388,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複二",
-            "scr_period": "(二)09     語203",
+            "scr_period": "(二)09     語203 莊誌銘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2398,7 +2398,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "莊誌銘"
         },
         {
             "scr_selcode": "1233",
@@ -2542,7 +2542,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複二",
-            "scr_period": "(二)06-08 語303",
+            "scr_period": "(二)06-08 語303 莊誌銘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2552,7 +2552,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "莊誌銘"
         },
         {
             "scr_selcode": "1240",
@@ -2784,7 +2784,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複三",
-            "scr_period": "(五)07-08 工302",
+            "scr_period": "(五)07-08 工302 陳世雄",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2794,7 +2794,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳世雄"
         },
         {
             "scr_selcode": "1251",
@@ -3048,7 +3048,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業一甲",
-            "scr_period": "(一)03-04 忠307 戴盛柏",
+            "scr_period": "(一)03-04 學219(第九國會廳) 戴盛柏",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9046,8 +9046,8 @@
         },
         {
             "scr_selcode": "2486",
-            "sub_id3": "IINE1001",
-            "sub_name": "程式邏輯與應用",
+            "sub_id3": "IINE1005",
+            "sub_name": "程式邏輯與AI應用",
             "scr_credit": 1.0,
             "scj_scr_mso": "必修",
             "scr_examid": "否",
@@ -9060,7 +9060,7 @@
             "scr_remarks": " ",
             "unt_ls": 4014,
             "cls_id": "CS02111",
-            "sub_id": "48602",
+            "sub_id": "48605",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
@@ -9310,8 +9310,8 @@
         },
         {
             "scr_selcode": "2486",
-            "sub_id3": "IINE1001",
-            "sub_name": "程式邏輯與應用",
+            "sub_id3": "IINE1005",
+            "sub_name": "程式邏輯與AI應用",
             "scr_credit": 1.0,
             "scj_scr_mso": "必修",
             "scr_examid": "否",
@@ -9324,7 +9324,7 @@
             "scr_remarks": " ",
             "unt_ls": 4014,
             "cls_id": "CS02112",
-            "sub_id": "48602",
+            "sub_id": "48605",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
@@ -10608,8 +10608,8 @@
         },
         {
             "scr_selcode": "2547",
-            "sub_id3": "IINE1001",
-            "sub_name": "程式邏輯與應用",
+            "sub_id3": "IINE1005",
+            "sub_name": "程式邏輯與AI應用",
             "scr_credit": 1.0,
             "scj_scr_mso": "必修",
             "scr_examid": "否",
@@ -10622,7 +10622,7 @@
             "scr_remarks": " ",
             "unt_ls": 4015,
             "cls_id": "CS03111",
-            "sub_id": "48602",
+            "sub_id": "48605",
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
@@ -10850,8 +10850,8 @@
         },
         {
             "scr_selcode": "2547",
-            "sub_id3": "IINE1001",
-            "sub_name": "程式邏輯與應用",
+            "sub_id3": "IINE1005",
+            "sub_name": "程式邏輯與AI應用",
             "scr_credit": 1.0,
             "scj_scr_mso": "必修",
             "scr_examid": "否",
@@ -10864,7 +10864,7 @@
             "scr_remarks": " ",
             "unt_ls": 4015,
             "cls_id": "CS03112",
-            "sub_id": "48602",
+            "sub_id": "48605",
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",

@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複博一",
-            "scr_period": "(一)07     工223",
+            "scr_period": "(一)07     工223 莊誌銘",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "莊誌銘"
         },
         {
             "scr_selcode": "1267",
@@ -78,7 +78,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複博二",
-            "scr_period": "(四)00     待排",
+            "scr_period": "(四)00     工223 陳文正",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -88,7 +88,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳文正"
         },
         {
             "scr_selcode": "1268",
@@ -122,7 +122,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複博二",
-            "scr_period": "(一)00     待排 陳文正",
+            "scr_period": "(一)00     工223 莊誌銘",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -132,7 +132,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳文正"
+            "scr_teacher": "莊誌銘"
         },
         {
             "scr_selcode": "1317",

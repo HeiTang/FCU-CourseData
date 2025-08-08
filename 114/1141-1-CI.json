@@ -9560,7 +9560,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控一乙",
-            "scr_period": "(一)03-04 語202",
+            "scr_period": "(一)03-04 忠308",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9604,7 +9604,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控一乙",
-            "scr_period": "(一)06-07 語304 (四)04     科航204 陳鏡崑",
+            "scr_period": "(一)06-07 忠308 (四)04     科航204 陳鏡崑",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9802,7 +9802,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二甲",
-            "scr_period": "(二)06-08 資電410",
+            "scr_period": "(二)06-08 資電410 楊世忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9812,7 +9812,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊世忠"
         },
         {
             "scr_selcode": "1757",
@@ -10110,7 +10110,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二乙",
-            "scr_period": "(二)06-08 資電410",
+            "scr_period": "(二)06-08 資電410 楊世忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10120,7 +10120,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊世忠"
         },
         {
             "scr_selcode": "1757",
@@ -10858,7 +10858,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四甲",
-            "scr_period": "(四)11-13 資電404",
+            "scr_period": "(四)11-13 資電404 丁秉煌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "兼任(兼)丁秉煌老師(中科院航空所)，歡迎有興趣無人機的同學選課。",
@@ -10868,7 +10868,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "丁秉煌"
         },
         {
             "scr_selcode": "1784",
@@ -11056,7 +11056,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控四乙",
-            "scr_period": "(四)11-13 資電404",
+            "scr_period": "(四)11-13 資電404 丁秉煌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "兼任(兼)丁秉煌老師(中科院航空所)，歡迎有興趣無人機的同學選課。",
@@ -11066,7 +11066,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "丁秉煌"
         },
         {
             "scr_selcode": "1784",
