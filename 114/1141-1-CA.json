@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 636,
+    "total": 637,
     "items": [
         {
             "scr_selcode": "0039",
@@ -6260,7 +6260,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太三甲",
-            "scr_period": "(一)02-04 科航204 鄭仙志",
+            "scr_period": "(一)02-04 科航201 鄭仙志",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6392,7 +6392,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太三甲",
-            "scr_period": "(一)11-13 科航205",
+            "scr_period": "(一)11-13 科航205 楊富森",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "兼任教師楊富森老師授課。",
@@ -6402,7 +6402,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊富森"
         },
         {
             "scr_selcode": "1833",
@@ -6458,7 +6458,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太三乙",
-            "scr_period": "(四)02-04 科航202 鄭仙志",
+            "scr_period": "(四)02-04 科航201 鄭仙志",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6590,7 +6590,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太三乙",
-            "scr_period": "(一)11-13 科航205",
+            "scr_period": "(一)11-13 科航205 楊富森",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "兼任教師楊富森老師授課。",
@@ -6600,7 +6600,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "楊富森"
         },
         {
             "scr_selcode": "1842",
@@ -6700,7 +6700,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太四甲",
-            "scr_period": "(五)11-13 科航202",
+            "scr_period": "(五)11-13 科航202 林建宏",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6710,7 +6710,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林建宏"
         },
         {
             "scr_selcode": "1849",
@@ -6722,7 +6722,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太四甲",
-            "scr_period": "(一)11-13 科航204 羅明忠",
+            "scr_period": "(一)11-13 科航204 莊有達,羅明忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "與莊有達老師共時授課。",
@@ -6732,7 +6732,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "羅明忠"
+            "scr_teacher": "莊有達,羅明忠"
         },
         {
             "scr_selcode": "1850",
@@ -6854,7 +6854,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太四乙",
-            "scr_period": "(五)11-13 科航202",
+            "scr_period": "(五)11-13 科航202 林建宏",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6864,7 +6864,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林建宏"
         },
         {
             "scr_selcode": "1849",
@@ -6876,7 +6876,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太四乙",
-            "scr_period": "(一)11-13 科航204 羅明忠",
+            "scr_period": "(一)11-13 科航204 莊有達,羅明忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "與莊有達老師共時授課。",
@@ -6886,7 +6886,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "羅明忠"
+            "scr_teacher": "莊有達,羅明忠"
         },
         {
             "scr_selcode": "1850",
@@ -7459,6 +7459,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "康有評"
+        },
+        {
+            "scr_selcode": "4723",
+            "sub_id3": "PSD3062",
+            "sub_name": "機器人導論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "精密系統三學位學程",
+            "scr_period": "(三)11-13 行政二館105-電腦實習室 陳石生",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4010,
+            "cls_id": "CE26130",
+            "sub_id": "70160",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "陳石生"
         },
         {
             "scr_selcode": "1917",

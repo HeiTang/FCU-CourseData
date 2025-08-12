@@ -2520,7 +2520,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)02-04 商804B 吳廣文,黃瓊如,翁慈青",
+            "scr_period": "(六)02-04 商804B ,黃瓊如,翁慈青",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2530,7 +2530,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳廣文,黃瓊如,翁慈青"
+            "scr_teacher": ",黃瓊如,翁慈青"
         },
         {
             "scr_selcode": "0848",
@@ -2564,7 +2564,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(三)00     待排 吳廣文",
+            "scr_period": "(三)00     未排教室 翁慈青",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2574,7 +2574,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "吳廣文"
+            "scr_teacher": "翁慈青"
         },
         {
             "scr_selcode": "0850",
@@ -2630,7 +2630,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專二學位學程",
-            "scr_period": "(日)02-04 待排 翁慈青,董正玫,吳清池,林呈昱,張森河,賴奇厚",
+            "scr_period": "(日)02-04 未排教室 吳廣文,翁慈青,吳如娟,董正玫,黃娟娟,吳清池,林呈昱,王文聖,張森河,賴奇厚,吳朝欽",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2640,7 +2640,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翁慈青,董正玫,吳清池,林呈昱,張森河,賴奇厚"
+            "scr_teacher": "吳廣文,翁慈青,吳如娟,董正玫,黃娟娟,吳清池,林呈昱,王文聖,張森河,賴奇厚,吳朝欽"
         },
         {
             "scr_selcode": "0853",
@@ -2652,7 +2652,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專二學位學程",
-            "scr_period": "(日)06-08 商804A 吳廣文",
+            "scr_period": "(日)06-08 商804A 翁慈青",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2662,7 +2662,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳廣文"
+            "scr_teacher": "翁慈青"
         }
     ]
 }

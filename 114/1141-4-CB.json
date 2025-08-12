@@ -12,7 +12,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學博一學位學程",
-            "scr_period": "(六)06-08 商706 吳廣文,翁慈青,高承恕",
+            "scr_period": "(六)06-08 商706 黃瓊如,高承恕",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學博士學位學程學生修習",
@@ -22,7 +22,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳廣文,翁慈青,高承恕"
+            "scr_teacher": "黃瓊如,高承恕"
         },
         {
             "scr_selcode": "0710",
@@ -34,7 +34,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學博一學位學程",
-            "scr_period": "(六)02-04 商706 黃瓊如,林慶隆,江向才",
+            "scr_period": "(六)02-04 商706 翁慈青,林慶隆,江向才",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學博士學位學程學生修習",
@@ -44,7 +44,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃瓊如,林慶隆,江向才"
+            "scr_teacher": "翁慈青,林慶隆,江向才"
         },
         {
             "scr_selcode": "0711",
@@ -56,7 +56,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學博一學位學程",
-            "scr_period": "(三)00     待排 吳廣文",
+            "scr_period": "(三)00     未排教室 翁慈青",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -66,7 +66,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "吳廣文"
+            "scr_teacher": "翁慈青"
         },
         {
             "scr_selcode": "0712",
