@@ -3818,7 +3818,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)01-02 人603 洪英雪",
+            "scr_period": "(一)01-02 人703 洪英雪",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5278,7 +5278,7 @@
             "cls_id": "XF02110",
             "sub_id": "05611",
             "scr_dup": "120",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林世賢"
         },
@@ -5718,7 +5718,7 @@
             "cls_id": "XF02110",
             "sub_id": "05611",
             "scr_dup": "142",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林世賢"
         },

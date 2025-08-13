@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 616,
+    "total": 613,
     "items": [
         {
             "scr_selcode": "2106",
@@ -5987,28 +5987,6 @@
             "scr_teacher": "施仁斌"
         },
         {
-            "scr_selcode": "1568",
-            "sub_id3": "ELEN3018",
-            "sub_name": "數位積體電路",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子三甲",
-            "scr_period": "(四)02-04 資電B06",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "翁峻鴻老師授課",
-            "unt_ls": 4502,
-            "cls_id": "CE09131",
-            "sub_id": "62720",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
-        },
-        {
             "scr_selcode": "1569",
             "sub_id3": "ELEN3009",
             "sub_name": "積體電路製程模擬",
@@ -6273,28 +6251,6 @@
             "scr_teacher": "施仁斌"
         },
         {
-            "scr_selcode": "1568",
-            "sub_id3": "ELEN3018",
-            "sub_name": "數位積體電路",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子三乙",
-            "scr_period": "(四)02-04 資電B06",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "翁峻鴻老師授課",
-            "unt_ls": 4502,
-            "cls_id": "CE09132",
-            "sub_id": "62720",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
-        },
-        {
             "scr_selcode": "1569",
             "sub_id3": "ELEN3009",
             "sub_name": "積體電路製程模擬",
@@ -6557,28 +6513,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "施仁斌"
-        },
-        {
-            "scr_selcode": "1568",
-            "sub_id3": "ELEN3018",
-            "sub_name": "數位積體電路",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子三丙",
-            "scr_period": "(四)02-04 資電B06",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "翁峻鴻老師授課",
-            "unt_ls": 4502,
-            "cls_id": "CE09133",
-            "sub_id": "62720",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " "
         },
         {
             "scr_selcode": "1569",
@@ -9340,17 +9274,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控一甲",
-            "scr_period": "(二)03-04 資電411 劉承勳,林昱成,秦群立,廖本義,黃清輝",
+            "scr_period": "(二)03     資電411 (二)03     科航801(IoT工作坊) (二)04     資電411 (二)04     科航801(IoT工作坊) 廖本義,黃清輝,劉承勳,秦群立",
             "scr_precnt": 6.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
+            "scr_remarks": "授課地點：1-11週為科航館8樓AIoT Lab.；12-18週為資電411",
             "unt_ls": 4504,
             "cls_id": "CE12111",
             "sub_id": "59466",
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "劉承勳,林昱成,秦群立,廖本義,黃清輝"
+            "scr_teacher": "廖本義,黃清輝,劉承勳,秦群立"
         },
         {
             "scr_selcode": "1730",
@@ -9538,17 +9472,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控一乙",
-            "scr_period": "(二)03-04 資電511 劉承勳,秦群立,廖本義,黃清輝",
+            "scr_period": "(二)03     資電511 (二)03     科航801(IoT工作坊) (二)04     資電511 (二)04     科航801(IoT工作坊) 廖本義,黃清輝,劉承勳,秦群立",
             "scr_precnt": 2.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
+            "scr_remarks": "授課地點：1-11週為科航館8樓AIoT Lab.；12-18週為資電511",
             "unt_ls": 4504,
             "cls_id": "CE12112",
             "sub_id": "59466",
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "劉承勳,秦群立,廖本義,黃清輝"
+            "scr_teacher": "廖本義,黃清輝,劉承勳,秦群立"
         },
         {
             "scr_selcode": "1738",
@@ -13212,7 +13146,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電一甲",
-            "scr_period": "(二)01-02 科航801(IoT工作坊)",
+            "scr_period": "(二)01-02 未排教室 陳錫民,何子豪,洪振傑,徐士賢,張一楠,廖本義,陸清達,蔡淵裕,郭士煒,林瑞欽,謝振中,劉堂傑,郭崇韋,王丁勇,陳鏡崑",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13222,7 +13156,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳錫民,何子豪,洪振傑,徐士賢,張一楠,廖本義,陸清達,蔡淵裕,郭士煒,林瑞欽,謝振中,劉堂傑,郭崇韋,王丁勇,陳鏡崑"
         },
         {
             "scr_selcode": "3568",
@@ -13410,7 +13344,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資電一乙",
-            "scr_period": "(二)01-02 科航801(IoT工作坊)",
+            "scr_period": "(二)01-02 未排教室 陳錫民,何子豪,洪振傑,徐士賢,張一楠,廖本義,陸清達,蔡淵裕,郭士煒,林瑞欽,謝振中,劉堂傑,郭崇韋,王丁勇,陳鏡崑",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13420,7 +13354,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳錫民,何子豪,洪振傑,徐士賢,張一楠,廖本義,陸清達,蔡淵裕,郭士煒,林瑞欽,謝振中,劉堂傑,郭崇韋,王丁勇,陳鏡崑"
         },
         {
             "scr_selcode": "3557",

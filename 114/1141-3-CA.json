@@ -277,7 +277,7 @@
             "scr_exambf": "否",
             "cls_name": "機械碩一",
             "scr_period": "(三)02-04 工204 林明賢",
-            "scr_precnt": 60.0,
+            "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4001,
@@ -958,7 +958,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太碩一",
-            "scr_period": "(三)00     待排 黃振鴻",
+            "scr_period": "(三)00     未排教室 張淵仁",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -968,7 +968,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "黃振鴻"
+            "scr_teacher": "張淵仁"
         },
         {
             "scr_selcode": "1853",
@@ -1046,7 +1046,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太碩二",
-            "scr_period": "(二)00     待排 黃振鴻",
+            "scr_period": "(二)00     未排教室 張淵仁",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1056,7 +1056,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃振鴻"
+            "scr_teacher": "張淵仁"
         },
         {
             "scr_selcode": "1857",
@@ -2895,7 +2895,7 @@
             "scr_exambf": "否",
             "cls_name": "太空碩一學位學程",
             "scr_period": "(三)02-04 科航428 李龍鑫",
-            "scr_precnt": 0.0,
+            "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
             "unt_ls": 4019,
@@ -2938,7 +2938,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "太空碩一學位學程",
-            "scr_period": "(三)00     待排 陳宗正",
+            "scr_period": "(三)00     未排教室 張淵仁",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2948,7 +2948,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "陳宗正"
+            "scr_teacher": "張淵仁"
         },
         {
             "scr_selcode": "0062",
@@ -3004,7 +3004,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "太空碩二學位學程",
-            "scr_period": "(二)00     待排 陳宗正",
+            "scr_period": "(二)00     未排教室 張淵仁",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -3014,7 +3014,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳宗正"
+            "scr_teacher": "張淵仁"
         },
         {
             "scr_selcode": "0065",
