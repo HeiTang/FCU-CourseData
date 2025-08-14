@@ -276,7 +276,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(三)01-02 語201",
+            "scr_period": "(三)01-02 語201 陳珮綺",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -286,7 +286,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "陳珮綺"
         },
         {
             "scr_selcode": "0984",
@@ -518,7 +518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(三)06-07 理404",
+            "scr_period": "(三)06-07 理404 張志偉",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -528,7 +528,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "張志偉"
         },
         {
             "scr_selcode": "0994",
@@ -1926,7 +1926,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(三)01-02 語302",
+            "scr_period": "(三)01-02 語302 林煜宸",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1936,7 +1936,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "林煜宸"
         },
         {
             "scr_selcode": "1052",
@@ -2190,7 +2190,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(三)01-02 語305",
+            "scr_period": "(三)01-02 語305 賴信銓",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2200,7 +2200,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "賴信銓"
         },
         {
             "scr_selcode": "1062",
@@ -3554,7 +3554,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流一乙",
-            "scr_period": "(四)06-07 忠611(電腦實習室) 林大傑",
+            "scr_period": "(四)06-07 工319(電腦實習室) 林大傑",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
