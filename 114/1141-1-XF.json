@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 322,
+    "total": 323,
     "items": [
         {
             "scr_selcode": "3283",
@@ -4126,7 +4126,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)01-02 人705",
+            "scr_period": "(二)01-02 人705 徐培晃",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4136,7 +4136,7 @@
             "scr_dup": "033",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "徐培晃"
         },
         {
             "scr_selcode": "3479",
@@ -4984,7 +4984,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(五)01-02 人501 徐培晃",
+            "scr_period": "(五)01-02 人501 李靜玟",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4994,7 +4994,7 @@
             "scr_dup": "095",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐培晃"
+            "scr_teacher": "李靜玟"
         },
         {
             "scr_selcode": "3518",
@@ -5853,6 +5853,28 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王惠鈴"
+        },
+        {
+            "scr_selcode": "4725",
+            "sub_id3": "CHIN1065",
+            "sub_name": "中文思辨與表達(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國文綜合班",
+            "scr_period": "(三)01-02 人403 馬偉成",
+            "scr_precnt": 50.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "XF02110",
+            "sub_id": "05611",
+            "scr_dup": "150",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "馬偉成"
         },
         {
             "scr_selcode": "3557",
