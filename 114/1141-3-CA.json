@@ -1208,7 +1208,7 @@
             "cls_id": "CE19310",
             "sub_id": "74081",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "Y",
             "scr_teacher": "陳瑞霖"
         },
@@ -2454,7 +2454,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電碩一",
-            "scr_period": "(四)02-04 理101 周哲仲",
+            "scr_period": "(二)07-09 理101 周哲仲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
