@@ -8944,7 +8944,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(三)02-04 理404 陳建隆",
+            "scr_period": "(三)02-04 理404 陳建隆,周奮興",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "課程於學期1/3之後，在電腦教室上課，上課時間會異動",
@@ -8954,7 +8954,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆"
+            "scr_teacher": "陳建隆,周奮興"
         },
         {
             "scr_selcode": "2473",
@@ -9208,7 +9208,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(四)02-04 學104 陳建隆",
+            "scr_period": "(四)02-04 學104 陳建隆,周奮興",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "課程於學期1/3之後，在電腦教室上課，上課時間會異動",
@@ -9218,7 +9218,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆"
+            "scr_teacher": "陳建隆,周奮興"
         },
         {
             "scr_selcode": "2481",
@@ -9604,7 +9604,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境二甲",
-            "scr_period": "(三)08-09 理313",
+            "scr_period": "(三)08-09 理313 李澤民",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9614,7 +9614,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李澤民"
         },
         {
             "scr_selcode": "2503",
@@ -9824,7 +9824,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境二乙",
-            "scr_period": "(三)08-09 理313",
+            "scr_period": "(三)08-09 理313 李澤民",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9834,7 +9834,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "李澤民"
         },
         {
             "scr_selcode": "2503",
@@ -9956,7 +9956,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境三甲",
-            "scr_period": "(三)06-07 理313",
+            "scr_period": "(三)06-07 理313 曾淑君",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9966,7 +9966,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾淑君"
         },
         {
             "scr_selcode": "2514",
@@ -10132,7 +10132,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境三乙",
-            "scr_period": "(三)06-07 理313",
+            "scr_period": "(三)06-07 理313 曾淑君",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10142,7 +10142,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "曾淑君"
         },
         {
             "scr_selcode": "2514",
@@ -10176,7 +10176,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四甲",
-            "scr_period": "(五)03-04 忠201 陳建隆,劉政樺",
+            "scr_period": "(五)03-04 忠201 陳建隆,周奮興,劉政樺",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10186,7 +10186,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆,劉政樺"
+            "scr_teacher": "陳建隆,周奮興,劉政樺"
         },
         {
             "scr_selcode": "2516",
@@ -10264,7 +10264,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四甲",
-            "scr_period": "(一)06-09 忠307 王唯匡,李書安",
+            "scr_period": "(一)06-09 忠307 郭修宇,王唯匡,李書安",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "採隔週上課，限環科系四年級修習",
@@ -10274,7 +10274,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王唯匡,李書安"
+            "scr_teacher": "郭修宇,王唯匡,李書安"
         },
         {
             "scr_selcode": "4652",
@@ -10308,7 +10308,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四乙",
-            "scr_period": "(五)03-04 忠201 陳建隆,劉政樺",
+            "scr_period": "(五)03-04 忠201 陳建隆,周奮興,劉政樺",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10318,7 +10318,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆,劉政樺"
+            "scr_teacher": "陳建隆,周奮興,劉政樺"
         },
         {
             "scr_selcode": "2516",
@@ -10396,7 +10396,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四乙",
-            "scr_period": "(一)06-09 忠307 王唯匡,李書安",
+            "scr_period": "(一)06-09 忠307 郭修宇,王唯匡,李書安",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "採隔週上課，限環科系四年級修習",
@@ -10406,7 +10406,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王唯匡,李書安"
+            "scr_teacher": "郭修宇,王唯匡,李書安"
         },
         {
             "scr_selcode": "4652",

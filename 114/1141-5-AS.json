@@ -100,7 +100,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修一",
-            "scr_period": "(四)13-14 忠516(建製圖室)",
+            "scr_period": "(四)13-14 忠516(建製圖室) 黃俊賓",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -110,7 +110,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "黃俊賓"
         },
         {
             "scr_selcode": "0901",
@@ -254,7 +254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修二",
-            "scr_period": "(一)13-14 忠611(電腦實習室)",
+            "scr_period": "(一)13-14 忠611(電腦實習室) 葉宛盈",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -264,7 +264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "葉宛盈"
         },
         {
             "scr_selcode": "0908",
@@ -540,7 +540,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修四",
-            "scr_period": "(二)13-14 忠208",
+            "scr_period": "(二)13-14 忠208 石淑燕",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -550,7 +550,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": "石淑燕"
         }
     ]
 }
