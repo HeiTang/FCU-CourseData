@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 30,
+    "total": 29,
     "items": [
         {
             "scr_selcode": "0355",
@@ -133,28 +133,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉炳麟"
-        },
-        {
-            "scr_selcode": "0361",
-            "sub_id3": "FINA6052",
-            "sub_name": "證券市場機制與行為",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "財金碩一",
-            "scr_period": "(二)02-04 商1215 簡正儀",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4801,
-            "cls_id": "CB03310",
-            "sub_id": "76442",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "簡正儀"
         },
         {
             "scr_selcode": "1941",
@@ -586,7 +564,7 @@
             "cls_name": "金融碩專學一學位學程",
             "scr_period": "(六)11-13 商1007 陳彥志",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": "限金融碩士在職學位學程學生修習",
             "unt_ls": 4813,
             "cls_id": "CF1331A",
