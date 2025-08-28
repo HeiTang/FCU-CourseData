@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余美玲"
+            "scr_teacher": "余美玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2649",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "蔡榮婷"
+            "scr_teacher": "蔡榮婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2650",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余風"
+            "scr_teacher": "余風",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2651",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鴻文"
+            "scr_teacher": "黃鴻文",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2652",
@@ -102,7 +106,7 @@
             "cls_name": "中文碩一",
             "scr_period": "(四)02-04 人904 李寶玲",
             "scr_precnt": 5.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4405,
             "cls_id": "CS04310",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李寶玲"
+            "scr_teacher": "李寶玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2653",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余風,余美玲,李寶玲,陳義芝,黃鴻文,李綉玲,何寄澎"
+            "scr_teacher": "余風,余美玲,李寶玲,陳義芝,黃鴻文,李綉玲,何寄澎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2080",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱源貴"
+            "scr_teacher": "邱源貴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2081",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "闕帝丰"
+            "scr_teacher": "闕帝丰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2082",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉怡君"
+            "scr_teacher": "劉怡君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2083",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐琍沂"
+            "scr_teacher": "徐琍沂",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2084",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪筱婷"
+            "scr_teacher": "洪筱婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4692",
@@ -256,7 +267,7 @@
             "cls_name": "外文英語文碩一",
             "scr_period": "(五)06-08 人1110 謝宏濱",
             "scr_precnt": 10.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4406,
             "cls_id": "CH06310",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝宏濱"
+            "scr_teacher": "謝宏濱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2085",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2086",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊坤良"
+            "scr_teacher": "莊坤良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4693",
@@ -322,7 +336,7 @@
             "cls_name": "外文英語文碩二",
             "scr_period": "(二)07-09 人801 林為正",
             "scr_precnt": 10.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4406,
             "cls_id": "CH06320",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林為正"
+            "scr_teacher": "林為正",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2087",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑"
+            "scr_teacher": "徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2088",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑"
+            "scr_teacher": "徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2089",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建緯"
+            "scr_teacher": "李建緯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2090",
@@ -410,7 +428,7 @@
             "cls_name": "文社碩一學位學程",
             "scr_period": "(二)02-04 人910 李建緯",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4410,
             "cls_id": "CH19310",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建緯"
+            "scr_teacher": "李建緯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2091",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑"
+            "scr_teacher": "徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2092",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑"
+            "scr_teacher": "徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2093",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "侯勝宗"
+            "scr_teacher": "侯勝宗",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2094",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳玉苹"
+            "scr_teacher": "陳玉苹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2095",
@@ -520,7 +543,7 @@
             "cls_name": "文社碩二學位學程",
             "scr_period": "(三)07-09 人801 黃智彥",
             "scr_precnt": 20.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": null,
             "unt_ls": 4410,
             "cls_id": "CH19320",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃智彥"
+            "scr_teacher": "黃智彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2096",
@@ -542,7 +566,7 @@
             "cls_name": "文社碩二學位學程",
             "scr_period": "(二)07-09 人910 王志宇",
             "scr_precnt": 15.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4410,
             "cls_id": "CH19320",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王志宇"
+            "scr_teacher": "王志宇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2097",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "陳介英"
+            "scr_teacher": "陳介英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2098",
@@ -586,7 +612,7 @@
             "cls_name": "社創永續碩專一學位學程",
             "scr_period": "(六)02-04 人901 吳周燕,林書賢,陳品如",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4411,
             "cls_id": "CH2031A",
@@ -594,7 +620,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳周燕,林書賢,陳品如"
+            "scr_teacher": "吳周燕,林書賢,陳品如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2099",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳介英,徐偉傑"
+            "scr_teacher": "陳介英,徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2100",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林俊德,林浚騰,呂晃志"
+            "scr_teacher": "林俊德,林浚騰,呂晃志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2101",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳介英"
+            "scr_teacher": "陳介英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2102",
@@ -682,7 +712,8 @@
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "陳介英"
+            "scr_teacher": "陳介英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2103",
@@ -696,7 +727,7 @@
             "cls_name": "社創永續碩專二學位學程",
             "scr_period": "(六)06-08 人801 賴奇厚,林浚騰",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 3.0,
             "scr_remarks": null,
             "unt_ls": 4411,
             "cls_id": "CH2032A",
@@ -704,7 +735,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴奇厚,林浚騰"
+            "scr_teacher": "賴奇厚,林浚騰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2104",
@@ -718,7 +750,7 @@
             "cls_name": "社創永續碩專二學位學程",
             "scr_period": "(六)02-04 人801 陳介英,葉守禮,劉世慶",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 4411,
             "cls_id": "CH2032A",
@@ -726,7 +758,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳介英,葉守禮,劉世慶"
+            "scr_teacher": "陳介英,葉守禮,劉世慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2105",
@@ -740,7 +773,7 @@
             "cls_name": "社創永續碩專二學位學程",
             "scr_period": "(一)11-13 人801 徐偉傑,林攸信",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": null,
             "unt_ls": 4411,
             "cls_id": "CH2032A",
@@ -748,7 +781,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐偉傑,林攸信"
+            "scr_teacher": "徐偉傑,林攸信",
+            "scr_date": "全學期"
         }
     ]
 }

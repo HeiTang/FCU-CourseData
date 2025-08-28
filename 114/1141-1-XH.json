@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾桔炫,劉陶堃"
+            "scr_teacher": "曾桔炫,劉陶堃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3615",
@@ -36,7 +37,7 @@
             "cls_name": "全民國防教育課程",
             "scr_period": "(五)01-02 忠B03 陳姿伶,王金輝",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 80.0,
+            "scr_acptcnt": 79.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "XH01101",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳姿伶,王金輝"
+            "scr_teacher": "陳姿伶,王金輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3616",
@@ -66,7 +68,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "古陳蜀東,賴昆厚"
+            "scr_teacher": "古陳蜀東,賴昆厚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3617",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建勲,洪靜茹"
+            "scr_teacher": "李建勲,洪靜茹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3619",
@@ -102,7 +106,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(一)03-04 行政二館205(視聽室) 林憶穎",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 127.0,
+            "scr_acptcnt": 130.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "林憶穎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3620",
@@ -132,7 +137,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖志明,周吳龍"
+            "scr_teacher": "廖志明,周吳龍",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3621",
@@ -146,7 +152,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(一)03-04 忠B08 許后宜,王珮羽",
             "scr_precnt": 115.0,
-            "scr_acptcnt": 100.0,
+            "scr_acptcnt": 101.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -154,7 +160,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許后宜,王珮羽"
+            "scr_teacher": "許后宜,王珮羽",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3622",
@@ -176,7 +183,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳謙貴,賴昆厚"
+            "scr_teacher": "陳謙貴,賴昆厚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3623",
@@ -190,7 +198,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(二)01-02 行政二館205(視聽室) 余君青,王金輝",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 116.0,
+            "scr_acptcnt": 117.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -198,7 +206,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余君青,王金輝"
+            "scr_teacher": "余君青,王金輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3624",
@@ -210,9 +219,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "軍訓(一年級)",
-            "scr_period": "(二)03-04 紀204(第一國會廳) 洪靜茹,劉陶堃",
-            "scr_precnt": 125.0,
-            "scr_acptcnt": 104.0,
+            "scr_period": "(二)03-04 忠B03 洪靜茹,劉陶堃",
+            "scr_precnt": 105.0,
+            "scr_acptcnt": 105.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -220,7 +229,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪靜茹,劉陶堃"
+            "scr_teacher": "洪靜茹,劉陶堃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3625",
@@ -234,7 +244,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(二)03-04 行政二館205(視聽室) 林憶穎",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 106.0,
+            "scr_acptcnt": 109.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -242,7 +252,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林憶穎"
+            "scr_teacher": "林憶穎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3626",
@@ -256,7 +267,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(二)08-09 行政二館205(視聽室) 曾桔炫,王獻芬",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 140.0,
+            "scr_acptcnt": 139.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -264,7 +275,8 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾桔炫,王獻芬"
+            "scr_teacher": "曾桔炫,王獻芬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3627",
@@ -278,7 +290,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(一)07-08 行政二館205(視聽室) 王珮羽,許后宜",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 122.0,
+            "scr_acptcnt": 127.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -286,7 +298,8 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王珮羽,許后宜"
+            "scr_teacher": "王珮羽,許后宜",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3628",
@@ -308,7 +321,8 @@
             "scr_dup": "010",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳怡君,余君青"
+            "scr_teacher": "陳怡君,余君青",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3629",
@@ -330,7 +344,8 @@
             "scr_dup": "011",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉展銘,應維新"
+            "scr_teacher": "葉展銘,應維新",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3630",
@@ -344,7 +359,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(三)01-02 行政二館205(視聽室) 賴昆厚,陳謙貴",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 108.0,
+            "scr_acptcnt": 110.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -352,7 +367,8 @@
             "scr_dup": "012",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴昆厚,陳謙貴"
+            "scr_teacher": "賴昆厚,陳謙貴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3631",
@@ -374,7 +390,8 @@
             "scr_dup": "013",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳姿伶,廖志明"
+            "scr_teacher": "陳姿伶,廖志明",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3632",
@@ -388,7 +405,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(三)06-07 科航B102 應維新,洪靜茹",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 113.0,
+            "scr_acptcnt": 115.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -396,7 +413,8 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "應維新,洪靜茹"
+            "scr_teacher": "應維新,洪靜茹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3633",
@@ -410,7 +428,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(三)06-07 行政二館205(視聽室) 王獻芬,陳怡君",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 114.0,
+            "scr_acptcnt": 116.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -418,7 +436,8 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王獻芬,陳怡君"
+            "scr_teacher": "王獻芬,陳怡君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3634",
@@ -432,7 +451,7 @@
             "cls_name": "軍訓(一年級)",
             "scr_period": "(三)08-09 行政二館205(視聽室) 古陳蜀東,周吳龍",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 95.0,
+            "scr_acptcnt": 101.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "XH01111",
@@ -440,7 +459,8 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "古陳蜀東,周吳龍"
+            "scr_teacher": "古陳蜀東,周吳龍",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3635",
@@ -462,7 +482,8 @@
             "scr_dup": "017",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建勲,葉展銘"
+            "scr_teacher": "李建勲,葉展銘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3636",
@@ -484,7 +505,8 @@
             "scr_dup": "018",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳姿伶,王金輝"
+            "scr_teacher": "陳姿伶,王金輝",
+            "scr_date": "全學期"
         }
     ]
 }

@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建緯"
+            "scr_teacher": "李建緯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2573",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳俊啟"
+            "scr_teacher": "陳俊啟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2574",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱歧祥"
+            "scr_teacher": "朱歧祥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2575",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "何寄澎"
+            "scr_teacher": "何寄澎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3590",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳義芝"
+            "scr_teacher": "陳義芝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2576",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖崇斐,余美玲,王志宇,李建緯,何寄澎"
+            "scr_teacher": "廖崇斐,余美玲,王志宇,李建緯,何寄澎",
+            "scr_date": "全學期"
         }
     ]
 }

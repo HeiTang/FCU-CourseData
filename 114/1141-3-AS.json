@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李英弘"
+            "scr_teacher": "李英弘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1137",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1138",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1139",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳保寬,顏貽祥"
+            "scr_teacher": "吳保寬,顏貽祥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1140",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真"
+            "scr_teacher": "宋玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1141",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "盛郁庭"
+            "scr_teacher": "盛郁庭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1142",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝銘峯,林幸長"
+            "scr_teacher": "謝銘峯,林幸長",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4683",
@@ -168,7 +175,7 @@
             "cls_name": "建築碩一學位學程",
             "scr_period": "(三)02-04 行213 許宜珮",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 3.0,
             "scr_remarks": null,
             "unt_ls": 5005,
             "cls_id": "CE03310",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許宜珮"
+            "scr_teacher": "許宜珮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1143",
@@ -190,7 +198,7 @@
             "cls_name": "建築碩二學位學程",
             "scr_period": "(五)00     待排 林衍良",
             "scr_precnt": 0.0,
-            "scr_acptcnt": 22.0,
+            "scr_acptcnt": 21.0,
             "scr_remarks": " ",
             "unt_ls": 5005,
             "cls_id": "CE03320",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1144",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林文陽"
+            "scr_teacher": "林文陽",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1145",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李英弘,林衍良,林葳,趙又嬋,許宜珮"
+            "scr_teacher": "李英弘,林衍良,林葳,趙又嬋,許宜珮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1146",
@@ -256,7 +267,7 @@
             "cls_name": "建築碩二學位學程",
             "scr_period": "(四)06-08 行205 張莉欣,鄭明仁",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": null,
             "unt_ls": 5005,
             "cls_id": "CE03320",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張莉欣,鄭明仁"
+            "scr_teacher": "張莉欣,鄭明仁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1147",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         }
     ]
 }

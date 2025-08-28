@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "顏榮軒"
+            "scr_teacher": "顏榮軒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2875",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋名晰"
+            "scr_teacher": "宋名晰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2876",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉德輝"
+            "scr_teacher": "葉德輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2877",
@@ -80,7 +83,7 @@
             "cls_name": "不動產管理學程",
             "scr_period": "(四)09-10 忠207 江晨旭",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC14100",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江晨旭"
+            "scr_teacher": "江晨旭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2878",
@@ -102,7 +106,7 @@
             "cls_name": "創新創業學程",
             "scr_period": "(三)06-08 忠204 謝東昇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "PC27100",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝東昇"
+            "scr_teacher": "謝東昇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2879",
@@ -124,7 +129,7 @@
             "cls_name": "創新創業學程",
             "scr_period": "(五)02-04 忠209 蔡勝男",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 21.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC27100",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡勝男"
+            "scr_teacher": "蔡勝男",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2881",
@@ -146,7 +152,7 @@
             "cls_name": "華語教師學程",
             "scr_period": "(二)13     資電104 王惠鈴",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC29100",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王惠鈴"
+            "scr_teacher": "王惠鈴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2882",
@@ -168,7 +175,7 @@
             "cls_name": "華語教師學程",
             "scr_period": "(二)11-12 資電104 王惠鈴",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC29100",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王惠鈴"
+            "scr_teacher": "王惠鈴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2883",
@@ -190,7 +198,7 @@
             "cls_name": "華語教師學程",
             "scr_period": "(四)11-12 資電104 姚蘭",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC29100",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "姚蘭"
+            "scr_teacher": "姚蘭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2884",
@@ -212,7 +221,7 @@
             "cls_name": "華語教師學程",
             "scr_period": "(一)11-12 資電104 李綉玲",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC29100",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李綉玲"
+            "scr_teacher": "李綉玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2885",
@@ -234,7 +244,7 @@
             "cls_name": "華語教師學程",
             "scr_period": "(三)11-12 資電104 林世賢",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC29100",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "林世賢"
+            "scr_teacher": "林世賢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2886",
@@ -256,7 +267,7 @@
             "cls_name": "資通安全學程",
             "scr_period": "(一)10     資電504 (三)09-10 資電504 郭士煒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC38100",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭士煒"
+            "scr_teacher": "郭士煒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2887",
@@ -278,7 +290,7 @@
             "cls_name": "資通安全學程",
             "scr_period": "(五)11-13 資電104 陳映親",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 5.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC38100",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳映親"
+            "scr_teacher": "陳映親",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2888",
@@ -300,7 +313,7 @@
             "cls_name": "勞工安全衛生學程",
             "scr_period": "(一)02-04 語104 張立德",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 48.0,
+            "scr_acptcnt": 52.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC44100",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張立德"
+            "scr_teacher": "張立德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2889",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇光偉"
+            "scr_teacher": "蘇光偉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2890",
@@ -344,7 +359,7 @@
             "cls_name": "再生能源與永續社會學程",
             "scr_period": "(二)02-04 行205 陳宗賢,朱正永",
             "scr_precnt": 46.0,
-            "scr_acptcnt": 2.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC50100",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳宗賢,朱正永"
+            "scr_teacher": "陳宗賢,朱正永",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2891",
@@ -366,7 +382,7 @@
             "cls_name": "再生能源與永續社會學程",
             "scr_period": "(二)06-08 行209 施孟芬",
             "scr_precnt": 46.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC50100",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施孟芬"
+            "scr_teacher": "施孟芬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2892",
@@ -388,7 +405,7 @@
             "cls_name": "再生能源與永續社會學程",
             "scr_period": "(一)11-13 工302 徐兆稹,呂晃志,施孟芬",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 46.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC50100",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐兆稹,呂晃志,施孟芬"
+            "scr_teacher": "徐兆稹,呂晃志,施孟芬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2893",
@@ -410,7 +428,7 @@
             "cls_name": "智慧物聯網學分學程",
             "scr_period": "(五)06-08 資電504 陳家豪",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 22.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC52100",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳家豪"
+            "scr_teacher": "陳家豪",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2894",
@@ -432,7 +451,7 @@
             "cls_name": "智慧軌道運輸學程",
             "scr_period": "(三)07-09 紀110 鍾慧諭",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 12.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC68100",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾慧諭"
+            "scr_teacher": "鍾慧諭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2895",
@@ -454,7 +474,7 @@
             "cls_name": "智慧軌道運輸學程",
             "scr_period": "(四)07-09 紀110 陳幼華",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC68100",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳幼華"
+            "scr_teacher": "陳幼華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2896",
@@ -476,7 +497,7 @@
             "cls_name": "飛機製造學分學程",
             "scr_period": "(一)07-09 語103 邢有光",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC69100",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邢有光"
+            "scr_teacher": "邢有光",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2897",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邢有光"
+            "scr_teacher": "邢有光",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2899",
@@ -520,7 +543,7 @@
             "cls_name": "文學與文化創意學分學程",
             "scr_period": "(三)06-07 人404 陳玉苹",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 39.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC88100",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳玉苹"
+            "scr_teacher": "陳玉苹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4690",
@@ -542,7 +566,7 @@
             "cls_name": "文學與文化創意學分學程",
             "scr_period": "(五)02-04 人B118A 劉仲倫",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC88100",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉仲倫"
+            "scr_teacher": "劉仲倫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4691",
@@ -562,9 +587,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "文學與文化創意學分學程",
-            "scr_period": "(一)06-07 學101 何國世",
+            "scr_period": "(一)06-07 理109 何國世",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC88100",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "何國世"
+            "scr_teacher": "何國世",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2900",
@@ -586,7 +612,7 @@
             "cls_name": "AI智慧城市與生活學分學程",
             "scr_period": "(三)06-08 行208(電腦實習室) 黃彥斐",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": " ",
             "unt_ls": 8888,
             "cls_id": "PC90100",
@@ -594,7 +620,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃彥斐"
+            "scr_teacher": "黃彥斐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2901",
@@ -608,7 +635,7 @@
             "cls_name": "文物管理與鑑識學分學程",
             "scr_period": "(三)06-07 人707 李建緯,張志相",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 38.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC92100",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建緯,張志相"
+            "scr_teacher": "李建緯,張志相",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2902",
@@ -630,7 +658,7 @@
             "cls_name": "文物管理與鑑識學分學程",
             "scr_period": "(一)03-04 人707 王志宇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC92100",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王志宇"
+            "scr_teacher": "王志宇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4643",
@@ -652,7 +681,7 @@
             "cls_name": "文物管理與鑑識學分學程",
             "scr_period": "(二)03-04 建301 張志相",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 53.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "PC92100",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張志相"
+            "scr_teacher": "張志相",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3637",
@@ -682,7 +712,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴璉錡"
+            "scr_teacher": "賴璉錡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3641",
@@ -696,7 +727,7 @@
             "cls_name": "人工智慧探索應用學分學程",
             "scr_period": "(一)06-08 人503",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": "臺灣大專院校人工智慧學程聯盟課程，加選後請留意O365信件通知，啟用NTU COOL平台。成功大學朱威達老師授課。",
             "unt_ls": 8888,
             "cls_id": "PC95100",
@@ -704,7 +735,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3642",
@@ -726,7 +758,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3638",
@@ -738,7 +771,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧工業應用學分學程",
-            "scr_period": "(二)06-07 待排 (三)02-04 商202 盧馬汀",
+            "scr_period": "(二)06-07 待排 (三)02-04 商103 盧馬汀",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "臺灣大專院校人工智慧學程聯盟課程，加選後請留意O365信件通知，啟用NTU COOL平台。臺灣大學李宗穎老師及校內盧馬汀老師共同授課。",
@@ -748,7 +781,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "盧馬汀"
+            "scr_teacher": "盧馬汀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3645",
@@ -770,7 +804,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3640",
@@ -784,7 +819,7 @@
             "cls_name": "人工智慧自然語言技術學分學",
             "scr_period": "(一)02-04 行209 許懷中",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": "臺灣大專院校人工智慧學程聯盟課程，加選後請留意O365信件通知，啟用NTU COOL平台。清華大學陳宜欣老師及校內許懷中老師共同授課。",
             "unt_ls": 8888,
             "cls_id": "PC97100",
@@ -792,7 +827,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許懷中"
+            "scr_teacher": "許懷中",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3643",
@@ -814,7 +850,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳保寬"
+            "scr_teacher": "吳保寬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3644",
@@ -828,7 +865,7 @@
             "cls_name": "人工智慧自然語言技術學分學",
             "scr_period": "(二)06-07 待排 (四)06     人502 林哲維",
             "scr_precnt": 36.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": "臺灣大專院校人工智慧學程聯盟課程，加選後請留意O365信件通知，啟用NTU COOL平台。清華大學高宏宇老師及校內林哲維老師共同授課。",
             "unt_ls": 8888,
             "cls_id": "PC97100",
@@ -836,7 +873,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林哲維"
+            "scr_teacher": "林哲維",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3646",
@@ -850,7 +888,7 @@
             "cls_name": "人工智慧自然語言技術學分學",
             "scr_period": "(二)09-11 人503 蔡明翰",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": "臺灣大專院校人工智慧學程聯盟課程，加選後請留意O365信件通知，啟用NTU COOL平台。政治大學蔡炎龍老師及校內蔡明翰老師共同授課。",
             "unt_ls": 8888,
             "cls_id": "PC97100",
@@ -858,7 +896,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡明翰"
+            "scr_teacher": "蔡明翰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3639",
@@ -880,7 +919,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "梁詩婷"
+            "scr_teacher": "梁詩婷",
+            "scr_date": "全學期"
         }
     ]
 }

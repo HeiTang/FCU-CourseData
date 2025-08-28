@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "蔡榮婷"
+            "scr_teacher": "蔡榮婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2654",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭慧如"
+            "scr_teacher": "鄭慧如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2655",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖崇斐,林安梧"
+            "scr_teacher": "廖崇斐,林安梧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2656",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱歧祥"
+            "scr_teacher": "朱歧祥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2657",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余美玲"
+            "scr_teacher": "余美玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2658",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡榮婷"
+            "scr_teacher": "蔡榮婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2659",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳義芝"
+            "scr_teacher": "陳義芝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4663",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "何寄澎"
+            "scr_teacher": "何寄澎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2660",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "程代勒,蔡榮婷,廖崇斐,余美玲,李威熊,黃鴻文,李綉玲,李建緯,何寄澎"
+            "scr_teacher": "程代勒,蔡榮婷,廖崇斐,余美玲,李威熊,黃鴻文,李綉玲,李建緯,何寄澎",
+            "scr_date": "全學期"
         }
     ]
 }

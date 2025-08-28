@@ -14,7 +14,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(五)06-07 圖213_程式實作 卓侑學",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 60.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "卓侑學"
+            "scr_teacher": "卓侑學",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0855",
@@ -36,7 +37,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(一)09-10 圖213_程式實作 賴璉錡",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 35.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴璉錡"
+            "scr_teacher": "賴璉錡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0856",
@@ -56,9 +58,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "創能學院綜合班",
-            "scr_period": "(二)11-12 圖213_程式實作 莊家雋",
-            "scr_precnt": 70.0,
-            "scr_acptcnt": 0.0,
+            "scr_period": "(三)06-07 理205 楊菁菁",
+            "scr_precnt": 50.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": null,
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊家雋"
+            "scr_teacher": "楊菁菁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0857",
@@ -80,7 +83,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(四)09-10 科航205 葉守禮",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 31.0,
+            "scr_acptcnt": 35.0,
             "scr_remarks": null,
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉守禮"
+            "scr_teacher": "葉守禮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0858",
@@ -102,7 +106,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(四)06-07 圖212_資訊素養 江俊明,洪耀正",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江俊明,洪耀正"
+            "scr_teacher": "江俊明,洪耀正",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0859",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林子煒,黃誠甫,周永振,劉炳麟,吳如娟,劉育成"
+            "scr_teacher": "林子煒,黃誠甫,周永振,劉炳麟,吳如娟,劉育成",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0860",
@@ -146,7 +152,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(一)03-04 圖213_程式實作 陳子皓",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳子皓"
+            "scr_teacher": "陳子皓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0861",
@@ -168,7 +175,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(五)03-04 行204(電腦實習室) 陳重宏",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳重宏"
+            "scr_teacher": "陳重宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0862",
@@ -190,7 +198,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(五)06-07 行204(電腦實習室) 陳重宏",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": null,
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -198,7 +206,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳重宏"
+            "scr_teacher": "陳重宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0863",
@@ -212,7 +221,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(四)08     商107 (四)09-10 商301(電腦實習室) 劉明機",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 23.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": null,
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉明機"
+            "scr_teacher": "劉明機",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0864",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭祐誠"
+            "scr_teacher": "郭祐誠",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0865",
@@ -256,7 +267,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(二)02-04 人202 劉明機,張其棟,郭祐誠",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉明機,張其棟,郭祐誠"
+            "scr_teacher": "劉明機,張其棟,郭祐誠",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0866",
@@ -278,7 +290,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(三)11-12 圖213_程式實作 林嘉成",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 7.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": " ",
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "林嘉成"
+            "scr_teacher": "林嘉成",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4676",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高承恕,魏國彥,葉守禮,林滿靜"
+            "scr_teacher": "高承恕,魏國彥,葉守禮,林滿靜",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4677",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高承恕,林滿靜"
+            "scr_teacher": "高承恕,林滿靜",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4678",
@@ -344,7 +359,7 @@
             "cls_name": "創能學院綜合班",
             "scr_period": "(三)06-07 資電403 葉守禮",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": null,
             "unt_ls": 3800,
             "cls_id": "CC00100",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉守禮"
+            "scr_teacher": "葉守禮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0867",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耀鐘"
+            "scr_teacher": "陳耀鐘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0868",
@@ -386,7 +403,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧一學位學程",
-            "scr_period": "(二)02     科航203 (二)03-04 圖213_程式實作 林子煒",
+            "scr_period": "(二)02     科航204 (二)03-04 圖213_程式實作 林子煒",
             "scr_precnt": 5.0,
             "scr_acptcnt": 64.0,
             "scr_remarks": " ",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林子煒"
+            "scr_teacher": "林子煒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0869",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "盧廷峻"
+            "scr_teacher": "盧廷峻",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0870",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "董正玫,梁辰睿"
+            "scr_teacher": "董正玫,梁辰睿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0871",
@@ -454,7 +474,7 @@
             "cls_name": "人工智慧一學位學程",
             "scr_period": "(五)02-04 圖213_程式實作 周永振",
             "scr_precnt": 5.0,
-            "scr_acptcnt": 63.0,
+            "scr_acptcnt": 62.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03110",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周永振"
+            "scr_teacher": "周永振",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0872",
@@ -476,7 +497,7 @@
             "cls_name": "人工智慧一學位學程",
             "scr_period": "(四)03-04 圖213_程式實作 周永振",
             "scr_precnt": 5.0,
-            "scr_acptcnt": 63.0,
+            "scr_acptcnt": 62.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03110",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周永振"
+            "scr_teacher": "周永振",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0873",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王啟宏"
+            "scr_teacher": "王啟宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0874",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王啟宏"
+            "scr_teacher": "王啟宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3567",
@@ -550,7 +574,8 @@
             "scr_dup": "011",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "田孟崇"
+            "scr_teacher": "田孟崇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3630",
@@ -564,7 +589,7 @@
             "cls_name": "人工智慧一學位學程",
             "scr_period": "(三)01-02 行政二館205(視聽室) 賴昆厚,陳謙貴",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 108.0,
+            "scr_acptcnt": 110.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03110",
@@ -572,7 +597,8 @@
             "scr_dup": "012",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴昆厚,陳謙貴"
+            "scr_teacher": "賴昆厚,陳謙貴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0875",
@@ -594,7 +620,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉守禮"
+            "scr_teacher": "葉守禮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0876",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊朝仲,徐偉傑"
+            "scr_teacher": "楊朝仲,徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0877",
@@ -630,7 +658,7 @@
             "cls_name": "人工智慧二學位學程",
             "scr_period": "(二)06-08 圖213_程式實作 林子煒",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 61.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03120",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林子煒"
+            "scr_teacher": "林子煒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0878",
@@ -652,7 +681,7 @@
             "cls_name": "人工智慧二學位學程",
             "scr_period": "(一)03-04 圖212_資訊素養 陳耀鐘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 58.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03120",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耀鐘"
+            "scr_teacher": "陳耀鐘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0879",
@@ -682,7 +712,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉峰旗"
+            "scr_teacher": "劉峰旗",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0880",
@@ -696,7 +727,7 @@
             "cls_name": "人工智慧二學位學程",
             "scr_period": "(三)06-08 圖212_資訊素養 陳耀鐘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 58.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03120",
@@ -704,7 +735,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耀鐘"
+            "scr_teacher": "陳耀鐘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0881",
@@ -726,7 +758,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周永振"
+            "scr_teacher": "周永振",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0882",
@@ -748,7 +781,8 @@
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": "林子煒,王啟宏,葉守禮,周永振,陳耀鐘,梁辰睿"
+            "scr_teacher": "林子煒,王啟宏,葉守禮,周永振,陳耀鐘,梁辰睿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0883",
@@ -762,7 +796,7 @@
             "cls_name": "人工智慧三學位學程",
             "scr_period": "(三)02-04 圖212_資訊素養 王啟宏",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03130",
@@ -770,7 +804,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王啟宏"
+            "scr_teacher": "王啟宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0884",
@@ -784,7 +819,7 @@
             "cls_name": "人工智慧三學位學程",
             "scr_period": "(五)06-08 圖212_資訊素養 陳耀鐘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03130",
@@ -792,7 +827,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耀鐘"
+            "scr_teacher": "陳耀鐘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0885",
@@ -806,7 +842,7 @@
             "cls_name": "人工智慧三學位學程",
             "scr_period": "(四)02-04 圖212_資訊素養 王啟宏",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03130",
@@ -814,7 +850,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王啟宏"
+            "scr_teacher": "王啟宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0886",
@@ -828,7 +865,7 @@
             "cls_name": "人工智慧三學位學程",
             "scr_period": "(二)02-04 圖212_資訊素養 梁君輝",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 57.0,
             "scr_remarks": " ",
             "unt_ls": 3803,
             "cls_id": "CC03130",
@@ -836,7 +873,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "梁君輝"
+            "scr_teacher": "梁君輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0887",
@@ -858,7 +896,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林子煒,王啟宏,葉守禮,周永振,陳耀鐘,梁辰睿"
+            "scr_teacher": "林子煒,王啟宏,葉守禮,周永振,陳耀鐘,梁辰睿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0888",
@@ -880,7 +919,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0889",
@@ -902,7 +942,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0890",
@@ -924,7 +965,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         }
     ]
 }

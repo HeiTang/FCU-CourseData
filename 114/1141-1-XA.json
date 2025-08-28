@@ -14,7 +14,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)01-02 人401 劉月容",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉月容"
+            "scr_teacher": "劉月容",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2909",
@@ -36,7 +37,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)01-02 語306 陳巧雯",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳巧雯"
+            "scr_teacher": "陳巧雯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2910",
@@ -66,7 +68,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳巧雯"
+            "scr_teacher": "陳巧雯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2911",
@@ -80,7 +83,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)08-09 人401 黃青雲",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 48.0,
+            "scr_acptcnt": 58.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃青雲"
+            "scr_teacher": "黃青雲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2912",
@@ -102,7 +106,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)08-09 人401 黃青雲",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 32.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -110,7 +114,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃青雲"
+            "scr_teacher": "黃青雲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2913",
@@ -124,7 +129,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)08-09 資電107 裴紹武",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 15.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "修習過西班牙文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "裴紹武"
+            "scr_teacher": "裴紹武",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2914",
@@ -146,7 +152,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)01-02 人401 劉月容",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 51.0,
+            "scr_acptcnt": 62.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -154,7 +160,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉月容"
+            "scr_teacher": "劉月容",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2915",
@@ -168,7 +175,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)01-02 人401 劉月容",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 46.0,
+            "scr_acptcnt": 49.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -176,7 +183,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉月容"
+            "scr_teacher": "劉月容",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2916",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曲培求"
+            "scr_teacher": "曲培求",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2917",
@@ -220,7 +229,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "梁秀慶"
+            "scr_teacher": "梁秀慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2918",
@@ -242,7 +252,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "韓連善"
+            "scr_teacher": "韓連善",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2919",
@@ -264,7 +275,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "梁秀慶"
+            "scr_teacher": "梁秀慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2920",
@@ -286,7 +298,8 @@
             "scr_dup": "010",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "韓連善"
+            "scr_teacher": "韓連善",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2921",
@@ -300,7 +313,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)08-09 忠308 曲培求",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": "修習過韓文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -308,7 +321,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曲培求"
+            "scr_teacher": "曲培求",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2922",
@@ -322,7 +336,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)03-04 忠308 韓連善",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "修習過韓文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -330,7 +344,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "韓連善"
+            "scr_teacher": "韓連善",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2923",
@@ -344,7 +359,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)06-07 忠B05 曲培求",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 38.0,
+            "scr_acptcnt": 37.0,
             "scr_remarks": "修習過韓文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -352,7 +367,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曲培求"
+            "scr_teacher": "曲培求",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2924",
@@ -374,7 +390,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "梁秀慶"
+            "scr_teacher": "梁秀慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2925",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃千紋"
+            "scr_teacher": "黃千紋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2926",
@@ -410,7 +428,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)06-07 人603 黃千紋",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": "修習過韓文(一)(二)之學生始可選修。選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -418,7 +436,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃千紋"
+            "scr_teacher": "黃千紋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2927",
@@ -432,7 +451,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)08-09 人605 黃千紋",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": "修習過韓文(一)(二)(三)之學生始可選修。選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃千紋"
+            "scr_teacher": "黃千紋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2928",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張又華"
+            "scr_teacher": "張又華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2929",
@@ -484,7 +505,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張又華"
+            "scr_teacher": "張又華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2931",
@@ -506,7 +528,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林盈萱"
+            "scr_teacher": "林盈萱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2932",
@@ -528,7 +551,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2933",
@@ -550,7 +574,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2935",
@@ -572,7 +597,8 @@
             "scr_dup": "011",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李金娟"
+            "scr_teacher": "李金娟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2936",
@@ -594,7 +620,8 @@
             "scr_dup": "014",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊謦綺"
+            "scr_teacher": "楊謦綺",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2937",
@@ -608,7 +635,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)08-09 人407 朱韻如",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 48.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -616,7 +643,8 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱韻如"
+            "scr_teacher": "朱韻如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2938",
@@ -638,7 +666,8 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝薇芸"
+            "scr_teacher": "謝薇芸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2939",
@@ -660,7 +689,8 @@
             "scr_dup": "018",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳俊廷"
+            "scr_teacher": "陳俊廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2940",
@@ -674,7 +704,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)01-02 人705 李金娟",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 20.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -682,7 +712,8 @@
             "scr_dup": "020",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李金娟"
+            "scr_teacher": "李金娟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2941",
@@ -704,7 +735,8 @@
             "scr_dup": "021",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林盈萱"
+            "scr_teacher": "林盈萱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2942",
@@ -718,7 +750,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)01-02 忠B05 蘇子翔",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -726,7 +758,8 @@
             "scr_dup": "022",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇子翔"
+            "scr_teacher": "蘇子翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2943",
@@ -740,7 +773,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)06-07 資電B03 林盈萱",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 63.0,
+            "scr_acptcnt": 68.0,
             "scr_remarks": "修習過日文(一)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -748,7 +781,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林盈萱"
+            "scr_teacher": "林盈萱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2944",
@@ -762,7 +796,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)06-07 忠303 跡部千繪美",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 23.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": "修習過日文(一)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -770,7 +804,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2945",
@@ -792,7 +827,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林盈萱"
+            "scr_teacher": "林盈萱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2946",
@@ -814,7 +850,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇子翔"
+            "scr_teacher": "蘇子翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2947",
@@ -828,7 +865,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)06-07 人407 朱韻如",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 38.0,
+            "scr_acptcnt": 37.0,
             "scr_remarks": "修習過日文(一)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -836,7 +873,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱韻如"
+            "scr_teacher": "朱韻如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2949",
@@ -850,7 +888,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)08-09 忠B05 楊謦綺",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "修習過日文(一)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -858,7 +896,8 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊謦綺"
+            "scr_teacher": "楊謦綺",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2950",
@@ -872,7 +911,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)03-04 忠303 跡部千繪美",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 36.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": "修習過日文(一)日文(二)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -880,7 +919,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2951",
@@ -894,7 +934,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)06-07 忠303 跡部千繪美",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "修習過日文(一)日文(二)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -902,7 +942,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2952",
@@ -916,7 +957,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)03-04 商103 張又華",
             "scr_precnt": 66.0,
-            "scr_acptcnt": 46.0,
+            "scr_acptcnt": 51.0,
             "scr_remarks": "修習過日文(一)日文(二)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -924,7 +965,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張又華"
+            "scr_teacher": "張又華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2954",
@@ -938,7 +980,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)03-04 忠303 跡部千繪美",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 38.0,
             "scr_remarks": "修習過日文(一)日文(二)(三)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -946,7 +988,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2955",
@@ -960,7 +1003,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)03-04 商103 張又華",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": "修習過日文(一)日文(二)(三)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -968,7 +1011,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張又華"
+            "scr_teacher": "張又華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2956",
@@ -982,7 +1026,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)01-02 忠203 陳俊廷",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 58.0,
+            "scr_acptcnt": 68.0,
             "scr_remarks": "擬修課學生應有程度:修習過日文(一)。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -990,7 +1034,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳俊廷"
+            "scr_teacher": "陳俊廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2957",
@@ -1004,7 +1049,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(五)03-04 忠303 跡部千繪美",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": "擬修課學生應有程度:修過日文(三)或具N4以上程度。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1012,7 +1057,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "跡部千繪美"
+            "scr_teacher": "跡部千繪美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2958",
@@ -1026,7 +1072,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)06-07 資電512 林盈萱",
             "scr_precnt": 66.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": "擬修課學生應有程度:修過日文(三)或具N4以上程度。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1034,7 +1080,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林盈萱"
+            "scr_teacher": "林盈萱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2959",
@@ -1048,7 +1095,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)03-04 學103 張又華",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 48.0,
+            "scr_acptcnt": 49.0,
             "scr_remarks": "擬修課學生應有程度:修過日文(三)或具N4以上程度。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1056,7 +1103,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張又華"
+            "scr_teacher": "張又華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2960",
@@ -1070,7 +1118,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)03-04 待排",
             "scr_precnt": 0.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": "因故停開，請同學自行辦理退選。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1078,7 +1126,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2961",
@@ -1092,7 +1141,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)03-04 忠203 謝薇芸",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "擬修課學生應有程度:修過日文(三)或具N4以上程度。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1100,7 +1149,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝薇芸"
+            "scr_teacher": "謝薇芸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2963",
@@ -1122,7 +1172,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳佩娟"
+            "scr_teacher": "吳佩娟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2964",
@@ -1144,7 +1195,8 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳佩娟"
+            "scr_teacher": "吳佩娟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2965",
@@ -1166,7 +1218,8 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪幼如"
+            "scr_teacher": "洪幼如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2966",
@@ -1180,7 +1233,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)03-04 忠B05 黃悅華",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1188,7 +1241,8 @@
             "scr_dup": "010",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃悅華"
+            "scr_teacher": "黃悅華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2967",
@@ -1202,7 +1256,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)08-09 忠B05 黃悅華",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1210,7 +1264,8 @@
             "scr_dup": "011",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃悅華"
+            "scr_teacher": "黃悅華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2968",
@@ -1224,7 +1279,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)06-07 忠B05 黃悅華",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "修習過西班牙文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1232,7 +1287,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃悅華"
+            "scr_teacher": "黃悅華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2969",
@@ -1254,7 +1310,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪幼如"
+            "scr_teacher": "洪幼如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2970",
@@ -1276,7 +1333,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳佩娟"
+            "scr_teacher": "吳佩娟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2971",
@@ -1290,7 +1348,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)01-02 忠303 李奎瑩",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 40.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1298,7 +1356,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李奎瑩"
+            "scr_teacher": "李奎瑩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2972",
@@ -1312,7 +1371,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)01-02 忠B01 蔡明華",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 12.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1320,7 +1379,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡明華"
+            "scr_teacher": "蔡明華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2973",
@@ -1334,7 +1394,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)03-04 忠303 李奎瑩",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 68.0,
             "scr_remarks": "開放全校各年級學生修習，選課注意事項請見MYFCU訊息公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1342,7 +1402,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李奎瑩"
+            "scr_teacher": "李奎瑩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2974",
@@ -1364,7 +1425,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡明華"
+            "scr_teacher": "蔡明華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2976",
@@ -1378,7 +1440,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)03-04 忠303 李奎瑩",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": "修習過法文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1386,7 +1448,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李奎瑩"
+            "scr_teacher": "李奎瑩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2977",
@@ -1408,7 +1471,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡明華"
+            "scr_teacher": "蔡明華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2979",
@@ -1422,7 +1486,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)08-09 人703 吳佩娟",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 40.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": "修習過西班牙文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1430,7 +1494,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳佩娟"
+            "scr_teacher": "吳佩娟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2980",
@@ -1444,7 +1509,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)01-02 忠B05 李淑貞",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 12.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1452,7 +1517,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李淑貞"
+            "scr_teacher": "李淑貞",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2981",
@@ -1466,7 +1532,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)03-04 忠B05 李淑貞",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1474,7 +1540,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李淑貞"
+            "scr_teacher": "李淑貞",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2982",
@@ -1488,7 +1555,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)08-09 待排",
             "scr_precnt": 0.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": "因故停開，請同學辦理退選。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1496,7 +1563,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2984",
@@ -1510,7 +1578,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)06-07 忠B01 李炯憲",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 22.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1518,7 +1586,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李炯憲"
+            "scr_teacher": "李炯憲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2985",
@@ -1540,7 +1609,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游曉嵐"
+            "scr_teacher": "游曉嵐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2986",
@@ -1554,7 +1624,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(三)06-07 忠203 王允闐",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1562,7 +1632,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王允闐"
+            "scr_teacher": "王允闐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2987",
@@ -1576,7 +1647,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(四)03-04 忠B01 李炯憲",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": "開放給全校各年級學生修習，選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1584,7 +1655,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李炯憲"
+            "scr_teacher": "李炯憲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2988",
@@ -1606,7 +1678,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王允闐"
+            "scr_teacher": "王允闐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2989",
@@ -1620,7 +1693,7 @@
             "cls_name": "應用外語選修",
             "scr_period": "(二)06-07 忠501 游曉嵐",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": "修習過德文(一)之學生始可選修。選課注意事項見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
@@ -1628,7 +1701,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游曉嵐"
+            "scr_teacher": "游曉嵐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2990",
@@ -1650,7 +1724,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李炯憲"
+            "scr_teacher": "李炯憲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4727",
@@ -1664,15 +1739,16 @@
             "cls_name": "應用外語選修",
             "scr_period": "(一)08-09 人504 何國世",
             "scr_precnt": 68.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
+            "scr_acptcnt": 4.0,
+            "scr_remarks": "修習過西班牙文(一)之學生始能選修，選課注意事項請見本校MYFCU公告。境外生修習第二外語課程，不得修習所屬國籍之官方語言課程。",
             "unt_ls": 8888,
             "cls_id": "XA01101",
             "sub_id": "25603",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "何國世"
+            "scr_teacher": "何國世",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2991",
@@ -1686,7 +1762,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(五)08-09 人501 曾羿凱",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 23.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1694,7 +1770,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾羿凱"
+            "scr_teacher": "曾羿凱",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2993",
@@ -1708,7 +1785,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(一)06-07 人505 丁之奇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 31.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1716,7 +1793,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "丁之奇"
+            "scr_teacher": "丁之奇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2994",
@@ -1730,7 +1808,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(四)06-07 人401 李欣怡",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1738,7 +1816,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李欣怡"
+            "scr_teacher": "李欣怡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2995",
@@ -1752,7 +1831,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(五)01-02 人507 林德修",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 11.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1760,7 +1839,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林德修"
+            "scr_teacher": "林德修",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2996",
@@ -1774,7 +1854,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(四)06-07 忠204 林德修",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1782,7 +1862,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林德修"
+            "scr_teacher": "林德修",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2997",
@@ -1804,7 +1885,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳依玲"
+            "scr_teacher": "陳依玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2998",
@@ -1826,7 +1908,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭安倫"
+            "scr_teacher": "鄭安倫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2999",
@@ -1848,7 +1931,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林芷瑩"
+            "scr_teacher": "林芷瑩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3000",
@@ -1862,7 +1946,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(四)08-09 忠204 林德修",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 41.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1870,7 +1954,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林德修"
+            "scr_teacher": "林德修",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3002",
@@ -1884,7 +1969,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(二)03-04 人702 廖芳瑜",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1892,7 +1977,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "廖芳瑜"
+            "scr_teacher": "廖芳瑜",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3004",
@@ -1906,7 +1992,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(三)03-04 紀105 鄭安倫",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。建議多益600分以上學生修習。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1914,7 +2000,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭安倫"
+            "scr_teacher": "鄭安倫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3005",
@@ -1928,7 +2015,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(二)08-09 人504 蔡靜玲",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 22.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1936,7 +2023,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡靜玲"
+            "scr_teacher": "蔡靜玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3006",
@@ -1958,7 +2046,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭安倫"
+            "scr_teacher": "鄭安倫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3007",
@@ -1972,7 +2061,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(一)08-09 人505 周振權",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -1980,7 +2069,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周振權"
+            "scr_teacher": "周振權",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3008",
@@ -1994,7 +2084,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(三)03-04 人601 王柏婷",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -2002,7 +2092,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王柏婷"
+            "scr_teacher": "王柏婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3010",
@@ -2016,7 +2107,7 @@
             "cls_name": "應用英語選修",
             "scr_period": "(二)06-07 人407 楊捷閔",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": "本班為校課程之共同選修課並非畢業班，加退選皆採網路選課。",
             "unt_ls": 8888,
             "cls_id": "XA02101",
@@ -2024,7 +2115,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊捷閔"
+            "scr_teacher": "楊捷閔",
+            "scr_date": "全學期"
         }
     ]
 }

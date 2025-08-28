@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "陳清和"
+            "scr_teacher": "陳清和",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0392",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊明晶"
+            "scr_teacher": "楊明晶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0393",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳仰哲"
+            "scr_teacher": "吳仰哲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0394",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王佳真"
+            "scr_teacher": "王佳真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0395",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝依婷"
+            "scr_teacher": "謝依婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0396",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉炳麟"
+            "scr_teacher": "劉炳麟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0397",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "簡正儀"
+            "scr_teacher": "簡正儀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1984",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂瑞秋,李君屏"
+            "scr_teacher": "呂瑞秋,李君屏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0398",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡函芳,楊茜文,李君屏,簡正儀,陳珮瀅,劉炳麟,洪偉峰,謝依婷,吳仰哲,莊明哲,張倉耀"
+            "scr_teacher": "蔡函芳,楊茜文,李君屏,簡正儀,陳珮瀅,劉炳麟,洪偉峰,謝依婷,吳仰哲,莊明哲,張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0399",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳仰哲"
+            "scr_teacher": "吳仰哲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0400",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李君屏"
+            "scr_teacher": "李君屏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0401",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳麗君"
+            "scr_teacher": "陳麗君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0403",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王鈺仁"
+            "scr_teacher": "王鈺仁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0458",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張永郎"
+            "scr_teacher": "張永郎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0459",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張吉宏"
+            "scr_teacher": "張吉宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0460",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "張永郎"
+            "scr_teacher": "張永郎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0461",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許文彥"
+            "scr_teacher": "許文彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0462",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭濟世"
+            "scr_teacher": "鄭濟世",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1984",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂瑞秋,李君屏"
+            "scr_teacher": "呂瑞秋,李君屏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0463",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宮可倫,游志平,賴煥升,許文彥,陳彥志,洪麗淇,張永郎,曾鹿鳴"
+            "scr_teacher": "宮可倫,游志平,賴煥升,許文彥,陳彥志,洪麗淇,張永郎,曾鹿鳴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0464",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張永郎,沈義舫,郭長榮"
+            "scr_teacher": "張永郎,沈義舫,郭長榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0465",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄒政下"
+            "scr_teacher": "鄒政下",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2021",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡函芳,謝依婷"
+            "scr_teacher": "蔡函芳,謝依婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2022",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳彥志,武氏紅芳,游志平"
+            "scr_teacher": "陳彥志,武氏紅芳,游志平",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2023",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "張倉耀"
+            "scr_teacher": "張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2024",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李宗儒,陳麗君"
+            "scr_teacher": "李宗儒,陳麗君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2025",
@@ -594,7 +620,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂瑞秋,黃迎珈"
+            "scr_teacher": "呂瑞秋,黃迎珈",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2026",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李宗儒,游志平"
+            "scr_teacher": "李宗儒,游志平",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2027",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張倉耀"
+            "scr_teacher": "張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2028",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾鹿鳴,陳清和"
+            "scr_teacher": "曾鹿鳴,陳清和",
+            "scr_date": "全學期"
         }
     ]
 }

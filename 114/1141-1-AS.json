@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 96,
+    "total": 97,
     "items": [
         {
             "scr_selcode": "0001",
@@ -14,7 +14,7 @@
             "cls_name": "建築專業學院綜合班",
             "scr_period": "(四)06-08 忠106 Nicolas Marechal",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": null,
             "unt_ls": 5000,
             "cls_id": "AS00100",
@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "Nicolas Marechal"
+            "scr_teacher": "Nicolas Marechal",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0002",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0003",
@@ -58,7 +60,7 @@
             "cls_name": "建築專業學院綜合班",
             "scr_period": "(五)00     待排 李英弘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": null,
             "unt_ls": 5000,
             "cls_id": "AS00100",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李英弘"
+            "scr_teacher": "李英弘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0004",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0005",
@@ -102,7 +106,7 @@
             "cls_name": "建築專業學院綜合班",
             "scr_period": "(三)11-13 忠611(電腦實習室) 顏貽祥",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": "使用電腦教室。",
             "unt_ls": 5000,
             "cls_id": "AS00100",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "顏貽祥"
+            "scr_teacher": "顏貽祥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0006",
@@ -124,7 +129,7 @@
             "cls_name": "建築專業學院綜合班",
             "scr_period": "(五)00     待排 凃昭伃",
             "scr_precnt": 150.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": null,
             "unt_ls": 5000,
             "cls_id": "AS00100",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "凃昭伃"
+            "scr_teacher": "凃昭伃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0007",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋非凡"
+            "scr_teacher": "宋非凡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0008",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "Nicolas Marechal"
+            "scr_teacher": "Nicolas Marechal",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4654",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周郁森"
+            "scr_teacher": "周郁森",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4655",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "Lorena Alessio"
+            "scr_teacher": "Lorena Alessio",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0009",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "趙又嬋"
+            "scr_teacher": "趙又嬋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0010",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃俊傑"
+            "scr_teacher": "黃俊傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0011",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭圓圓(鄭月妹)"
+            "scr_teacher": "鄭圓圓(鄭月妹)",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0015",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋翔"
+            "scr_teacher": "曾韋翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0016",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張子浩,黃郁惠,趙又嬋,朱伯晟,何柏奇,林佳平,許宜珮,鄭孟鴻,饒珮齡,陳琬婷,何思佑,黃馨慧,黃宏毓"
+            "scr_teacher": "張子浩,黃郁惠,趙又嬋,朱伯晟,何柏奇,林佳平,許宜珮,鄭孟鴻,饒珮齡,陳琬婷,何思佑,黃馨慧,黃宏毓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0017",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許宜珮,黎淑婷,李元榮"
+            "scr_teacher": "許宜珮,黎淑婷,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0018",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "顏貽祥,蕭俊碩"
+            "scr_teacher": "顏貽祥,蕭俊碩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3576",
@@ -388,7 +405,7 @@
             "cls_name": "建築專業一甲",
             "scr_period": "(三)06-07 忠307 鍾俊彥",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 97.0,
+            "scr_acptcnt": 100.0,
             "scr_remarks": null,
             "unt_ls": 5001,
             "cls_id": "AS01111",
@@ -396,7 +413,8 @@
             "scr_dup": "020",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾俊彥"
+            "scr_teacher": "鍾俊彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3634",
@@ -410,7 +428,7 @@
             "cls_name": "建築專業一甲",
             "scr_period": "(三)08-09 行政二館205(視聽室) 古陳蜀東,周吳龍",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 95.0,
+            "scr_acptcnt": 101.0,
             "scr_remarks": " ",
             "unt_ls": 5001,
             "cls_id": "AS01111",
@@ -418,7 +436,8 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "古陳蜀東,周吳龍"
+            "scr_teacher": "古陳蜀東,周吳龍",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0012",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林葳"
+            "scr_teacher": "林葳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0013",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "盧廷峻"
+            "scr_teacher": "盧廷峻",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0014",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭圓圓(鄭月妹)"
+            "scr_teacher": "鄭圓圓(鄭月妹)",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0015",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋翔"
+            "scr_teacher": "曾韋翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0016",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張子浩,黃郁惠,趙又嬋,朱伯晟,何柏奇,林佳平,許宜珮,鄭孟鴻,饒珮齡,陳琬婷,何思佑,黃馨慧,黃宏毓"
+            "scr_teacher": "張子浩,黃郁惠,趙又嬋,朱伯晟,何柏奇,林佳平,許宜珮,鄭孟鴻,饒珮齡,陳琬婷,何思佑,黃馨慧,黃宏毓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0017",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許宜珮,黎淑婷,李元榮"
+            "scr_teacher": "許宜珮,黎淑婷,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0018",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "顏貽祥,蕭俊碩"
+            "scr_teacher": "顏貽祥,蕭俊碩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3604",
@@ -586,7 +612,7 @@
             "cls_name": "建築專業一乙",
             "scr_period": "(三)06-07 忠B01 魏少君",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 52.0,
+            "scr_acptcnt": 57.0,
             "scr_remarks": null,
             "unt_ls": 5001,
             "cls_id": "AS01112",
@@ -594,7 +620,8 @@
             "scr_dup": "022",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "魏少君"
+            "scr_teacher": "魏少君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3634",
@@ -608,7 +635,7 @@
             "cls_name": "建築專業一乙",
             "scr_period": "(三)08-09 行政二館205(視聽室) 古陳蜀東,周吳龍",
             "scr_precnt": 130.0,
-            "scr_acptcnt": 95.0,
+            "scr_acptcnt": 101.0,
             "scr_remarks": " ",
             "unt_ls": 5001,
             "cls_id": "AS01112",
@@ -616,7 +643,8 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "古陳蜀東,周吳龍"
+            "scr_teacher": "古陳蜀東,周吳龍",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0029",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "Nicolas Marechal"
+            "scr_teacher": "Nicolas Marechal",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1104",
@@ -650,9 +679,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築二學位學程",
-            "scr_period": "(一)09     忠305 周郁森",
+            "scr_period": "(一)09     忠305 林衍良",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 94.0,
+            "scr_acptcnt": 93.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周郁森"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1105",
@@ -682,7 +712,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳瑞真"
+            "scr_teacher": "吳瑞真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1106",
@@ -696,7 +727,7 @@
             "cls_name": "建築二學位學程",
             "scr_period": "(二)01-04 忠516(建製圖室) (二)06-09 忠516(建製圖室) Lorena Alessio,王子熙,周郁森,張維元,林衍良,謝伯昌,陳俐廷,王志仁,杜俊賢",
             "scr_precnt": 120.0,
-            "scr_acptcnt": 103.0,
+            "scr_acptcnt": 101.0,
             "scr_remarks": "不開放外系選修",
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -704,7 +735,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "Lorena Alessio,王子熙,周郁森,張維元,林衍良,謝伯昌,陳俐廷,王志仁,杜俊賢"
+            "scr_teacher": "Lorena Alessio,王子熙,周郁森,張維元,林衍良,謝伯昌,陳俐廷,王志仁,杜俊賢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1107",
@@ -718,7 +750,7 @@
             "cls_name": "建築二學位學程",
             "scr_period": "(三)06-08 忠501 林葳,趙又嬋",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 69.0,
+            "scr_acptcnt": 68.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -726,7 +758,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林葳,趙又嬋"
+            "scr_teacher": "林葳,趙又嬋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1108",
@@ -740,7 +773,7 @@
             "cls_name": "建築二學位學程",
             "scr_period": "(四)08-10 忠501 林衍良,林葳",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 60.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -748,7 +781,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良,林葳"
+            "scr_teacher": "林衍良,林葳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1109",
@@ -762,7 +796,7 @@
             "cls_name": "建築二學位學程",
             "scr_period": "(四)06-07 忠611(電腦實習室) 宋非凡",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 93.0,
+            "scr_acptcnt": 50.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -770,7 +804,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋非凡"
+            "scr_teacher": "宋非凡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1110",
@@ -782,9 +817,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築二學位學程",
-            "scr_period": "(四)01-02 忠501 凃昭伃",
+            "scr_period": "(四)01-02 忠205 凃昭伃",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 72.0,
+            "scr_acptcnt": 70.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -792,7 +827,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "凃昭伃"
+            "scr_teacher": "凃昭伃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1111",
@@ -814,7 +850,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾亮"
+            "scr_teacher": "曾亮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1112",
@@ -826,9 +863,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築二學位學程",
-            "scr_period": "(四)03-04 忠501 陳文亮",
+            "scr_period": "(四)03-04 忠205 陳文亮",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 55.0,
+            "scr_acptcnt": 58.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -836,7 +873,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳文亮"
+            "scr_teacher": "陳文亮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1113",
@@ -858,7 +896,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "高敬賢"
+            "scr_teacher": "高敬賢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1114",
@@ -880,7 +919,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李英弘"
+            "scr_teacher": "李英弘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1115",
@@ -894,7 +934,7 @@
             "cls_name": "建築二學位學程",
             "scr_period": "(五)03-04 忠501 劉柏昇,凃昭伃",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 35.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -902,7 +942,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉柏昇,凃昭伃"
+            "scr_teacher": "劉柏昇,凃昭伃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4728",
@@ -916,7 +957,7 @@
             "cls_name": "建築二學位學程",
             "scr_period": "(三)09-10 忠611(電腦實習室) 宋非凡",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 49.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03120",
@@ -924,7 +965,31 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋非凡"
+            "scr_teacher": "宋非凡",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "4730",
+            "sub_id3": "GEID0010",
+            "sub_name": "班級活動",
+            "scr_credit": 0.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "建築二學位學程",
+            "scr_period": "(一)09     忠308 周郁森",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 47.0,
+            "scr_remarks": null,
+            "unt_ls": 5002,
+            "cls_id": "CE03120",
+            "sub_id": "00001",
+            "scr_dup": "002",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "周郁森",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1116",
@@ -938,7 +1003,7 @@
             "cls_name": "建築三學位學程",
             "scr_period": "(二)03-04 忠B08 彭志峰",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 104.0,
+            "scr_acptcnt": 102.0,
             "scr_remarks": " ",
             "unt_ls": 5002,
             "cls_id": "CE03130",
@@ -946,7 +1011,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭志峰"
+            "scr_teacher": "彭志峰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1117",
@@ -968,7 +1034,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林葳"
+            "scr_teacher": "林葳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1118",
@@ -990,7 +1057,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉字禎,劉志仁,林幸長,高雅楓,張涵瑋,蔡慈媛,黃文縈,陳品蓁,陳維凱,楊智傑,戴祖亮"
+            "scr_teacher": "劉字禎,劉志仁,林幸長,高雅楓,張涵瑋,蔡慈媛,黃文縈,陳品蓁,陳維凱,楊智傑,戴祖亮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1119",
@@ -1012,7 +1080,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "凃昭伃"
+            "scr_teacher": "凃昭伃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1120",
@@ -1034,7 +1103,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾亮"
+            "scr_teacher": "曾亮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1121",
@@ -1048,7 +1118,7 @@
             "cls_name": "建築三學位學程",
             "scr_period": "(二)06     紀302(電腦實習室) (二)06     紀303(電腦實習室) (二)07     紀302(電腦實習室) (二)07     紀303(電腦實習室) 林文陽",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 51.0,
+            "scr_acptcnt": 53.0,
             "scr_remarks": "林文陽老師授課",
             "unt_ls": 5002,
             "cls_id": "CE03130",
@@ -1056,7 +1126,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林文陽"
+            "scr_teacher": "林文陽",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1122",
@@ -1070,7 +1141,7 @@
             "cls_name": "建築三學位學程",
             "scr_period": "(二)08-09 忠304 宋玉真",
             "scr_precnt": 90.0,
-            "scr_acptcnt": 60.0,
+            "scr_acptcnt": 65.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03130",
@@ -1078,7 +1149,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真"
+            "scr_teacher": "宋玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1123",
@@ -1092,7 +1164,7 @@
             "cls_name": "建築三學位學程",
             "scr_period": "(四)08-10 忠208 劉柏昇",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03130",
@@ -1100,7 +1172,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "劉柏昇"
+            "scr_teacher": "劉柏昇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1124",
@@ -1122,7 +1195,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林幸長"
+            "scr_teacher": "林幸長",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1125",
@@ -1144,7 +1218,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張莉欣"
+            "scr_teacher": "張莉欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1126",
@@ -1158,7 +1233,7 @@
             "cls_name": "建築三學位學程",
             "scr_period": "(三)06-07 忠310 曾韋翔",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 49.0,
+            "scr_acptcnt": 53.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03130",
@@ -1166,7 +1241,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋翔"
+            "scr_teacher": "曾韋翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4680",
@@ -1188,7 +1264,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃宣穆"
+            "scr_teacher": "黃宣穆",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1127",
@@ -1210,7 +1287,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊淵源,陳世國,黃宣穆,吳保寬,劉柏昇,黃文彬,謝銘峯,王昭凱,Nicolas Marechal,呂耀中,葉志正,盛郁庭"
+            "scr_teacher": "莊淵源,陳世國,黃宣穆,吳保寬,劉柏昇,黃文彬,謝銘峯,王昭凱,Nicolas Marechal,呂耀中,葉志正,盛郁庭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1128",
@@ -1232,7 +1310,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王福君"
+            "scr_teacher": "王福君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1129",
@@ -1254,7 +1333,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔣永輝"
+            "scr_teacher": "蔣永輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1130",
@@ -1276,7 +1356,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1131",
@@ -1290,7 +1371,7 @@
             "cls_name": "建築四學位學程",
             "scr_period": "(一)06-07 忠309 張莉欣",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 48.0,
+            "scr_acptcnt": 49.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03140",
@@ -1298,7 +1379,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張莉欣"
+            "scr_teacher": "張莉欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1132",
@@ -1312,7 +1394,7 @@
             "cls_name": "建築四學位學程",
             "scr_period": "(四)06-07 忠209 蕭俊碩",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03140",
@@ -1320,7 +1402,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭俊碩"
+            "scr_teacher": "蕭俊碩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4648",
@@ -1342,7 +1425,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "趙又嬋"
+            "scr_teacher": "趙又嬋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1133",
@@ -1364,7 +1448,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周郁森,吳保寬"
+            "scr_teacher": "周郁森,吳保寬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1134",
@@ -1378,7 +1463,7 @@
             "cls_name": "建築五學位學程",
             "scr_period": "(一)01-04 忠603(建製圖室) (一)06-09 忠603(建製圖室) (五)01-04 忠603(建製圖室) (五)06-09 忠603(建製圖室) 劉柏昇,曾韋翔,吳保寬,呂耀中,周郁森,張莉欣,戴群峰,劉志仁,呂政道,戴宏一,蕭俊碩,高敬賢,謝文泰,王昭凱,羅元均,簡志穎,粘晉榕,吳承軒,謝舒惠,葉嘉,鄭博仁",
             "scr_precnt": 120.0,
-            "scr_acptcnt": 103.0,
+            "scr_acptcnt": 109.0,
             "scr_remarks": "不開放外系選修",
             "unt_ls": 5002,
             "cls_id": "CE03150",
@@ -1386,7 +1471,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉柏昇,曾韋翔,吳保寬,呂耀中,周郁森,張莉欣,戴群峰,劉志仁,呂政道,戴宏一,蕭俊碩,高敬賢,謝文泰,王昭凱,羅元均,簡志穎,粘晉榕,吳承軒,謝舒惠,葉嘉,鄭"
+            "scr_teacher": "劉柏昇,曾韋翔,吳保寬,呂耀中,周郁森,張莉欣,戴群峰,劉志仁,呂政道,戴宏一,蕭俊碩,高敬賢,謝文泰,王昭凱,羅元均,簡志穎,粘晉榕,吳承軒,謝舒惠,葉嘉,鄭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1135",
@@ -1400,7 +1486,7 @@
             "cls_name": "建築五學位學程",
             "scr_period": "(二)08-09 行205 彭志峰",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": null,
             "unt_ls": 5002,
             "cls_id": "CE03150",
@@ -1408,7 +1494,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭志峰"
+            "scr_teacher": "彭志峰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0015",
@@ -1430,7 +1517,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋翔"
+            "scr_teacher": "曾韋翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0016",
@@ -1452,7 +1540,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張子浩,黃郁惠,趙又嬋,朱伯晟,何柏奇,林佳平,許宜珮,鄭孟鴻,饒珮齡,陳琬婷,何思佑,黃馨慧,黃宏毓"
+            "scr_teacher": "張子浩,黃郁惠,趙又嬋,朱伯晟,何柏奇,林佳平,許宜珮,鄭孟鴻,饒珮齡,陳琬婷,何思佑,黃馨慧,黃宏毓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0017",
@@ -1474,7 +1563,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許宜珮,黎淑婷,李元榮"
+            "scr_teacher": "許宜珮,黎淑婷,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0019",
@@ -1496,7 +1586,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許宜珮"
+            "scr_teacher": "許宜珮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0020",
@@ -1518,7 +1609,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳明宏"
+            "scr_teacher": "陳明宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0021",
@@ -1540,7 +1632,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐雁"
+            "scr_teacher": "徐雁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0022",
@@ -1562,7 +1655,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "顏貽祥,蕭俊碩"
+            "scr_teacher": "顏貽祥,蕭俊碩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3576",
@@ -1576,7 +1670,7 @@
             "cls_name": "室內設計一",
             "scr_period": "(三)06-07 忠307 鍾俊彥",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 97.0,
+            "scr_acptcnt": 100.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03110",
@@ -1584,7 +1678,8 @@
             "scr_dup": "020",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾俊彥"
+            "scr_teacher": "鍾俊彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3624",
@@ -1596,9 +1691,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計一",
-            "scr_period": "(二)03-04 紀204(第一國會廳) 洪靜茹,劉陶堃",
-            "scr_precnt": 125.0,
-            "scr_acptcnt": 104.0,
+            "scr_period": "(二)03-04 忠B03 洪靜茹,劉陶堃",
+            "scr_precnt": 105.0,
+            "scr_acptcnt": 105.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03110",
@@ -1606,7 +1701,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪靜茹,劉陶堃"
+            "scr_teacher": "洪靜茹,劉陶堃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0023",
@@ -1628,7 +1724,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李元榮"
+            "scr_teacher": "李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0024",
@@ -1640,9 +1737,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(三)03-04 忠203 Lorena Alessio,李元榮",
-            "scr_precnt": 68.0,
-            "scr_acptcnt": 72.0,
+            "scr_period": "(三)03-04 忠205 Lorena Alessio,李元榮",
+            "scr_precnt": 75.0,
+            "scr_acptcnt": 74.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1650,7 +1747,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "Lorena Alessio,李元榮"
+            "scr_teacher": "Lorena Alessio,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0025",
@@ -1664,7 +1762,7 @@
             "cls_name": "室內設計二",
             "scr_period": "(二)01-04 忠712 (二)06-09 忠712 呂耀中,許盛鑫,李元榮",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 64.0,
+            "scr_acptcnt": 63.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1672,7 +1770,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂耀中,許盛鑫,李元榮"
+            "scr_teacher": "呂耀中,許盛鑫,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0026",
@@ -1686,7 +1785,7 @@
             "cls_name": "室內設計二",
             "scr_period": "(四)08-09 忠611(電腦實習室) 葉宛盈",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1694,7 +1793,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉宛盈"
+            "scr_teacher": "葉宛盈",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0027",
@@ -1708,7 +1808,7 @@
             "cls_name": "室內設計二",
             "scr_period": "(四)06-07 忠302 蘇靜麒",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1716,7 +1816,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇靜麒"
+            "scr_teacher": "蘇靜麒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0028",
@@ -1730,7 +1831,7 @@
             "cls_name": "室內設計二",
             "scr_period": "(四)11-12 忠302",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 32.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1738,7 +1839,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0029",
@@ -1760,7 +1862,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "Nicolas Marechal"
+            "scr_teacher": "Nicolas Marechal",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0030",
@@ -1774,7 +1877,7 @@
             "cls_name": "室內設計二",
             "scr_period": "(五)03-04 忠204 宋玉真",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 38.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1782,7 +1885,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真"
+            "scr_teacher": "宋玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1112",
@@ -1794,9 +1898,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(四)03-04 忠501 陳文亮",
+            "scr_period": "(四)03-04 忠205 陳文亮",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 55.0,
+            "scr_acptcnt": 58.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1804,7 +1908,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳文亮"
+            "scr_teacher": "陳文亮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4681",
@@ -1818,7 +1923,7 @@
             "cls_name": "室內設計二",
             "scr_period": "(三)08-09 忠209 張莉欣",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 4.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03120",
@@ -1826,7 +1931,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張莉欣"
+            "scr_teacher": "張莉欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0024",
@@ -1838,9 +1944,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計三",
-            "scr_period": "(三)03-04 忠203 Lorena Alessio,李元榮",
-            "scr_precnt": 68.0,
-            "scr_acptcnt": 72.0,
+            "scr_period": "(三)03-04 忠205 Lorena Alessio,李元榮",
+            "scr_precnt": 75.0,
+            "scr_acptcnt": 74.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03130",
@@ -1848,7 +1954,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "Lorena Alessio,李元榮"
+            "scr_teacher": "Lorena Alessio,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0025",
@@ -1862,7 +1969,7 @@
             "cls_name": "室內設計三",
             "scr_period": "(二)01-04 忠712 (二)06-09 忠712 呂耀中,許盛鑫,李元榮",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 64.0,
+            "scr_acptcnt": 63.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03130",
@@ -1870,7 +1977,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂耀中,許盛鑫,李元榮"
+            "scr_teacher": "呂耀中,許盛鑫,李元榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0030",
@@ -1884,7 +1992,7 @@
             "cls_name": "室內設計三",
             "scr_period": "(五)03-04 忠204 宋玉真",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 38.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03130",
@@ -1892,7 +2000,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真"
+            "scr_teacher": "宋玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0031",
@@ -1906,7 +2015,7 @@
             "cls_name": "室內設計三",
             "scr_period": "(四)08-09 忠302 蘇靜麒",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03130",
@@ -1914,7 +2023,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇靜麒"
+            "scr_teacher": "蘇靜麒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0032",
@@ -1928,7 +2038,7 @@
             "cls_name": "室內設計三",
             "scr_period": "(四)06-07 忠202 施佑霖",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 44.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03130",
@@ -1936,7 +2046,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施佑霖"
+            "scr_teacher": "施佑霖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0033",
@@ -1958,7 +2069,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林佳慧"
+            "scr_teacher": "林佳慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4680",
@@ -1980,7 +2092,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃宣穆"
+            "scr_teacher": "黃宣穆",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4682",
@@ -1994,7 +2107,7 @@
             "cls_name": "室內設計三",
             "scr_period": "(三)08-09 忠B05 許宜珮",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03130",
@@ -2002,7 +2115,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許宜珮"
+            "scr_teacher": "許宜珮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0034",
@@ -2016,7 +2130,7 @@
             "cls_name": "室內設計四",
             "scr_period": "(一)01-04 忠502 (一)06-09 忠502 (五)01-04 忠502 (五)06-09 忠502 Lorena Alessio,林葳,何傳新,葉欲揚",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": "不開放外系選修",
             "unt_ls": 5004,
             "cls_id": "AS03140",
@@ -2024,7 +2138,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "Lorena Alessio,林葳,何傳新,葉欲揚"
+            "scr_teacher": "Lorena Alessio,林葳,何傳新,葉欲揚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0035",
@@ -2046,7 +2161,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林葳"
+            "scr_teacher": "林葳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0036",
@@ -2060,7 +2176,7 @@
             "cls_name": "室內設計四",
             "scr_period": "(三)08-09 忠302 林宜慧",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": " ",
             "unt_ls": 5004,
             "cls_id": "AS03140",
@@ -2068,7 +2184,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林宜慧"
+            "scr_teacher": "林宜慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0037",
@@ -2090,7 +2207,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂耀中,凃昭伃,周郁森"
+            "scr_teacher": "呂耀中,凃昭伃,周郁森",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0038",
@@ -2104,7 +2222,7 @@
             "cls_name": "室內設計四",
             "scr_period": "(四)03-04 忠301 郭品妤",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": null,
             "unt_ls": 5004,
             "cls_id": "AS03140",
@@ -2112,7 +2230,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭品妤"
+            "scr_teacher": "郭品妤",
+            "scr_date": "全學期"
         }
     ]
 }

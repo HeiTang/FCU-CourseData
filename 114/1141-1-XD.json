@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡安侖"
+            "scr_teacher": "蔡安侖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3231",
@@ -44,7 +45,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡安侖"
+            "scr_teacher": "蔡安侖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3232",
@@ -58,7 +60,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)06-07 體館201(第一舞蹈室) 溫麗香",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -66,7 +68,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "溫麗香"
+            "scr_teacher": "溫麗香",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3233",
@@ -80,7 +83,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)08-09 體館201(第一舞蹈室) 溫麗香",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -88,7 +91,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "溫麗香"
+            "scr_teacher": "溫麗香",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3234",
@@ -102,7 +106,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)06-07 體館201(第一舞蹈室) 陳培季",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳培季"
+            "scr_teacher": "陳培季",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3235",
@@ -124,7 +129,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)08-09 體館201(第一舞蹈室) 陳培季",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -132,7 +137,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳培季"
+            "scr_teacher": "陳培季",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3236",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王亭文"
+            "scr_teacher": "王亭文",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3237",
@@ -168,7 +175,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)08-09 體館301(主球場) 王亭文",
             "scr_precnt": 54.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王亭文"
+            "scr_teacher": "王亭文",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3238",
@@ -190,7 +198,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)03-04 體館301(主球場) 吳子揚",
             "scr_precnt": 54.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -198,7 +206,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳子揚"
+            "scr_teacher": "吳子揚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3239",
@@ -212,7 +221,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)06-07 體館301(主球場) 吳子揚",
             "scr_precnt": 54.0,
-            "scr_acptcnt": 9.0,
+            "scr_acptcnt": 12.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -220,7 +229,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳子揚"
+            "scr_teacher": "吳子揚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3240",
@@ -242,7 +252,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳子揚"
+            "scr_teacher": "吳子揚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3241",
@@ -256,7 +267,7 @@
             "cls_name": "體育選修",
             "scr_period": "(五)03-04 體館202(第二舞蹈室) 簡岱芸",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": "上課需換穿乾淨運動鞋，謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "簡岱芸"
+            "scr_teacher": "簡岱芸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3242",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉品坊"
+            "scr_teacher": "劉品坊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3243",
@@ -308,7 +321,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳孟玳"
+            "scr_teacher": "吳孟玳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3244",
@@ -322,7 +336,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)03-04 體館202(第二舞蹈室) 劉品坊",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -330,7 +344,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉品坊"
+            "scr_teacher": "劉品坊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3245",
@@ -344,7 +359,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)06-07 體館403(第二健身室) 汪在莒",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": "上課需換穿乾淨運動鞋，謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -352,7 +367,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪在莒"
+            "scr_teacher": "汪在莒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3246",
@@ -366,7 +382,7 @@
             "cls_name": "體育選修",
             "scr_period": "(五)03-04 體館403(第二健身室) 陳耕毓",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 30.0,
+            "scr_acptcnt": 41.0,
             "scr_remarks": "上課需換穿乾淨運動鞋，謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -374,7 +390,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耕毓"
+            "scr_teacher": "陳耕毓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3247",
@@ -388,7 +405,7 @@
             "cls_name": "體育選修",
             "scr_period": "(五)06-07 體館403(第二健身室) 陳耕毓",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "上課需換穿乾淨運動鞋，謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -396,7 +413,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳耕毓"
+            "scr_teacher": "陳耕毓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3248",
@@ -410,7 +428,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)08-09 體館131(攀岩塔) 張宜正",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張宜正"
+            "scr_teacher": "張宜正",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3249",
@@ -432,7 +451,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)08-09 體館131(攀岩塔) 張宜正",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 21.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -440,7 +459,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張宜正"
+            "scr_teacher": "張宜正",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3250",
@@ -454,7 +474,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)01-02 待排 楊璁人",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 9.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": "校外上課(國手撞球場)，需付費上課。",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊璁人"
+            "scr_teacher": "楊璁人",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3251",
@@ -476,7 +497,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)03-04 待排 楊璁人",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": "校外上課(國手撞球場)，需付費上課。",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -484,7 +505,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊璁人"
+            "scr_teacher": "楊璁人",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3252",
@@ -498,7 +520,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)01-02 待排 楊偉鈞",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": "校外上課(國手撞球場)，需付費上課。",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -506,7 +528,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊偉鈞"
+            "scr_teacher": "楊偉鈞",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3253",
@@ -520,7 +543,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)06-07 體館202(第二舞蹈室) 劉品坊",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -528,7 +551,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉品坊"
+            "scr_teacher": "劉品坊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3254",
@@ -550,7 +574,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳孟玳"
+            "scr_teacher": "吳孟玳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3255",
@@ -564,7 +589,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)06-07 體館202(第二舞蹈室) 劉品坊",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 22.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -572,7 +597,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉品坊"
+            "scr_teacher": "劉品坊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3256",
@@ -586,7 +612,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)03-04 體館201(第一舞蹈室) 簡岱芸",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -594,7 +620,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "簡岱芸"
+            "scr_teacher": "簡岱芸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3257",
@@ -608,7 +635,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)03-04 體館601(飛輪健身室) 汪在莒",
             "scr_precnt": 44.0,
-            "scr_acptcnt": 23.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": "需換穿乾淨運動鞋，謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪在莒"
+            "scr_teacher": "汪在莒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3258",
@@ -630,7 +658,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)03-04 體館601(飛輪健身室) 汪在莒",
             "scr_precnt": 44.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": "需換穿乾淨運動鞋，謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -638,7 +666,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪在莒"
+            "scr_teacher": "汪在莒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3259",
@@ -652,7 +681,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)06-07 體館503(桌球室) 王鈞逸",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 31.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -660,7 +689,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王鈞逸"
+            "scr_teacher": "王鈞逸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3260",
@@ -674,7 +704,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)08-09 體館503(桌球室) 王鈞逸",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -682,7 +712,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王鈞逸"
+            "scr_teacher": "王鈞逸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3261",
@@ -696,7 +727,7 @@
             "cls_name": "體育選修",
             "scr_period": "(一)03-04 體館503(桌球室) 趙宸紳",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -704,7 +735,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "趙宸紳"
+            "scr_teacher": "趙宸紳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3262",
@@ -718,7 +750,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)03-04 體館503(桌球室) 賴慶霖",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -726,7 +758,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴慶霖"
+            "scr_teacher": "賴慶霖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3263",
@@ -740,7 +773,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)06-07 體館503(桌球室) 賴慶霖",
             "scr_precnt": 50.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -748,7 +781,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴慶霖"
+            "scr_teacher": "賴慶霖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3264",
@@ -762,7 +796,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)01-02 體館301(主球場) 張景星",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 54.0,
+            "scr_acptcnt": 53.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -770,7 +804,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張景星"
+            "scr_teacher": "張景星",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3265",
@@ -784,7 +819,7 @@
             "cls_name": "體育選修",
             "scr_period": "(二)03-04 體館301(主球場) 張景星",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 50.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -792,7 +827,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張景星"
+            "scr_teacher": "張景星",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3266",
@@ -806,7 +842,7 @@
             "cls_name": "體育選修",
             "scr_period": "(四)08-09 體館301(主球場) 張宜正",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -814,7 +850,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張宜正"
+            "scr_teacher": "張宜正",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3267",
@@ -828,7 +865,7 @@
             "cls_name": "體育選修",
             "scr_period": "(五)01-02 體館301(主球場) 賴文璇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 46.0,
+            "scr_acptcnt": 42.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -836,7 +873,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴文璇"
+            "scr_teacher": "賴文璇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3268",
@@ -858,7 +896,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張鶴懷"
+            "scr_teacher": "張鶴懷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3269",
@@ -872,7 +911,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)06-07 體館101(多功能球場) 劉嘉豪",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": "謝絕旁聽生",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -880,7 +919,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉嘉豪"
+            "scr_teacher": "劉嘉豪",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3270",
@@ -894,7 +934,7 @@
             "cls_name": "體育選修",
             "scr_period": "(一)06-07 體館301(主球場) 趙宸紳",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 45.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。\r\n\r\n",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -902,7 +942,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "趙宸紳"
+            "scr_teacher": "趙宸紳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3271",
@@ -916,7 +957,7 @@
             "cls_name": "體育選修",
             "scr_period": "(一)08-09 體館301(主球場) 趙宸紳",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。\r\n",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -924,7 +965,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "趙宸紳"
+            "scr_teacher": "趙宸紳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3272",
@@ -938,7 +980,7 @@
             "cls_name": "體育選修",
             "scr_period": "(一)01-02 體館301(主球場) 劉承勇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。\r\n",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -946,7 +988,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉承勇"
+            "scr_teacher": "劉承勇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3273",
@@ -960,7 +1003,7 @@
             "cls_name": "體育選修",
             "scr_period": "(一)03-04 體館301(主球場) 劉承勇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 40.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -968,7 +1011,8 @@
             "scr_dup": "004",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉承勇"
+            "scr_teacher": "劉承勇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3274",
@@ -990,7 +1034,8 @@
             "scr_dup": "005",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃正一"
+            "scr_teacher": "黃正一",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3275",
@@ -1012,7 +1057,8 @@
             "scr_dup": "006",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃正一"
+            "scr_teacher": "黃正一",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3276",
@@ -1026,7 +1072,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)01-02 體館301(主球場) 謝沛蓁",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。\r\n\r\n",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -1034,7 +1080,8 @@
             "scr_dup": "007",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝沛蓁"
+            "scr_teacher": "謝沛蓁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3277",
@@ -1048,7 +1095,7 @@
             "cls_name": "體育選修",
             "scr_period": "(三)03-04 體館301(主球場) 謝沛蓁",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 55.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。\r\n",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -1056,7 +1103,8 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝沛蓁"
+            "scr_teacher": "謝沛蓁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3278",
@@ -1070,7 +1118,7 @@
             "cls_name": "體育選修",
             "scr_period": "(五)03-04 體館301(主球場) 黃素珍",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 29.0,
             "scr_remarks": "修課學生需自備羽球及羽球拍,謝絕旁聽生。",
             "unt_ls": 8888,
             "cls_id": "XD01111",
@@ -1078,7 +1126,8 @@
             "scr_dup": "009",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃素珍"
+            "scr_teacher": "黃素珍",
+            "scr_date": "全學期"
         }
     ]
 }

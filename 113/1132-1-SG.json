@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭培聖"
+            "scr_teacher": "郭培聖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3501",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪浩,陳厚儒"
+            "scr_teacher": "汪浩,陳厚儒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3574",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉峰旗"
+            "scr_teacher": "劉峰旗",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3575",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "侯勝宗"
+            "scr_teacher": "侯勝宗",
+            "scr_date": "2025/03/15 ~ 2025/04/19"
         }
     ]
 }

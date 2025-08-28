@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高承恕,賴文祥,陳盛通,黎淑婷,蕭堯仁,蘇昭銘,沈祖望"
+            "scr_teacher": "高承恕,賴文祥,陳盛通,黎淑婷,蕭堯仁,蘇昭銘,沈祖望",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1859",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉俐廷,陳盛通,陳森松,張倉耀"
+            "scr_teacher": "葉俐廷,陳盛通,陳森松,張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1860",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳清和,簡正儀,謝依婷,呂瑞秋"
+            "scr_teacher": "陳清和,簡正儀,謝依婷,呂瑞秋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1861",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊茜文,陳宗佑,簡正儀,李宗儒"
+            "scr_teacher": "楊茜文,陳宗佑,簡正儀,李宗儒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1862",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高承恕,張永郎,林豐智,張倉耀,陳盛通"
+            "scr_teacher": "高承恕,張永郎,林豐智,張倉耀,陳盛通",
+            "scr_date": "全學期"
         }
     ]
 }

@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "唐永立"
+            "scr_teacher": "唐永立",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2723",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "林明仕,張莉欣"
+            "scr_teacher": "林明仕,張莉欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2724",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃嘉君"
+            "scr_teacher": "黃嘉君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2725",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王惠鈴"
+            "scr_teacher": "王惠鈴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2726",
@@ -110,7 +114,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林碧慧"
+            "scr_teacher": "林碧慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2727",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王惠鈴"
+            "scr_teacher": "王惠鈴",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2728",
@@ -154,7 +160,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林碧慧"
+            "scr_teacher": "林碧慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2729",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳子皓"
+            "scr_teacher": "陳子皓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2730",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉春秀,商瓈丹"
+            "scr_teacher": "葉春秀,商瓈丹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2731",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "伍大開,王文聖"
+            "scr_teacher": "伍大開,王文聖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2732",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "伍大開"
+            "scr_teacher": "伍大開",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2733",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃琝琇"
+            "scr_teacher": "黃琝琇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2734",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃琝琇"
+            "scr_teacher": "黃琝琇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2735",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "唐永立"
+            "scr_teacher": "唐永立",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2736",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "唐永立"
+            "scr_teacher": "唐永立",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2737",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳秋華"
+            "scr_teacher": "陳秋華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2738",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林碧慧"
+            "scr_teacher": "林碧慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3014",
@@ -388,7 +405,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(二)03-04 人203 謝銘峯",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 15.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝銘峯"
+            "scr_teacher": "謝銘峯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3015",
@@ -410,7 +428,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(一)06-07 人603 陳淑慧",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳淑慧"
+            "scr_teacher": "陳淑慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3016",
@@ -432,7 +451,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(二)11-12 商206 蕭娜娜",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭娜娜"
+            "scr_teacher": "蕭娜娜",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3017",
@@ -454,7 +474,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(五)02-03 忠207 劉文甦",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 20.0,
+            "scr_acptcnt": 32.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉文甦"
+            "scr_teacher": "劉文甦",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3018",
@@ -476,7 +497,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(五)04-05 忠207 劉文甦",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -484,7 +505,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉文甦"
+            "scr_teacher": "劉文甦",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3019",
@@ -498,7 +520,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(二)08-09 人708 黃青雲",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 23.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.「使用電腦教室」",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃青雲"
+            "scr_teacher": "黃青雲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3020",
@@ -520,7 +543,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(二)03-04 紀105 李瑞陽",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 74.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李瑞陽"
+            "scr_teacher": "李瑞陽",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3021",
@@ -542,7 +566,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(四)11-12 人403 張家銘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張家銘"
+            "scr_teacher": "張家銘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3022",
@@ -564,7 +589,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(一)09-10 人B120A 魏彰志",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 32.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "魏彰志"
+            "scr_teacher": "魏彰志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3023",
@@ -586,7 +612,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(一)06-07 人506 戴芳美",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 53.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -594,7 +620,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "戴芳美"
+            "scr_teacher": "戴芳美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3024",
@@ -608,7 +635,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(一)06-07 人B120A 莊閔越",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊閔越"
+            "scr_teacher": "莊閔越",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3027",
@@ -630,7 +658,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(二)03-04 人707 宋明弘",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 37.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋明弘"
+            "scr_teacher": "宋明弘",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3028",
@@ -652,7 +681,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(一)11-12 商302 吳昇憲",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 4.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳昇憲"
+            "scr_teacher": "吳昇憲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3029",
@@ -674,7 +704,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(四)06-07 人405 楊勝欽",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -682,7 +712,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊勝欽"
+            "scr_teacher": "楊勝欽",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3030",
@@ -696,7 +727,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(四)08-09 人405 楊勝欽",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 32.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -704,7 +735,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊勝欽"
+            "scr_teacher": "楊勝欽",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3031",
@@ -718,7 +750,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(五)03-04 人B119A 江柏毅",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -726,7 +758,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江柏毅"
+            "scr_teacher": "江柏毅",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3032",
@@ -740,7 +773,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(二)08-09 學219(第九國會廳) 葉怡巖",
             "scr_precnt": 185.0,
-            "scr_acptcnt": 152.0,
+            "scr_acptcnt": 185.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -748,7 +781,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉怡巖"
+            "scr_teacher": "葉怡巖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3033",
@@ -770,7 +804,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施漢鵬"
+            "scr_teacher": "施漢鵬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3034",
@@ -784,7 +819,7 @@
             "cls_name": "全球氣候變遷與永續發展",
             "scr_period": "(一)13-14 商202 施漢鵬",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 23.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC03111",
@@ -792,7 +827,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施漢鵬"
+            "scr_teacher": "施漢鵬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3035",
@@ -814,7 +850,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "經觀榮"
+            "scr_teacher": "經觀榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3036",
@@ -828,7 +865,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)08-09 商803(第八國會廳) 經觀榮",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 70.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -836,7 +873,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "經觀榮"
+            "scr_teacher": "經觀榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3037",
@@ -850,7 +888,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)11-12 商403 經觀榮",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -858,7 +896,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "經觀榮"
+            "scr_teacher": "經觀榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3038",
@@ -880,7 +919,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "戴瑞坤"
+            "scr_teacher": "戴瑞坤",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3039",
@@ -902,7 +942,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "戴瑞坤"
+            "scr_teacher": "戴瑞坤",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3040",
@@ -916,7 +957,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 語104 鄭保村",
             "scr_precnt": 77.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -924,7 +965,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭保村"
+            "scr_teacher": "鄭保村",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3041",
@@ -938,7 +980,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 語103 楊美美",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -946,7 +988,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊美美"
+            "scr_teacher": "楊美美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3043",
@@ -960,7 +1003,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)11-12 商203 金尚浩",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -968,7 +1011,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "金尚浩"
+            "scr_teacher": "金尚浩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3044",
@@ -982,7 +1026,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 人501 王志宇",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 50.0,
+            "scr_acptcnt": 72.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -990,7 +1034,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王志宇"
+            "scr_teacher": "王志宇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3045",
@@ -1012,7 +1057,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王志宇"
+            "scr_teacher": "王志宇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3046",
@@ -1026,7 +1072,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)06-07 工108 劉秀齡",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1034,7 +1080,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉秀齡"
+            "scr_teacher": "劉秀齡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3047",
@@ -1048,7 +1095,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)08-09 語105 鄭保村,曹嶸",
             "scr_precnt": 77.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1056,7 +1103,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭保村,曹嶸"
+            "scr_teacher": "鄭保村,曹嶸",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3048",
@@ -1070,7 +1118,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 人707 謝孟成",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 33.0,
+            "scr_acptcnt": 58.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1078,7 +1126,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝孟成"
+            "scr_teacher": "謝孟成",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3049",
@@ -1092,7 +1141,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 人404 張瑞芬",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1100,7 +1149,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張瑞芬"
+            "scr_teacher": "張瑞芬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3050",
@@ -1114,7 +1164,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 人404 張瑞芬",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1122,7 +1172,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張瑞芬"
+            "scr_teacher": "張瑞芬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3051",
@@ -1136,7 +1187,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 紀105 林永崇",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1144,7 +1195,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林永崇"
+            "scr_teacher": "林永崇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3052",
@@ -1158,7 +1210,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 紀105 林永崇",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1166,7 +1218,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林永崇"
+            "scr_teacher": "林永崇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3053",
@@ -1188,7 +1241,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林永崇"
+            "scr_teacher": "林永崇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3054",
@@ -1202,7 +1256,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)06-07 人B116A 倪婉萍",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 51.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1210,7 +1264,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "倪婉萍"
+            "scr_teacher": "倪婉萍",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3055",
@@ -1224,7 +1279,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)03-04 忠205 王祖淼",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 67.0,
+            "scr_acptcnt": 70.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1232,7 +1287,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王祖淼"
+            "scr_teacher": "王祖淼",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3056",
@@ -1246,7 +1302,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)05-06 忠205 王祖淼",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 47.0,
+            "scr_acptcnt": 70.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1254,7 +1310,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王祖淼"
+            "scr_teacher": "王祖淼",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3057",
@@ -1268,7 +1325,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 人405 余國強",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1276,7 +1333,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余國強"
+            "scr_teacher": "余國強",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3058",
@@ -1290,7 +1348,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 人401 尤惠貞",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1298,7 +1356,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "尤惠貞"
+            "scr_teacher": "尤惠貞",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3059",
@@ -1312,7 +1371,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)03-04 人505 曾韻心",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1320,7 +1379,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韻心"
+            "scr_teacher": "曾韻心",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3060",
@@ -1334,7 +1394,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)06-07 人505 曾韻心",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 28.0,
+            "scr_acptcnt": 39.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1342,7 +1402,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韻心"
+            "scr_teacher": "曾韻心",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3061",
@@ -1356,7 +1417,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 人707 謝孟成",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 53.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1364,7 +1425,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝孟成"
+            "scr_teacher": "謝孟成",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3062",
@@ -1378,7 +1440,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)06-07 人707 謝孟成",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 71.0,
+            "scr_acptcnt": 72.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1386,7 +1448,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝孟成"
+            "scr_teacher": "謝孟成",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3063",
@@ -1400,7 +1463,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 人1003(通識沙龍) 莊慧淨",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1408,7 +1471,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊慧淨"
+            "scr_teacher": "莊慧淨",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3064",
@@ -1422,7 +1486,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)03-04 人1003(通識沙龍) 李舒亭",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1430,7 +1494,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李舒亭"
+            "scr_teacher": "李舒亭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3065",
@@ -1444,7 +1509,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 人402 陳淑慧",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1452,7 +1517,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳淑慧"
+            "scr_teacher": "陳淑慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3066",
@@ -1474,7 +1540,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭世瓊"
+            "scr_teacher": "蕭世瓊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3067",
@@ -1496,7 +1563,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施承佑"
+            "scr_teacher": "施承佑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3068",
@@ -1518,7 +1586,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭廸賢"
+            "scr_teacher": "郭廸賢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3069",
@@ -1540,7 +1609,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪健豪"
+            "scr_teacher": "洪健豪",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3070",
@@ -1554,7 +1624,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)06-07 圖116游翰堂 鄭圓圓(鄭月妹)",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1562,7 +1632,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭圓圓(鄭月妹)"
+            "scr_teacher": "鄭圓圓(鄭月妹)",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3071",
@@ -1584,7 +1655,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪健豪,施承佑"
+            "scr_teacher": "洪健豪,施承佑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3072",
@@ -1606,7 +1678,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "程代勒"
+            "scr_teacher": "程代勒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3073",
@@ -1620,7 +1693,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)08-09 忠307 鍾俊彥",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1628,7 +1701,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾俊彥"
+            "scr_teacher": "鍾俊彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3074",
@@ -1642,7 +1716,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)06-07 人605 潘冠呈",
             "scr_precnt": 45.0,
-            "scr_acptcnt": 12.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1650,7 +1724,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "潘冠呈"
+            "scr_teacher": "潘冠呈",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3075",
@@ -1664,7 +1739,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 商302 楊廼軒",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1672,7 +1747,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊廼軒"
+            "scr_teacher": "楊廼軒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3076",
@@ -1686,7 +1762,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 紀103 陳如音",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 22.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1694,7 +1770,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳如音"
+            "scr_teacher": "陳如音",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3077",
@@ -1708,7 +1785,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)03-04 語206 陳蓓欣",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 32.0,
+            "scr_acptcnt": 46.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1716,7 +1793,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳蓓欣"
+            "scr_teacher": "陳蓓欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3078",
@@ -1730,7 +1808,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)03-04 語206 陳蓓欣",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 61.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1738,7 +1816,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳蓓欣"
+            "scr_teacher": "陳蓓欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3079",
@@ -1752,7 +1831,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)03-04 語206 陳蓓欣",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 54.0,
+            "scr_acptcnt": 73.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1760,7 +1839,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳蓓欣"
+            "scr_teacher": "陳蓓欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3080",
@@ -1774,7 +1854,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 人503 魏伯全",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 34.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1782,7 +1862,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "魏伯全"
+            "scr_teacher": "魏伯全",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3081",
@@ -1796,7 +1877,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 人503 魏伯全",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 25.0,
+            "scr_acptcnt": 42.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1804,7 +1885,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "魏伯全"
+            "scr_teacher": "魏伯全",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3082",
@@ -1826,7 +1908,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "詹美慧"
+            "scr_teacher": "詹美慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3083",
@@ -1840,7 +1923,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 人203 詹美慧",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1848,7 +1931,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "詹美慧"
+            "scr_teacher": "詹美慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3084",
@@ -1870,7 +1954,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "詹美慧"
+            "scr_teacher": "詹美慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3085",
@@ -1884,7 +1969,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 資電B13(電腦實習室) 陳柏全",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1892,7 +1977,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳柏全"
+            "scr_teacher": "陳柏全",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3086",
@@ -1906,7 +1992,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 語104 鄭宜玟",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 37.0,
+            "scr_acptcnt": 48.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1914,7 +2000,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭宜玟"
+            "scr_teacher": "鄭宜玟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3087",
@@ -1928,7 +2015,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)03-04 忠B02多功能教室 劉仲倫",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 10.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -1936,7 +2023,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉仲倫"
+            "scr_teacher": "劉仲倫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3088",
@@ -1958,7 +2046,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉仲倫"
+            "scr_teacher": "劉仲倫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3089",
@@ -1970,7 +2059,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(一)08-09 學105 楊儒晟",
+            "scr_period": "(一)08-09 學104 楊儒晟",
             "scr_precnt": 75.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -1980,7 +2069,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊儒晟"
+            "scr_teacher": "楊儒晟",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3090",
@@ -1994,7 +2084,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 語104 劉秀齡",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2002,7 +2092,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉秀齡"
+            "scr_teacher": "劉秀齡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3091",
@@ -2024,7 +2115,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉南英"
+            "scr_teacher": "劉南英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3092",
@@ -2038,7 +2130,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 人607 賴炎卿",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2046,7 +2138,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴炎卿"
+            "scr_teacher": "賴炎卿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3093",
@@ -2068,7 +2161,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴炎卿"
+            "scr_teacher": "賴炎卿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3094",
@@ -2090,7 +2184,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉南英"
+            "scr_teacher": "劉南英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3095",
@@ -2112,7 +2207,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉南英"
+            "scr_teacher": "劉南英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3096",
@@ -2126,7 +2222,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)11-12 商201 楊國聰",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2134,7 +2230,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊國聰"
+            "scr_teacher": "楊國聰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3097",
@@ -2156,7 +2253,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊國聰"
+            "scr_teacher": "楊國聰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3098",
@@ -2170,7 +2268,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 語104 楊艶秋,宋懷德",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2178,7 +2276,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊艶秋,宋懷德"
+            "scr_teacher": "楊艶秋,宋懷德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3099",
@@ -2192,7 +2291,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 語104 楊艶秋,宋懷德",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2200,7 +2299,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊艶秋,宋懷德"
+            "scr_teacher": "楊艶秋,宋懷德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3100",
@@ -2214,7 +2314,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)03-04 人408 黃千容",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2222,7 +2322,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃千容"
+            "scr_teacher": "黃千容",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3101",
@@ -2236,7 +2337,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 人501 徐宏寬",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2244,7 +2345,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐宏寬"
+            "scr_teacher": "徐宏寬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3102",
@@ -2258,7 +2360,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)06-07 人501 徐宏寬",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 35.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2266,7 +2368,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐宏寬"
+            "scr_teacher": "徐宏寬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3103",
@@ -2288,7 +2391,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡宜宏"
+            "scr_teacher": "蔡宜宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3104",
@@ -2302,7 +2406,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)03-04 人1003(通識沙龍) 郎亞玲",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2310,7 +2414,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郎亞玲"
+            "scr_teacher": "郎亞玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3106",
@@ -2332,7 +2437,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝欣錦"
+            "scr_teacher": "謝欣錦",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3107",
@@ -2346,7 +2452,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)11-12 行政二館105-電腦實習室 謝欣錦",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2354,7 +2460,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝欣錦"
+            "scr_teacher": "謝欣錦",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3108",
@@ -2376,7 +2483,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉漢民"
+            "scr_teacher": "劉漢民",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3109",
@@ -2390,7 +2498,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)06-07 人1003(通識沙龍) 李舒亭",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 5.0,
+            "scr_acptcnt": 6.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2398,7 +2506,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李舒亭"
+            "scr_teacher": "李舒亭",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3110",
@@ -2420,7 +2529,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊慧淨"
+            "scr_teacher": "莊慧淨",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3111",
@@ -2434,7 +2544,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 人202 劉漢民",
             "scr_precnt": 48.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 48.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2442,7 +2552,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉漢民"
+            "scr_teacher": "劉漢民",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3112",
@@ -2456,7 +2567,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 人202 劉漢民",
             "scr_precnt": 48.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 48.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2464,7 +2575,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉漢民"
+            "scr_teacher": "劉漢民",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3113",
@@ -2478,7 +2590,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 商103 湛明暉",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 33.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2486,7 +2598,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "湛明暉"
+            "scr_teacher": "湛明暉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3114",
@@ -2508,7 +2621,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林忠勳"
+            "scr_teacher": "林忠勳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3115",
@@ -2522,7 +2636,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)06-07 行211 林忠勳",
             "scr_precnt": 46.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 4.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2530,7 +2644,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林忠勳"
+            "scr_teacher": "林忠勳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3116",
@@ -2544,7 +2659,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)06-07 商409 施馭昊",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 82.0,
+            "scr_acptcnt": 84.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2552,7 +2667,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施馭昊"
+            "scr_teacher": "施馭昊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3117",
@@ -2566,7 +2682,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)03-04 人B116A 許芳榮",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2574,7 +2690,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許芳榮"
+            "scr_teacher": "許芳榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3118",
@@ -2588,7 +2705,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)06-07 人406 陳柏全",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2596,7 +2713,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳柏全"
+            "scr_teacher": "陳柏全",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3119",
@@ -2610,7 +2728,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)03-04 語105 楊美美",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 5.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2618,7 +2736,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊美美"
+            "scr_teacher": "楊美美",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3120",
@@ -2632,7 +2751,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)03-04 人B116A 倪婉萍",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 55.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2640,7 +2759,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "倪婉萍"
+            "scr_teacher": "倪婉萍",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3121",
@@ -2654,7 +2774,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)11-12 商201 林啓新",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2662,7 +2782,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林啓新"
+            "scr_teacher": "林啓新",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3122",
@@ -2684,7 +2805,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李堯涓"
+            "scr_teacher": "李堯涓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3123",
@@ -2706,7 +2828,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳瀅仙"
+            "scr_teacher": "陳瀅仙",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3124",
@@ -2720,7 +2843,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 語201 洪至璋",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 23.0,
+            "scr_acptcnt": 35.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2728,7 +2851,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪至璋"
+            "scr_teacher": "洪至璋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3125",
@@ -2742,7 +2866,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 人706 陳香君",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2750,7 +2874,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳香君"
+            "scr_teacher": "陳香君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3126",
@@ -2764,7 +2889,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 人706 陳香君",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2772,7 +2897,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳香君"
+            "scr_teacher": "陳香君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3127",
@@ -2786,7 +2912,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)06-07 人204 賈儒怡",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 20.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2794,7 +2920,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賈儒怡"
+            "scr_teacher": "賈儒怡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3128",
@@ -2808,7 +2935,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 人204 賈儒怡",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 7.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2816,7 +2943,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賈儒怡"
+            "scr_teacher": "賈儒怡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3129",
@@ -2838,7 +2966,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張倫琪"
+            "scr_teacher": "張倫琪",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3130",
@@ -2852,7 +2981,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 人501 許瑞哲",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 2.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2860,7 +2989,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許瑞哲"
+            "scr_teacher": "許瑞哲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3131",
@@ -2874,7 +3004,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)09-10 人1003(通識沙龍) 陳思照",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2882,7 +3012,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳思照"
+            "scr_teacher": "陳思照",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3132",
@@ -2896,7 +3027,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 紀111 陳瀅仙",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 64.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2904,7 +3035,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳瀅仙"
+            "scr_teacher": "陳瀅仙",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3133",
@@ -2918,7 +3050,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 語201 洪至璋",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 44.0,
+            "scr_acptcnt": 65.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2926,7 +3058,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪至璋"
+            "scr_teacher": "洪至璋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3134",
@@ -2940,7 +3073,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)08-09 人B119A 江柏毅",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2948,7 +3081,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江柏毅"
+            "scr_teacher": "江柏毅",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3135",
@@ -2970,7 +3104,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李珮慈"
+            "scr_teacher": "李珮慈",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3136",
@@ -2984,7 +3119,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)06-07 人203 姚吉聰",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -2992,7 +3127,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "姚吉聰"
+            "scr_teacher": "姚吉聰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3137",
@@ -3006,7 +3142,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)08-09 圖116游翰堂 姚吉聰",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3014,7 +3150,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "姚吉聰"
+            "scr_teacher": "姚吉聰",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3138",
@@ -3028,7 +3165,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)11-12 商305 余賢東",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 2.0,
+            "scr_acptcnt": 4.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3036,7 +3173,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "余賢東"
+            "scr_teacher": "余賢東",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3139",
@@ -3050,7 +3188,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)01-02 人405 葉德輝",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 69.0,
+            "scr_acptcnt": 70.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3058,7 +3196,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉德輝"
+            "scr_teacher": "葉德輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3140",
@@ -3072,7 +3211,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)03-04 人405 葉德輝",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 69.0,
+            "scr_acptcnt": 70.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3080,7 +3219,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉德輝"
+            "scr_teacher": "葉德輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3141",
@@ -3094,7 +3234,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)11-12 商202 蔡宜宏",
             "scr_precnt": 79.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3102,7 +3242,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡宜宏"
+            "scr_teacher": "蔡宜宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3142",
@@ -3124,7 +3265,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄒繼礎"
+            "scr_teacher": "鄒繼礎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3143",
@@ -3146,7 +3288,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪浚逢"
+            "scr_teacher": "洪浚逢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3144",
@@ -3168,7 +3311,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳如音"
+            "scr_teacher": "陳如音",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3145",
@@ -3182,7 +3326,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)08-09 紀103 陳如音",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 24.0,
+            "scr_acptcnt": 27.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3190,7 +3334,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳如音"
+            "scr_teacher": "陳如音",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3146",
@@ -3204,7 +3349,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)03-04 語207 李興華",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 74.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3212,7 +3357,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李興華"
+            "scr_teacher": "李興華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3147",
@@ -3226,7 +3372,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(五)03-04 語207 李興華",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 74.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3234,7 +3380,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李興華"
+            "scr_teacher": "李興華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3148",
@@ -3256,7 +3403,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李興華"
+            "scr_teacher": "李興華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3149",
@@ -3270,7 +3418,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(四)08-09 語103 閔稚淇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 6.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3278,7 +3426,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "閔稚淇"
+            "scr_teacher": "閔稚淇",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4671",
@@ -3292,7 +3441,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(三)08-09 忠B01 曹敏吉",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 15.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3300,7 +3449,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曹敏吉"
+            "scr_teacher": "曹敏吉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4672",
@@ -3314,7 +3464,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(二)01-02 語207 洪至璋",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 11.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3322,7 +3472,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪至璋"
+            "scr_teacher": "洪至璋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4673",
@@ -3336,7 +3487,7 @@
             "cls_name": "人文藝術與社會經典教育",
             "scr_period": "(一)03-04 人203 賈儒怡",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC04111",
@@ -3344,7 +3495,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賈儒怡"
+            "scr_teacher": "賈儒怡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3150",
@@ -3358,7 +3510,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)01-02 人202 黃煇慶",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 98.0,
+            "scr_acptcnt": 100.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3366,7 +3518,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃煇慶"
+            "scr_teacher": "黃煇慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3151",
@@ -3380,7 +3533,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)03-04 人202 黃煇慶",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 98.0,
+            "scr_acptcnt": 100.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3388,7 +3541,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃煇慶"
+            "scr_teacher": "黃煇慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3152",
@@ -3410,7 +3564,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃煇慶"
+            "scr_teacher": "黃煇慶",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3153",
@@ -3424,7 +3579,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)08-09 人505 曾韻心",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 19.0,
+            "scr_acptcnt": 25.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3432,7 +3587,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韻心"
+            "scr_teacher": "曾韻心",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3154",
@@ -3454,7 +3610,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張志強"
+            "scr_teacher": "張志強",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3155",
@@ -3468,7 +3625,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)08-09 資電B13(電腦實習室) 張志強",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 3.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。本課程使用電腦教室授課。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3476,7 +3633,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張志強"
+            "scr_teacher": "張志強",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3156",
@@ -3490,7 +3648,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)03-04 人601 郭鐘元",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 58.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3498,7 +3656,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭鐘元"
+            "scr_teacher": "郭鐘元",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3157",
@@ -3520,7 +3679,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張志相"
+            "scr_teacher": "張志相",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3158",
@@ -3542,7 +3702,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張志相"
+            "scr_teacher": "張志相",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3159",
@@ -3556,7 +3717,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)06-07 人707 張志相",
             "scr_precnt": 72.0,
-            "scr_acptcnt": 71.0,
+            "scr_acptcnt": 72.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3564,7 +3725,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張志相"
+            "scr_teacher": "張志相",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3160",
@@ -3578,7 +3740,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)08-09 人404 張凱惠",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 31.0,
+            "scr_acptcnt": 49.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3586,7 +3748,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張凱惠"
+            "scr_teacher": "張凱惠",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3161",
@@ -3600,7 +3763,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)06-07 忠304 張哲挺",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 73.0,
+            "scr_acptcnt": 100.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3608,7 +3771,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張哲挺"
+            "scr_teacher": "張哲挺",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3162",
@@ -3622,7 +3786,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)08-09 忠304 張哲挺",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3630,7 +3794,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張哲挺"
+            "scr_teacher": "張哲挺",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3163",
@@ -3644,7 +3809,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)03-04 忠B03 張哲挺",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3652,7 +3817,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張哲挺"
+            "scr_teacher": "張哲挺",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3164",
@@ -3666,7 +3832,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)11-12 商201 姚德輝",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 4.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3674,7 +3840,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "姚德輝"
+            "scr_teacher": "姚德輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3165",
@@ -3688,7 +3855,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)13-14 商201 姚德輝",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 2.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3696,7 +3863,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "姚德輝"
+            "scr_teacher": "姚德輝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3166",
@@ -3710,7 +3878,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)09-10 商203 林展暉",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 73.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3718,7 +3886,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林展暉"
+            "scr_teacher": "林展暉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3167",
@@ -3732,7 +3901,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)06-07 人401 潘忻學",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 33.0,
+            "scr_acptcnt": 57.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3740,7 +3909,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "潘忻學"
+            "scr_teacher": "潘忻學",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3168",
@@ -3754,7 +3924,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)06-07 人603 陳柏全",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 20.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3762,7 +3932,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳柏全"
+            "scr_teacher": "陳柏全",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3169",
@@ -3784,7 +3955,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭衡鍾"
+            "scr_teacher": "蕭衡鍾",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3170",
@@ -3806,7 +3978,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭衡鍾"
+            "scr_teacher": "蕭衡鍾",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3171",
@@ -3828,7 +4001,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭衡鍾"
+            "scr_teacher": "蕭衡鍾",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3172",
@@ -3842,7 +4016,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)06-07 忠205 王建雄",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3850,7 +4024,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王建雄"
+            "scr_teacher": "王建雄",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3173",
@@ -3872,7 +4047,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳鈺偉"
+            "scr_teacher": "陳鈺偉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3174",
@@ -3886,7 +4062,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)03-04 忠205 王建雄",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 24.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3894,7 +4070,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王建雄"
+            "scr_teacher": "王建雄",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3175",
@@ -3916,7 +4093,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊艶秋,宋懷德"
+            "scr_teacher": "楊艶秋,宋懷德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3176",
@@ -3930,7 +4108,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)08-09 語105 楊艶秋,宋懷德",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 77.0,
+            "scr_acptcnt": 78.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3938,7 +4116,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊艶秋,宋懷德"
+            "scr_teacher": "楊艶秋,宋懷德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3177",
@@ -3952,7 +4131,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)06-07 忠204 宋玉真",
             "scr_precnt": 44.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3960,7 +4139,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真"
+            "scr_teacher": "宋玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3178",
@@ -3974,7 +4154,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)03-04 忠204 宋玉真",
             "scr_precnt": 44.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -3982,7 +4162,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真"
+            "scr_teacher": "宋玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3179",
@@ -3996,7 +4177,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)06-07 人404 路威",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 7.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "This course is taught in English. Please check with each department whether it is included in the graduation credits.",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4004,7 +4185,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "路威"
+            "scr_teacher": "路威",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3180",
@@ -4018,7 +4200,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(五)06-07 忠206 紀東昀",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 73.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4026,7 +4208,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "紀東昀"
+            "scr_teacher": "紀東昀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3181",
@@ -4040,7 +4223,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(五)08-09 忠206 紀東昀",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 73.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4048,7 +4231,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "紀東昀"
+            "scr_teacher": "紀東昀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3184",
@@ -4062,7 +4246,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)07-08 人1003(通識沙龍) 陳思照",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4070,7 +4254,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳思照"
+            "scr_teacher": "陳思照",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3185",
@@ -4084,7 +4269,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)01-02 人202 林敏容",
             "scr_precnt": 79.0,
-            "scr_acptcnt": 63.0,
+            "scr_acptcnt": 79.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4092,7 +4277,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林敏容"
+            "scr_teacher": "林敏容",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3186",
@@ -4106,7 +4292,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)03-04 人202 林敏容",
             "scr_precnt": 79.0,
-            "scr_acptcnt": 78.0,
+            "scr_acptcnt": 79.0,
             "scr_remarks": "1.日文授課。2.是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4114,7 +4300,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林敏容"
+            "scr_teacher": "林敏容",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3187",
@@ -4128,7 +4315,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)01-02 人406 林益德",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 66.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4136,7 +4323,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林益德"
+            "scr_teacher": "林益德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3188",
@@ -4150,7 +4338,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)03-04 人406 林益德",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 36.0,
+            "scr_acptcnt": 67.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4158,7 +4346,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林益德"
+            "scr_teacher": "林益德",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3189",
@@ -4172,7 +4361,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)06-07 人203 楊筑尹",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 18.0,
+            "scr_acptcnt": 39.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4180,7 +4369,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊筑尹"
+            "scr_teacher": "楊筑尹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3190",
@@ -4194,7 +4384,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)08-09 人203 楊筑尹",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 11.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4202,7 +4392,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊筑尹"
+            "scr_teacher": "楊筑尹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3191",
@@ -4216,7 +4407,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(五)06-07 人B119A 江柏毅",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4224,7 +4415,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江柏毅"
+            "scr_teacher": "江柏毅",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3192",
@@ -4246,7 +4438,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱正永"
+            "scr_teacher": "朱正永",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3193",
@@ -4260,7 +4453,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)06-07 人403 呂詠彥",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 9.0,
+            "scr_acptcnt": 14.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4268,7 +4461,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂詠彥"
+            "scr_teacher": "呂詠彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3194",
@@ -4282,7 +4476,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)06-07 人202 蔡振志",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 60.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4290,7 +4484,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡振志"
+            "scr_teacher": "蔡振志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3195",
@@ -4304,7 +4499,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(四)08-09 人202 蔡振志",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 58.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4312,7 +4507,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡振志"
+            "scr_teacher": "蔡振志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3196",
@@ -4326,7 +4522,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)08-09 語105 劉宗欣",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 29.0,
+            "scr_acptcnt": 38.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4334,7 +4530,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉宗欣"
+            "scr_teacher": "劉宗欣",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3197",
@@ -4356,7 +4553,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡振志"
+            "scr_teacher": "蔡振志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3198",
@@ -4370,7 +4568,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(三)06-07 人503 王謙",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 52.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4378,7 +4576,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王謙"
+            "scr_teacher": "王謙",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3199",
@@ -4392,7 +4591,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(一)08-09 語204 白兆偉",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 40.0,
+            "scr_acptcnt": 51.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4400,7 +4599,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "白兆偉"
+            "scr_teacher": "白兆偉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3200",
@@ -4414,7 +4614,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)08-09 語204 白兆偉",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4422,7 +4622,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "白兆偉"
+            "scr_teacher": "白兆偉",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3201",
@@ -4436,7 +4637,7 @@
             "cls_name": "世界格局與歷史地理視野",
             "scr_period": "(二)13-14 商203 金尚浩",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 9.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC05111",
@@ -4444,7 +4645,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "金尚浩"
+            "scr_teacher": "金尚浩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3202",
@@ -4458,7 +4660,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(一)11-12 商306 簡嘉良",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 3.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4466,7 +4668,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "簡嘉良"
+            "scr_teacher": "簡嘉良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3203",
@@ -4488,7 +4691,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "郭廸賢"
+            "scr_teacher": "郭廸賢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3204",
@@ -4510,7 +4714,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃興真"
+            "scr_teacher": "黃興真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3205",
@@ -4532,7 +4737,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃興真"
+            "scr_teacher": "黃興真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3206",
@@ -4546,7 +4752,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(一)03-04 學105 賴奇厚",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 46.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4554,7 +4760,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴奇厚"
+            "scr_teacher": "賴奇厚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3207",
@@ -4576,7 +4783,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建甫"
+            "scr_teacher": "陳建甫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3208",
@@ -4598,7 +4806,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪耀正"
+            "scr_teacher": "洪耀正",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3209",
@@ -4612,7 +4821,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(五)03-04 人402 陳彥宏",
             "scr_precnt": 35.0,
-            "scr_acptcnt": 34.0,
+            "scr_acptcnt": 35.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4620,7 +4829,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳彥宏"
+            "scr_teacher": "陳彥宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3210",
@@ -4634,7 +4844,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(四)03-04 人706 陳介英",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 32.0,
+            "scr_acptcnt": 40.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4642,7 +4852,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳介英"
+            "scr_teacher": "陳介英",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3211",
@@ -4656,7 +4867,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(一)11-12 忠611(電腦實習室) 施丞彥",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4664,7 +4875,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "施丞彥"
+            "scr_teacher": "施丞彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3212",
@@ -4678,7 +4890,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(一)03-04 人603 陳淑慧",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 52.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4686,7 +4898,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳淑慧"
+            "scr_teacher": "陳淑慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3213",
@@ -4708,7 +4921,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳淑慧"
+            "scr_teacher": "陳淑慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3214",
@@ -4730,7 +4944,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黎龍興,喻家駿"
+            "scr_teacher": "黎龍興,喻家駿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3215",
@@ -4752,7 +4967,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黎龍興,喻家駿"
+            "scr_teacher": "黎龍興,喻家駿",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3216",
@@ -4774,7 +4990,8 @@
             "scr_dup": "003",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳柏全"
+            "scr_teacher": "陳柏全",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3217",
@@ -4788,7 +5005,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(二)03-04 學219(第九國會廳) 葉怡巖",
             "scr_precnt": 185.0,
-            "scr_acptcnt": 125.0,
+            "scr_acptcnt": 185.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4796,7 +5013,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉怡巖"
+            "scr_teacher": "葉怡巖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3218",
@@ -4810,7 +5028,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(二)06-07 學219(第九國會廳) 葉怡巖",
             "scr_precnt": 185.0,
-            "scr_acptcnt": 112.0,
+            "scr_acptcnt": 181.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4818,7 +5036,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉怡巖"
+            "scr_teacher": "葉怡巖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3219",
@@ -4832,7 +5051,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(二)08-09 人506 李政芳",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 17.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4840,7 +5059,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李政芳"
+            "scr_teacher": "李政芳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3220",
@@ -4854,7 +5074,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(三)06-07 人403 呂威甫",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 59.0,
+            "scr_acptcnt": 60.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4862,7 +5082,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂威甫"
+            "scr_teacher": "呂威甫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3221",
@@ -4876,7 +5097,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(一)06-07 語105 朱文祺",
             "scr_precnt": 79.0,
-            "scr_acptcnt": 74.0,
+            "scr_acptcnt": 79.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4884,7 +5105,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "朱文祺"
+            "scr_teacher": "朱文祺",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3222",
@@ -4898,7 +5120,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(二)06-07 人607 翁明材",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 52.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4906,7 +5128,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翁明材"
+            "scr_teacher": "翁明材",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3223",
@@ -4920,7 +5143,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(二)08-09 人607 翁明材",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 12.0,
+            "scr_acptcnt": 13.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4928,7 +5151,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翁明材"
+            "scr_teacher": "翁明材",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3224",
@@ -4942,7 +5166,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(三)13-14 資電104 張智翔",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 21.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4950,7 +5174,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張智翔"
+            "scr_teacher": "張智翔",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3225",
@@ -4964,7 +5189,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(四)03-04 語103 袁維勵",
             "scr_precnt": 75.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 54.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4972,7 +5197,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "袁維勵"
+            "scr_teacher": "袁維勵",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3226",
@@ -4986,7 +5212,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(四)11-12 人401 徐兆稹",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 1.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -4994,7 +5220,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐兆稹"
+            "scr_teacher": "徐兆稹",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3227",
@@ -5016,7 +5243,8 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂晃志"
+            "scr_teacher": "呂晃志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3228",
@@ -5030,7 +5258,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(三)11-12 商208 許聖富",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 1.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -5038,7 +5266,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許聖富"
+            "scr_teacher": "許聖富",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3229",
@@ -5060,7 +5289,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴玉真"
+            "scr_teacher": "賴玉真",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4674",
@@ -5074,7 +5304,7 @@
             "cls_name": "科技知識原理與趨勢浪潮",
             "scr_period": "(三)06-07 人202 侯勝宗",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 30.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
             "unt_ls": 8888,
             "cls_id": "XC06111",
@@ -5082,7 +5312,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "侯勝宗"
+            "scr_teacher": "侯勝宗",
+            "scr_date": "全學期"
         }
     ]
 }

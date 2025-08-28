@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鈺婷"
+            "scr_teacher": "黃鈺婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0807",
@@ -36,7 +37,7 @@
             "cls_name": "商學進修一學位學程甲班",
             "scr_period": "(一)11-12 忠308 蘇哲儀",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 46.0,
+            "scr_acptcnt": 54.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35511",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇哲儀"
+            "scr_teacher": "蘇哲儀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0808",
@@ -58,7 +60,7 @@
             "cls_name": "商學進修一學位學程甲班",
             "scr_period": "(四)14     商107",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 44.0,
+            "scr_acptcnt": 47.0,
             "scr_remarks": "需與商進一甲會計(一)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35511",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0809",
@@ -80,7 +83,7 @@
             "cls_name": "商學進修一學位學程甲班",
             "scr_period": "(二)14     商204",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 44.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "需與商進一甲經濟學同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35511",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0810",
@@ -102,7 +106,7 @@
             "cls_name": "商學進修一學位學程甲班",
             "scr_period": "(三)11-13 商202 林書賢",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 44.0,
+            "scr_acptcnt": 47.0,
             "scr_remarks": "需與商進一甲統籌科目實習(一)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35511",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林書賢"
+            "scr_teacher": "林書賢",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0811",
@@ -124,7 +129,7 @@
             "cls_name": "商學進修一學位學程甲班",
             "scr_period": "(四)11-13 商107 黃鈺婷",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 44.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "需與商進一甲統籌科目實習(五)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35511",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鈺婷"
+            "scr_teacher": "黃鈺婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0812",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭妃君"
+            "scr_teacher": "鄭妃君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3591",
@@ -168,7 +175,7 @@
             "cls_name": "商學進修一學位學程甲班",
             "scr_period": "(一)13-14 忠304 劉皓仁",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 90.0,
+            "scr_acptcnt": 91.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35511",
@@ -176,7 +183,8 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉皓仁"
+            "scr_teacher": "劉皓仁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0813",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華"
+            "scr_teacher": "黃錦華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0814",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳立安"
+            "scr_teacher": "陳立安",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0815",
@@ -234,7 +244,7 @@
             "cls_name": "商學進修一學位學程乙班",
             "scr_period": "(二)14     商205",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "需與商進一乙會計(一)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35512",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0816",
@@ -256,7 +267,7 @@
             "cls_name": "商學進修一學位學程乙班",
             "scr_period": "(四)14     商204",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "需與商進一乙經濟學同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35512",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0817",
@@ -278,7 +290,7 @@
             "cls_name": "商學進修一學位學程乙班",
             "scr_period": "(二)11-13 商205 黃鈺婷",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 43.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": "需與商進一乙統籌科目實習(一)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35512",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鈺婷"
+            "scr_teacher": "黃鈺婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0818",
@@ -300,7 +313,7 @@
             "cls_name": "商學進修一學位學程乙班",
             "scr_period": "(三)11-13 商302 鍾文榮",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 45.0,
             "scr_remarks": "需與商進一乙統籌科目實習(五)同班修",
             "unt_ls": 4134,
             "cls_id": "CB35512",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鍾文榮"
+            "scr_teacher": "鍾文榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0819",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華"
+            "scr_teacher": "黃錦華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3591",
@@ -344,7 +359,7 @@
             "cls_name": "商學進修一學位學程乙班",
             "scr_period": "(一)13-14 忠304 劉皓仁",
             "scr_precnt": 100.0,
-            "scr_acptcnt": 90.0,
+            "scr_acptcnt": 91.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35512",
@@ -352,7 +367,8 @@
             "scr_dup": "008",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉皓仁"
+            "scr_teacher": "劉皓仁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0820",
@@ -366,7 +382,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(三)14     商203 鄭妃君",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 60.0,
+            "scr_acptcnt": 59.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭妃君"
+            "scr_teacher": "鄭妃君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0821",
@@ -388,7 +405,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(三)11-13 商203 鄭妃君",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 63.0,
+            "scr_acptcnt": 65.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭妃君"
+            "scr_teacher": "鄭妃君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0822",
@@ -410,7 +428,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(四)11-13 商206 曾麗文",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 64.0,
             "scr_remarks": "需與商進二甲統籌科目實習(四)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾麗文"
+            "scr_teacher": "曾麗文",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0823",
@@ -432,7 +451,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(二)11-13 商208 吳清池",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 65.0,
             "scr_remarks": "需與商進二甲統籌科目實習(三)同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳清池"
+            "scr_teacher": "吳清池",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0824",
@@ -454,7 +474,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(二)14     商208",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 65.0,
             "scr_remarks": "需與商進二甲統計學同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0825",
@@ -476,7 +497,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(四)14     商206",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 62.0,
+            "scr_acptcnt": 64.0,
             "scr_remarks": "需與商進二甲財務管理同班修課",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0832",
@@ -498,7 +520,7 @@
             "cls_name": "商學進修二學位學程甲班",
             "scr_period": "(五)11-13 商107 李國賓",
             "scr_precnt": 86.0,
-            "scr_acptcnt": 35.0,
+            "scr_acptcnt": 48.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35521",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李國賓"
+            "scr_teacher": "李國賓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0826",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳亭廷"
+            "scr_teacher": "陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0827",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳亭廷"
+            "scr_teacher": "陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0828",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡秉玠"
+            "scr_teacher": "蔡秉玠",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0829",
@@ -594,7 +620,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "孫鈺峯"
+            "scr_teacher": "孫鈺峯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0830",
@@ -616,7 +643,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0831",
@@ -638,7 +666,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0832",
@@ -652,7 +681,7 @@
             "cls_name": "商學進修二學位學程乙班",
             "scr_period": "(五)11-13 商107 李國賓",
             "scr_precnt": 86.0,
-            "scr_acptcnt": 35.0,
+            "scr_acptcnt": 48.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35522",
@@ -660,7 +689,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李國賓"
+            "scr_teacher": "李國賓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0833",
@@ -674,7 +704,7 @@
             "cls_name": "商學進修三學位學程甲班",
             "scr_period": "(四)11-13 商205",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 39.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35531",
@@ -682,7 +712,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0834",
@@ -696,7 +727,7 @@
             "cls_name": "商學進修三學位學程甲班",
             "scr_period": "(五)11-13 商202 黃鈺婷",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 38.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35531",
@@ -704,7 +735,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鈺婷"
+            "scr_teacher": "黃鈺婷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0837",
@@ -726,7 +758,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張久大"
+            "scr_teacher": "張久大",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0838",
@@ -740,7 +773,7 @@
             "cls_name": "商學進修三學位學程甲班",
             "scr_period": "(三)11-13 商205 黃錦華",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35531",
@@ -748,7 +781,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華"
+            "scr_teacher": "黃錦華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4709",
@@ -762,7 +796,7 @@
             "cls_name": "商學進修三學位學程甲班",
             "scr_period": "(二)07-09 商514 林慶隆",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35531",
@@ -770,7 +804,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林慶隆"
+            "scr_teacher": "林慶隆",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4710",
@@ -784,7 +819,7 @@
             "cls_name": "商學進修三學位學程甲班",
             "scr_period": "(五)07-09 商514 葉宗軒,陳亭廷",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35531",
@@ -792,7 +827,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉宗軒,陳亭廷"
+            "scr_teacher": "葉宗軒,陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0835",
@@ -806,7 +842,7 @@
             "cls_name": "商學進修三學位學程乙班",
             "scr_period": "(四)11-13 商302 林孟玲",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 44.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35532",
@@ -814,7 +850,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林孟玲"
+            "scr_teacher": "林孟玲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0836",
@@ -828,7 +865,7 @@
             "cls_name": "商學進修三學位學程乙班",
             "scr_period": "(五)11-13 商204 黃錦華",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35532",
@@ -836,7 +873,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華"
+            "scr_teacher": "黃錦華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0837",
@@ -858,7 +896,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張久大"
+            "scr_teacher": "張久大",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0838",
@@ -872,7 +911,7 @@
             "cls_name": "商學進修三學位學程乙班",
             "scr_period": "(三)11-13 商205 黃錦華",
             "scr_precnt": 85.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35532",
@@ -880,7 +919,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華"
+            "scr_teacher": "黃錦華",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4709",
@@ -894,7 +934,7 @@
             "cls_name": "商學進修三學位學程乙班",
             "scr_period": "(二)07-09 商514 林慶隆",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 10.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35532",
@@ -902,7 +942,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林慶隆"
+            "scr_teacher": "林慶隆",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "4710",
@@ -916,7 +957,7 @@
             "cls_name": "商學進修三學位學程乙班",
             "scr_period": "(五)07-09 商514 葉宗軒,陳亭廷",
             "scr_precnt": 70.0,
-            "scr_acptcnt": 0.0,
+            "scr_acptcnt": 8.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35532",
@@ -924,7 +965,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉宗軒,陳亭廷"
+            "scr_teacher": "葉宗軒,陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0839",
@@ -946,7 +988,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華,江宜芳,陳蓬桐,廖揚立,李月仙,黃鈺婷,黃琝琇,林慶隆,鄭妃君,林喬偉,陳亭廷"
+            "scr_teacher": "黃錦華,江宜芳,陳蓬桐,廖揚立,李月仙,黃鈺婷,黃琝琇,林慶隆,鄭妃君,林喬偉,陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0842",
@@ -960,7 +1003,7 @@
             "cls_name": "商學進修四學位學程甲班",
             "scr_period": "(一)11-13 商303 陳蓬桐",
             "scr_precnt": 90.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35541",
@@ -968,7 +1011,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳蓬桐"
+            "scr_teacher": "陳蓬桐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0843",
@@ -990,7 +1034,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鈺婷,鄭妃君,陳亭廷"
+            "scr_teacher": "黃鈺婷,鄭妃君,陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0844",
@@ -1004,7 +1049,7 @@
             "cls_name": "商學進修四學位學程甲班",
             "scr_period": "(四)11-13 紀207(電腦實習室) 張久大,鄭妃君",
             "scr_precnt": 90.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35541",
@@ -1012,7 +1057,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張久大,鄭妃君"
+            "scr_teacher": "張久大,鄭妃君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0840",
@@ -1034,7 +1080,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃錦華,江宜芳,陳蓬桐,廖揚立,李月仙,黃鈺婷,黃琝琇,林慶隆,鄭妃君,林喬偉,陳亭廷"
+            "scr_teacher": "黃錦華,江宜芳,陳蓬桐,廖揚立,李月仙,黃鈺婷,黃琝琇,林慶隆,鄭妃君,林喬偉,陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0842",
@@ -1048,7 +1095,7 @@
             "cls_name": "商學進修四學位學程乙班",
             "scr_period": "(一)11-13 商303 陳蓬桐",
             "scr_precnt": 90.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35542",
@@ -1056,7 +1103,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳蓬桐"
+            "scr_teacher": "陳蓬桐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0843",
@@ -1078,7 +1126,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃鈺婷,鄭妃君,陳亭廷"
+            "scr_teacher": "黃鈺婷,鄭妃君,陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0844",
@@ -1092,7 +1141,7 @@
             "cls_name": "商學進修四學位學程乙班",
             "scr_period": "(四)11-13 紀207(電腦實習室) 張久大,鄭妃君",
             "scr_precnt": 90.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": " ",
             "unt_ls": 4134,
             "cls_id": "CB35542",
@@ -1100,7 +1149,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張久大,鄭妃君"
+            "scr_teacher": "張久大,鄭妃君",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0841",
@@ -1114,7 +1164,7 @@
             "cls_name": "商學進修四學位學程合班",
             "scr_period": "(三)11-13 商206 林俊宏",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 22.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35549",
@@ -1122,7 +1172,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林俊宏"
+            "scr_teacher": "林俊宏",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0845",
@@ -1136,7 +1187,7 @@
             "cls_name": "商學進修四學位學程合班",
             "scr_period": "(一)11-13 商203 陳亭廷",
             "scr_precnt": 84.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35549",
@@ -1144,7 +1195,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳亭廷"
+            "scr_teacher": "陳亭廷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0846",
@@ -1158,7 +1210,7 @@
             "cls_name": "商學進修四學位學程合班",
             "scr_period": "(二)11-13 商107 陳亭廷",
             "scr_precnt": 86.0,
-            "scr_acptcnt": 16.0,
+            "scr_acptcnt": 20.0,
             "scr_remarks": null,
             "unt_ls": 4134,
             "cls_id": "CB35549",
@@ -1166,7 +1218,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳亭廷"
+            "scr_teacher": "陳亭廷",
+            "scr_date": "全學期"
         }
     ]
 }

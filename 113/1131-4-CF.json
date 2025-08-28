@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張倉耀"
+            "scr_teacher": "張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1986",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳盛通,賴文祥,高承恕"
+            "scr_teacher": "陳盛通,賴文祥,高承恕",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1987",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "張倉耀"
+            "scr_teacher": "張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1988",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "簡正儀,陳清和,謝依婷,呂瑞秋"
+            "scr_teacher": "簡正儀,陳清和,謝依婷,呂瑞秋",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1989",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游志平,王健航,謝依婷,張永郎,曾鹿鳴,梁穎誼,張吉宏,宮可倫,黃迎珈"
+            "scr_teacher": "游志平,王健航,謝依婷,張永郎,曾鹿鳴,梁穎誼,張吉宏,宮可倫,黃迎珈",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1990",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游志平,陳盛通,陳森松,吳仰哲,張倉耀"
+            "scr_teacher": "游志平,陳盛通,陳森松,吳仰哲,張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1991",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游志平,王健航,陳彥志,李宗儒"
+            "scr_teacher": "游志平,王健航,陳彥志,李宗儒",
+            "scr_date": "全學期"
         }
     ]
 }

@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江向才,沈政安,黃瓊如"
+            "scr_teacher": "江向才,沈政安,黃瓊如",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0662",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳廣文,邱世寬,林豐智"
+            "scr_teacher": "吳廣文,邱世寬,林豐智",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0663",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳廣文"
+            "scr_teacher": "吳廣文",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0664",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高承恕,佘日新,邱世寬"
+            "scr_teacher": "高承恕,佘日新,邱世寬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0665",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李元恕,江向才,丁美靜,林哲彥,翁慈青,林豐智,高承恕,許士軍"
+            "scr_teacher": "李元恕,江向才,丁美靜,林哲彥,翁慈青,林豐智,高承恕,許士軍",
+            "scr_date": "全學期"
         }
     ]
 }

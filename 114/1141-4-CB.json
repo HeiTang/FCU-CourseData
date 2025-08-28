@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃瓊如,高承恕"
+            "scr_teacher": "黃瓊如,高承恕",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0710",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翁慈青,林慶隆,江向才"
+            "scr_teacher": "翁慈青,林慶隆,江向才",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0711",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "翁慈青"
+            "scr_teacher": "翁慈青",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0712",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴文祥,林哲彥"
+            "scr_teacher": "賴文祥,林哲彥",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0713",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李元恕,簡士超"
+            "scr_teacher": "李元恕,簡士超",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0714",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翁慈青,賴文祥,李元恕,莫西大衛,江向才,邱世寬,林美惠"
+            "scr_teacher": "翁慈青,賴文祥,李元恕,莫西大衛,江向才,邱世寬,林美惠",
+            "scr_date": "全學期"
         }
     ]
 }

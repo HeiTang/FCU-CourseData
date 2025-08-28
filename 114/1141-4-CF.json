@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張倉耀,陳盛通,陳森松"
+            "scr_teacher": "張倉耀,陳盛通,陳森松",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1943",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "高承恕,陳盛通,賴文祥,徐偉傑"
+            "scr_teacher": "高承恕,陳盛通,賴文祥,徐偉傑",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1944",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "陳彥志"
+            "scr_teacher": "陳彥志",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1945",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宮可倫,陳清和,許文彥,謝依婷,陳彥志,張永郎"
+            "scr_teacher": "宮可倫,陳清和,許文彥,謝依婷,陳彥志,張永郎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1946",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許文彥,呂瑞秋,梁馨予,陳彥志,劉炳麟,梁穎誼,陳盛通"
+            "scr_teacher": "許文彥,呂瑞秋,梁馨予,陳彥志,劉炳麟,梁穎誼,陳盛通",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1947",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳盛通,陳麗君,李宗儒,陳森松,張倉耀"
+            "scr_teacher": "陳盛通,陳麗君,李宗儒,陳森松,張倉耀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1948",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李宗儒,陳彥志,陳麗君,游志平"
+            "scr_teacher": "李宗儒,陳彥志,陳麗君,游志平",
+            "scr_date": "全學期"
         }
     ]
 }

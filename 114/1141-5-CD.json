@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋禎"
+            "scr_teacher": "曾韋禎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0922",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋禎"
+            "scr_teacher": "曾韋禎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0923",
@@ -58,7 +60,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(四)11-12 學103 隋利儀",
             "scr_precnt": 10.0,
-            "scr_acptcnt": 40.0,
+            "scr_acptcnt": 39.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "隋利儀"
+            "scr_teacher": "隋利儀",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0924",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林威延"
+            "scr_teacher": "林威延",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0925",
@@ -102,7 +106,7 @@
             "cls_name": "營管進修一",
             "scr_period": "(三)11-13 學103 黃同瑤",
             "scr_precnt": 10.0,
-            "scr_acptcnt": 47.0,
+            "scr_acptcnt": 46.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06510",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃同瑤"
+            "scr_teacher": "黃同瑤",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0926",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝一郎"
+            "scr_teacher": "謝一郎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3572",
@@ -154,7 +160,8 @@
             "scr_dup": "016",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王紹平"
+            "scr_teacher": "王紹平",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0927",
@@ -176,7 +183,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉至軒"
+            "scr_teacher": "劉至軒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0928",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉至軒"
+            "scr_teacher": "劉至軒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0929",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊財福"
+            "scr_teacher": "莊財福",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0930",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "莊財福"
+            "scr_teacher": "莊財福",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0931",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "詹智捷"
+            "scr_teacher": "詹智捷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0932",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "柯貴勝"
+            "scr_teacher": "柯貴勝",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0933",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林建良"
+            "scr_teacher": "林建良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0934",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0935",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾韋禎"
+            "scr_teacher": "曾韋禎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0936",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林慶昌"
+            "scr_teacher": "林慶昌",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0937",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃介原"
+            "scr_teacher": "黃介原",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0938",
@@ -410,7 +428,7 @@
             "cls_name": "營管進修三",
             "scr_period": "(五)13-14 學102 蔡佩珊",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 6.0,
+            "scr_acptcnt": 7.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06530",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡佩珊"
+            "scr_teacher": "蔡佩珊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0939",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0940",
@@ -454,7 +474,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(四)11-12 學101 鄭永發",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 42.0,
+            "scr_acptcnt": 43.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭永發"
+            "scr_teacher": "鄭永發",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0941",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "詹智捷"
+            "scr_teacher": "詹智捷",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0942",
@@ -498,7 +520,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(一)14     學101",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 42.0,
             "scr_remarks": " ",
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0943",
@@ -520,7 +543,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(三)11-13 商301(電腦實習室)",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 33.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " "
+            "scr_teacher": " ",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0944",
@@ -542,7 +566,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(五)13-14 學101 張民岦,許聖富",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 14.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張民岦,許聖富"
+            "scr_teacher": "張民岦,許聖富",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0945",
@@ -564,7 +589,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(五)11-12 土402 謝一郎",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 31.0,
+            "scr_acptcnt": 36.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -572,7 +597,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝一郎"
+            "scr_teacher": "謝一郎",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0946",
@@ -586,7 +612,7 @@
             "cls_name": "營管進修四",
             "scr_period": "(二)11-13 土302(電腦實習室) 賴威昇",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 18.0,
             "scr_remarks": null,
             "unt_ls": 4616,
             "cls_id": "CD06540",
@@ -594,7 +620,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴威昇"
+            "scr_teacher": "賴威昇",
+            "scr_date": "全學期"
         }
     ]
 }

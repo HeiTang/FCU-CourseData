@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪浩,劉世慶,陳厚儒"
+            "scr_teacher": "汪浩,劉世慶,陳厚儒",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2944",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "翟本瑞"
+            "scr_teacher": "翟本瑞",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2945",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴奇厚,呂晃志,施孟芬"
+            "scr_teacher": "賴奇厚,呂晃志,施孟芬",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "2946",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "吳周燕"
+            "scr_teacher": "吳周燕",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3703",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "汪浩"
+            "scr_teacher": "汪浩",
+            "scr_date": "全學期"
         }
     ]
 }

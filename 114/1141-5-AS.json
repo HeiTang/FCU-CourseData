@@ -22,7 +22,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "凃昭伃"
+            "scr_teacher": "凃昭伃",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0897",
@@ -44,7 +45,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "顏銘俊"
+            "scr_teacher": "顏銘俊",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0898",
@@ -66,7 +68,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋玉真,黎淑婷,李英弘,林葳"
+            "scr_teacher": "宋玉真,黎淑婷,李英弘,林葳",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0899",
@@ -88,7 +91,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "凃昭伃,莊澤均,楊淨伍,葉建甫"
+            "scr_teacher": "凃昭伃,莊澤均,楊淨伍,葉建甫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0900",
@@ -110,7 +114,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃俊賓"
+            "scr_teacher": "黃俊賓",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0901",
@@ -132,7 +137,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐雁"
+            "scr_teacher": "徐雁",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0902",
@@ -146,7 +152,7 @@
             "cls_name": "室設進修一",
             "scr_period": "(四)11-12 忠209 鄭志揚",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 4.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -154,7 +160,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "鄭志揚"
+            "scr_teacher": "鄭志揚",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "3571",
@@ -168,7 +175,7 @@
             "cls_name": "室設進修一",
             "scr_period": "(一)11-12 商107 王紹平",
             "scr_precnt": 65.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 31.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01510",
@@ -176,7 +183,8 @@
             "scr_dup": "015",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王紹平"
+            "scr_teacher": "王紹平",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0903",
@@ -198,7 +206,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林佳慧"
+            "scr_teacher": "林佳慧",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0905",
@@ -220,7 +229,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林佳慧,蔡佩娟,林建帆"
+            "scr_teacher": "林佳慧,蔡佩娟,林建帆",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0906",
@@ -242,7 +252,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "謝銘峯"
+            "scr_teacher": "謝銘峯",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0907",
@@ -264,7 +275,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋非凡"
+            "scr_teacher": "宋非凡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0908",
@@ -286,7 +298,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林幸長,周郁森"
+            "scr_teacher": "林幸長,周郁森",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0909",
@@ -308,7 +321,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "歐雙磐"
+            "scr_teacher": "歐雙磐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0910",
@@ -330,7 +344,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宋非凡"
+            "scr_teacher": "宋非凡",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0911",
@@ -344,7 +359,7 @@
             "cls_name": "室設進修三",
             "scr_period": "(六)06-09 忠612A 邱嫈蓮,蕭俊碩",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 26.0,
+            "scr_acptcnt": 28.0,
             "scr_remarks": " ",
             "unt_ls": 5007,
             "cls_id": "CD01530",
@@ -352,7 +367,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱嫈蓮,蕭俊碩"
+            "scr_teacher": "邱嫈蓮,蕭俊碩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0912",
@@ -374,7 +390,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良"
+            "scr_teacher": "林衍良",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0913",
@@ -396,7 +413,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "五十嵐信夫"
+            "scr_teacher": "五十嵐信夫",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0914",
@@ -418,7 +436,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "曾健洲"
+            "scr_teacher": "曾健洲",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0915",
@@ -440,7 +459,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蕭俊碩"
+            "scr_teacher": "蕭俊碩",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0916",
@@ -462,7 +482,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "歐雙磐"
+            "scr_teacher": "歐雙磐",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0917",
@@ -484,7 +505,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐子軒,李元榮,徐光華,張創霖"
+            "scr_teacher": "徐子軒,李元榮,徐光華,張創霖",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0918",
@@ -498,7 +520,7 @@
             "cls_name": "室設進修四",
             "scr_period": "(三)11-12 忠208 林建榮",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 8.0,
+            "scr_acptcnt": 12.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01540",
@@ -506,7 +528,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林建榮"
+            "scr_teacher": "林建榮",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0919",
@@ -520,7 +543,7 @@
             "cls_name": "室設進修四",
             "scr_period": "(二)11-12 忠208 許進城",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 4.0,
+            "scr_acptcnt": 9.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01540",
@@ -528,7 +551,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許進城"
+            "scr_teacher": "許進城",
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "0920",
@@ -542,7 +566,7 @@
             "cls_name": "室設進修四",
             "scr_period": "(二)13-14 忠208 石淑燕",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 13.0,
+            "scr_acptcnt": 19.0,
             "scr_remarks": null,
             "unt_ls": 5007,
             "cls_id": "CD01540",
@@ -550,7 +574,8 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "石淑燕"
+            "scr_teacher": "石淑燕",
+            "scr_date": "全學期"
         }
     ]
 }
