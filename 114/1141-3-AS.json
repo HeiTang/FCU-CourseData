@@ -35,7 +35,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築碩一學位學程",
-            "scr_period": "(三)00     待排 林衍良",
+            "scr_period": "(三)00     待排 吳保寬",
             "scr_precnt": 0.0,
             "scr_acptcnt": 27.0,
             "scr_remarks": " ",
@@ -45,7 +45,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "林衍良",
+            "scr_teacher": "吳保寬",
             "scr_date": "全學期"
         },
         {
@@ -58,7 +58,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築碩一學位學程",
-            "scr_period": "(五)00     待排 林衍良",
+            "scr_period": "(五)00     待排 吳保寬",
             "scr_precnt": 60.0,
             "scr_acptcnt": 1.0,
             "scr_remarks": null,
@@ -68,7 +68,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良",
+            "scr_teacher": "吳保寬",
             "scr_date": "全學期"
         },
         {
@@ -150,7 +150,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築碩一學位學程",
-            "scr_period": "(四)07-09 行211 (五)07-08 行211 謝銘峯,林幸長",
+            "scr_period": "(四)07-09 行211 謝銘峯,林幸長",
             "scr_precnt": 30.0,
             "scr_acptcnt": 4.0,
             "scr_remarks": null,
@@ -288,7 +288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築碩二學位學程",
-            "scr_period": "(五)00     待排 林衍良",
+            "scr_period": "(五)00     待排 吳保寬",
             "scr_precnt": 60.0,
             "scr_acptcnt": 1.0,
             "scr_remarks": null,
@@ -298,7 +298,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林衍良",
+            "scr_teacher": "吳保寬",
             "scr_date": "全學期"
         }
     ]
