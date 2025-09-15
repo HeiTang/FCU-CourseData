@@ -1400,7 +1400,7 @@
             "cls_id": "CE19320",
             "sub_id": "54021",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "蔡鈺鼎",
             "scr_date": "全學期"
@@ -2590,7 +2590,7 @@
             "cls_name": "光電碩一",
             "scr_period": "(一)02-04 理101 林文凱",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 17.0,
+            "scr_acptcnt": 16.0,
             "scr_remarks": null,
             "unt_ls": 4016,
             "cls_id": "CS06310",
