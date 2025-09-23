@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 121,
+    "total": 120,
     "items": [
         {
             "scr_selcode": "0182",
@@ -1012,29 +1012,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "文子豐,蔡明諺,陳榮森,曾慶泓,劉人楷,葉爾康,簡仲明,林育德",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "0602",
-            "sub_id3": "STAT6034",
-            "sub_name": "調查設計與分析",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "統精碩二",
-            "scr_period": "(二)07-09 待排",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "課程停開，請同學辦理退選。",
-            "unt_ls": 4105,
-            "cls_id": "CB07320",
-            "sub_id": "66810",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
