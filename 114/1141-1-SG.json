@@ -1,30 +1,7 @@
 {
     "message": "",
-    "total": 9,
+    "total": 8,
     "items": [
-        {
-            "scr_selcode": "2903",
-            "sub_id3": "IDSS3009",
-            "sub_name": "社會影響力實作",
-            "scr_credit": 1.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "社會創新學院綜合班",
-            "scr_period": "(四)06     文301 汪浩",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 6.0,
-            "scr_remarks": null,
-            "unt_ls": 3702,
-            "cls_id": "SX02100",
-            "sub_id": "19188",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "汪浩",
-            "scr_date": "全學期"
-        },
         {
             "scr_selcode": "2904",
             "sub_id3": "IDSS3010",
