@@ -250,7 +250,7 @@
             "cls_id": "CB00101",
             "sub_id": "31302",
             "scr_dup": "002",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "Y",
             "scr_teacher": "陳品如,吳周燕,林建同",
             "scr_date": "全學期"
@@ -503,7 +503,7 @@
             "cls_id": "CB01111",
             "sub_id": "48602",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
             "scr_teacher": "黃鈺茗",
             "scr_date": "全學期"
@@ -825,7 +825,7 @@
             "cls_id": "CB01112",
             "sub_id": "48602",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
             "scr_teacher": "黃鈺茗",
             "scr_date": "全學期"
@@ -1124,7 +1124,7 @@
             "cls_id": "CB01113",
             "sub_id": "48602",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
             "scr_teacher": "黃鈺茗",
             "scr_date": "全學期"
@@ -6276,7 +6276,7 @@
             "cls_id": "CB02113",
             "sub_id": "48602",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
             "scr_teacher": "黃鈺茗",
             "scr_date": "全學期"
