@@ -58,7 +58,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "全民國防教育課程",
-            "scr_period": "(三)06-07 忠B03 古陳蜀東,賴昆厚",
+            "scr_period": "(三)06-07 忠B03 古陳蜀東,李建勲",
             "scr_precnt": 80.0,
             "scr_acptcnt": 101.0,
             "scr_remarks": null,
@@ -68,7 +68,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "古陳蜀東,賴昆厚",
+            "scr_teacher": "古陳蜀東,李建勲",
             "scr_date": "全學期"
         },
         {
@@ -81,9 +81,9 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "全民國防教育課程",
-            "scr_period": "(二)01-02 忠B08 李建勲,洪靜茹",
+            "scr_period": "(二)01-02 忠B08 李建勲,古陳蜀東",
             "scr_precnt": 80.0,
-            "scr_acptcnt": 97.0,
+            "scr_acptcnt": 95.0,
             "scr_remarks": null,
             "unt_ls": 8888,
             "cls_id": "XH01101",
@@ -91,7 +91,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李建勲,洪靜茹",
+            "scr_teacher": "李建勲,古陳蜀東",
             "scr_date": "全學期"
         },
         {
