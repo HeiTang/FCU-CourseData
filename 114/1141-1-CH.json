@@ -796,7 +796,7 @@
             "cls_name": "中文二",
             "scr_period": "(二)06-07 圖116游翰堂 程代勒",
             "scr_precnt": 40.0,
-            "scr_acptcnt": 41.0,
+            "scr_acptcnt": 39.0,
             "scr_remarks": null,
             "unt_ls": 4405,
             "cls_id": "CS04120",
@@ -1369,7 +1369,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一甲",
-            "scr_period": "(二)02-04 人708",
+            "scr_period": "(二)02-04 人708 金昭龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 27.0,
             "scr_remarks": "限外文系學生。",
@@ -1379,7 +1379,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "金昭龍",
             "scr_date": "全學期"
         },
         {
@@ -1714,7 +1714,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "外文一乙",
-            "scr_period": "(一)02-04 人708",
+            "scr_period": "(一)02-04 人708 金昭龍",
             "scr_precnt": 40.0,
             "scr_acptcnt": 23.0,
             "scr_remarks": "限外文系學生。",
@@ -1724,7 +1724,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "金昭龍",
             "scr_date": "全學期"
         },
         {
