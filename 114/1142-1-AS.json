@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 81,
+    "total": 82,
     "items": [
         {
             "scr_selcode": "0001",
@@ -61,7 +61,7 @@
             "scr_period": "(五)06-07 行213",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": null,
+            "scr_remarks": "本課程為建築專業學院探索課程，限非建築專業學院大一學生修習。",
             "unt_ls": 5000,
             "cls_id": "AS00100",
             "sub_id": "40748",
@@ -1564,6 +1564,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "Lorena Alessio",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3496",
+            "sub_id3": "ID2321",
+            "sub_name": "室內設計風格",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "室內設計二",
+            "scr_period": "(一)06-07 忠302 林葳",
+            "scr_precnt": 45.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 5004,
+            "cls_id": "AS03120",
+            "sub_id": "25543",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林葳",
             "scr_date": "全學期"
         },
         {
