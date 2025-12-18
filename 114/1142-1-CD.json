@@ -35,7 +35,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設學院綜合班",
-            "scr_period": "(五)06-07 紀301智慧城市共享學習堂 蘇昭銘,曾梓峰",
+            "scr_period": "(五)06-07 紀301智慧城市共享學習堂 莊永忠,黃彥斐,蘇昭銘,吳銘順,張育端,王忠融,曾梓峰,林威延,林秉賢,吳沛儒,劉立偉,朱正永",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程為建設學院探索課程，限非建設學院大一學生修習。",
@@ -45,7 +45,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蘇昭銘,曾梓峰",
+            "scr_teacher": "莊永忠,黃彥斐,蘇昭銘,吳銘順,張育端,王忠融,曾梓峰,林威延,林秉賢,吳沛儒,劉立偉,朱正永",
             "scr_date": "全學期"
         },
         {
@@ -7096,7 +7096,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二甲",
-            "scr_period": "(五)06-07 紀110 王忠融",
+            "scr_period": "(三)03-04 紀209B 王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7211,7 +7211,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二甲",
-            "scr_period": "(四)06-08 科航203 張育端",
+            "scr_period": "(四)06-08 科航203 張育端,謝錦龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7221,7 +7221,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張育端",
+            "scr_teacher": "張育端,謝錦龍",
             "scr_date": "全學期"
         },
         {
@@ -7441,7 +7441,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(五)06-07 紀110 王忠融",
+            "scr_period": "(三)03-04 紀209B 王忠融",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7556,7 +7556,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(四)06-08 科航203 張育端",
+            "scr_period": "(四)06-08 科航203 張育端,謝錦龍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7566,7 +7566,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張育端",
+            "scr_teacher": "張育端,謝錦龍",
             "scr_date": "全學期"
         },
         {

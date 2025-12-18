@@ -58,8 +58,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業學院綜合班",
-            "scr_period": "(五)06-07 行213",
-            "scr_precnt": 30.0,
+            "scr_period": "(五)06-07 忠305",
+            "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程為建築專業學院探索課程，限非建築專業學院大一學生修習。",
             "unt_ls": 5000,
@@ -127,7 +127,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業學院綜合班",
-            "scr_period": null,
+            "scr_period": "(一)00     未排教室 顏貽祥",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -137,7 +137,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "顏貽祥",
             "scr_date": "全學期"
         },
         {
@@ -702,7 +702,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築二學位學程",
-            "scr_period": "(一)06-07 忠501",
+            "scr_period": "(一)06-07 忠501 陳彥伯",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -712,7 +712,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳彥伯",
             "scr_date": "全學期"
         },
         {
@@ -955,7 +955,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築三學位學程",
-            "scr_period": null,
+            "scr_period": "(五)00     未排教室 林幸長",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "國內深度實習",
@@ -965,7 +965,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "林幸長",
             "scr_date": "全學期"
         },
         {
@@ -1047,7 +1047,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築四學位學程",
-            "scr_period": "(四)01-02 行政二館205(視聽室)",
+            "scr_period": "(四)01-02 行政二館205(視聽室) 方怡仁",
             "scr_precnt": 130.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1057,7 +1057,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "方怡仁",
             "scr_date": "全學期"
         },
         {
@@ -1093,7 +1093,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築四學位學程",
-            "scr_period": null,
+            "scr_period": "(五)00     未排教室 吳保寬",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1103,7 +1103,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "吳保寬",
             "scr_date": "全學期"
         },
         {
@@ -1139,7 +1139,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築四學位學程",
-            "scr_period": "(二)06-07 忠501",
+            "scr_period": "(二)06-07 忠501 郭俊沛",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "郭俊沛老師講授",
@@ -1149,7 +1149,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "郭俊沛",
             "scr_date": "全學期"
         },
         {
@@ -1185,7 +1185,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築五學位學程",
-            "scr_period": "(二)08-09 忠501",
+            "scr_period": "(二)08-09 忠501 郭俊沛",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1195,7 +1195,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "郭俊沛",
             "scr_date": "全學期"
         },
         {
@@ -1507,7 +1507,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(四)03-04 忠308",
+            "scr_period": "(四)03-04 忠308 李元榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1517,7 +1517,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李元榮",
             "scr_date": "全學期"
         },
         {
@@ -1783,7 +1783,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計三",
-            "scr_period": "(四)06-07 忠310",
+            "scr_period": "(四)06-07 忠310 郭品妤",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1793,7 +1793,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "郭品妤",
             "scr_date": "全學期"
         },
         {
@@ -1875,7 +1875,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計四",
-            "scr_period": "(二)03-04 忠302",
+            "scr_period": "(二)03-04 忠302 楊學展",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "楊學展老師講授",
@@ -1885,7 +1885,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "楊學展",
             "scr_date": "全學期"
         }
     ]
