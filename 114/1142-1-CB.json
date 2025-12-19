@@ -2542,7 +2542,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(三)03-04 語402 林柏豪",
+            "scr_period": "(三)03-04 資電B04 林柏豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「高等會計學(二)」正課",
@@ -2565,7 +2565,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(三)02     語402",
+            "scr_period": "(三)02     資電B04",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課及實習課皆須同班修習。",
@@ -3163,7 +3163,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管一甲",
-            "scr_period": "(二)06-07 語401 張珮禎",
+            "scr_period": "(二)06-07 語406 張珮禎",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「會計學(二)」正課",
@@ -3209,7 +3209,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管一甲",
-            "scr_period": "(二)08-09 語401 林書妤",
+            "scr_period": "(二)08-09 語406 林書妤",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -6107,7 +6107,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二甲",
-            "scr_period": "(五)11-13 商403",
+            "scr_period": "(五)11-13 商403 黃鼎恩",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6117,7 +6117,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃鼎恩",
             "scr_date": "全學期"
         },
         {
@@ -6498,7 +6498,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二乙",
-            "scr_period": "(五)11-13 商403",
+            "scr_period": "(五)11-13 商403 黃鼎恩",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6508,7 +6508,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃鼎恩",
             "scr_date": "全學期"
         },
         {
@@ -6912,7 +6912,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿二丙",
-            "scr_period": "(五)11-13 商403",
+            "scr_period": "(五)11-13 商403 黃鼎恩",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6922,7 +6922,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃鼎恩",
             "scr_date": "全學期"
         },
         {
@@ -7050,7 +7050,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三甲",
-            "scr_period": "(四)07-09 人404",
+            "scr_period": "(四)07-09 人404 蔡惠娟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7060,7 +7060,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡惠娟",
             "scr_date": "全學期"
         },
         {
@@ -7119,7 +7119,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三甲",
-            "scr_period": "(五)02-04 行政二館105-電腦實習室",
+            "scr_period": "(四)02-04 人705 凃雅玲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7129,7 +7129,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "凃雅玲",
             "scr_date": "全學期"
         },
         {
@@ -7188,7 +7188,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三甲",
-            "scr_period": "(二)06-08 語402",
+            "scr_period": "(二)06-08 語402 林詠龍",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7198,7 +7198,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林詠龍",
             "scr_date": "全學期"
         },
         {
@@ -7326,7 +7326,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三乙",
-            "scr_period": "(四)07-09 人404",
+            "scr_period": "(四)07-09 人404 蔡惠娟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7336,7 +7336,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡惠娟",
             "scr_date": "全學期"
         },
         {
@@ -7395,7 +7395,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三乙",
-            "scr_period": "(五)02-04 行政二館105-電腦實習室",
+            "scr_period": "(四)02-04 人705 凃雅玲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7405,7 +7405,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "凃雅玲",
             "scr_date": "全學期"
         },
         {
@@ -7464,7 +7464,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三乙",
-            "scr_period": "(二)06-08 語402",
+            "scr_period": "(二)06-08 語402 林詠龍",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7474,7 +7474,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林詠龍",
             "scr_date": "全學期"
         },
         {
@@ -7625,7 +7625,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三丙",
-            "scr_period": "(四)07-09 人404",
+            "scr_period": "(四)07-09 人404 蔡惠娟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7635,7 +7635,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡惠娟",
             "scr_date": "全學期"
         },
         {
@@ -7694,7 +7694,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三丙",
-            "scr_period": "(五)02-04 行政二館105-電腦實習室",
+            "scr_period": "(四)02-04 人705 凃雅玲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7704,7 +7704,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "凃雅玲",
             "scr_date": "全學期"
         },
         {
@@ -7763,7 +7763,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿三丙",
-            "scr_period": "(二)06-08 語402",
+            "scr_period": "(二)06-08 語402 林詠龍",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7773,7 +7773,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林詠龍",
             "scr_date": "全學期"
         },
         {
@@ -7878,7 +7878,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿四甲",
-            "scr_period": "(五)07-09 忠203",
+            "scr_period": "(五)07-09 忠203 林正璽",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7888,7 +7888,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林正璽",
             "scr_date": "全學期"
         },
         {
@@ -8016,7 +8016,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿四乙",
-            "scr_period": "(五)07-09 忠203",
+            "scr_period": "(五)07-09 忠203 林正璽",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -8026,7 +8026,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林正璽",
             "scr_date": "全學期"
         },
         {
@@ -8154,7 +8154,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿四丙",
-            "scr_period": "(五)07-09 忠203",
+            "scr_period": "(五)07-09 忠203 林正璽",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -8164,7 +8164,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林正璽",
             "scr_date": "全學期"
         },
         {
@@ -13168,7 +13168,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "合經二",
-            "scr_period": "(三)02-04 語401",
+            "scr_period": "(三)02-04 忠B05",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "李修瑋老師講授",

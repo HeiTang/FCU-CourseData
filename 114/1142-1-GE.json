@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 215,
+    "total": 214,
     "items": [
         {
             "scr_selcode": "2623",
@@ -1567,29 +1567,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "2938",
-            "sub_id3": "GEH1088",
-            "sub_name": "水墨造型設計",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(三)06-07 圖116游翰堂 鄭圓圓(鄭月妹)",
-            "scr_precnt": 40.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "是否列入畢業學分請至各系確認。",
-            "unt_ls": 8888,
-            "cls_id": "XC04111",
-            "sub_id": "GM514",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "鄭圓圓(鄭月妹)",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "2939",
             "sub_id3": "GEH1083",
             "sub_name": "硬筆書法的臨摹與應用",
@@ -1944,7 +1921,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(三)01-02 忠B02多功能教室 劉仲倫",
+            "scr_period": "(三)03-04 忠B02多功能教室 劉仲倫",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",

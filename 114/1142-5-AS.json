@@ -219,7 +219,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修二",
-            "scr_period": "(五)11-12 行211",
+            "scr_period": "(五)11-12 行211 柯智偉",
             "scr_precnt": 46.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -229,7 +229,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "柯智偉",
             "scr_date": "全學期"
         },
         {
@@ -426,7 +426,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修三",
-            "scr_period": "(五)11-12 行213",
+            "scr_period": "(五)11-12 行213 許瑞銘",
             "scr_precnt": 46.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -436,7 +436,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "許瑞銘",
             "scr_date": "全學期"
         },
         {
@@ -587,7 +587,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修四",
-            "scr_period": "(一)11-12 忠210",
+            "scr_period": "(一)11-12 忠210 林麗菁",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -597,7 +597,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林麗菁",
             "scr_date": "全學期"
         }
     ]
