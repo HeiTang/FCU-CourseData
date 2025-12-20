@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 685,
+    "total": 683,
     "items": [
         {
             "scr_selcode": "0066",
@@ -8384,7 +8384,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅一甲",
-            "scr_period": "(二)01     商202",
+            "scr_period": "(二)01     商202 林炎成",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8394,7 +8394,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林炎成",
             "scr_date": "全學期"
         },
         {
@@ -8660,7 +8660,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "財稅一乙",
-            "scr_period": "(一)06     商306",
+            "scr_period": "(一)06     商306 孫鈺峯",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8670,7 +8670,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "孫鈺峯",
             "scr_date": "全學期"
         },
         {
@@ -10132,7 +10132,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統計一乙",
-            "scr_period": "(四)08     商204",
+            "scr_period": "(四)08     商204 張其棟",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10142,7 +10142,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張其棟",
             "scr_date": "全學期"
         },
         {
@@ -11512,7 +11512,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "經濟一乙",
-            "scr_period": "(五)02     忠203",
+            "scr_period": "(五)02     忠203 陳子建",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -11522,7 +11522,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳子建",
             "scr_date": "全學期"
         },
         {
@@ -11894,29 +11894,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "0585",
-            "sub_id3": "ECON2034",
-            "sub_name": "資料科學導論：Python實踐",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "經濟二甲",
-            "scr_period": "(五)06-08 行政二館105-電腦實習室 陳孟瑋",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4106,
-            "cls_id": "CB08121",
-            "sub_id": "59486",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳孟瑋",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "0574",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -12167,29 +12144,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "紀沛妤",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "0585",
-            "sub_id3": "ECON2034",
-            "sub_name": "資料科學導論：Python實踐",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "經濟二乙",
-            "scr_period": "(五)06-08 行政二館105-電腦實習室 陳孟瑋",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4106,
-            "cls_id": "CB08122",
-            "sub_id": "59486",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳孟瑋",
             "scr_date": "全學期"
         },
         {
