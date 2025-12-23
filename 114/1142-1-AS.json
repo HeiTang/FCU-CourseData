@@ -196,7 +196,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業一甲",
-            "scr_period": null,
+            "scr_period": "(一)09     忠210 趙又嬋",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -206,7 +206,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "趙又嬋",
             "scr_date": "全學期"
         },
         {
@@ -380,7 +380,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業一乙",
-            "scr_period": null,
+            "scr_period": "(一)09     忠309 曾韋翔",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -390,7 +390,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "曾韋翔",
             "scr_date": "全學期"
         },
         {
@@ -518,7 +518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築二學位學程",
-            "scr_period": null,
+            "scr_period": "(一)09     忠305 林衍良",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -528,7 +528,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "林衍良",
             "scr_date": "全學期"
         },
         {
@@ -541,7 +541,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築二學位學程",
-            "scr_period": null,
+            "scr_period": "(一)09     忠308 周郁森",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -551,7 +551,7 @@
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "周郁森",
             "scr_date": "全學期"
         },
         {
@@ -1277,7 +1277,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計一",
-            "scr_period": null,
+            "scr_period": "(一)09     忠303 許宜珮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1287,7 +1287,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": "許宜珮",
             "scr_date": "全學期"
         },
         {
