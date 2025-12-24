@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 667,
+    "total": 665,
     "items": [
         {
             "scr_selcode": "0042",
@@ -6199,7 +6199,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太一甲",
-            "scr_period": "(二)06-07 科航203 (四)02     科航203 劉楊倫",
+            "scr_period": "(二)06-08 科航203 馬原懷",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -6209,7 +6209,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉楊倫",
+            "scr_teacher": "馬原懷",
             "scr_date": "全學期"
         },
         {
@@ -10928,29 +10928,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "2422",
-            "sub_id3": "EES3038",
-            "sub_name": "儀器分析",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "環境三甲",
-            "scr_period": "(一)02-04 理313 劉政樺",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4014,
-            "cls_id": "CS02131",
-            "sub_id": "67650",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "劉政樺",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "2423",
             "sub_id3": "EES3081",
             "sub_name": "學士論文",
@@ -11132,29 +11109,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "馮秋霞",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "2422",
-            "sub_id3": "EES3038",
-            "sub_name": "儀器分析",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "環境三乙",
-            "scr_period": "(一)02-04 理313 劉政樺",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4014,
-            "cls_id": "CS02132",
-            "sub_id": "67650",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "劉政樺",
             "scr_date": "全學期"
         },
         {
