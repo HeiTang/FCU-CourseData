@@ -227,7 +227,7 @@
             "cls_id": "CI00101",
             "sub_id": "27251",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "薛念林",
             "scr_date": "全學期"
@@ -4896,7 +4896,7 @@
             "cls_id": "CE09111",
             "sub_id": "27420",
             "scr_dup": "001",
-            "scr_ldl": "混成式學習",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "許騰仁",
             "scr_date": "全學期"
@@ -5172,7 +5172,7 @@
             "cls_id": "CE09112",
             "sub_id": "27420",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳宗毅",
             "scr_date": "全學期"
@@ -13521,7 +13521,7 @@
             "cls_id": "CI02131",
             "sub_id": "69971",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "呂威甫",
             "scr_date": "全學期"
@@ -13797,7 +13797,7 @@
             "cls_id": "CI02132",
             "sub_id": "69971",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "呂威甫",
             "scr_date": "全學期"
@@ -14671,7 +14671,7 @@
             "cls_id": "CI26110",
             "sub_id": "27400",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "郭崇韋",
             "scr_date": "全學期"
