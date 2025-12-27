@@ -35,7 +35,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業學院綜合班",
-            "scr_period": "(四)11-12 忠305 Nicolas Marechal",
+            "scr_period": "(四)11-12 線上 Nicolas Marechal",
             "scr_precnt": 90.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程將邀請Preston Hite(何平)老師, 周伸芳老師， Wendy Teo Boon Ting(張文婷)老師共同參與",
@@ -43,7 +43,7 @@
             "cls_id": "AS00100",
             "sub_id": "23511",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "Nicolas Marechal",
             "scr_date": "全學期"
@@ -173,7 +173,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築專業學院綜合班",
-            "scr_period": "(五)00     待排 凃昭伃",
+            "scr_period": "(五)00     線上 凃昭伃",
             "scr_precnt": 150.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -181,7 +181,7 @@
             "cls_id": "AS00100",
             "sub_id": "67169",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "凃昭伃",
             "scr_date": "全學期"
@@ -734,7 +734,7 @@
             "sub_id": "23102",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "Y",
+            "scr_english": "N",
             "scr_teacher": "Lorena Alessio",
             "scr_date": "全學期"
         },
@@ -1562,7 +1562,7 @@
             "sub_id": "23102",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "Y",
+            "scr_english": "N",
             "scr_teacher": "Lorena Alessio",
             "scr_date": "全學期"
         },
