@@ -43,7 +43,7 @@
             "cls_id": "AS00100",
             "sub_id": "23511",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "Nicolas Marechal",
             "scr_date": "全學期"
@@ -181,7 +181,7 @@
             "cls_id": "AS00100",
             "sub_id": "67169",
             "scr_dup": "001",
-            "scr_ldl": "線上教學On-line",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "凃昭伃",
             "scr_date": "全學期"
@@ -932,17 +932,17 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建築三學位學程",
-            "scr_period": "(二)08-09 忠209",
+            "scr_period": "(二)08-09 忠209 黃柏儒",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
-            "scr_remarks": "黃柏儒老師講授",
+            "scr_remarks": " ",
             "unt_ls": 5002,
             "cls_id": "CE03130",
             "sub_id": "27651",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃柏儒",
             "scr_date": "全學期"
         },
         {
@@ -1392,7 +1392,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(二)01-04 忠516(建製圖室) (二)06-09 忠516(建製圖室) 劉守書,呂耀中,黃俊賓,李元榮,張創霖",
+            "scr_period": "(二)01-04 忠516(建製圖室) (二)06-09 忠516(建製圖室) 劉守書,呂耀中,黃俊賓,李元榮,許盛鑫",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1402,7 +1402,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "劉守書,呂耀中,黃俊賓,李元榮,張創霖",
+            "scr_teacher": "劉守書,呂耀中,黃俊賓,李元榮,許盛鑫",
             "scr_date": "全學期"
         },
         {
@@ -1484,7 +1484,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(四)08-09 忠310",
+            "scr_period": "(四)08-09 忠310 李元榮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1494,7 +1494,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李元榮",
             "scr_date": "全學期"
         },
         {
@@ -1530,7 +1530,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(五)03-04 忠501",
+            "scr_period": "(五)03-04 忠501 謝靜宜",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1540,7 +1540,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "謝靜宜",
             "scr_date": "全學期"
         },
         {
@@ -1645,7 +1645,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計三",
-            "scr_period": "(四)03-04 忠202",
+            "scr_period": "(四)03-04 忠202 李嵩興",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1655,7 +1655,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李嵩興",
             "scr_date": "全學期"
         },
         {
