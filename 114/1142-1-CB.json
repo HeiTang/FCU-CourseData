@@ -81,7 +81,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學院綜合班",
-            "scr_period": "(二)11-12 商303 李滿春",
+            "scr_period": "(二)11-12 商303 賴家蓁",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.此班為綜合班，供重補修學生修習 2.須隨班修習「會計學(二)」正課 3.若要現場選課，請在「現場選課」期間至會計系辦加選",
@@ -91,7 +91,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李滿春",
+            "scr_teacher": "賴家蓁",
             "scr_date": "全學期"
         },
         {
@@ -1323,7 +1323,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計二乙",
-            "scr_period": "(三)09-10 商303 林柏豪",
+            "scr_period": "(三)09-10 商302 林柏豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「中級會計學(二)」正課",
@@ -2059,7 +2059,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三甲",
-            "scr_period": "(四)02     商303",
+            "scr_period": "(三)09     商303 武氏紅芳",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課及實習課皆須同班修習。",
@@ -2069,7 +2069,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "武氏紅芳",
             "scr_date": "全學期"
         },
         {
@@ -2243,7 +2243,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三甲",
-            "scr_period": "(三)11-13 商309",
+            "scr_period": "(三)11-13 商309 張文超",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2253,7 +2253,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張文超",
             "scr_date": "全學期"
         },
         {
@@ -2312,7 +2312,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三乙",
-            "scr_period": "(五)02     商402",
+            "scr_period": "(五)02     商402 高惠松",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2322,7 +2322,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "高惠松",
             "scr_date": "全學期"
         },
         {
@@ -2496,7 +2496,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三乙",
-            "scr_period": "(三)11-13 商309",
+            "scr_period": "(三)11-13 商309 張文超",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2506,7 +2506,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張文超",
             "scr_date": "全學期"
         },
         {
@@ -2565,7 +2565,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(三)02     資電B04",
+            "scr_period": "(三)02     資電B04 陳珮瀅",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課及實習課皆須同班修習。",
@@ -2575,7 +2575,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳珮瀅",
             "scr_date": "全學期"
         },
         {
@@ -2749,7 +2749,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計三丙",
-            "scr_period": "(三)11-13 商309",
+            "scr_period": "(三)11-13 商309 張文超",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2759,7 +2759,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張文超",
             "scr_date": "全學期"
         },
         {
@@ -5739,7 +5739,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國貿一丙",
-            "scr_period": "(三)06-08 商401 林介勝,劉世慶",
+            "scr_period": "(三)06-08 商401 林介勝",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5749,7 +5749,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林介勝,劉世慶",
+            "scr_teacher": "林介勝",
             "scr_date": "全學期"
         },
         {
@@ -15652,7 +15652,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "國企二學位學程",
-            "scr_period": "(三)02-04 人505 莫西大衛",
+            "scr_period": "(三)02-04 商514 莫西大衛",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "For BIBA students only",
