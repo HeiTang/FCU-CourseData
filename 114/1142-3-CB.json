@@ -196,7 +196,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計碩二",
-            "scr_period": "(四)06-08 商704 陳貴端",
+            "scr_period": "(四)06-08 商704 陳貴端,李儒哲",
             "scr_precnt": 25.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "於註冊選課日後方開放外所選課，此課程歡迎財法所及財稅所同選修。",
@@ -206,7 +206,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳貴端",
+            "scr_teacher": "陳貴端,李儒哲",
             "scr_date": "全學期"
         },
         {
@@ -748,7 +748,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "統精碩一",
-            "scr_period": "(三)06-08 商1011 廖揚立",
+            "scr_period": "(三)02-04 商1011 廖揚立",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2358,7 +2358,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)06-08 商804B 董正玫",
+            "scr_period": "(六)06-08 商804B 王凱立,董正玫",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2368,7 +2368,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "董正玫",
+            "scr_teacher": "王凱立,董正玫",
             "scr_date": "全學期"
         },
         {
@@ -2381,7 +2381,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專一學位學程",
-            "scr_period": "(六)02-04 商804B 林慶隆",
+            "scr_period": "(六)02-04 商804B 林慶隆,江向才",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2391,7 +2391,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林慶隆",
+            "scr_teacher": "林慶隆,江向才",
             "scr_date": "全學期"
         },
         {
@@ -2427,7 +2427,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學專業碩專二學位學程",
-            "scr_period": "(六)02-04 商804A 江向才",
+            "scr_period": "(六)02-04 商804A 江俊龍,江向才",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限商學專業碩士在職學位學程學生修習",
@@ -2437,7 +2437,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "江向才",
+            "scr_teacher": "江俊龍,江向才",
             "scr_date": "全學期"
         }
     ]
