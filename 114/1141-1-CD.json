@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 344,
+    "total": 345,
     "items": [
         {
             "scr_selcode": "0891",
@@ -2369,6 +2369,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "魏國彥",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "4822",
+            "sub_id3": "HY1035",
+            "sub_name": "微水力發電設計思考工作坊",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "水利資保一合",
+            "scr_period": "(一)00     待排 吳俊鋐",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 11.0,
+            "scr_remarks": null,
+            "unt_ls": 4603,
+            "cls_id": "CE02119",
+            "sub_id": "60367",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "吳俊鋐",
             "scr_date": "全學期"
         },
         {

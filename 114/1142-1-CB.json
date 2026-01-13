@@ -204,7 +204,7 @@
             "cls_id": "CB00101",
             "sub_id": "31364",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "Y",
             "scr_teacher": "王雅慧",
             "scr_date": "全學期"
@@ -9059,7 +9059,7 @@
             "cls_id": "CB05121",
             "sub_id": "42350",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "曾麗文",
             "scr_date": "全學期"
@@ -9266,7 +9266,7 @@
             "cls_id": "CB05122",
             "sub_id": "42350",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "曾麗文",
             "scr_date": "全學期"
@@ -15085,7 +15085,7 @@
             "cls_id": "CB26141",
             "sub_id": "69478",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
             "scr_teacher": "周進華",
             "scr_date": "全學期"
@@ -15200,7 +15200,7 @@
             "cls_id": "CB26142",
             "sub_id": "69478",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "混成式學習",
             "scr_english": "N",
             "scr_teacher": "周進華",
             "scr_date": "全學期"

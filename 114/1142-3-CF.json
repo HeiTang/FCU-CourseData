@@ -426,7 +426,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融碩專學一學位學程",
-            "scr_period": "(六)06-08 商103 宮可倫,呂瑞秋,張永郎",
+            "scr_period": "(六)06-08 商103 宮可倫,張永郎",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限金融碩士在職學位學程學生修習",
@@ -436,7 +436,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宮可倫,呂瑞秋,張永郎",
+            "scr_teacher": "宮可倫,張永郎",
             "scr_date": "全學期"
         },
         {
@@ -518,7 +518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融碩專學二學位學程",
-            "scr_period": "(六)02-04 商107 張倉耀,游志平,李宗儒",
+            "scr_period": "(六)02-04 商107 呂瑞秋,游志平",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限金融碩士在職學位學程學生修習",
@@ -528,7 +528,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張倉耀,游志平,李宗儒",
+            "scr_teacher": "呂瑞秋,游志平",
             "scr_date": "全學期"
         },
         {

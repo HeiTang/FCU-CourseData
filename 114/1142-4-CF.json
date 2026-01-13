@@ -35,7 +35,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融博一學位學程",
-            "scr_period": "(六)02-04 商701 葉俐廷,陳宗佑,吳如娟,張倉耀",
+            "scr_period": "(六)02-04 商701 葉俐廷,陳宗佑,吳如娟,陳彥志",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -45,7 +45,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "葉俐廷,陳宗佑,吳如娟,張倉耀",
+            "scr_teacher": "葉俐廷,陳宗佑,吳如娟,陳彥志",
             "scr_date": "全學期"
         },
         {
@@ -104,7 +104,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融博三學位學程",
-            "scr_period": "(六)02-04 商512 陳彥志,張倉耀,游志平,陳盛通",
+            "scr_period": "(六)02-04 商512 陳彥志,游志平,陳盛通",
             "scr_precnt": 15.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -114,7 +114,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳彥志,張倉耀,游志平,陳盛通",
+            "scr_teacher": "陳彥志,游志平,陳盛通",
             "scr_date": "全學期"
         }
     ]

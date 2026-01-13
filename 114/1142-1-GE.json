@@ -587,7 +587,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "全球氣候變遷與永續發展",
-            "scr_period": "(一)06-07 人B120A 莊閔越",
+            "scr_period": "(一)06-07 人B116A 莊閔越",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -1102,7 +1102,7 @@
             "sub_id": "GH215",
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "謝孟成",
             "scr_date": "全學期"
         },
@@ -1355,7 +1355,7 @@
             "sub_id": "GHE10",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "曾韻心",
             "scr_date": "全學期"
         },
@@ -1378,7 +1378,7 @@
             "sub_id": "GHE11",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "曾韻心",
             "scr_date": "全學期"
         },
@@ -1401,7 +1401,7 @@
             "sub_id": "GHE12",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "謝孟成",
             "scr_date": "全學期"
         },
@@ -1424,7 +1424,7 @@
             "sub_id": "GHE13",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "謝孟成",
             "scr_date": "全學期"
         },
@@ -1723,7 +1723,7 @@
             "sub_id": "GM672",
             "scr_dup": "002",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "陳蓓欣",
             "scr_date": "全學期"
         },
@@ -1884,7 +1884,7 @@
             "sub_id": "GM675",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "陳柏全",
             "scr_date": "全學期"
         },
@@ -2657,7 +2657,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人文藝術與社會經典教育",
-            "scr_period": "(五)03-04 人B119A 倪婉萍",
+            "scr_period": "(五)03-04 人203 倪婉萍",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
@@ -3356,7 +3356,7 @@
             "sub_id": "GHE04",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "曾韻心",
             "scr_date": "全學期"
         },
@@ -3448,7 +3448,7 @@
             "sub_id": "GM715",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "黃青雲",
             "scr_date": "全學期"
         },
@@ -3747,7 +3747,7 @@
             "sub_id": "GM732",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "陳柏全",
             "scr_date": "全學期"
         },
@@ -3885,7 +3885,7 @@
             "sub_id": "GM754",
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
-            "scr_english": "N",
+            "scr_english": "Y",
             "scr_teacher": "路威",
             "scr_date": "全學期"
         },
