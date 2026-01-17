@@ -35,7 +35,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木碩一",
-            "scr_period": "(一)06-08 土501 劉至軒",
+            "scr_period": "(一)06-08 V016教室(共善樓) 劉至軒",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -288,7 +288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保碩一",
-            "scr_period": "(一)07-09 土514 林秉賢",
+            "scr_period": "(一)07-09 土514 林秉賢,陳明陀",
             "scr_precnt": 18.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -298,7 +298,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林秉賢",
+            "scr_teacher": "林秉賢,陳明陀",
             "scr_date": "全學期"
         },
         {
@@ -495,7 +495,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流碩一",
-            "scr_period": "(二)08-10 紀412 吳沛儒",
+            "scr_period": "(二)08-10 V015教室(共善樓) 吳沛儒",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -587,7 +587,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資碩一",
-            "scr_period": "(四)02-04 行208(電腦實習室)",
+            "scr_period": "(四)02-04 行208(電腦實習室) 林嘉豪",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "林嘉豪",
@@ -597,7 +597,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林嘉豪",
             "scr_date": "全學期"
         },
         {
@@ -1254,7 +1254,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智慧城市碩一學位學程",
-            "scr_period": "(二)05     待排 (四)05     待排",
+            "scr_period": "(二)05     未排教室 (四)05     未排教室 方耀民,葉美伶,張建彥",
             "scr_precnt": 0.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1264,7 +1264,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "方耀民,葉美伶,張建彥",
             "scr_date": "全學期"
         },
         {

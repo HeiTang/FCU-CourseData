@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 28,
+    "total": 29,
     "items": [
         {
             "scr_selcode": "2762",
@@ -173,7 +173,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水土環境經理學程",
-            "scr_period": "(四)07-09 語206 林秉賢",
+            "scr_period": "(四)07-09 語206 林秉賢,黃志彰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -183,7 +183,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林秉賢",
+            "scr_teacher": "林秉賢,黃志彰",
             "scr_date": "全學期"
         },
         {
@@ -196,7 +196,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水土環境經理學程",
-            "scr_period": "(四)11-13 忠209 林秋裕",
+            "scr_period": "(四)11-13 忠308 陳明陀,林秋裕",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -206,7 +206,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林秋裕",
+            "scr_teacher": "陳明陀,林秋裕",
             "scr_date": "全學期"
         },
         {
@@ -426,8 +426,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "再生能源與永續社會學程",
-            "scr_period": "(三)06-08 忠B03 張逢源",
-            "scr_precnt": 60.0,
+            "scr_period": "(三)06-08 忠301 張逢源",
+            "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 8888,
@@ -449,8 +449,8 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "再生能源與永續社會學程",
-            "scr_period": "(二)06-08 忠B03 陳晉照,施孟芬",
-            "scr_precnt": 60.0,
+            "scr_period": "(二)06-08 忠301 陳晉照,施孟芬",
+            "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 8888,
@@ -598,6 +598,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "謝銘峯",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3531",
+            "sub_id3": "HSS3004",
+            "sub_name": "博物館入門",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "文學與文化創意學分學程",
+            "scr_period": "(二)06-07 人B119A 陳玉苹",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "PC88100",
+            "sub_id": "10030",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "陳玉苹",
             "scr_date": "全學期"
         },
         {

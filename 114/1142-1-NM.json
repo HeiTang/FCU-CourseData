@@ -311,7 +311,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商創二(RMIT)",
-            "scr_period": "(二)01-04 V012教室(共善樓) (四)09-10 V012教室(共善樓) 葉德輝",
+            "scr_period": "(二)01-04 V009教室(共善樓) (四)09-10 V009教室(共善樓) 葉德輝",
             "scr_precnt": 30.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "各節次結束時間:(二)1-4節6月2日止；(四)9-10節4月9日止",
@@ -874,7 +874,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "許佳璵",
-            "scr_date": "2026/02/24 ~ 2025/06/05"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2708",
@@ -966,7 +966,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "王益文",
-            "scr_date": "6026/02/24 ~ 2026/06/05"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2722",
@@ -1070,7 +1070,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工一(SFSU)",
-            "scr_period": "(一)09     商108 (五)03-04 商108 (五)07-09 科航103(物實驗室三) 林中一,李欣",
+            "scr_period": "(一)09     商108 (五)03-04 商108 (五)07-09 科航104(物實驗室四) 林中一,李欣",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1116,7 +1116,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工一(SFSU)",
-            "scr_period": "(一)02     V019教室(共善樓) (一)09     V019教室(共善樓) (二)01     V019教室(共善樓) 辛紹志",
+            "scr_period": "(一)02     V007教室(共善樓) (一)09     V007教室(共善樓) (二)01     V007教室(共善樓) 辛紹志",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1265,7 +1265,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "王益文",
-            "scr_date": "6026/02/24 ~ 2026/06/05"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2722",
@@ -1438,7 +1438,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工二(SFSU)",
-            "scr_period": "(三)03-04 V002教室(共善樓) (三)07-08 V002教室(共善樓) 林立謙",
+            "scr_period": "(三)03-04 V019教室(共善樓) (三)07-08 V019教室(共善樓) 林立謙",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "各節次結束時間:(三)3-4，7節6月3日止；(三)8\t節4月22日止",
@@ -1737,7 +1737,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工一(Monash)",
-            "scr_period": "(一)02     V019教室(共善樓) (一)09     V019教室(共善樓) (二)01     V019教室(共善樓) 辛紹志",
+            "scr_period": "(一)02     V007教室(共善樓) (一)09     V007教室(共善樓) (二)01     V007教室(共善樓) 辛紹志",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1932,7 +1932,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
             "scr_teacher": "王益文",
-            "scr_date": "6026/02/24 ~ 2026/06/05"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2741",
@@ -2059,7 +2059,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資工二(Monash)",
-            "scr_period": "(三)03-04 V002教室(共善樓) (三)07-08 V002教室(共善樓) 林立謙",
+            "scr_period": "(三)03-04 V019教室(共善樓) (三)07-08 V019教室(共善樓) 林立謙",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "各節次結束時間:(三)3-4，7節6月3日止；(三)8\t節4月22日止",
