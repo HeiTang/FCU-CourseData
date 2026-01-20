@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 92,
+    "total": 93,
     "items": [
         {
             "scr_selcode": "2005",
@@ -1311,6 +1311,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳孝武,林南州,林上智,林昱成,謝男凱,沈祖望,秦群立,邱創乾,廖本義,林育德,陳志成,黃建立,鄒慶福,陳鏡崑,黃清輝,張興政,劉益瑞,林賢龍,洪三山",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3566",
+            "sub_id3": "AUTO7004",
+            "sub_name": "虛實整合控制與AI機器人製程整合解決方案",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "自控碩二",
+            "scr_period": "(一)11-13 行208(電腦實習室) 彭志誠",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4504,
+            "cls_id": "CE12320",
+            "sub_id": "51590",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "彭志誠",
             "scr_date": "全學期"
         },
         {
