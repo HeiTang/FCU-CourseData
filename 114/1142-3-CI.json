@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 93,
+    "total": 92,
     "items": [
         {
             "scr_selcode": "2005",
@@ -739,29 +739,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "1495",
-            "sub_id3": "ELEN6022",
-            "sub_name": "智能影像辨識系統設計實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "電子碩一",
-            "scr_period": "(三)06-08 資電235(電腦實習室) 梁詩婷",
-            "scr_precnt": 15.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4502,
-            "cls_id": "CE09310",
-            "sub_id": "48349",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "梁詩婷",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "1496",
             "sub_id3": "ELEN6027",
             "sub_name": "電腦輔助計算手術科技應用",
@@ -1484,7 +1461,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊碩一",
-            "scr_period": "(二)02-04 電通401",
+            "scr_period": "(二)02-04 電通401 張安成",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1494,7 +1471,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張安成",
             "scr_date": "全學期"
         },
         {
@@ -1530,7 +1507,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊碩一",
-            "scr_period": "(五)06-08 電通401",
+            "scr_period": "(五)06-08 電通401 李志宏",
             "scr_precnt": 20.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1540,7 +1517,7 @@
             "scr_dup": "001",
             "scr_ldl": "混成式學習",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李志宏",
             "scr_date": "全學期"
         },
         {
