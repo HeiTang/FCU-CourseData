@@ -37,7 +37,7 @@
             "cls_name": "機械碩一",
             "scr_period": "(一)08     工204 蔡忠杓",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 27.0,
+            "scr_acptcnt": 26.0,
             "scr_remarks": " ",
             "unt_ls": 4001,
             "cls_id": "CE04310",
@@ -1162,7 +1162,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "綠色能源碩一學位學程",
-            "scr_period": "(二)11-13 學711-1 陳善慶,呂晃志,徐兆稹",
+            "scr_period": "(二)11-13 學711-1 呂晃志,Tran Thien Khanh,徐兆稹",
             "scr_precnt": 25.0,
             "scr_acptcnt": 25.0,
             "scr_remarks": null,
@@ -1172,7 +1172,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳善慶,呂晃志,徐兆稹",
+            "scr_teacher": "呂晃志,Tran Thien Khanh,徐兆稹",
             "scr_date": "全學期"
         },
         {
@@ -2174,7 +2174,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "數科碩一學位學程",
-            "scr_period": "(三)08-09 理406 (五)00       許銘修,林俊德,陳錫民,楊菁菁,王姿惠",
+            "scr_period": "(三)08-09 理406 (五)00     未排教室 李詠玄,林俊德,陳錫民,楊菁菁,王姿惠",
             "scr_precnt": 14.0,
             "scr_acptcnt": 12.0,
             "scr_remarks": " ",
@@ -2184,7 +2184,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "許銘修,林俊德,陳錫民,楊菁菁,王姿惠",
+            "scr_teacher": "李詠玄,林俊德,陳錫民,楊菁菁,王姿惠",
             "scr_date": "全學期"
         },
         {
