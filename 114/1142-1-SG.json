@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 2,
+    "total": 3,
     "items": [
         {
             "scr_selcode": "3568",
@@ -14,7 +14,7 @@
             "cls_name": "社會創新學院綜合班",
             "scr_period": "(四)10-11 文301 劉峰旗",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 3.0,
+            "scr_acptcnt": 5.0,
             "scr_remarks": null,
             "unt_ls": 3702,
             "cls_id": "SX02100",
@@ -37,7 +37,7 @@
             "cls_name": "社會創新學院綜合班",
             "scr_period": "(四)07-09 文301 汪浩,陳厚儒",
             "scr_precnt": 30.0,
-            "scr_acptcnt": 2.0,
+            "scr_acptcnt": 3.0,
             "scr_remarks": null,
             "unt_ls": 3702,
             "cls_id": "SX02100",
@@ -47,6 +47,29 @@
             "scr_english": "N",
             "scr_teacher": "汪浩,陳厚儒",
             "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3970",
+            "sub_id3": "IDSS3017",
+            "sub_name": "數位公益實作",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "社會創新學院綜合班",
+            "scr_period": "(六)03-04 文301 侯勝宗",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "本課程因實務操作需求，採密集授課，上課日期為 4/18、5/2、5/16、5/30 ，共計四週，週六09：00-16：00，選修此門課程同學請注意週六上午10:00-12:00此時段請勿選課，避免衝堂。",
+            "unt_ls": 3702,
+            "cls_id": "SX02100",
+            "sub_id": "62158",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "侯勝宗",
+            "scr_date": "2026/04/18 ~ 2026/05/30"
         }
     ]
 }
