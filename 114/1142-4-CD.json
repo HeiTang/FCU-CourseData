@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 18,
+    "total": 17,
     "items": [
         {
             "scr_selcode": "0951",
@@ -115,29 +115,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "黃青雲",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "1764",
-            "sub_id3": "IPE8050",
-            "sub_name": "系統動態學與決策制定分析",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "建規博一學位學程",
-            "scr_period": "(二)07-09 紀405 楊朝仲",
-            "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4609,
-            "cls_id": "CE14410",
-            "sub_id": "18362",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "楊朝仲",
             "scr_date": "全學期"
         },
         {

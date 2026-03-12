@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 37,
+    "total": 34,
     "items": [
         {
             "scr_selcode": "2762",
@@ -184,29 +184,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "林秉賢,黃志彰",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "2770",
-            "sub_id3": "HY3203",
-            "sub_name": "衛生工程規劃實務",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "水土環境經理學程",
-            "scr_period": "(四)11-13 忠308 陳明陀,林秋裕",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 17.0,
-            "scr_remarks": null,
-            "unt_ls": 8888,
-            "cls_id": "PC28100",
-            "sub_id": "70991",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳明陀,林秋裕",
             "scr_date": "全學期"
         },
         {
@@ -417,29 +394,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "2780",
-            "sub_id3": "GEST4029",
-            "sub_name": "永續能源與應用",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "再生能源與永續社會學程",
-            "scr_period": "(三)06-08 忠301 張逢源",
-            "scr_precnt": 45.0,
-            "scr_acptcnt": 5.0,
-            "scr_remarks": null,
-            "unt_ls": 8888,
-            "cls_id": "PC50100",
-            "sub_id": "08419",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "張逢源",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "2781",
             "sub_id3": "GEST4028",
             "sub_name": "產業綠色環境管理",
@@ -460,29 +414,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳晉照,施孟芬",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "2782",
-            "sub_id3": "COME2031",
-            "sub_name": "物聯網感測電路設計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "智慧物聯網學分學程",
-            "scr_period": "(五)06-08 資電402 陳家豪",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 7.0,
-            "scr_remarks": "可採計為智慧物聯網學分學程學分。",
-            "unt_ls": 8888,
-            "cls_id": "PC52100",
-            "sub_id": "22424",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳家豪",
             "scr_date": "全學期"
         },
         {
@@ -794,7 +725,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人工智慧探索應用學分學程",
-            "scr_period": "(五)03-05 人508 賴璉錡",
+            "scr_period": "(五)03-05 待排",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "臺灣大專院校人工智慧學程聯盟課程，加選後請留意O365信件通知，啟用NTU COOL平台。臺灣大學謝舒凱老師及本校賴璉錡老師共同授課。",
@@ -804,7 +735,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "賴璉錡",
+            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
