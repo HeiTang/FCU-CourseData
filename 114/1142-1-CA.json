@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 667,
+    "total": 665,
     "items": [
         {
             "scr_selcode": "0042",
@@ -2544,7 +2544,7 @@
             "cls_name": "纖複一",
             "scr_period": "(五)06-08 科航103(物實驗室三) 蔣平志",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 64.0,
+            "scr_acptcnt": 65.0,
             "scr_remarks": " ",
             "unt_ls": 4002,
             "cls_id": "CE05110",
@@ -9870,29 +9870,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "2378",
-            "sub_id3": "MATH4083",
-            "sub_name": "專業實習(三)",
-            "scr_credit": 9.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "應數四甲",
-            "scr_period": null,
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4013,
-            "cls_id": "CS01141",
-            "sub_id": "43039",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": null,
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "2379",
             "sub_id3": "MATH4088",
             "sub_name": "電子商務安全",
@@ -9982,29 +9959,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李詠玄",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "2378",
-            "sub_id3": "MATH4083",
-            "sub_name": "專業實習(三)",
-            "scr_credit": 9.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "應數四乙",
-            "scr_period": null,
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": null,
-            "unt_ls": 4013,
-            "cls_id": "CS01142",
-            "sub_id": "43039",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": null,
             "scr_date": "全學期"
         },
         {

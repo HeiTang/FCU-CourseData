@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 104,
+    "total": 103,
     "items": [
         {
             "scr_selcode": "0079",
@@ -207,29 +207,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳貴端,李儒哲",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "0176",
-            "sub_id3": "ACCT6090",
-            "sub_name": "寒期校外專業實習",
-            "scr_credit": 1.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "否",
-            "scr_examfn": "否",
-            "scr_exambf": "否",
-            "cls_name": "會計碩二",
-            "scr_period": "(四)05     待排",
-            "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "此門課程為專業實習，僅限本系學生選課，且需簽妥實習三方合約。",
-            "unt_ls": 4101,
-            "cls_id": "CB01320",
-            "sub_id": "44461",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
