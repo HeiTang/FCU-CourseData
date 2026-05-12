@@ -288,7 +288,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複碩二",
-            "scr_period": null,
+            "scr_period": "(五)00     待排",
             "scr_precnt": 0.0,
             "scr_acptcnt": 11.0,
             "scr_remarks": " ",
@@ -298,7 +298,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": null,
+            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
@@ -1369,7 +1369,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "智能工程碩專二學位學程",
-            "scr_period": "(六)00     未排教室 黃柏文,陳兆衡,王逸琦,方俊,彭信舒,周哲維,羅致卿,王啟昌,鍾健平,簡儀欣,林孟儒,蕭堯仁,曾怡享,黃錦煌,張淵仁,蔡鈺鼎,周育樂",
+            "scr_period": "(六)00     待排 黃柏文,陳兆衡,王逸琦,方俊,彭信舒,周哲維,羅致卿,王啟昌,鍾健平,簡儀欣,林孟儒,蕭堯仁,曾怡享,黃錦煌,張淵仁,蔡鈺鼎,周育樂",
             "scr_precnt": 0.0,
             "scr_acptcnt": 34.0,
             "scr_remarks": " ",
@@ -1380,7 +1380,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "黃柏文,陳兆衡,王逸琦,方俊,彭信舒,周哲維,羅致卿,王啟昌,鍾健平,簡儀欣,林孟儒,蕭堯仁,曾怡享,黃錦煌,張淵仁,蔡鈺鼎,周育樂",
-            "scr_date": " ~"
+            "scr_date": "全學期"
         },
         {
             "scr_selcode": "1823",
@@ -2059,7 +2059,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "數科碩一學位學程",
-            "scr_period": "(三)06-07 理406 (五)00     未排教室 李詠玄,林俊德,陳錫民,楊菁菁",
+            "scr_period": "(三)06-07 理406 (五)00     待排 李詠玄,林俊德,陳錫民,楊菁菁",
             "scr_precnt": 14.0,
             "scr_acptcnt": 11.0,
             "scr_remarks": " ",
