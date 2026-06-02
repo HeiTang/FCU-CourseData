@@ -932,7 +932,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "中文三",
-            "scr_period": "(三)03-04 科航201 梁雅英",
+            "scr_period": "(三)03-04 人B116A 梁雅英",
             "scr_precnt": 60.0,
             "scr_acptcnt": 55.0,
             "scr_remarks": " ",
@@ -1231,7 +1231,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "中文三",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 梁雅英",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1241,7 +1241,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "梁雅英",
             "scr_date": "全學期"
         },
         {

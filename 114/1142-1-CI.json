@@ -4175,7 +4175,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "資訊三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 劉明機,劉宗杰,郭士煒,李俊宏,薛念林",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4185,7 +4185,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "劉明機,劉宗杰,郭士煒,李俊宏,薛念林",
             "scr_date": "全學期"
         },
         {
@@ -7119,7 +7119,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電子三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 陳宗毅",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7129,7 +7129,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳宗毅",
             "scr_date": "全學期"
         },
         {
@@ -10063,7 +10063,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "電機三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 徐士賢",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10073,7 +10073,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "徐士賢",
             "scr_date": "全學期"
         },
         {
@@ -12156,7 +12156,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 劉承勳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -12166,7 +12166,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "劉承勳",
             "scr_date": "全學期"
         },
         {
@@ -13973,7 +13973,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通訊三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 袁世一,陸清達",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13983,7 +13983,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "袁世一,陸清達",
             "scr_date": "全學期"
         },
         {

@@ -1760,7 +1760,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 張庭維",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1770,7 +1770,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張庭維",
             "scr_date": "全學期"
         },
         {
@@ -3531,7 +3531,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 張嘉玲",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3541,7 +3541,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張嘉玲",
             "scr_date": "全學期"
         },
         {
@@ -5026,7 +5026,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "運輸物流三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 黃彥斐,吳佳真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -5036,7 +5036,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃彥斐,吳佳真",
             "scr_date": "全學期"
         },
         {
@@ -6199,7 +6199,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 徐逸祥",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6209,7 +6209,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "徐逸祥",
             "scr_date": "全學期"
         },
         {

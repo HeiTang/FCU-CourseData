@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 85,
+    "total": 84,
     "items": [
         {
             "scr_selcode": "0003",
@@ -851,29 +851,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "李英弘",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "1124",
-            "sub_id3": "ARCH2021",
-            "sub_name": "多媒材創作及技巧",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "建築二學位學程",
-            "scr_period": "(五)03-04 忠501 劉柏昇",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 5002,
-            "cls_id": "CE03120",
-            "sub_id": "81183",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "劉柏昇",
             "scr_date": "全學期"
         },
         {

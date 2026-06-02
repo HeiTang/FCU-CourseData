@@ -1921,7 +1921,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "機電三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 魏立儒,陳子夏",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1931,7 +1931,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "魏立儒,陳子夏",
             "scr_date": "全學期"
         },
         {
@@ -3163,7 +3163,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "纖複三",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 白乃夙",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3173,7 +3173,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "白乃夙",
             "scr_date": "全學期"
         },
         {
@@ -4359,7 +4359,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "工業三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 周哲維,林棋瑋,周育樂",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -4369,7 +4369,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "周哲維,林棋瑋,周育樂",
             "scr_date": "全學期"
         },
         {
@@ -6153,7 +6153,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "化工三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 曾怡享",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6163,7 +6163,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "曾怡享",
             "scr_date": "全學期"
         },
         {
@@ -7786,7 +7786,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "航太三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 張淵仁",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -7796,7 +7796,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "張淵仁",
             "scr_date": "全學期"
         },
         {
@@ -8591,7 +8591,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "精密系統三學位學程",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 康有評,陳瑞霖",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -8601,7 +8601,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "康有評,陳瑞霖",
             "scr_date": "全學期"
         },
         {
@@ -9603,7 +9603,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數三甲",
-            "scr_period": "(五)02-04 理404 林彩玉",
+            "scr_period": "(五)02-04 理205 林彩玉",
             "scr_precnt": 50.0,
             "scr_acptcnt": 30.0,
             "scr_remarks": "部分週次需要在理205電腦教室上課將於iLearn公告",
@@ -9810,7 +9810,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數三乙",
-            "scr_period": "(五)02-04 理404 林彩玉",
+            "scr_period": "(五)02-04 理205 林彩玉",
             "scr_precnt": 50.0,
             "scr_acptcnt": 30.0,
             "scr_remarks": "部分週次需要在理205電腦教室上課將於iLearn公告",
@@ -9971,7 +9971,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "應數三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 陳裕益,楊菁菁,洪子倫,張其棟,林英志,黃同瑤,游承書,唐永立,林維鈞,李詠玄,魏傳昇,黃新峰",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -9981,7 +9981,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳裕益,楊菁菁,洪子倫,張其棟,林英志,黃同瑤,游承書,唐永立,林維鈞,李詠玄,魏傳昇,黃新峰",
             "scr_date": "全學期"
         },
         {
@@ -11466,7 +11466,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 邱宜亭,劉政樺",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -11476,7 +11476,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "邱宜亭,劉政樺",
             "scr_date": "全學期"
         },
         {
@@ -13237,7 +13237,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "材料三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 葉丞豪",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -13247,7 +13247,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "葉丞豪",
             "scr_date": "全學期"
         },
         {
@@ -15192,7 +15192,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "光電三合",
-            "scr_period": "(一)00     待排",
+            "scr_period": "(一)00     待排 羅道正,江俊明",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -15202,7 +15202,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "羅道正,江俊明",
             "scr_date": "全學期"
         },
         {

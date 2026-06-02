@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 253,
+    "total": 254,
     "items": [
         {
             "scr_selcode": "3277",
@@ -3752,6 +3752,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3440",
+            "sub_id3": "ENGL1050",
+            "sub_name": "大學精進英文(一)高級",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "大二英文綜合班",
+            "scr_period": "(五)06-07 人607 鄭安倫",
+            "scr_precnt": 55.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "XF01114",
+            "sub_id": "08344",
+            "scr_dup": "005",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "鄭安倫",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "3555",
             "sub_id3": "ENGL1049",
             "sub_name": "大學精進英文(一)中高級",
@@ -4244,7 +4267,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(一)06-07 人506 梁雅英",
+            "scr_period": "(一)06-07 人506",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4254,7 +4277,7 @@
             "scr_dup": "033",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "梁雅英",
+            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
