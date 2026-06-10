@@ -4911,7 +4911,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管四甲",
-            "scr_period": "(一)00     待排 王妙如",
+            "scr_period": "(一)00     未排教室 王妙如,鄭孟育",
             "scr_precnt": 60.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": "本科目不開放網路預選及網路加退選，只限現場選課。",
@@ -4921,7 +4921,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王妙如",
+            "scr_teacher": "王妙如,鄭孟育",
             "scr_date": "全學期"
         },
         {
@@ -5049,7 +5049,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "企管四乙",
-            "scr_period": "(一)00     待排 王妙如",
+            "scr_period": "(一)00     未排教室 王妙如,鄭孟育",
             "scr_precnt": 60.0,
             "scr_acptcnt": 5.0,
             "scr_remarks": "本科目不開放網路預選及網路加退選，只限現場選課。",
@@ -5059,7 +5059,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王妙如",
+            "scr_teacher": "王妙如,鄭孟育",
             "scr_date": "全學期"
         },
         {
