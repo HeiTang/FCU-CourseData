@@ -14,7 +14,7 @@
             "cls_name": "資電學院綜合班",
             "scr_period": "(二)06-07 資電104 (五)09     資電104 劉維正",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 78.0,
+            "scr_acptcnt": 77.0,
             "scr_remarks": null,
             "unt_ls": 4500,
             "cls_id": "CI00101",
@@ -37,7 +37,7 @@
             "cls_name": "資電學院綜合班",
             "scr_period": "(二)09     資電104 (五)06-07 資電104 劉維正",
             "scr_precnt": 78.0,
-            "scr_acptcnt": 76.0,
+            "scr_acptcnt": 75.0,
             "scr_remarks": null,
             "unt_ls": 4500,
             "cls_id": "CI00101",
@@ -8179,7 +8179,7 @@
             "cls_name": "電機一乙",
             "scr_period": "(一)08-10 科航102(物實驗室二) 方淳民",
             "scr_precnt": 60.0,
-            "scr_acptcnt": 69.0,
+            "scr_acptcnt": 68.0,
             "scr_remarks": " ",
             "unt_ls": 4503,
             "cls_id": "CE11112",
@@ -10120,7 +10120,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉文豐",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "1615",
@@ -10350,7 +10350,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉文豐",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "1615",
@@ -10730,7 +10730,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控一甲",
-            "scr_period": "(二)01-02 科航205 (五)03     資電B04 林南州",
+            "scr_period": "(二)01-02 科航205 (五)03     商107 林南州",
             "scr_precnt": 78.0,
             "scr_acptcnt": 77.0,
             "scr_remarks": " ",
@@ -14030,7 +14030,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王俊傑",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2068",
@@ -14168,7 +14168,7 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "王俊傑",
-            "scr_date": "全學期"
+            "scr_date": "2026/02/24 ~ 2026/06/05"
         },
         {
             "scr_selcode": "2068",
