@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 674,
+    "total": 676,
     "items": [
         {
             "scr_selcode": "0074",
@@ -196,7 +196,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "商學院綜合班",
-            "scr_period": "(五)08-10 商403 林書賢,李慧慈,鄭妃君",
+            "scr_period": "(一)06-08 商406 李慧慈,鄭妃君",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "修讀完成3門可取得商學創新微學程證書，另本門課程學分可列入【智慧應用學分學程/輔修】。",
@@ -206,7 +206,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林書賢,李慧慈,鄭妃君",
+            "scr_teacher": "李慧慈,鄭妃君",
             "scr_date": "全學期"
         },
         {
@@ -12124,6 +12124,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3570",
+            "sub_id3": "BUS4939",
+            "sub_name": "校外實習導論",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "經濟四甲",
+            "scr_period": "(四)06     待排 謝依珊",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "限經濟系同學選課。本科目預選後，不開放網路加選，只在「現場選課」期間辦理現場加選。",
+            "unt_ls": 4106,
+            "cls_id": "CB08141",
+            "sub_id": "30636",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "謝依珊",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "0668",
             "sub_id3": "ECON4088",
             "sub_name": "綜合專題研究",
@@ -12236,6 +12259,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "鄒繼礎",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3570",
+            "sub_id3": "BUS4939",
+            "sub_name": "校外實習導論",
+            "scr_credit": 1.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "經濟四乙",
+            "scr_period": "(四)06     待排 謝依珊",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "限經濟系同學選課。本科目預選後，不開放網路加選，只在「現場選課」期間辦理現場加選。",
+            "unt_ls": 4106,
+            "cls_id": "CB08142",
+            "sub_id": "30636",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "謝依珊",
             "scr_date": "全學期"
         },
         {
