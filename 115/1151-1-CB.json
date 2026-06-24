@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 676,
+    "total": 678,
     "items": [
         {
             "scr_selcode": "0074",
@@ -8329,6 +8329,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3573",
+            "sub_id3": "ECON3015",
+            "sub_name": "貨幣銀行學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "財稅二甲",
+            "scr_period": "(五)07-09 待排 李國賓",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4104,
+            "cls_id": "CB05121",
+            "sub_id": "43200",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "李國賓",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "0458",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -8605,6 +8628,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3573",
+            "sub_id3": "ECON3015",
+            "sub_name": "貨幣銀行學",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "財稅二乙",
+            "scr_period": "(五)07-09 待排 李國賓",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4104,
+            "cls_id": "CB05122",
+            "sub_id": "43200",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "李國賓",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "0470",
             "sub_id3": "ACCT3050P",
             "sub_name": "成本會計實習",
@@ -8614,7 +8660,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "財稅三甲",
-            "scr_period": "(二)09     商404",
+            "scr_period": "(二)09     商404 黃鈺婷",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「成本會計」正課",
@@ -8624,7 +8670,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "黃鈺婷",
             "scr_date": "全學期"
         },
         {
@@ -8729,7 +8775,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "財稅三甲",
-            "scr_period": "(一)06-08 待排 李國賓",
+            "scr_period": "(一)06-08 待排 黃鈺婷",
             "scr_precnt": 72.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8739,7 +8785,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李國賓",
+            "scr_teacher": "黃鈺婷",
             "scr_date": "全學期"
         },
         {
@@ -15376,7 +15422,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國企三學位學程",
-            "scr_period": "(五)03-04 人405",
+            "scr_period": "(五)03-04 人506 黃國書",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "For BIBA students only\r\n",
@@ -15386,7 +15432,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " ",
+            "scr_teacher": "黃國書",
             "scr_date": "全學期"
         },
         {
