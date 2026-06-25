@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 224,
+    "total": 222,
     "items": [
         {
             "scr_selcode": "1923",
@@ -4741,29 +4741,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "1962",
-            "sub_id3": "FEAS3001",
-            "sub_name": "壽險數學(一)",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "財精三學位學程",
-            "scr_period": "(一)08-10 待排 陳彥志",
-            "scr_precnt": 60.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4804,
-            "cls_id": "CF03130",
-            "sub_id": "65795",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "陳彥志",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "1963",
             "sub_id3": "FEAS4001",
             "sub_name": "金融商品設計與開發",
@@ -4853,29 +4830,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "呂瑞秋",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "1967",
-            "sub_id3": "FEAS4023",
-            "sub_name": "數理統計",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "財精四學位學程",
-            "scr_period": "(五)02-04 待排 宮可倫",
-            "scr_precnt": 0.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4804,
-            "cls_id": "CF03140",
-            "sub_id": "62200",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "宮可倫",
             "scr_date": "全學期"
         },
         {
