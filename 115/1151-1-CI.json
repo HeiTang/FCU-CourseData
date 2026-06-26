@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 593,
+    "total": 595,
     "items": [
         {
             "scr_selcode": "2107",
@@ -9143,7 +9143,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控一甲",
-            "scr_period": "(一)06-07 資電B13 (二)01     資電403 秦群立",
+            "scr_period": "(一)06-07 資電B13 (二)01     資電403 徐永煜",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9153,7 +9153,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "秦群立",
+            "scr_teacher": "徐永煜",
             "scr_date": "全學期"
         },
         {
@@ -9166,7 +9166,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控一甲",
-            "scr_period": "(三)06-08 資電125(電腦實習室) 秦群立",
+            "scr_period": "(三)06-08 資電125(電腦實習室) 徐永煜",
             "scr_precnt": 2.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室C++",
@@ -9176,7 +9176,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "秦群立",
+            "scr_teacher": "徐永煜",
             "scr_date": "全學期"
         },
         {
@@ -9327,7 +9327,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控一乙",
-            "scr_period": "(三)03-04 資電B03 (五)04     資電125(電腦實習室) 林上智",
+            "scr_period": "(三)03-04 資電B03 (五)04     資電125(電腦實習室) 秦群立",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "五04 使用電腦教室",
@@ -9337,7 +9337,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林上智",
+            "scr_teacher": "秦群立",
             "scr_date": "全學期"
         },
         {
@@ -9350,7 +9350,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控一乙",
-            "scr_period": "(五)01-03 資電125(電腦實習室) 林上智",
+            "scr_period": "(五)01-03 資電125(電腦實習室) 秦群立",
             "scr_precnt": 2.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "（電腦教室 C++）",
@@ -9360,7 +9360,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "林上智",
+            "scr_teacher": "秦群立",
             "scr_date": "全學期"
         },
         {
@@ -10293,7 +10293,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三甲",
-            "scr_period": "(二)02     資電411 (三)08-09 資電404 徐永煜",
+            "scr_period": "(二)02     資電411 (三)09-10 資電404 徐永煜",
             "scr_precnt": 63.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10396,6 +10396,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉益瑞",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3575",
+            "sub_id3": "AUTO3027",
+            "sub_name": "光電系統與應用",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "自控三甲",
+            "scr_period": "(二)10-12 資電519 林上智",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4504,
+            "cls_id": "CE12131",
+            "sub_id": "13553",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林上智",
             "scr_date": "全學期"
         },
         {
@@ -10569,7 +10592,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控三乙",
-            "scr_period": "(二)02     資電411 (三)08-09 資電404 徐永煜",
+            "scr_period": "(二)02     資電411 (三)09-10 資電404 徐永煜",
             "scr_precnt": 63.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10672,6 +10695,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉益瑞",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3575",
+            "sub_id3": "AUTO3027",
+            "sub_name": "光電系統與應用",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "自控三乙",
+            "scr_period": "(二)10-12 資電519 林上智",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4504,
+            "cls_id": "CE12132",
+            "sub_id": "13553",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林上智",
             "scr_date": "全學期"
         },
         {
