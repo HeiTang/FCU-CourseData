@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 257,
+    "total": 256,
     "items": [
         {
             "scr_selcode": "2730",
@@ -1553,7 +1553,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "通識選修",
-            "scr_period": "(一)06-07 待排 張志強",
+            "scr_period": "(一)06-07 忠202 張志強",
             "scr_precnt": 40.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室授課。\r\n是否列入畢業學分請至各系確認。\r\n",
@@ -1863,29 +1863,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "魏彰志",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "3051",
-            "sub_id3": "GEH1000",
-            "sub_name": "英美法學經典導讀",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "通識選修",
-            "scr_period": "(三)03-04 人B119A 楊廼軒",
-            "scr_precnt": 80.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": "是否列入畢業學分請至各系確認。",
-            "unt_ls": 8888,
-            "cls_id": "XC07111",
-            "sub_id": "GM670",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "楊廼軒",
             "scr_date": "全學期"
         },
         {
@@ -3784,7 +3761,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "通識選修",
-            "scr_period": "(五)06-07 V005教室(共善樓) 江柏毅",
+            "scr_period": "(五)06-07 人202 江柏毅",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "是否列入畢業學分請至各系確認。",
