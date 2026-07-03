@@ -173,7 +173,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一甲",
-            "scr_period": "(四)09     學103 楊晏瑜",
+            "scr_period": "(四)09     學103 紀懿恩",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -183,7 +183,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊晏瑜",
+            "scr_teacher": "紀懿恩",
             "scr_date": "全學期"
         },
         {
@@ -403,7 +403,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土木一乙",
-            "scr_period": "(一)09     土402 紀懿恩",
+            "scr_period": "(一)09     土402 張庭維",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -413,7 +413,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "紀懿恩",
+            "scr_teacher": "張庭維",
             "scr_date": "全學期"
         },
         {
@@ -2151,7 +2151,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(三)01-02 學415",
+            "scr_period": "(三)01-02 語301",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2404,7 +2404,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(三)01-02 學103",
+            "scr_period": "(三)01-02 語306",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
