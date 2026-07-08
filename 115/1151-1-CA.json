@@ -6406,7 +6406,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "航太三甲",
-            "scr_period": "(一)11-13 科航205",
+            "scr_period": "(一)11-13 科航203",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "兼任教師楊富森老師授課。",
@@ -6659,7 +6659,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "航太三乙",
-            "scr_period": "(一)11-13 科航205",
+            "scr_period": "(一)11-13 科航203",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "兼任教師楊富森老師授課。",
@@ -8890,7 +8890,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "環境一甲",
-            "scr_period": "(一)10-12 理203(數電腦室) 陳建隆",
+            "scr_period": "(一)10-12 理203(數電腦室) 陳建隆,林玉婕",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室",
@@ -8900,7 +8900,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆",
+            "scr_teacher": "陳建隆,林玉婕",
             "scr_date": "全學期"
         },
         {
@@ -9120,7 +9120,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "環境一乙",
-            "scr_period": "(三)10-12 理203(數電腦室) 陳建隆",
+            "scr_period": "(三)10-12 理203(數電腦室) 廖文翰,陳建隆",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室",
@@ -9130,7 +9130,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳建隆",
+            "scr_teacher": "廖文翰,陳建隆",
             "scr_date": "全學期"
         },
         {
@@ -9810,7 +9810,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "環境三甲",
-            "scr_period": "(四)03-04 語302",
+            "scr_period": "(四)03-04 語302 曾淑君",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9820,7 +9820,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "曾淑君",
             "scr_date": "全學期"
         },
         {
@@ -10017,7 +10017,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "環境三乙",
-            "scr_period": "(四)03-04 語302",
+            "scr_period": "(四)03-04 語302 曾淑君",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10027,7 +10027,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "曾淑君",
             "scr_date": "全學期"
         },
         {
@@ -10178,7 +10178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四甲",
-            "scr_period": "(一)06-09 忠B08 張立德,梁志銘",
+            "scr_period": "(一)06-09 忠B08 張立德,郭修宇,梁志銘",
             "scr_precnt": 105.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "採隔週密集上課，確定日程公告在ilearn，限環科系四年級生修習。",
@@ -10188,7 +10188,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張立德,梁志銘",
+            "scr_teacher": "張立德,郭修宇,梁志銘",
             "scr_date": "全學期"
         },
         {
@@ -10385,7 +10385,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四乙",
-            "scr_period": "(一)06-09 忠B08 張立德,梁志銘",
+            "scr_period": "(一)06-09 忠B08 張立德,郭修宇,梁志銘",
             "scr_precnt": 105.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "採隔週密集上課，確定日程公告在ilearn，限環科系四年級生修習。",
@@ -10395,7 +10395,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張立德,梁志銘",
+            "scr_teacher": "張立德,郭修宇,梁志銘",
             "scr_date": "全學期"
         },
         {
