@@ -1300,7 +1300,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "建築五學位學程",
-            "scr_period": "(二)08-09 行205 彭志峰,林喬偉",
+            "scr_period": "(二)08-09 未排教室 賴冠維,蘇戊衍,彭志峰,林喬偉",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1310,7 +1310,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "彭志峰,林喬偉",
+            "scr_teacher": "賴冠維,蘇戊衍,彭志峰,林喬偉",
             "scr_date": "全學期"
         },
         {
@@ -1530,7 +1530,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(二)01-04 忠712 (二)06-09 忠712 李元榮,劉守書,張創霖",
+            "scr_period": "(二)01-04 忠712 (二)06-09 忠712 李元榮,劉守書,莊淵源",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "不開放外系選修",
@@ -1540,7 +1540,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李元榮,劉守書,張創霖",
+            "scr_teacher": "李元榮,劉守書,莊淵源",
             "scr_date": "全學期"
         },
         {
@@ -1599,7 +1599,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "室內設計二",
-            "scr_period": "(四)11-12 忠501",
+            "scr_period": "(四)11-12 忠501 邱蕙琳",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -1609,7 +1609,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "邱蕙琳",
             "scr_date": "全學期"
         },
         {
@@ -1714,7 +1714,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計三",
-            "scr_period": "(一)01-04 待排 (一)06-09 待排 呂耀中,黃俊賓,莊淵源",
+            "scr_period": "(一)01-04 未排教室 (一)06-09 未排教室 呂耀中,張創霖,黃俊賓,劉漢君",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "不開放外系選修",
@@ -1724,7 +1724,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "呂耀中,黃俊賓,莊淵源",
+            "scr_teacher": "呂耀中,張創霖,黃俊賓,劉漢君",
             "scr_date": "全學期"
         },
         {
@@ -1875,7 +1875,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室內設計四",
-            "scr_period": "(三)08-09 忠302",
+            "scr_period": "(三)08-09 忠302 林宜慧",
             "scr_precnt": 45.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -1885,7 +1885,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林宜慧",
             "scr_date": "全學期"
         },
         {
