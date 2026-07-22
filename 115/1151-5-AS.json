@@ -81,7 +81,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修一",
-            "scr_period": "(六)06-09 待排 凃昭伃,楊淨伍,莊澤均,葉建甫",
+            "scr_period": "(六)06-09 忠516(建製圖室) 凃昭伃,楊淨伍,莊澤均",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "不開放外系選修",
@@ -91,7 +91,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "凃昭伃,楊淨伍,莊澤均,葉建甫",
+            "scr_teacher": "凃昭伃,楊淨伍,莊澤均",
             "scr_date": "全學期"
         },
         {
@@ -196,7 +196,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修二",
-            "scr_period": "(六)06-09 待排 蔡佩娟,林建帆,蕭俊碩",
+            "scr_period": "(六)06-09 忠516(建製圖室) 蔡佩娟,林建帆,葉建甫",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "不開放外系選修",
@@ -206,7 +206,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡佩娟,林建帆,蕭俊碩",
+            "scr_teacher": "蔡佩娟,林建帆,葉建甫",
             "scr_date": "全學期"
         },
         {
@@ -311,7 +311,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修三",
-            "scr_period": "(六)06-09 待排 蕭俊碩,邱嫈蓮",
+            "scr_period": "(六)06-09 忠516(建製圖室) 蕭俊碩,邱嫈蓮",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "不開放外系選修",
@@ -449,7 +449,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "室設進修四",
-            "scr_period": "(六)01-04 未排教室 (六)06-09 未排教室 李元榮,杜方中,徐光華",
+            "scr_period": "(六)01-04 忠516(建製圖室) (六)06-09 忠516(建製圖室) 李元榮,杜方中,徐光華",
             "scr_precnt": 120.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "不開放外系選修",

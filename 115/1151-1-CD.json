@@ -6544,8 +6544,8 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(四)10-11 紀209B",
-            "scr_precnt": 0.0,
+            "scr_period": "(四)10-11 紀209B 彭佳偉",
+            "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程前身為環境生態學，重複修習不予認列學分。",
             "unt_ls": 4608,
@@ -6554,7 +6554,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "彭佳偉",
             "scr_date": "全學期"
         },
         {
@@ -6774,8 +6774,8 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(四)10-11 紀209B",
-            "scr_precnt": 0.0,
+            "scr_period": "(四)10-11 紀209B 彭佳偉",
+            "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "本課程前身為環境生態學，重複修習不予認列學分。",
             "unt_ls": 4608,
@@ -6784,7 +6784,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "彭佳偉",
             "scr_date": "全學期"
         },
         {
@@ -7027,7 +7027,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管二甲",
-            "scr_period": "(一)02-04 紀409",
+            "scr_period": "(一)02-04 紀409 李宏志",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7037,7 +7037,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李宏志",
             "scr_date": "全學期"
         },
         {
@@ -7326,7 +7326,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管二乙",
-            "scr_period": "(一)02-04 紀409",
+            "scr_period": "(一)02-04 紀409 李宏志",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7336,7 +7336,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李宏志",
             "scr_date": "全學期"
         },
         {
@@ -7510,7 +7510,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管三甲",
-            "scr_period": "(一)08-10 紀103",
+            "scr_period": "(一)08-10 紀103 林登建",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7520,7 +7520,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林登建",
             "scr_date": "全學期"
         },
         {
@@ -7694,7 +7694,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管三乙",
-            "scr_period": "(一)08-10 紀103",
+            "scr_period": "(一)08-10 紀103 林登建",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7704,7 +7704,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "林登建",
             "scr_date": "全學期"
         },
         {
@@ -7832,7 +7832,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管四甲",
-            "scr_period": "(三)03-04 紀103",
+            "scr_period": "(三)03-04 紀103 柯貴勝",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7842,7 +7842,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "柯貴勝",
             "scr_date": "全學期"
         },
         {
@@ -7855,7 +7855,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管四乙",
-            "scr_period": "(二)03-04 科航203",
+            "scr_period": "(二)03-04 科航203 王靚琇",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7865,7 +7865,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "王靚琇",
             "scr_date": "全學期"
         },
         {
@@ -7924,7 +7924,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土管四乙",
-            "scr_period": "(三)03-04 紀103",
+            "scr_period": "(三)03-04 紀103 柯貴勝",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7934,7 +7934,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "柯貴勝",
             "scr_date": "全學期"
         }
     ]
