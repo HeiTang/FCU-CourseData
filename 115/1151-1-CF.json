@@ -3209,7 +3209,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保一乙",
-            "scr_period": "(四)02-04 忠308 楊茜文",
+            "scr_period": "(四)02-04 忠308 黃琝琇",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "正課、實習課需同班修習",
@@ -3219,7 +3219,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊茜文",
+            "scr_teacher": "黃琝琇",
             "scr_date": "全學期"
         },
         {
@@ -3692,7 +3692,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保三甲",
-            "scr_period": "(四)02-04 商306 宮可倫,梁穎誼",
+            "scr_period": "(四)02-04 商306 梁穎誼,劉冠麟",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「壽險數學實習」課",
@@ -3702,7 +3702,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宮可倫,梁穎誼",
+            "scr_teacher": "梁穎誼,劉冠麟",
             "scr_date": "全學期"
         },
         {
@@ -3715,7 +3715,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保三甲",
-            "scr_period": "(三)10     商408 宮可倫",
+            "scr_period": "(三)10     商408 劉冠麟",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "須隨班修習「壽險數學」正課",
@@ -3725,7 +3725,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宮可倫",
+            "scr_teacher": "劉冠麟",
             "scr_date": "全學期"
         },
         {
@@ -3738,7 +3738,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保三甲",
-            "scr_period": "(四)06-08 人406",
+            "scr_period": "(四)06-08 人406 沈義舫",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3748,7 +3748,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "沈義舫",
             "scr_date": "全學期"
         },
         {
@@ -3922,7 +3922,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保三乙",
-            "scr_period": "(三)06-08 科航204 宮可倫,梁穎誼",
+            "scr_period": "(三)06-08 科航204 梁穎誼,劉冠麟",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "僅開放「金融學院」學生修習。須隨班修習「壽險數學實習」課。",
@@ -3932,7 +3932,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": "宮可倫,梁穎誼",
+            "scr_teacher": "梁穎誼,劉冠麟",
             "scr_date": "全學期"
         },
         {
@@ -3945,7 +3945,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保三乙",
-            "scr_period": "(三)09     科航204 宮可倫",
+            "scr_period": "(三)09     科航204 劉冠麟",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "僅開放「金融學院」學生修習。須隨班修習「壽險數學」正課。",
@@ -3955,7 +3955,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "宮可倫",
+            "scr_teacher": "劉冠麟",
             "scr_date": "全學期"
         },
         {
@@ -3968,7 +3968,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "風保三乙",
-            "scr_period": "(四)06-08 人406",
+            "scr_period": "(四)06-08 人406 沈義舫",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -3978,7 +3978,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "沈義舫",
             "scr_date": "全學期"
         },
         {
@@ -4175,7 +4175,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保四甲",
-            "scr_period": "(五)02-04 商408",
+            "scr_period": "(五)02-04 商408 郭俊佑",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4185,7 +4185,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "郭俊佑",
             "scr_date": "全學期"
         },
         {
@@ -4290,7 +4290,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "風保四乙",
-            "scr_period": "(五)02-04 商408",
+            "scr_period": "(五)02-04 商408 郭俊佑",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4300,7 +4300,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "郭俊佑",
             "scr_date": "全學期"
         },
         {

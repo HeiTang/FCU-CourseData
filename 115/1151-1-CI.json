@@ -8016,7 +8016,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "電機二丙",
-            "scr_period": "(一)03-04 資電402 (二)04     商203 王丁勇",
+            "scr_period": "(一)03-04 資電402 (二)04     商203 李企桓",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8026,7 +8026,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王丁勇",
+            "scr_teacher": "李企桓",
             "scr_date": "全學期"
         },
         {
@@ -8039,7 +8039,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "電機二丙",
-            "scr_period": "(三)02-04 資電502 王丁勇",
+            "scr_period": "(三)02-04 資電502 劉文豐",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8049,7 +8049,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王丁勇",
+            "scr_teacher": "劉文豐",
             "scr_date": "全學期"
         },
         {
@@ -8545,7 +8545,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "電機三丙",
-            "scr_period": "(一)07-08 科航205 (三)07     資電512 王丁勇",
+            "scr_period": "(一)07-08 科航205 (三)07     資電512 李企桓",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8555,7 +8555,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王丁勇",
+            "scr_teacher": "李企桓",
             "scr_date": "全學期"
         },
         {
@@ -9649,7 +9649,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控二甲",
-            "scr_period": "(二)06-08 資電403",
+            "scr_period": "(二)06-08 資電403 楊世忠",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中山醫大學退休老師楊世忠親授",
@@ -9659,7 +9659,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "楊世忠",
             "scr_date": "全學期"
         },
         {
@@ -10109,7 +10109,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "自控二合",
-            "scr_period": "(一)08-09 資電B13 (三)04     資電B04",
+            "scr_period": "(一)08-09 資電B13 (三)04     資電B04 李峰吉",
             "scr_precnt": 78.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限大三以上重補修生修習",
@@ -10119,7 +10119,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李峰吉",
             "scr_date": "全學期"
         },
         {
@@ -10822,7 +10822,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控四甲",
-            "scr_period": "(四)11-13 資電410",
+            "scr_period": "(四)11-13 資電410 丁秉煌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中山科學研究院航空所丁秉煌專案工程師親授，歡迎有興趣同學選課。",
@@ -10832,7 +10832,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "丁秉煌",
             "scr_date": "全學期"
         },
         {
@@ -11029,7 +11029,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "自控四乙",
-            "scr_period": "(四)11-13 資電410",
+            "scr_period": "(四)11-13 資電410 丁秉煌",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "中山科學研究院航空所丁秉煌專案工程師親授，歡迎有興趣同學選課。",
@@ -11039,7 +11039,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "丁秉煌",
             "scr_date": "全學期"
         },
         {

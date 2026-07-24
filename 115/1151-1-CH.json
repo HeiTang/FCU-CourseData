@@ -472,7 +472,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "中文一",
-            "scr_period": "(一)09     人B116A",
+            "scr_period": "(一)09     人B116A 李綉玲",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -482,7 +482,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李綉玲",
             "scr_date": "全學期"
         },
         {
@@ -771,7 +771,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "中文二",
-            "scr_period": "(二)09     人404",
+            "scr_period": "(二)09     人404 廖崇斐",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -781,7 +781,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "廖崇斐",
             "scr_date": "全學期"
         },
         {
