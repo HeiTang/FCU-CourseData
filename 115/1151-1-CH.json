@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 156,
+    "total": 157,
     "items": [
         {
             "scr_selcode": "1988",
@@ -150,7 +150,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "人社學院綜合班",
-            "scr_period": "(一)03-04 人705",
+            "scr_period": "(一)03-04 人705 陳啟正",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "文物管理與鑑識學分學程可採計",
@@ -160,7 +160,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳啟正",
             "scr_date": "全學期"
         },
         {
@@ -437,6 +437,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "劉仲倫",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3596",
+            "sub_id3": "HSS2609",
+            "sub_name": "氣候變遷與原住民族",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "人社學院綜合班",
+            "scr_period": "(三)03-04 人708 林孟玲",
+            "scr_precnt": 40.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4400,
+            "cls_id": "CH00101",
+            "sub_id": "38455",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "林孟玲",
             "scr_date": "全學期"
         },
         {

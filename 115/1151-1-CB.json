@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 675,
+    "total": 676,
     "items": [
         {
             "scr_selcode": "0074",
@@ -323,6 +323,29 @@
             "scr_english": "Y",
             "scr_teacher": "江成欣",
             "scr_date": "2026/07/14 ~ 2026/07/23"
+        },
+        {
+            "scr_selcode": "3586",
+            "sub_id3": "BUS5129",
+            "sub_name": "國際商業與跨文化交流(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "商學院綜合班",
+            "scr_period": "(一)01-04 商804A (一)06-09 商804A (二)01-04 商804A (三)01-04 商804A (四)01-04 商804A (五)01-04 商804A 黃瓊如",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": "暑期與國外學校合作開設專班",
+            "unt_ls": 4100,
+            "cls_id": "CB00101",
+            "sub_id": "41534",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "黃瓊如",
+            "scr_date": "2026/08/23 ~ 2026/09/04"
         },
         {
             "scr_selcode": "0088",

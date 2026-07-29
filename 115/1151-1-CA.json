@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 598,
+    "total": 600,
     "items": [
         {
             "scr_selcode": "0044",
@@ -3315,6 +3315,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3585",
+            "sub_id3": "INEN2015",
+            "sub_name": "電子商務概論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業二甲",
+            "scr_period": "(四)06-08 工504 伍廷蔚",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06121",
+            "sub_id": "53292",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "伍廷蔚",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "1297",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -3522,6 +3545,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3585",
+            "sub_id3": "INEN2015",
+            "sub_name": "電子商務概論",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "工業二乙",
+            "scr_period": "(四)06-08 工504 伍廷蔚",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4003,
+            "cls_id": "CE06122",
+            "sub_id": "53292",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "伍廷蔚",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "1306",
             "sub_id3": "INEN3056",
             "sub_name": "人因工程與實驗設計",
@@ -3600,7 +3646,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "工業三甲",
-            "scr_period": "(二)06-08 理203(數電腦室) 楊士霆",
+            "scr_period": "(二)06-08 理203(數電腦室) 伍廷蔚",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "電腦教室 R語言",
@@ -3610,7 +3656,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊士霆",
+            "scr_teacher": "伍廷蔚",
             "scr_date": "全學期"
         },
         {
@@ -10132,7 +10178,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四甲",
-            "scr_period": "(五)03-04 忠301 邱宜亭",
+            "scr_period": "(五)03-04 忠301 林育誼,邱宜亭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10142,7 +10188,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱宜亭",
+            "scr_teacher": "林育誼,邱宜亭",
             "scr_date": "全學期"
         },
         {
@@ -10362,7 +10408,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "環境四乙",
-            "scr_period": "(五)03-04 忠301 邱宜亭",
+            "scr_period": "(五)03-04 忠301 林育誼,邱宜亭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -10372,7 +10418,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "邱宜亭",
+            "scr_teacher": "林育誼,邱宜亭",
             "scr_date": "全學期"
         },
         {
