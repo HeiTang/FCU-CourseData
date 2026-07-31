@@ -35,7 +35,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "建設學院綜合班",
-            "scr_period": "(一)07-09 學415",
+            "scr_period": "(一)07-09 學415 陳豐文,吳國維",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "水土環境經理學分學程課程",
@@ -45,7 +45,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "陳豐文,吳國維",
             "scr_date": "全學期"
         },
         {
@@ -2082,7 +2082,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(四)01-02 土302(電腦實習室) 陳弘恩",
+            "scr_period": "(四)01-02 土302(電腦實習室) 陳弘恩,蕭世婷",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室",
@@ -2092,7 +2092,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳弘恩",
+            "scr_teacher": "陳弘恩,蕭世婷",
             "scr_date": "全學期"
         },
         {
@@ -2335,7 +2335,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(四)03-04 土302(電腦實習室) 陳弘恩",
+            "scr_period": "(四)03-04 土302(電腦實習室) 陳弘恩,蕭世婷",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "使用電腦教室",
@@ -2345,7 +2345,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳弘恩",
+            "scr_teacher": "陳弘恩,蕭世婷",
             "scr_date": "全學期"
         },
         {
@@ -2634,7 +2634,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保二甲",
-            "scr_period": "(五)01-02 學103",
+            "scr_period": "(五)01-02 學103 楊詩蔚",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2644,7 +2644,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "楊詩蔚",
             "scr_date": "全學期"
         },
         {
@@ -2657,7 +2657,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保二甲",
-            "scr_period": "(一)07-09 學101",
+            "scr_period": "(一)07-09 學101 鄭紘凱",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2667,7 +2667,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "鄭紘凱",
             "scr_date": "全學期"
         },
         {
@@ -2864,7 +2864,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保二乙",
-            "scr_period": "(五)01-02 學103",
+            "scr_period": "(五)01-02 學103 楊詩蔚",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2874,7 +2874,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "楊詩蔚",
             "scr_date": "全學期"
         },
         {
@@ -2887,7 +2887,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保二乙",
-            "scr_period": "(一)07-09 學101",
+            "scr_period": "(一)07-09 學101 鄭紘凱",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2897,7 +2897,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "鄭紘凱",
             "scr_date": "全學期"
         },
         {
