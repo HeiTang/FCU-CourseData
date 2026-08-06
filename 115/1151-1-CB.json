@@ -4129,7 +4129,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "企管三甲",
-            "scr_period": "(四)01     待排 蔡汶君,陳建文,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
+            "scr_period": "(四)01     未排教室 蔡汶君,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4139,7 +4139,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡汶君,陳建文,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
+            "scr_teacher": "蔡汶君,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
             "scr_date": "全學期"
         },
         {
@@ -4451,7 +4451,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "企管三乙",
-            "scr_period": "(五)01     待排 蔡汶君,陳建文,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
+            "scr_period": "(五)01     未排教室 蔡汶君,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4461,7 +4461,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "蔡汶君,陳建文,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
+            "scr_teacher": "蔡汶君,黃誠甫,王妙如,張秀樺,仇介民,王智弘,黃禮林,楊曉琳,武垂玲,吳如娟,鄭孟育",
             "scr_date": "全學期"
         },
         {
@@ -9856,7 +9856,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "統計二甲",
-            "scr_period": "(三)07-09 科航B102",
+            "scr_period": "(三)07-09 科航B102 謝長江",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -9866,7 +9866,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "謝長江",
             "scr_date": "全學期"
         },
         {
@@ -10132,7 +10132,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "統計二乙",
-            "scr_period": "(三)07-09 科航B102",
+            "scr_period": "(三)07-09 科航B102 謝長江",
             "scr_precnt": 100.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -10142,7 +10142,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "謝長江",
             "scr_date": "全學期"
         },
         {

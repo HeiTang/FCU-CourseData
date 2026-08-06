@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 345,
+    "total": 346,
     "items": [
         {
             "scr_selcode": "0899",
@@ -161,6 +161,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳春安,許時堅",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3638",
+            "sub_id3": "LAND4030",
+            "sub_name": "地上物查估",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "建設學院綜合班",
+            "scr_period": "(三)08-10 行政二館307 江晨旭",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4600,
+            "cls_id": "CD00101",
+            "sub_id": "01949",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "江晨旭",
             "scr_date": "全學期"
         },
         {
@@ -2036,7 +2059,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保一甲",
-            "scr_period": "(五)03-04 紀301智慧城市共享學習堂 陳柏蒼",
+            "scr_period": "(五)03-04 紀301智慧城市共享學習堂 蔡宜真,陳柏蒼",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2046,7 +2069,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳柏蒼",
+            "scr_teacher": "蔡宜真,陳柏蒼",
             "scr_date": "全學期"
         },
         {
@@ -2220,7 +2243,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(一)09     學104",
+            "scr_period": "(一)09     學104 蔡宜真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -2230,7 +2253,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡宜真",
             "scr_date": "全學期"
         },
         {
@@ -2289,7 +2312,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保一乙",
-            "scr_period": "(五)01-02 紀301智慧城市共享學習堂 陳柏蒼",
+            "scr_period": "(五)01-02 紀301智慧城市共享學習堂 蔡宜真,陳柏蒼",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2299,7 +2322,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳柏蒼",
+            "scr_teacher": "蔡宜真,陳柏蒼",
             "scr_date": "全學期"
         },
         {
@@ -2588,7 +2611,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保二甲",
-            "scr_period": "(四)06-07 土402",
+            "scr_period": "(四)06-07 土402 蔡宜真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2598,7 +2621,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡宜真",
             "scr_date": "全學期"
         },
         {
@@ -2611,7 +2634,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保二甲",
-            "scr_period": "(四)08-09 土402",
+            "scr_period": "(四)08-09 土402 蔡宜真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "平時實習地點：校園，上課前於土水館\r\n一樓行動測繪中心前或教室集合；\r\n下雨則在教室上課或是在育樂館屋簷下\r\n實習。",
@@ -2621,7 +2644,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡宜真",
             "scr_date": "全學期"
         },
         {
@@ -2818,7 +2841,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保二乙",
-            "scr_period": "(三)06-07 土402",
+            "scr_period": "(三)06-07 土402 蔡宜真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -2828,7 +2851,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡宜真",
             "scr_date": "全學期"
         },
         {
@@ -2841,7 +2864,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "水利資保二乙",
-            "scr_period": "(三)08-09 土402",
+            "scr_period": "(三)08-09 土402 蔡宜真",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "平時實習地點：校園，上課前於土水館\r\n一樓行動測繪中心前或教室集合；\r\n下雨則在教室上課或是在育樂館屋簷下\r\n實習。",
@@ -2851,7 +2874,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "蔡宜真",
             "scr_date": "全學期"
         },
         {
