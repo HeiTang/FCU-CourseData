@@ -6360,7 +6360,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一甲",
-            "scr_period": "(四)09     紀209A 李長曄",
+            "scr_period": "(四)09     紀209A 游政諭",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6370,7 +6370,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李長曄",
+            "scr_teacher": "游政諭",
             "scr_date": "全學期"
         },
         {
@@ -6590,7 +6590,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "土管一乙",
-            "scr_period": "(四)09     紀209B 游政諭",
+            "scr_period": "(四)09     紀209B 李長曄",
             "scr_precnt": 60.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -6600,7 +6600,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "游政諭",
+            "scr_teacher": "李長曄",
             "scr_date": "全學期"
         },
         {

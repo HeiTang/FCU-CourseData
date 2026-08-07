@@ -495,7 +495,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融碩專學一學位學程",
-            "scr_period": "(六)06-08 商103 洪麗淇,宮可倫,武氏紅芳",
+            "scr_period": "(六)06-08 商103 洪麗淇,劉冠麟,武氏紅芳",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "限金融碩士在職學位學程學生修習",
@@ -505,7 +505,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪麗淇,宮可倫,武氏紅芳",
+            "scr_teacher": "洪麗淇,劉冠麟,武氏紅芳",
             "scr_date": "全學期"
         },
         {
@@ -518,7 +518,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融碩專學一學位學程",
-            "scr_period": "(三)00     待排 陳彥志",
+            "scr_period": "(三)00     未排教室 曾鹿鳴",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -528,7 +528,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "陳彥志",
+            "scr_teacher": "曾鹿鳴",
             "scr_date": "全學期"
         },
         {
@@ -610,7 +610,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "金融碩專學二學位學程",
-            "scr_period": "(六)00     待排 李宗儒,呂瑞秋,陳彥志,梁馨予,黃迎珈,陳麗君,曾鹿鳴",
+            "scr_period": "(六)00     未排教室 李宗儒,呂瑞秋,梁馨予,黃迎珈,陳麗君,曾鹿鳴",
             "scr_precnt": 35.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
@@ -620,7 +620,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "李宗儒,呂瑞秋,陳彥志,梁馨予,黃迎珈,陳麗君,曾鹿鳴",
+            "scr_teacher": "李宗儒,呂瑞秋,梁馨予,黃迎珈,陳麗君,曾鹿鳴",
             "scr_date": "全學期"
         },
         {
