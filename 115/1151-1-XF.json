@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 254,
+    "total": 255,
     "items": [
         {
             "scr_selcode": "3277",
@@ -4097,29 +4097,6 @@
             "scr_date": "全學期"
         },
         {
-            "scr_selcode": "3463",
-            "sub_id3": "CHIN1065",
-            "sub_name": "中文思辨與表達(一)",
-            "scr_credit": 2.0,
-            "scj_scr_mso": "必修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "國文綜合班",
-            "scr_period": "(一)03-04 忠211 周盈秀",
-            "scr_precnt": 50.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 8888,
-            "cls_id": "XF02110",
-            "sub_id": "05611",
-            "scr_dup": "020",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "周盈秀",
-            "scr_date": "全學期"
-        },
-        {
             "scr_selcode": "3464",
             "sub_id3": "CHIN1065",
             "sub_name": "中文思辨與表達(一)",
@@ -4543,7 +4520,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)03-04 人704 王惠鈴",
+            "scr_period": "(二)03-04 人704 梁金群",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "E",
@@ -4553,7 +4530,7 @@
             "scr_dup": "061",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "王惠鈴",
+            "scr_teacher": "梁金群",
             "scr_date": "全學期"
         },
         {
@@ -4681,7 +4658,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(二)06-07 人504 徐培晃",
+            "scr_period": "(二)06-07 人504 胡淑貞",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -4691,7 +4668,7 @@
             "scr_dup": "069",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "徐培晃",
+            "scr_teacher": "胡淑貞",
             "scr_date": "全學期"
         },
         {
@@ -5026,7 +5003,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(三)06-07 人604 周盈秀",
+            "scr_period": "(三)06-07 人604 李珮慈",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5036,7 +5013,7 @@
             "scr_dup": "091",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "周盈秀",
+            "scr_teacher": "李珮慈",
             "scr_date": "全學期"
         },
         {
@@ -5279,7 +5256,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國文綜合班",
-            "scr_period": "(四)01-02 人704 洪英雪",
+            "scr_period": "(四)01-02 人704 曾愛玲",
             "scr_precnt": 50.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -5289,7 +5266,7 @@
             "scr_dup": "111",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "洪英雪",
+            "scr_teacher": "曾愛玲",
             "scr_date": "全學期"
         },
         {
@@ -5842,6 +5819,52 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "金春燕",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3650",
+            "sub_id3": "CHIN1065",
+            "sub_name": "中文思辨與表達(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國文綜合班",
+            "scr_period": "(一)08-09 人604 周盈秀",
+            "scr_precnt": 50.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "XF02110",
+            "sub_id": "05611",
+            "scr_dup": "146",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "周盈秀",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3651",
+            "sub_id3": "CHIN1065",
+            "sub_name": "中文思辨與表達(一)",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "必修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "國文綜合班",
+            "scr_period": "(二)06-07 紀103 梁金群",
+            "scr_precnt": 50.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 8888,
+            "cls_id": "XF02110",
+            "sub_id": "05611",
+            "scr_dup": "147",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "梁金群",
             "scr_date": "全學期"
         }
     ]

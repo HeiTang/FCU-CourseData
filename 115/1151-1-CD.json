@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 346,
+    "total": 348,
     "items": [
         {
             "scr_selcode": "0899",
@@ -1314,6 +1314,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3649",
+            "sub_id3": "CE3099",
+            "sub_name": "淨零碳排與永續建築性能評估",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土木三甲",
+            "scr_period": "(三)02-04 土302(電腦實習室) 施正之,莊淵源",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4602,
+            "cls_id": "CE01131",
+            "sub_id": "98987",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "施正之,莊淵源",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "1017",
             "sub_id3": "CE2075",
             "sub_name": "水文學",
@@ -1518,6 +1541,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "郭睿騰",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3649",
+            "sub_id3": "CE3099",
+            "sub_name": "淨零碳排與永續建築性能評估",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "土木三乙",
+            "scr_period": "(三)02-04 土302(電腦實習室) 施正之,莊淵源",
+            "scr_precnt": 60.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4602,
+            "cls_id": "CE01132",
+            "sub_id": "98987",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "施正之,莊淵源",
             "scr_date": "全學期"
         },
         {
