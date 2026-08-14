@@ -2013,7 +2013,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "會計二合",
-            "scr_period": "(四)11-12 商204",
+            "scr_period": "(四)11-12 商204 李慧慈",
             "scr_precnt": 70.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1.此班為綜合班，供重補修學生修習 2.須隨班修習「中級會計學(一)」正課",
@@ -2023,7 +2023,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": " ",
+            "scr_teacher": "李慧慈",
             "scr_date": "全學期"
         },
         {
@@ -15054,7 +15054,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "國企一學位學程",
-            "scr_period": "(三)06-08 人504",
+            "scr_period": "(三)06-08 人504 James Daniel Harris",
             "scr_precnt": 5.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": "1. For BIBA students only. 2. Must take \"RECITATION OF ECONOMICS(1)\" with the class.",
@@ -15064,7 +15064,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "Y",
-            "scr_teacher": " ",
+            "scr_teacher": "James Daniel Harris",
             "scr_date": "全學期"
         },
         {

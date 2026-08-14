@@ -7786,7 +7786,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "應數一甲",
-            "scr_period": "(五)01     理203(數電腦室) 張瑞聰",
+            "scr_period": "(五)01     理203(數電腦室)",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -7796,7 +7796,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張瑞聰",
+            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
@@ -7993,7 +7993,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "應數一乙",
-            "scr_period": "(二)01     理203(數電腦室) 張瑞聰",
+            "scr_period": "(二)01     理203(數電腦室)",
             "scr_precnt": 10.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": " ",
@@ -8003,7 +8003,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張瑞聰",
+            "scr_teacher": " ",
             "scr_date": "全學期"
         },
         {
