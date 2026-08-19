@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 676,
+    "total": 677,
     "items": [
         {
             "scr_selcode": "0074",
@@ -9893,6 +9893,29 @@
             "scr_date": "全學期"
         },
         {
+            "scr_selcode": "3656",
+            "sub_id3": "STAT2014",
+            "sub_name": "生成式人工智慧：理論與實務",
+            "scr_credit": 2.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "統計二甲",
+            "scr_period": "(一)03-04 待排 杜昌燁",
+            "scr_precnt": 200.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 4105,
+            "cls_id": "CB07121",
+            "sub_id": "12235",
+            "scr_dup": "001",
+            "scr_ldl": "線上教學On-line",
+            "scr_english": "N",
+            "scr_teacher": "杜昌燁",
+            "scr_date": "全學期"
+        },
+        {
             "scr_selcode": "0572",
             "sub_id3": "GEID0010",
             "sub_name": "班級活動",
@@ -10177,16 +10200,16 @@
             "scr_examid": "否",
             "scr_examfn": "否",
             "scr_exambf": "否",
-            "cls_name": "統計二合",
+            "cls_name": "統計二乙",
             "scr_period": "(一)03-04 待排 杜昌燁",
-            "scr_precnt": 60.0,
+            "scr_precnt": 200.0,
             "scr_acptcnt": 0.0,
             "scr_remarks": null,
             "unt_ls": 4105,
-            "cls_id": "CB07129",
+            "cls_id": "CB07122",
             "sub_id": "12235",
             "scr_dup": "001",
-            "scr_ldl": "課堂教學",
+            "scr_ldl": "線上教學On-line",
             "scr_english": "N",
             "scr_teacher": "杜昌燁",
             "scr_date": "全學期"
