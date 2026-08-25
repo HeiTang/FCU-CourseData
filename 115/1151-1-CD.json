@@ -1668,7 +1668,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土木四甲",
-            "scr_period": "(四)02-04 學415 張智元",
+            "scr_period": "(四)02-04 學415 張智元,洪西川",
             "scr_precnt": 60.0,
             "scr_acptcnt": 38.0,
             "scr_remarks": "共同授課",
@@ -1678,7 +1678,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張智元",
+            "scr_teacher": "張智元,洪西川",
             "scr_date": "全學期"
         },
         {
@@ -1898,7 +1898,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "土木四乙",
-            "scr_period": "(四)02-04 學415 張智元",
+            "scr_period": "(四)02-04 學415 張智元,洪西川",
             "scr_precnt": 60.0,
             "scr_acptcnt": 38.0,
             "scr_remarks": "共同授課",
@@ -1908,7 +1908,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "張智元",
+            "scr_teacher": "張智元,洪西川",
             "scr_date": "全學期"
         },
         {
@@ -5325,7 +5325,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "都資一乙",
-            "scr_period": "(一)09     忠204 楊松岳",
+            "scr_period": "(一)09     忠204 徐逸祥",
             "scr_precnt": 60.0,
             "scr_acptcnt": 49.0,
             "scr_remarks": null,
@@ -5335,7 +5335,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "楊松岳",
+            "scr_teacher": "徐逸祥",
             "scr_date": "全學期"
         },
         {
