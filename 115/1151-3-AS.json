@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 13,
+    "total": 14,
     "items": [
         {
             "scr_selcode": "1145",
@@ -184,6 +184,29 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "謝銘峯,林幸長",
+            "scr_date": "全學期"
+        },
+        {
+            "scr_selcode": "3664",
+            "sub_id3": "ARCH6104",
+            "sub_name": "都市計劃與政策",
+            "scr_credit": 3.0,
+            "scj_scr_mso": "選修",
+            "scr_examid": "否",
+            "scr_examfn": "否",
+            "scr_exambf": "否",
+            "cls_name": "建築碩一學位學程",
+            "scr_period": "(四)06-08 忠107 翁岳嵩,黃文彬,王銘鴻",
+            "scr_precnt": 30.0,
+            "scr_acptcnt": 0.0,
+            "scr_remarks": null,
+            "unt_ls": 5005,
+            "cls_id": "CE03310",
+            "sub_id": "46881",
+            "scr_dup": "001",
+            "scr_ldl": "課堂教學",
+            "scr_english": "N",
+            "scr_teacher": "翁岳嵩,黃文彬,王銘鴻",
             "scr_date": "全學期"
         },
         {

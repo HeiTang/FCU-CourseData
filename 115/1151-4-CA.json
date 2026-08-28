@@ -518,7 +518,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "機航博一學位學程",
-            "scr_period": "(一)00     待排 戴國政,王啟昌,黃振鴻",
+            "scr_period": "(一)00     未排教室 袁長安,王啟昌,黃振鴻",
             "scr_precnt": 15.0,
             "scr_acptcnt": 10.0,
             "scr_remarks": " ",
@@ -528,7 +528,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "戴國政,王啟昌,黃振鴻",
+            "scr_teacher": "袁長安,王啟昌,黃振鴻",
             "scr_date": "全學期"
         },
         {
@@ -541,7 +541,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "機航博一學位學程",
-            "scr_period": "(三)00     待排 戴國政",
+            "scr_period": "(三)00     未排教室 袁長安",
             "scr_precnt": 15.0,
             "scr_acptcnt": 10.0,
             "scr_remarks": " ",
@@ -551,7 +551,7 @@
             "scr_dup": "001",
             "scr_ldl": "線上教學On-line",
             "scr_english": "N",
-            "scr_teacher": "戴國政",
+            "scr_teacher": "袁長安",
             "scr_date": "全學期"
         },
         {
@@ -610,7 +610,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "機航博二學位學程",
-            "scr_period": "(二)00     待排 (三)00     待排 (四)00     待排 黃柏文,陳裕益,洪子倫,謝宗翰,戴國政,方俊,彭信舒,呂晃志,林孟儒,黃錦煌,張淵仁,陳宗正,朱正永",
+            "scr_period": "(二)00     未排教室 (三)00     未排教室 (四)00     未排教室 黃柏文,陳裕益,洪子倫,謝宗翰,方俊,袁長安,彭信舒,呂晃志,林孟儒,黃錦煌,張淵仁,陳宗正,朱正永,戴國政",
             "scr_precnt": 15.0,
             "scr_acptcnt": 6.0,
             "scr_remarks": " ",
@@ -620,7 +620,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "黃柏文,陳裕益,洪子倫,謝宗翰,戴國政,方俊,彭信舒,呂晃志,林孟儒,黃錦煌,張淵仁,陳宗正,朱正永",
+            "scr_teacher": "黃柏文,陳裕益,洪子倫,謝宗翰,方俊,袁長安,彭信舒,呂晃志,林孟儒,黃錦煌,張淵仁,陳宗正,朱正永,戴國政",
             "scr_date": "全學期"
         },
         {
@@ -633,7 +633,7 @@
             "scr_examfn": "是",
             "scr_exambf": "否",
             "cls_name": "機航博二學位學程",
-            "scr_period": "(三)00     待排 戴國政,黃同瑤",
+            "scr_period": "(三)00     未排教室 袁長安,黃同瑤",
             "scr_precnt": 15.0,
             "scr_acptcnt": 6.0,
             "scr_remarks": " ",
@@ -643,7 +643,7 @@
             "scr_dup": "001",
             "scr_ldl": "課堂教學",
             "scr_english": "N",
-            "scr_teacher": "戴國政,黃同瑤",
+            "scr_teacher": "袁長安,黃同瑤",
             "scr_date": "全學期"
         },
         {
