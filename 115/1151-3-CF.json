@@ -1,6 +1,6 @@
 {
     "message": "",
-    "total": 28,
+    "total": 27,
     "items": [
         {
             "scr_selcode": "0363",
@@ -345,29 +345,6 @@
             "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "許文彥,李衍煌",
-            "scr_date": "全學期"
-        },
-        {
-            "scr_selcode": "0428",
-            "sub_id3": "INSU6025",
-            "sub_name": "保險監理制度",
-            "scr_credit": 3.0,
-            "scj_scr_mso": "選修",
-            "scr_examid": "是",
-            "scr_examfn": "是",
-            "scr_exambf": "否",
-            "cls_name": "風保碩一",
-            "scr_period": "(一)02-04 商1007 鄭濟世",
-            "scr_precnt": 20.0,
-            "scr_acptcnt": 0.0,
-            "scr_remarks": " ",
-            "unt_ls": 4802,
-            "cls_id": "CB04310",
-            "sub_id": "29020",
-            "scr_dup": "001",
-            "scr_ldl": "課堂教學",
-            "scr_english": "N",
-            "scr_teacher": "鄭濟世",
             "scr_date": "全學期"
         },
         {
