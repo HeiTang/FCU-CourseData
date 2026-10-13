@@ -495,7 +495,7 @@
             "scr_examfn": "否",
             "scr_exambf": "否",
             "cls_name": "文社碩二學位學程",
-            "scr_period": "(一)00     未排教室 陳玉苹,陳介英,王志宇,徐偉傑,黃智彥",
+            "scr_period": "(一)00     待排 陳玉苹,陳介英,王志宇,徐偉傑,黃智彥",
             "scr_precnt": 15.0,
             "scr_acptcnt": 9.0,
             "scr_remarks": " ",
@@ -503,7 +503,7 @@
             "cls_id": "CH19320",
             "sub_id": "43038",
             "scr_dup": "001",
-            "scr_ldl": "混成式學習",
+            "scr_ldl": "課堂教學",
             "scr_english": "N",
             "scr_teacher": "陳玉苹,陳介英,王志宇,徐偉傑,黃智彥",
             "scr_date": "全學期"
