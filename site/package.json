@@ -1,0 +1,14 @@
+{
+  "name": "fcu-course-search",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync-data": "rm -rf public/data && cp -R ../data public/data",
+    "dev": "npm run sync-data && astro dev",
+    "build": "npm run sync-data && astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^5.16.2"
+  }
+}

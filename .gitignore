@@ -31,3 +31,11 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/macos
+
+# playwright
+.playwright-mcp/
+
+# Python
+__pycache__/
+.venv/
+.ruff_cache/

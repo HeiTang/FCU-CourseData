@@ -1,0 +1,786 @@
+---
+import index from '../../../data/index.json';
+
+const { semesters, depts, degrees, periodTimes } = index;
+const latest = semesters[semesters.length - 1];
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const fontFace = `@font-face{font-family:'Nunito';src:url('${base}/fonts/nunito-latin.woff2') format('woff2');font-weight:400 900;font-display:swap}`;
+
+// 貼紙色：課表方塊與已選清單共用，依課號雜湊挑一個，增刪課程時顏色不會亂跳
+const PASTELS = ['#F2B5A7', '#A8C69F', '#A7C7E7', '#F7DFA5', '#C9B8DB', '#F5C9A0'];
+---
+
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>逢甲選課手帳</title>
+  <meta name="description" content="逢甲大學課程查詢。找課、排課表，滑過就知道排不排得進去。" />
+  <link rel="preload" as="font" type="font/woff2" href={`${base}/fonts/nunito-latin.woff2`} crossorigin />
+  <style is:inline set:html={fontFace}></style>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' rx='4' fill='%23FDF6E9'/><rect x='3' y='3' width='5' height='5' rx='1.5' fill='%23F2B5A7'/><rect x='8.5' y='8.5' width='5' height='5' rx='1.5' fill='%23A8C69F'/></svg>" />
+</head>
+<body>
+
+<header class="top">
+  <p class="brand"><span class="petal">✿</span> 逢甲選課手帳</p>
+  <select id="sem" class="sem" aria-label="學年度與學期">
+    {semesters.slice().reverse().map((s) => (
+      <option value={`${s.year}${s.sem}`} selected={s.year === latest.year && s.sem === latest.sem}>
+        {s.year} 學年度　第 {s.sem} 學期
+      </option>
+    ))}
+  </select>
+  <a class="src" href="https://github.com/HeiTang/FCU-CourseData">資料來源</a>
+</header>
+
+<main>
+  <!-- 主欄：找課 -->
+  <section class="find">
+    <div class="findbox">
+      <span class="mag">◌</span>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             placeholder="找找看……課名、教師、課號、教室" />
+      <kbd>/</kbd>
+    </div>
+
+    <div class="filters">
+      <select id="deg" aria-label="學制">
+        <option value="">所有學制</option>
+        {Object.entries(degrees).map(([k, v]) => <option value={k}>{v}</option>)}
+      </select>
+      <select id="dept" aria-label="開課單位">
+        <option value="">所有單位</option>
+        {Object.entries(depts).map(([k, v]) => <option value={k}>{v}</option>)}
+      </select>
+      <button type="button" class="chip" data-flag="free">避開衝堂</button>
+      <button type="button" class="chip" data-flag="open">還有名額</button>
+      <button type="button" class="chip" data-flag="en">英語授課</button>
+      <button type="button" class="chip" data-flag="online">線上</button>
+      <button id="slotchip" type="button" class="chip chip-slot" hidden></button>
+      <button id="clear" type="button" class="reset">重設</button>
+    </div>
+
+    <div class="tally">
+      <span class="tally-pill"><b id="count">—</b> 門課</span>
+      <span class="tally-hint">點一下就加進課表</span>
+    </div>
+
+    <ol id="results" class="results"></ol>
+    <button id="more" type="button" class="more" hidden></button>
+  </section>
+
+  <!-- 側欄：小課表 -->
+  <aside class="side">
+    <div class="card side-card">
+      <div class="sidehead">
+        <h2>我的課表</h2>
+        <button id="planclear" type="button" class="reset">清空</button>
+      </div>
+
+      <table id="grid" class="mini"></table>
+      <p id="verdict" class="verdict">滑過課程，這裡會先幫你貼上去看看。</p>
+
+      <div class="stats">
+        <span><b id="st-count">0</b> 門</span>
+        <span><b id="st-credit">0</b> 學分</span>
+        <span id="st-clash-box"><b id="st-clash">0</b> 衝堂</span>
+      </div>
+    </div>
+
+    <ol id="planlist" class="ledger"></ol>
+  </aside>
+</main>
+
+<script define:vars={{ depts, degrees, periodTimes, base, PASTELS }}>
+const DAYS = ['一', '二', '三', '四', '五', '六', '日'];
+const PERIODS = Array.from({ length: 14 }, (_, i) => i + 1);
+const FLAGS = ['free', 'open', 'en', 'online'];
+
+const $ = (id) => document.getElementById(id);
+const el = $('results');
+
+let courses = [];
+let picked = new Set();
+let slot = null;    // 點選的時段 {day, period}
+let ghost = null;   // 滑鼠停在結果上的課
+let shown = 50;
+
+const state = {
+  ys: $('sem').value, q: '', deg: '', dept: '',
+  free: false, open: false, en: false, online: false,
+};
+
+const times = (ys) => periodTimes[Number(ys.slice(0, 3)) >= 109 ? '>=109' : '<109'];
+
+/** 依課號雜湊挑貼紙色，增刪其他課時這門課的顏色不會變 */
+function sticker(id) {
+  let n = 0;
+  for (const ch of String(id)) n = (n + ch.charCodeAt(0)) % 997;
+  return PASTELS[n % PASTELS.length];
+}
+
+// ---------- 網址 ----------
+function readUrl() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  for (const k of ['ys', 'q', 'deg', 'dept']) if (p.has(k)) state[k] = p.get(k);
+  if (![...$('sem').options].some((o) => o.value === state.ys)) state.ys = $('sem').value;
+  for (const k of FLAGS) state[k] = p.get(k) === '1';
+  if (p.has('slot')) {
+    const [d, pr] = p.get('slot').split('-').map(Number);
+    if (Number.isInteger(d) && d >= 1 && d <= 7 && PERIODS.includes(pr)) {
+      slot = { day: d, period: pr };
+    }
+  }
+}
+
+function writeUrl() {
+  const p = new URLSearchParams();
+  p.set('ys', state.ys);
+  if (state.q) p.set('q', state.q);
+  if (state.deg) p.set('deg', state.deg);
+  if (state.dept) p.set('dept', state.dept);
+  for (const k of FLAGS) if (state[k]) p.set(k, '1');
+  if (slot) p.set('slot', `${slot.day}-${slot.period}`);
+  history.replaceState(null, '', '#' + p);
+}
+
+// ---------- 資料 ----------
+async function load(ys) {
+  courses = [];
+  picked = new Set();
+  ghost = null;
+  $('count').textContent = '—';
+  $('more').hidden = true;
+  renderGrid();
+  renderPlan();
+  el.innerHTML = '<li class="empty">正在翻課表……</li>';
+  try {
+    const response = await fetch(`${base}/data/${ys}.json`);
+    if (!response.ok) throw new Error('載入失敗');
+    const data = await response.json();
+    if (!Array.isArray(data)) throw new Error('資料格式錯誤');
+    if (ys !== state.ys) return false;
+    courses = data;
+  } catch {
+    if (ys === state.ys) el.innerHTML = '<li class="empty">課程資料載入失敗，請重新整理或切換學期再試。</li>';
+    return false;
+  }
+  for (const c of courses) {
+    c.hay = [
+      c.name, c.code, c.id,
+      (c.teachers || []).join(' '),
+      (c.classes || []).map((x) => x.name).join(' '),
+      (c.sessions || []).map((s) => s.room).filter(Boolean).join(' '),
+      c.note || '',
+    ].join(' ').toLowerCase();
+  }
+  try {
+    const saved = JSON.parse(localStorage.getItem('plan:' + ys) || '[]');
+    if (Array.isArray(saved)) picked = new Set(saved);
+  } catch {
+    // 損壞或無法存取的瀏覽器儲存不應阻止查課。
+  }
+  return true;
+}
+
+// ---------- 課表運算 ----------
+const planned = () => courses.filter((c) => picked.has(c.id));
+
+function eachSlot(c, fn) {
+  for (const s of c.sessions || []) {
+    for (let p = s.from; p <= s.to; p++) if (p) fn(`${s.day}-${p}`, s);
+  }
+}
+
+function occupancy() {
+  const map = new Map();
+  for (const c of planned()) {
+    eachSlot(c, (k) => {
+      if (!map.has(k)) map.set(k, []);
+      map.get(k).push(c);
+    });
+  }
+  return map;
+}
+
+function clashIds(occ) {
+  const bad = new Set();
+  for (const list of occ.values()) if (list.length > 1) list.forEach((c) => bad.add(c.id));
+  return bad;
+}
+
+function busySlots() {
+  const s = new Set();
+  for (const c of planned()) eachSlot(c, (k) => s.add(k));
+  return s;
+}
+
+// ---------- 篩選與排序 ----------
+function match(c, busy) {
+  if (state.deg && !(c.degrees || []).includes(Number(state.deg))) return false;
+  if (state.dept && !(c.depts || []).includes(state.dept)) return false;
+  if (state.open && (c.quota || 0) - (c.enrolled || 0) <= 0) return false;
+  if (state.en && !c.english) return false;
+  if (state.online && !c.online) return false;
+  if (slot && !(c.sessions || []).some(
+    (s) => s.day === slot.day && s.from <= slot.period && slot.period <= s.to)) return false;
+  if (busy && !picked.has(c.id)) {
+    let hit = false;
+    eachSlot(c, (k) => { if (busy.has(k)) hit = true; });
+    if (hit) return false;
+  }
+  for (const term of state.q.toLowerCase().split(/\s+/)) {
+    if (term && !c.hay.includes(term)) return false;
+  }
+  return true;
+}
+
+/** 0 完全相同 → 1 開頭符合 → 2 包含 → 3 只在教師/教室等欄位命中 */
+function rank(c, q) {
+  const n = c.name.toLowerCase();
+  return n === q ? 0 : n.startsWith(q) ? 1 : n.includes(q) ? 2 : 3;
+}
+
+// ---------- 繪製 ----------
+/** 幽靈預覽的判決：貼得上去，還是會撞到哪幾門課 */
+function renderVerdict(occ) {
+  const v = $('verdict');
+  if (!ghost) {
+    v.className = 'verdict';
+    v.textContent = '滑過課程，這裡會先幫你貼上去看看。';
+    return;
+  }
+  // 已在課表上的課會跟「自己」佔到同一格，不算衝堂
+  const hits = new Set();
+  eachSlot(ghost, (k) =>
+    (occ.get(k) || []).forEach((c) => { if (c.id !== ghost.id) hits.add(c.name); }));
+
+  if (picked.has(ghost.id)) {
+    v.className = 'verdict live';
+    v.textContent = `${ghost.name} 已經貼在課表上了，再點一次就撕下來。`;
+  } else if (!(ghost.sessions || []).length) {
+    v.className = 'verdict live';
+    v.textContent = `${ghost.name} 還沒排上課時間，貼不上去。`;
+  } else if (hits.size) {
+    v.className = 'verdict live bad';
+    v.textContent = `會跟${[...hits].map((n) => `「${n}」`).join('、')}撞在一起`;
+  } else {
+    v.className = 'verdict live ok';
+    v.textContent = `${ghost.name} 貼得下，不會撞課`;
+  }
+}
+
+function renderGrid() {
+  const occ = occupancy();
+  const t = times(state.ys);
+  const ghostCells = new Set();
+  if (ghost) eachSlot(ghost, (k) => ghostCells.add(k));
+
+  const head = `<thead><tr><td></td>${
+    DAYS.map((d) => `<th scope="col">${d}</th>`).join('')}</tr></thead>`;
+
+  const body = PERIODS.map((p) => {
+    const cells = DAYS.map((_, i) => {
+      const day = i + 1, k = `${day}-${p}`;
+      const list = occ.get(k) || [];
+      const isGhost = ghostCells.has(k);
+      const others = isGhost ? list.filter((c) => c.id !== ghost.id) : list;
+      const bad = list.length > 1 || (isGhost && others.length);
+      const cls = ['c'];
+      if (list.length) cls.push('on');
+      if (isGhost) cls.push('gh');
+      if (bad) cls.push('x');
+      if (slot && slot.day === day && slot.period === p) cls.push('sel');
+      const lead = list[0] || (isGhost ? ghost : null);
+      const tip = list.map((c) => c.name)
+        .concat(isGhost && !picked.has(ghost.id) ? ['試貼：' + ghost.name] : []).join(' ／ ');
+      return `<td class="${cls.join(' ')}" data-day="${day}" data-period="${p}"${
+        lead && !bad ? ` style="--s:${sticker(lead.id)}"` : ''}${
+        tip ? ` title="${esc(tip)}"` : ''}></td>`;
+    }).join('');
+    return `<tr><th scope="row" title="${t[p - 1]}">${p}</th>${cells}</tr>`;
+  }).join('');
+
+  $('grid').innerHTML = head + `<tbody>${body}</tbody>`;
+  renderVerdict(occ);
+}
+
+function renderPlan() {
+  const list = planned();
+  const bad = clashIds(occupancy());
+  $('st-count').textContent = list.length;
+  $('st-credit').textContent = list.reduce((n, c) => n + (c.credit || 0), 0);
+  $('st-clash').textContent = bad.size;
+  $('st-clash-box').classList.toggle('on', bad.size > 0);
+
+  $('planlist').innerHTML = list.length ? list.map((c) => `
+    <li class="${bad.has(c.id) ? 'bad' : ''}" style="--s:${sticker(c.id)}">
+      <span class="tape"></span>
+      <span class="ln">${esc(c.name)}</span>
+      <span class="lw">${fmtSessions(c, true)}</span>
+      <button class="rm" data-id="${c.id}" aria-label="從課表移除 ${esc(c.name)}">✕</button>
+    </li>`).join('')
+    : '<li class="ledger-empty">課表還空空的，去挑幾門課吧 ✿</li>';
+}
+
+function renderResults() {
+  const busy = state.free ? busySlots() : null;
+  const hits = courses.filter((c) => match(c, busy));
+  const q = state.q.trim().toLowerCase();
+  if (q) hits.sort((a, b) => rank(a, q) - rank(b, q));
+
+  $('count').textContent = hits.length;
+  const page = hits.slice(0, shown);
+  el.innerHTML = page.length ? page.map(card).join('')
+    : '<li class="empty">找不到符合的課，把條件放寬一點試試 ◌</li>';
+
+  const chip = $('slotchip');
+  chip.hidden = !slot;
+  if (slot) chip.textContent = `週${DAYS[slot.day - 1]} 第 ${slot.period} 節 ✕`;
+
+  $('more').hidden = hits.length <= shown;
+  $('more').textContent = `再看 ${Math.min(50, hits.length - shown)} 門，還有 ${hits.length - shown} 門`;
+}
+
+/** 選課人數畫成點點，一眼看出還有沒有位子 */
+function dots(enrolled, quota) {
+  if (!quota) return '';
+  const n = 12;
+  const f = Math.max(0, Math.min(n, Math.round((enrolled / quota) * n)));
+  return `<span class="dots ${enrolled >= quota ? 'full' : ''}">${
+    '●'.repeat(f)}${'○'.repeat(n - f)}</span>`;
+}
+
+function card(c) {
+  const full = (c.quota || 0) - (c.enrolled || 0) <= 0;
+  return `<li class="row card ${picked.has(c.id) ? 'on' : ''}" data-id="${c.id}"
+      style="--s:${sticker(c.id)}">
+    <div class="r1">
+      <span class="rname">${esc(c.name)}</span>
+      ${c.required ? '<span class="pill req">✦ 必修</span>' : ''}
+      ${c.english ? '<span class="pill">英語</span>' : ''}
+      ${c.online ? '<span class="pill">線上</span>' : ''}
+      <span class="rcredit">${c.credit || 0} 學分</span>
+    </div>
+    <div class="r2">
+      <span class="rteach">${esc((c.teachers || []).join('、') || '教師未定')}</span>
+      ${fmtSessions(c)}
+    </div>
+    <div class="r3">
+      <span class="rdept">${esc(depts[(c.depts || [])[0]] || '')}${
+        (c.depts || []).length > 1 ? ` +${c.depts.length - 1}` : ''}</span>
+      <span class="rcode">${esc(c.code || '')}</span>
+      ${dots(c.enrolled || 0, c.quota || 0)}
+      <span class="rseat ${full ? 'full' : ''}">${c.enrolled || 0}／${c.quota || 0}</span>
+      <a href="https://coursesearch02.fcu.edu.tw/CourseOutline.aspx?lang=cht&courseid=${state.ys}${c.id}"
+         target="_blank" rel="noopener">課程大綱</a>
+    </div>
+    ${c.note ? `<p class="rnote">${esc(c.note)}</p>` : ''}
+  </li>`;
+}
+
+function fmtSessions(c, terse) {
+  const s = c.sessions || [];
+  if (!s.length) return '<span class="when unset">時間未排</span>';
+  return s.map((x) => {
+    const span = x.from === 0 ? '未排' : x.from === x.to ? x.from : `${x.from}-${x.to}`;
+    return `<span class="when">${DAYS[x.day - 1]} ${span}${
+      !terse && x.room ? ` <i>${esc(x.room)}</i>` : ''}</span>`;
+  }).join('');
+}
+
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (ch) =>
+  ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[ch]);
+
+// ---------- 事件 ----------
+function refresh() {
+  shown = 50;
+  renderResults();
+  renderGrid();
+  renderPlan();
+  syncChips();
+  writeUrl();
+}
+
+const savePlan = () => localStorage.setItem('plan:' + state.ys, JSON.stringify([...picked]));
+
+function syncChips() {
+  for (const b of document.querySelectorAll('.chip[data-flag]')) {
+    b.classList.toggle('on', state[b.dataset.flag]);
+    b.setAttribute('aria-pressed', String(!!state[b.dataset.flag]));
+  }
+}
+
+$('q').addEventListener('input', (e) => {
+  state.q = e.target.value; shown = 50; renderResults(); writeUrl();
+});
+
+for (const id of ['deg', 'dept']) {
+  $(id).addEventListener('change', (e) => { state[id] = e.target.value; refresh(); });
+}
+
+for (const b of document.querySelectorAll('.chip[data-flag]')) {
+  b.addEventListener('click', () => { state[b.dataset.flag] = !state[b.dataset.flag]; refresh(); });
+}
+
+$('clear').addEventListener('click', () => {
+  Object.assign(state, { q: '', deg: '', dept: '', free: false, open: false, en: false, online: false });
+  slot = null;
+  syncControls();
+  refresh();
+});
+
+$('slotchip').addEventListener('click', () => { slot = null; refresh(); });
+$('more').addEventListener('click', () => { shown += 50; renderResults(); });
+
+// 幽靈預覽
+el.addEventListener('mouseover', (e) => {
+  const li = e.target.closest('.row');
+  if (!li) return;
+  const c = courses.find((x) => x.id === li.dataset.id);
+  if (c === ghost) return;
+  ghost = c;
+  renderGrid();
+});
+
+el.addEventListener('mouseleave', () => {
+  if (!ghost) return;
+  ghost = null;
+  renderGrid();
+});
+
+el.addEventListener('click', (e) => {
+  if (e.target.closest('a')) return;
+  const li = e.target.closest('.row');
+  if (!li) return;
+  picked.has(li.dataset.id) ? picked.delete(li.dataset.id) : picked.add(li.dataset.id);
+  savePlan();
+  refresh();
+});
+
+$('grid').addEventListener('click', (e) => {
+  const td = e.target.closest('td[data-day]');
+  if (!td) return;
+  const day = Number(td.dataset.day), period = Number(td.dataset.period);
+  slot = slot && slot.day === day && slot.period === period ? null : { day, period };
+  refresh();
+});
+
+$('planlist').addEventListener('click', (e) => {
+  const b = e.target.closest('.rm');
+  if (!b) return;
+  picked.delete(b.dataset.id);
+  savePlan();
+  refresh();
+});
+
+$('planclear').addEventListener('click', () => { picked.clear(); savePlan(); refresh(); });
+
+$('sem').addEventListener('change', async (e) => {
+  state.ys = e.target.value;
+  if (await load(state.ys)) refresh();
+});
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === '/' && e.target.tagName !== 'INPUT') { e.preventDefault(); $('q').focus(); }
+  if (e.key === 'Escape' && e.target === $('q')) { $('q').value = ''; state.q = ''; refresh(); }
+});
+
+function syncControls() {
+  $('sem').value = state.ys;
+  $('q').value = state.q;
+  $('deg').value = state.deg;
+  $('dept').value = state.dept;
+  syncChips();
+}
+
+// define:vars 讓這段成為非 module 的 inline script，不能用 top-level await
+(async () => {
+  readUrl();
+  syncControls();
+  if (await load(state.ys)) refresh();
+})();
+</script>
+
+<style is:global>
+:root {
+  --cream: #FDF6E9;
+  --card:  #FFFDF8;
+  --ink:   #4A4239;
+  --soft:  #8A7F72;
+  --faint: #B6AB9C;
+  --rule:  #EDE3D2;
+
+  --pink:  #F2B5A7;
+  --green: #A8C69F;
+  --blue:  #A7C7E7;
+  --coral: #E0785C;
+
+  --shadow: 0 2px 6px rgba(140, 118, 92, .07);
+  --shadow-lift: 0 6px 16px rgba(140, 118, 92, .13);
+
+  --ui: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+  --cjk: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+  --font: var(--ui), var(--cjk);
+  --pad: 34px;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--cream); color: var(--ink);
+  font-family: var(--font); font-size: 15px; line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+:focus-visible { outline: 2px solid var(--coral); outline-offset: 2px; border-radius: 6px; }
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+
+.card {
+  background: var(--card); border: 1px solid var(--rule);
+  border-radius: 14px; box-shadow: var(--shadow);
+}
+
+/* ---------- 抬頭 ---------- */
+.top {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  padding: 20px var(--pad) 4px;
+}
+.brand {
+  margin: 0; font-family: var(--cjk); font-size: 19px; font-weight: 700;
+  letter-spacing: .06em;
+}
+.petal { color: var(--pink); }
+.sem {
+  font-family: var(--cjk); font-size: 13px; background: var(--card);
+  border: 1px solid var(--rule); border-radius: 999px; padding: 5px 12px;
+  cursor: pointer; box-shadow: var(--shadow);
+}
+.sem:hover { border-color: var(--pink); }
+.src {
+  margin-left: auto; font-family: var(--cjk); font-size: 12px;
+  color: var(--faint); text-decoration: none;
+}
+.src:hover { color: var(--coral); }
+
+/* ---------- 版面：找課為主，課表為輔 ---------- */
+main {
+  display: grid; grid-template-columns: minmax(0, 1fr) 292px; gap: 26px;
+  padding: 14px var(--pad) 60px; align-items: start;
+}
+
+/* ---------- 找課 ---------- */
+.find { min-width: 0; }
+.findbox {
+  display: flex; align-items: center; gap: 10px;
+  background: var(--card); border: 1px solid var(--rule);
+  border-radius: 999px; padding: 4px 18px; box-shadow: var(--shadow);
+  transition: border-color .15s, box-shadow .15s;
+}
+.findbox:focus-within { border-color: var(--pink); box-shadow: var(--shadow-lift); }
+.mag { color: var(--faint); font-size: 17px; }
+#q {
+  flex: 1; min-width: 0; font-size: 16px; background: none; border: 0;
+  padding: 11px 0; outline: 0;
+}
+#q::placeholder { color: var(--faint); }
+.findbox kbd {
+  font-family: var(--ui); font-size: 11px; font-weight: 700; color: var(--faint);
+  background: var(--cream); border-radius: 6px; padding: 2px 8px;
+}
+.findbox:focus-within kbd { opacity: 0; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; margin: 14px 0 0; }
+.filters select, .chip {
+  font-family: var(--cjk); font-size: 13px; background: var(--card);
+  border: 1px solid var(--rule); border-radius: 999px; padding: 5px 13px;
+  color: var(--soft); cursor: pointer; box-shadow: var(--shadow);
+}
+.filters select:hover, .chip:hover { border-color: var(--pink); color: var(--ink); }
+.chip.on {
+  background: var(--pink); border-color: var(--pink); color: #4A2F26; font-weight: 700;
+}
+.chip-slot { background: var(--blue); border-color: var(--blue); color: #23414F; font-weight: 700; }
+.reset {
+  margin-left: auto; font-family: var(--cjk); font-size: 12px; color: var(--faint);
+  background: none; border: 0; padding: 4px 6px;
+}
+.reset:hover { color: var(--coral); }
+
+.tally { display: flex; align-items: center; gap: 10px; margin: 20px 0 12px; }
+.tally-pill {
+  font-family: var(--cjk); font-size: 13px; color: var(--soft);
+  background: var(--card); border: 1px solid var(--rule);
+  border-radius: 999px; padding: 4px 14px; box-shadow: var(--shadow);
+}
+.tally-pill b { font-family: var(--ui); font-size: 16px; font-weight: 800; color: var(--ink); }
+.tally-hint { font-family: var(--cjk); font-size: 12px; color: var(--faint); }
+
+/* ---------- 課程卡 ---------- */
+.results { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.row {
+  position: relative; padding: 11px 15px 11px 19px; cursor: pointer;
+  transition: transform .12s, box-shadow .12s, border-color .12s;
+}
+.row::before {
+  content: ''; position: absolute; left: 0; top: 14px; bottom: 14px; width: 5px;
+  background: var(--s); border-radius: 0 4px 4px 0;
+}
+.row:hover { transform: translateY(-1px); box-shadow: var(--shadow-lift); border-color: var(--s); }
+.row.on { background: color-mix(in srgb, var(--s) 15%, var(--card)); border-color: var(--s); }
+
+.r1 { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.rname { font-family: var(--cjk); font-size: 17px; font-weight: 700; letter-spacing: .01em; }
+.pill {
+  font-family: var(--cjk); font-size: 11px; font-weight: 700; padding: 1px 9px;
+  border-radius: 999px; background: var(--cream); color: var(--soft);
+}
+.pill.req { background: var(--pink); color: #4A2F26; }
+.rcredit {
+  margin-left: auto; font-family: var(--cjk); font-size: 12px; color: var(--soft);
+  white-space: nowrap;
+}
+
+.r2 {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  margin-top: 6px; font-family: var(--cjk); font-size: 13px; color: var(--soft);
+}
+.when {
+  font-family: var(--ui); font-weight: 700; font-size: 12px; color: var(--ink);
+  background: var(--cream); border-radius: 7px; padding: 2px 9px;
+}
+.when i {
+  font-family: var(--cjk); font-style: normal; font-weight: 400;
+  color: var(--soft); margin-left: 5px;
+}
+.when.unset { background: none; border: 1px dashed var(--rule); color: var(--faint); font-weight: 400; }
+
+.r3 {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  margin-top: 5px; font-family: var(--cjk); font-size: 12px; color: var(--faint);
+}
+.dots {
+  font-family: var(--ui); font-size: 9px; letter-spacing: 1px; color: var(--green);
+  margin-left: auto; line-height: 1;
+}
+.dots.full { color: var(--coral); }
+.rseat { font-family: var(--ui); font-weight: 700; color: var(--soft); }
+.rseat.full { color: var(--coral); }
+.r3 a { color: var(--soft); text-decoration: none; border-bottom: 1px dotted var(--faint); }
+.r3 a:hover { color: var(--coral); border-color: var(--coral); }
+.rnote {
+  margin: 8px 0 0; font-family: var(--cjk); font-size: 12px; color: var(--soft);
+  background: var(--cream); border-radius: 8px; padding: 6px 10px;
+}
+
+.empty {
+  padding: 50px 0; text-align: center; font-family: var(--cjk);
+  font-size: 14px; color: var(--faint);
+}
+.more {
+  width: 100%; margin-top: 14px; padding: 12px; font-family: var(--cjk); font-size: 13px;
+  color: var(--soft); background: var(--card); border: 1px solid var(--rule);
+  border-radius: 999px; box-shadow: var(--shadow);
+}
+.more:hover { border-color: var(--pink); color: var(--ink); }
+
+/* ---------- 側欄小課表 ---------- */
+.side { position: sticky; top: 14px; max-height: calc(100vh - 28px); overflow-y: auto; scrollbar-width: thin; }
+.side-card { padding: 14px 16px 16px; }
+.sidehead { display: flex; align-items: baseline; }
+.sidehead h2 {
+  margin: 0; font-family: var(--cjk); font-size: 14px; font-weight: 700; letter-spacing: .1em;
+}
+
+.mini {
+  width: 100%; border-collapse: separate; border-spacing: 2px;
+  table-layout: fixed; margin-top: 10px;
+}
+.mini th[scope="col"] {
+  font-family: var(--cjk); font-size: 10px; font-weight: 700; color: var(--soft); padding: 0 0 2px;
+}
+.mini th[scope="row"] {
+  width: 15px; font-family: var(--ui); font-size: 9px; font-weight: 700;
+  color: var(--faint); text-align: right; padding-right: 3px;
+}
+.mini .c {
+  height: 15px; background: var(--cream); border-radius: 4px; cursor: pointer; padding: 0;
+  transition: background .12s;
+}
+.mini .c:hover { background: var(--rule); }
+.mini .c.on { background: var(--s); }
+.mini .c.gh { background: var(--s); opacity: .5; box-shadow: inset 0 0 0 1.5px var(--ink); }
+.mini .c.x { background: var(--coral); opacity: 1; box-shadow: none; }
+.mini .c.sel { box-shadow: 0 0 0 2px var(--blue); }
+
+.verdict {
+  margin: 12px 0 0; font-family: var(--cjk); font-size: 12px; line-height: 1.45;
+  color: var(--faint); background: var(--cream); border-radius: 9px;
+  padding: 7px 10px; min-height: 42px;
+}
+.verdict.live { color: var(--ink); }
+.verdict.ok  { background: color-mix(in srgb, var(--green) 32%, var(--cream)); }
+.verdict.bad {
+  background: color-mix(in srgb, var(--coral) 20%, var(--cream));
+  color: #8A3A22; font-weight: 700;
+}
+
+.stats {
+  display: flex; gap: 14px; margin-top: 12px; padding-top: 11px;
+  border-top: 1px dashed var(--rule);
+  font-family: var(--cjk); font-size: 12px; color: var(--soft);
+}
+.stats b { font-family: var(--ui); font-size: 17px; font-weight: 800; color: var(--ink); margin-right: 2px; }
+#st-clash-box b { color: var(--faint); }
+#st-clash-box.on, #st-clash-box.on b { color: var(--coral); }
+
+.ledger { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 6px; }
+.ledger li {
+  position: relative; display: flex; align-items: center; gap: 8px;
+  background: var(--card); border: 1px solid var(--rule); border-radius: 10px;
+  padding: 7px 8px 7px 14px; font-size: 13px; box-shadow: var(--shadow);
+}
+.ledger .tape {
+  position: absolute; left: 0; top: 8px; bottom: 8px; width: 4px;
+  background: var(--s); border-radius: 0 3px 3px 0;
+}
+.ledger .ln { font-family: var(--cjk); font-weight: 700; }
+.ledger .lw { margin-left: auto; display: flex; gap: 3px; }
+.ledger .lw .when { background: none; padding: 0; font-size: 11px; color: var(--soft); font-weight: 700; }
+.ledger li.bad { border-color: var(--coral); }
+.ledger li.bad .ln { color: var(--coral); }
+.ledger-empty {
+  justify-content: center; color: var(--faint); font-family: var(--cjk);
+  border-style: dashed !important; box-shadow: none !important; padding: 14px !important;
+}
+.ledger-empty .tape { display: none; }
+.rm {
+  background: none; border: 0; color: var(--faint); font-size: 12px; line-height: 1; padding: 3px;
+}
+.rm:hover { color: var(--coral); }
+
+/* ---------- 窄螢幕 ---------- */
+@media (max-width: 1000px) {
+  :root { --pad: 18px; }
+  main { grid-template-columns: 1fr; gap: 18px; }
+  .side { position: static; max-height: none; overflow: visible; order: -1; }
+  .mini .c { height: 19px; }
+}
+@media (max-width: 560px) {
+  :root { --pad: 14px; }
+  .brand { font-size: 17px; }
+  .src { width: 100%; margin-left: 0; order: 3; }
+  .rname { font-size: 16px; }
+  .rcredit { margin-left: 0; }
+  .dots { margin-left: 0; }
+  /* 時段換到第二行，「✕」留在第一行右側，不要多佔一行 */
+  .ledger li { flex-wrap: wrap; row-gap: 2px; }
+  .ledger .lw { order: 1; flex-basis: 100%; margin-left: 0; padding-left: 0; }
+  .ledger .rm { margin-left: auto; }
+}
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</body>
+</html>
