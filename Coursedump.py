@@ -2,6 +2,7 @@
 # -*- coding: UTF-8 -*-
 import json, os, sys
 import logging
+import time
 import argparse
 import requests
 from bs4 import BeautifulSoup
@@ -97,20 +98,40 @@ class CourseDump:
             "user-agent": UserAgent().random
         }
 
-        try:
-            res = requests.post(url, headers=headers, data=json.dumps(payload))
-            res.raise_for_status() # 檢查: 回應狀態碼是否為 200
+        # Both callers perform read-only lookups even though the API uses POST.
+        body = json.dumps(payload)
+        max_attempts = 3
+        for attempt in range(1, max_attempts + 1):
+            try:
+                res = requests.post(url, headers=headers, data=body, timeout=(5, 45))
+                res.raise_for_status()
+            except requests.exceptions.RequestException as exc:
+                response = exc.response
+                status = response.status_code if response is not None else None
+                retryable = (
+                    isinstance(exc, (requests.exceptions.Timeout, requests.exceptions.ConnectionError))
+                    and not isinstance(exc, requests.exceptions.SSLError)
+                ) or status in (500, 502, 503, 504)
 
-            if res.text.find('處理此要求時發生錯誤') != -1: # 檢查回應內容是否為錯誤訊息
-                logging.error(f'查詢失敗，請檢查輸入資料。')
+                if retryable and attempt < max_attempts:
+                    logging.warning("查詢暫時失敗（%s, HTTP %s），重試 %d/%d。",
+                                    type(exc).__name__, status, attempt, max_attempts - 1)
+                    time.sleep(2 ** (attempt - 1))
+                    continue
+
+                logging.error("課程查詢失敗（%s, HTTP %s），已嘗試 %d 次。",
+                              type(exc).__name__, status, attempt)
+                sys.exit(1)
+
+            if '處理此要求時發生錯誤' in res.text:
+                logging.error('查詢失敗，請檢查輸入資料。')
                 return None
 
-            return res.json()
-
-        except requests.exceptions.RequestException as e:
-            logging.error(f'連線失敗，請檢查網路連線。')
-            logging.debug(e)
-            sys.exit(1)
+            try:
+                return res.json()
+            except requests.exceptions.JSONDecodeError:
+                logging.error('課程查詢回應不是有效的 JSON。')
+                sys.exit(1)
 
     def get_course_data(self, year, semester, degree):
         '''
